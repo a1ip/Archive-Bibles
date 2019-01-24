@@ -1,3 +1,3 @@
 # Albanian
 
-- (ALSK84)[https://find.bible/bibles/ALSK84]
+- [ALSK84](https://find.bible/bibles/ALSK84)
