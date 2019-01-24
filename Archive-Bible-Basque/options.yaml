@@ -1,0 +1,49 @@
+entry:
+  - 
+   key: translationId
+   value: EUSNLT
+  - 
+   key: versificationScheme
+   value: default
+  - 
+   key: script
+   value: Latn
+  - 
+   key: shortTitle
+   value: "Elizen Arteko Biblia"
+  - 
+   key: vernacularTitle
+   value: "Elizen Arteko Biblia"
+  - 
+   key: EnglishDescription
+   value: "Basque 1571 Navarro-labourdin"
+  - 
+   key: numberSystem
+   value: Default
+  - 
+   key: languageId
+   value: EUS
+  - 
+   key: languageNameInEnglish
+   value: "Basque"
+  - 
+   key: languageName
+   value: Euskara
+  - 
+   key: copyrightOwner
+   value: "Public Domain"
+  - 
+   key: homeDomain
+   value: "basque.dbs.org"
+  - 
+   key: copyrightYears
+   value: 1571
+  -
+   key: publicDomain
+   value: True
+  -
+   key: contentCreator
+   value: "Joanes Leizarraga"
+  - 
+   key: countryCode
+   value: ES

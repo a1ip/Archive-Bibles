@@ -1,0 +1,1275 @@
+# bibeln/Pages.lst
+#
+#
+index|Översikt|
+#
+wald1921/|Nya testamentet. Ny översättning med förklarande anmärkningar av P. Waldenström, fjärde upplagan, 1921. Första delen|
+wald1894/|Nya testamentet. Ny öfversättning med förklarande anmärkningar af P. Waldenström, 1894. Andra delen|
+#
+-|<b>1917 års översättning</b>|
+efs1927/|Evangeliska Fosterlandsstiftelsen 1927|
+#
+-|<h2>1996 års e-text</h2>|
+#
+0005|Förord till den elektroniska utgåvan|
+0006|Korrekturläsning|
+status|Översikt över 1917 års översättning|
+#
+|<h2>Gamla testamentet</h2>|
+#
+#
+01_01|Första Mosebok (Genesis), 1 Kapitlet|
+01_02|Första Mosebok (Genesis), 2 Kapitlet|
+01_03|Första Mosebok (Genesis), 3 Kapitlet|
+01_04|Första Mosebok (Genesis), 4 Kapitlet|
+01_05|Första Mosebok (Genesis), 5 Kapitlet|
+01_06|Första Mosebok (Genesis), 6 Kapitlet|
+01_07|Första Mosebok (Genesis), 7 Kapitlet|
+01_08|Första Mosebok (Genesis), 8 Kapitlet|
+01_09|Första Mosebok (Genesis), 9 Kapitlet|
+01_10|Första Mosebok (Genesis), 10 Kapitlet|
+01_11|Första Mosebok (Genesis), 11 Kapitlet|
+01_12|Första Mosebok (Genesis), 12 Kapitlet|
+01_13|Första Mosebok (Genesis), 13 Kapitlet|
+01_14|Första Mosebok (Genesis), 14 Kapitlet|
+01_15|Första Mosebok (Genesis), 15 Kapitlet|
+01_16|Första Mosebok (Genesis), 16 Kapitlet|
+01_17|Första Mosebok (Genesis), 17 Kapitlet|
+01_18|Första Mosebok (Genesis), 18 Kapitlet|
+01_19|Första Mosebok (Genesis), 19 Kapitlet|
+01_20|Första Mosebok (Genesis), 20 Kapitlet|
+01_21|Första Mosebok (Genesis), 21 Kapitlet|
+01_22|Första Mosebok (Genesis), 22 Kapitlet|
+01_23|Första Mosebok (Genesis), 23 Kapitlet|
+01_24|Första Mosebok (Genesis), 24 Kapitlet|
+01_25|Första Mosebok (Genesis), 25 Kapitlet|
+01_26|Första Mosebok (Genesis), 26 Kapitlet|
+01_27|Första Mosebok (Genesis), 27 Kapitlet|
+01_28|Första Mosebok (Genesis), 28 Kapitlet|
+01_29|Första Mosebok (Genesis), 29 Kapitlet|
+01_30|Första Mosebok (Genesis), 30 Kapitlet|
+01_31|Första Mosebok (Genesis), 31 Kapitlet|
+01_32|Första Mosebok (Genesis), 32 Kapitlet|
+01_33|Första Mosebok (Genesis), 33 Kapitlet|
+01_34|Första Mosebok (Genesis), 34 Kapitlet|
+01_35|Första Mosebok (Genesis), 35 Kapitlet|
+01_36|Första Mosebok (Genesis), 36 Kapitlet|
+01_37|Första Mosebok (Genesis), 37 Kapitlet|
+01_38|Första Mosebok (Genesis), 38 Kapitlet|
+01_39|Första Mosebok (Genesis), 39 Kapitlet|
+01_40|Första Mosebok (Genesis), 40 Kapitlet|
+01_41|Första Mosebok (Genesis), 41 Kapitlet|
+01_42|Första Mosebok (Genesis), 42 Kapitlet|
+01_43|Första Mosebok (Genesis), 43 Kapitlet|
+01_44|Första Mosebok (Genesis), 44 Kapitlet|
+01_45|Första Mosebok (Genesis), 45 Kapitlet|
+01_46|Första Mosebok (Genesis), 46 Kapitlet|
+01_47|Första Mosebok (Genesis), 47 Kapitlet|
+01_48|Första Mosebok (Genesis), 48 Kapitlet|
+01_49|Första Mosebok (Genesis), 49 Kapitlet|
+01_50|Första Mosebok (Genesis), 50 Kapitlet|
+#
+02_01|Andra Mosebok (Exodus), 1 Kapitlet|
+02_02|Andra Mosebok (Exodus), 2 Kapitlet|
+02_03|Andra Mosebok (Exodus), 3 Kapitlet|
+02_04|Andra Mosebok (Exodus), 4 Kapitlet|
+02_05|Andra Mosebok (Exodus), 5 Kapitlet|
+02_06|Andra Mosebok (Exodus), 6 Kapitlet|
+02_07|Andra Mosebok (Exodus), 7 Kapitlet|
+02_08|Andra Mosebok (Exodus), 8 Kapitlet|
+02_09|Andra Mosebok (Exodus), 9 Kapitlet|
+02_10|Andra Mosebok (Exodus), 10 Kapitlet|
+02_11|Andra Mosebok (Exodus), 11 Kapitlet|
+02_12|Andra Mosebok (Exodus), 12 Kapitlet|
+02_13|Andra Mosebok (Exodus), 13 Kapitlet|
+02_14|Andra Mosebok (Exodus), 14 Kapitlet|
+02_15|Andra Mosebok (Exodus), 15 Kapitlet|
+02_16|Andra Mosebok (Exodus), 16 Kapitlet|
+02_17|Andra Mosebok (Exodus), 17 Kapitlet|
+02_18|Andra Mosebok (Exodus), 18 Kapitlet|
+02_19|Andra Mosebok (Exodus), 19 Kapitlet|
+02_20|Andra Mosebok (Exodus), 20 Kapitlet|
+02_21|Andra Mosebok (Exodus), 21 Kapitlet|
+02_22|Andra Mosebok (Exodus), 22 Kapitlet|
+02_23|Andra Mosebok (Exodus), 23 Kapitlet|
+02_24|Andra Mosebok (Exodus), 24 Kapitlet|
+02_25|Andra Mosebok (Exodus), 25 Kapitlet|
+02_26|Andra Mosebok (Exodus), 26 Kapitlet|
+02_27|Andra Mosebok (Exodus), 27 Kapitlet|
+02_28|Andra Mosebok (Exodus), 28 Kapitlet|
+02_29|Andra Mosebok (Exodus), 29 Kapitlet|
+02_30|Andra Mosebok (Exodus), 30 Kapitlet|
+02_31|Andra Mosebok (Exodus), 31 Kapitlet|
+02_32|Andra Mosebok (Exodus), 32 Kapitlet|
+02_33|Andra Mosebok (Exodus), 33 Kapitlet|
+02_34|Andra Mosebok (Exodus), 34 Kapitlet|
+02_35|Andra Mosebok (Exodus), 35 Kapitlet|
+02_36|Andra Mosebok (Exodus), 36 Kapitlet|
+02_37|Andra Mosebok (Exodus), 37 Kapitlet|
+02_38|Andra Mosebok (Exodus), 38 Kapitlet|
+02_39|Andra Mosebok (Exodus), 39 Kapitlet|
+02_40|Andra Mosebok (Exodus), 40 Kapitlet|
+#
+03_01|Tredje Mosebok (Leviticus), 1 Kapitlet|
+03_02|Tredje Mosebok (Leviticus), 2 Kapitlet|
+03_03|Tredje Mosebok (Leviticus), 3 Kapitlet|
+03_04|Tredje Mosebok (Leviticus), 4 Kapitlet|
+03_05|Tredje Mosebok (Leviticus), 5 Kapitlet|
+03_06|Tredje Mosebok (Leviticus), 6 Kapitlet|
+03_07|Tredje Mosebok (Leviticus), 7 Kapitlet|
+03_08|Tredje Mosebok (Leviticus), 8 Kapitlet|
+03_09|Tredje Mosebok (Leviticus), 9 Kapitlet|
+03_10|Tredje Mosebok (Leviticus), 10 Kapitlet|
+03_11|Tredje Mosebok (Leviticus), 11 Kapitlet|
+03_12|Tredje Mosebok (Leviticus), 12 Kapitlet|
+03_13|Tredje Mosebok (Leviticus), 13 Kapitlet|
+03_14|Tredje Mosebok (Leviticus), 14 Kapitlet|
+03_15|Tredje Mosebok (Leviticus), 15 Kapitlet|
+03_16|Tredje Mosebok (Leviticus), 16 Kapitlet|
+03_17|Tredje Mosebok (Leviticus), 17 Kapitlet|
+03_18|Tredje Mosebok (Leviticus), 18 Kapitlet|
+03_19|Tredje Mosebok (Leviticus), 19 Kapitlet|
+03_20|Tredje Mosebok (Leviticus), 20 Kapitlet|
+03_21|Tredje Mosebok (Leviticus), 21 Kapitlet|
+03_22|Tredje Mosebok (Leviticus), 22 Kapitlet|
+03_23|Tredje Mosebok (Leviticus), 23 Kapitlet|
+03_24|Tredje Mosebok (Leviticus), 24 Kapitlet|
+03_25|Tredje Mosebok (Leviticus), 25 Kapitlet|
+03_26|Tredje Mosebok (Leviticus), 26 Kapitlet|
+03_27|Tredje Mosebok (Leviticus), 27 Kapitlet|
+#
+04_01|Fjärde Mosebok (Numeri), 1 Kapitlet|
+04_02|Fjärde Mosebok (Numeri), 2 Kapitlet|
+04_03|Fjärde Mosebok (Numeri), 3 Kapitlet|
+04_04|Fjärde Mosebok (Numeri), 4 Kapitlet|
+04_05|Fjärde Mosebok (Numeri), 5 Kapitlet|
+04_06|Fjärde Mosebok (Numeri), 6 Kapitlet|
+04_07|Fjärde Mosebok (Numeri), 7 Kapitlet|
+04_08|Fjärde Mosebok (Numeri), 8 Kapitlet|
+04_09|Fjärde Mosebok (Numeri), 9 Kapitlet|
+04_10|Fjärde Mosebok (Numeri), 10 Kapitlet|
+04_11|Fjärde Mosebok (Numeri), 11 Kapitlet|
+04_12|Fjärde Mosebok (Numeri), 12 Kapitlet|
+04_13|Fjärde Mosebok (Numeri), 13 Kapitlet|
+04_14|Fjärde Mosebok (Numeri), 14 Kapitlet|
+04_15|Fjärde Mosebok (Numeri), 15 Kapitlet|
+04_16|Fjärde Mosebok (Numeri), 16 Kapitlet|
+04_17|Fjärde Mosebok (Numeri), 17 Kapitlet|
+04_18|Fjärde Mosebok (Numeri), 18 Kapitlet|
+04_19|Fjärde Mosebok (Numeri), 19 Kapitlet|
+04_20|Fjärde Mosebok (Numeri), 20 Kapitlet|
+04_21|Fjärde Mosebok (Numeri), 21 Kapitlet|
+04_22|Fjärde Mosebok (Numeri), 22 Kapitlet|
+04_23|Fjärde Mosebok (Numeri), 23 Kapitlet|
+04_24|Fjärde Mosebok (Numeri), 24 Kapitlet|
+04_25|Fjärde Mosebok (Numeri), 25 Kapitlet|
+04_26|Fjärde Mosebok (Numeri), 26 Kapitlet|
+04_27|Fjärde Mosebok (Numeri), 27 Kapitlet|
+04_28|Fjärde Mosebok (Numeri), 28 Kapitlet|
+04_29|Fjärde Mosebok (Numeri), 29 Kapitlet|
+04_30|Fjärde Mosebok (Numeri), 30 Kapitlet|
+04_31|Fjärde Mosebok (Numeri), 31 Kapitlet|
+04_32|Fjärde Mosebok (Numeri), 32 Kapitlet|
+04_33|Fjärde Mosebok (Numeri), 33 Kapitlet|
+04_34|Fjärde Mosebok (Numeri), 34 Kapitlet|
+04_35|Fjärde Mosebok (Numeri), 35 Kapitlet|
+04_36|Fjärde Mosebok (Numeri), 36 Kapitlet|
+#
+05_01|Femte Mosebok (Deuteronomium), 1 Kapitlet|
+05_02|Femte Mosebok (Deuteronomium), 2 Kapitlet|
+05_03|Femte Mosebok (Deuteronomium), 3 Kapitlet|
+05_04|Femte Mosebok (Deuteronomium), 4 Kapitlet|
+05_05|Femte Mosebok (Deuteronomium), 5 Kapitlet|
+05_06|Femte Mosebok (Deuteronomium), 6 Kapitlet|
+05_07|Femte Mosebok (Deuteronomium), 7 Kapitlet|
+05_08|Femte Mosebok (Deuteronomium), 8 Kapitlet|
+05_09|Femte Mosebok (Deuteronomium), 9 Kapitlet|
+05_10|Femte Mosebok (Deuteronomium), 10 Kapitlet|
+05_11|Femte Mosebok (Deuteronomium), 11 Kapitlet|
+05_12|Femte Mosebok (Deuteronomium), 12 Kapitlet|
+05_13|Femte Mosebok (Deuteronomium), 13 Kapitlet|
+05_14|Femte Mosebok (Deuteronomium), 14 Kapitlet|
+05_15|Femte Mosebok (Deuteronomium), 15 Kapitlet|
+05_16|Femte Mosebok (Deuteronomium), 16 Kapitlet|
+05_17|Femte Mosebok (Deuteronomium), 17 Kapitlet|
+05_18|Femte Mosebok (Deuteronomium), 18 Kapitlet|
+05_19|Femte Mosebok (Deuteronomium), 19 Kapitlet|
+05_20|Femte Mosebok (Deuteronomium), 20 Kapitlet|
+05_21|Femte Mosebok (Deuteronomium), 21 Kapitlet|
+05_22|Femte Mosebok (Deuteronomium), 22 Kapitlet|
+05_23|Femte Mosebok (Deuteronomium), 23 Kapitlet|
+05_24|Femte Mosebok (Deuteronomium), 24 Kapitlet|
+05_25|Femte Mosebok (Deuteronomium), 25 Kapitlet|
+05_26|Femte Mosebok (Deuteronomium), 26 Kapitlet|
+05_27|Femte Mosebok (Deuteronomium), 27 Kapitlet|
+05_28|Femte Mosebok (Deuteronomium), 28 Kapitlet|
+05_29|Femte Mosebok (Deuteronomium), 29 Kapitlet|
+05_30|Femte Mosebok (Deuteronomium), 30 Kapitlet|
+05_31|Femte Mosebok (Deuteronomium), 31 Kapitlet|
+05_32|Femte Mosebok (Deuteronomium), 32 Kapitlet|
+05_33|Femte Mosebok (Deuteronomium), 33 Kapitlet|
+05_34|Femte Mosebok (Deuteronomium), 34 Kapitlet|
+#
+06_01|Josua, 1 Kapitlet|
+06_02|Josua, 2 Kapitlet|
+06_03|Josua, 3 Kapitlet|
+06_04|Josua, 4 Kapitlet|
+06_05|Josua, 5 Kapitlet|
+06_06|Josua, 6 Kapitlet|
+06_07|Josua, 7 Kapitlet|
+06_08|Josua, 8 Kapitlet|
+06_09|Josua, 9 Kapitlet|
+06_10|Josua, 10 Kapitlet|
+06_11|Josua, 11 Kapitlet|
+06_12|Josua, 12 Kapitlet|
+06_13|Josua, 13 Kapitlet|
+06_14|Josua, 14 Kapitlet|
+06_15|Josua, 15 Kapitlet|
+06_16|Josua, 16 Kapitlet|
+06_17|Josua, 17 Kapitlet|
+06_18|Josua, 18 Kapitlet|
+06_19|Josua, 19 Kapitlet|
+06_20|Josua, 20 Kapitlet|
+06_21|Josua, 21 Kapitlet|
+06_22|Josua, 22 Kapitlet|
+06_23|Josua, 23 Kapitlet|
+06_24|Josua, 24 Kapitlet|
+#
+07_01|Domarboken, 1 Kapitlet|
+07_02|Domarboken, 2 Kapitlet|
+07_03|Domarboken, 3 Kapitlet|
+07_04|Domarboken, 4 Kapitlet|
+07_05|Domarboken, 5 Kapitlet|
+07_06|Domarboken, 6 Kapitlet|
+07_07|Domarboken, 7 Kapitlet|
+07_08|Domarboken, 8 Kapitlet|
+07_09|Domarboken, 9 Kapitlet|
+07_10|Domarboken, 10 Kapitlet|
+07_11|Domarboken, 11 Kapitlet|
+07_12|Domarboken, 12 Kapitlet|
+07_13|Domarboken, 13 Kapitlet|
+07_14|Domarboken, 14 Kapitlet|
+07_15|Domarboken, 15 Kapitlet|
+07_16|Domarboken, 16 Kapitlet|
+07_17|Domarboken, 17 Kapitlet|
+07_18|Domarboken, 18 Kapitlet|
+07_19|Domarboken, 19 Kapitlet|
+07_20|Domarboken, 20 Kapitlet|
+07_21|Domarboken, 21 Kapitlet|
+#
+08_01|Rut, 1 Kapitlet|
+08_02|Rut, 2 Kapitlet|
+08_03|Rut, 3 Kapitlet|
+08_04|Rut, 4 Kapitlet|
+#
+09_01|Första Samuelsboken, 1 Kapitlet|
+09_02|Första Samuelsboken, 2 Kapitlet|
+09_03|Första Samuelsboken, 3 Kapitlet|
+09_04|Första Samuelsboken, 4 Kapitlet|
+09_05|Första Samuelsboken, 5 Kapitlet|
+09_06|Första Samuelsboken, 6 Kapitlet|
+09_07|Första Samuelsboken, 7 Kapitlet|
+09_08|Första Samuelsboken, 8 Kapitlet|
+09_09|Första Samuelsboken, 9 Kapitlet|
+09_10|Första Samuelsboken, 10 Kapitlet|
+09_11|Första Samuelsboken, 11 Kapitlet|
+09_12|Första Samuelsboken, 12 Kapitlet|
+09_13|Första Samuelsboken, 13 Kapitlet|
+09_14|Första Samuelsboken, 14 Kapitlet|
+09_15|Första Samuelsboken, 15 Kapitlet|
+09_16|Första Samuelsboken, 16 Kapitlet|
+09_17|Första Samuelsboken, 17 Kapitlet|
+09_18|Första Samuelsboken, 18 Kapitlet|
+09_19|Första Samuelsboken, 19 Kapitlet|
+09_20|Första Samuelsboken, 20 Kapitlet|
+09_21|Första Samuelsboken, 21 Kapitlet|
+09_22|Första Samuelsboken, 22 Kapitlet|
+09_23|Första Samuelsboken, 23 Kapitlet|
+09_24|Första Samuelsboken, 24 Kapitlet|
+09_25|Första Samuelsboken, 25 Kapitlet|
+09_26|Första Samuelsboken, 26 Kapitlet|
+09_27|Första Samuelsboken, 27 Kapitlet|
+09_28|Första Samuelsboken, 28 Kapitlet|
+09_29|Första Samuelsboken, 29 Kapitlet|
+09_30|Första Samuelsboken, 30 Kapitlet|
+09_31|Första Samuelsboken, 31 Kapitlet|
+#
+10_01|Andra Samuelsboken, 1 Kapitlet|
+10_02|Andra Samuelsboken, 2 Kapitlet|
+10_03|Andra Samuelsboken, 3 Kapitlet|
+10_04|Andra Samuelsboken, 4 Kapitlet|
+10_05|Andra Samuelsboken, 5 Kapitlet|
+10_06|Andra Samuelsboken, 6 Kapitlet|
+10_07|Andra Samuelsboken, 7 Kapitlet|
+10_08|Andra Samuelsboken, 8 Kapitlet|
+10_09|Andra Samuelsboken, 9 Kapitlet|
+10_10|Andra Samuelsboken, 10 Kapitlet|
+10_11|Andra Samuelsboken, 11 Kapitlet|
+10_12|Andra Samuelsboken, 12 Kapitlet|
+10_13|Andra Samuelsboken, 13 Kapitlet|
+10_14|Andra Samuelsboken, 14 Kapitlet|
+10_15|Andra Samuelsboken, 15 Kapitlet|
+10_16|Andra Samuelsboken, 16 Kapitlet|
+10_17|Andra Samuelsboken, 17 Kapitlet|
+10_18|Andra Samuelsboken, 18 Kapitlet|
+10_19|Andra Samuelsboken, 19 Kapitlet|
+10_20|Andra Samuelsboken, 20 Kapitlet|
+10_21|Andra Samuelsboken, 21 Kapitlet|
+10_22|Andra Samuelsboken, 22 Kapitlet|
+10_23|Andra Samuelsboken, 23 Kapitlet|
+10_24|Andra Samuelsboken, 24 Kapitlet|
+#
+11_01|Första Konungaboken, 1 Kapitlet|
+11_02|Första Konungaboken, 2 Kapitlet|
+11_03|Första Konungaboken, 3 Kapitlet|
+11_04|Första Konungaboken, 4 Kapitlet|
+11_05|Första Konungaboken, 5 Kapitlet|
+11_06|Första Konungaboken, 6 Kapitlet|
+11_07|Första Konungaboken, 7 Kapitlet|
+11_08|Första Konungaboken, 8 Kapitlet|
+11_09|Första Konungaboken, 9 Kapitlet|
+11_10|Första Konungaboken, 10 Kapitlet|
+11_11|Första Konungaboken, 11 Kapitlet|
+11_12|Första Konungaboken, 12 Kapitlet|
+11_13|Första Konungaboken, 13 Kapitlet|
+11_14|Första Konungaboken, 14 Kapitlet|
+11_15|Första Konungaboken, 15 Kapitlet|
+11_16|Första Konungaboken, 16 Kapitlet|
+11_17|Första Konungaboken, 17 Kapitlet|
+11_18|Första Konungaboken, 18 Kapitlet|
+11_19|Första Konungaboken, 19 Kapitlet|
+11_20|Första Konungaboken, 20 Kapitlet|
+11_21|Första Konungaboken, 21 Kapitlet|
+11_22|Första Konungaboken, 22 Kapitlet|
+#
+12_01|Andra Konungaboken, 1 Kapitlet|
+12_02|Andra Konungaboken, 2 Kapitlet|
+12_03|Andra Konungaboken, 3 Kapitlet|
+12_04|Andra Konungaboken, 4 Kapitlet|
+12_05|Andra Konungaboken, 5 Kapitlet|
+12_06|Andra Konungaboken, 6 Kapitlet|
+12_07|Andra Konungaboken, 7 Kapitlet|
+12_08|Andra Konungaboken, 8 Kapitlet|
+12_09|Andra Konungaboken, 9 Kapitlet|
+12_10|Andra Konungaboken, 10 Kapitlet|
+12_11|Andra Konungaboken, 11 Kapitlet|
+12_12|Andra Konungaboken, 12 Kapitlet|
+12_13|Andra Konungaboken, 13 Kapitlet|
+12_14|Andra Konungaboken, 14 Kapitlet|
+12_15|Andra Konungaboken, 15 Kapitlet|
+12_16|Andra Konungaboken, 16 Kapitlet|
+12_17|Andra Konungaboken, 17 Kapitlet|
+12_18|Andra Konungaboken, 18 Kapitlet|
+12_19|Andra Konungaboken, 19 Kapitlet|
+12_20|Andra Konungaboken, 20 Kapitlet|
+12_21|Andra Konungaboken, 21 Kapitlet|
+12_22|Andra Konungaboken, 22 Kapitlet|
+12_23|Andra Konungaboken, 23 Kapitlet|
+12_24|Andra Konungaboken, 24 Kapitlet|
+12_25|Andra Konungaboken, 25 Kapitlet|
+#
+13_01|Första Krönikeboken, 1 Kapitlet|
+13_02|Första Krönikeboken, 2 Kapitlet|
+13_03|Första Krönikeboken, 3 Kapitlet|
+13_04|Första Krönikeboken, 4 Kapitlet|
+13_05|Första Krönikeboken, 5 Kapitlet|
+13_06|Första Krönikeboken, 6 Kapitlet|
+13_07|Första Krönikeboken, 7 Kapitlet|
+13_08|Första Krönikeboken, 8 Kapitlet|
+13_09|Första Krönikeboken, 9 Kapitlet|
+13_10|Första Krönikeboken, 10 Kapitlet|
+13_11|Första Krönikeboken, 11 Kapitlet|
+13_12|Första Krönikeboken, 12 Kapitlet|
+13_13|Första Krönikeboken, 13 Kapitlet|
+13_14|Första Krönikeboken, 14 Kapitlet|
+13_15|Första Krönikeboken, 15 Kapitlet|
+13_16|Första Krönikeboken, 16 Kapitlet|
+13_17|Första Krönikeboken, 17 Kapitlet|
+13_18|Första Krönikeboken, 18 Kapitlet|
+13_19|Första Krönikeboken, 19 Kapitlet|
+13_20|Första Krönikeboken, 20 Kapitlet|
+13_21|Första Krönikeboken, 21 Kapitlet|
+13_22|Första Krönikeboken, 22 Kapitlet|
+13_23|Första Krönikeboken, 23 Kapitlet|
+13_24|Första Krönikeboken, 24 Kapitlet|
+13_25|Första Krönikeboken, 25 Kapitlet|
+13_26|Första Krönikeboken, 26 Kapitlet|
+13_27|Första Krönikeboken, 27 Kapitlet|
+13_28|Första Krönikeboken, 28 Kapitlet|
+13_29|Första Krönikeboken, 29 Kapitlet|
+#
+14_01|Andra Krönikeboken, 1 Kapitlet|
+14_02|Andra Krönikeboken, 2 Kapitlet|
+14_03|Andra Krönikeboken, 3 Kapitlet|
+14_04|Andra Krönikeboken, 4 Kapitlet|
+14_05|Andra Krönikeboken, 5 Kapitlet|
+14_06|Andra Krönikeboken, 6 Kapitlet|
+14_07|Andra Krönikeboken, 7 Kapitlet|
+14_08|Andra Krönikeboken, 8 Kapitlet|
+14_09|Andra Krönikeboken, 9 Kapitlet|
+14_10|Andra Krönikeboken, 10 Kapitlet|
+14_11|Andra Krönikeboken, 11 Kapitlet|
+14_12|Andra Krönikeboken, 12 Kapitlet|
+14_13|Andra Krönikeboken, 13 Kapitlet|
+14_14|Andra Krönikeboken, 14 Kapitlet|
+14_15|Andra Krönikeboken, 15 Kapitlet|
+14_16|Andra Krönikeboken, 16 Kapitlet|
+14_17|Andra Krönikeboken, 17 Kapitlet|
+14_18|Andra Krönikeboken, 18 Kapitlet|
+14_19|Andra Krönikeboken, 19 Kapitlet|
+14_20|Andra Krönikeboken, 20 Kapitlet|
+14_21|Andra Krönikeboken, 21 Kapitlet|
+14_22|Andra Krönikeboken, 22 Kapitlet|
+14_23|Andra Krönikeboken, 23 Kapitlet|
+14_24|Andra Krönikeboken, 24 Kapitlet|
+14_25|Andra Krönikeboken, 25 Kapitlet|
+14_26|Andra Krönikeboken, 26 Kapitlet|
+14_27|Andra Krönikeboken, 27 Kapitlet|
+14_28|Andra Krönikeboken, 28 Kapitlet|
+14_29|Andra Krönikeboken, 29 Kapitlet|
+14_30|Andra Krönikeboken, 30 Kapitlet|
+14_31|Andra Krönikeboken, 31 Kapitlet|
+14_32|Andra Krönikeboken, 32 Kapitlet|
+14_33|Andra Krönikeboken, 33 Kapitlet|
+14_34|Andra Krönikeboken, 34 Kapitlet|
+14_35|Andra Krönikeboken, 35 Kapitlet|
+14_36|Andra Krönikeboken, 36 Kapitlet|
+#
+15_01|Esra, 1 Kapitlet|
+15_02|Esra, 2 Kapitlet|
+15_03|Esra, 3 Kapitlet|
+15_04|Esra, 4 Kapitlet|
+15_05|Esra, 5 Kapitlet|
+15_06|Esra, 6 Kapitlet|
+15_07|Esra, 7 Kapitlet|
+15_08|Esra, 8 Kapitlet|
+15_09|Esra, 9 Kapitlet|
+15_10|Esra, 10 Kapitlet|
+#
+16_01|Nehemja, 1 Kapitlet|
+16_02|Nehemja, 2 Kapitlet|
+16_03|Nehemja, 3 Kapitlet|
+16_04|Nehemja, 4 Kapitlet|
+16_05|Nehemja, 5 Kapitlet|
+16_06|Nehemja, 6 Kapitlet|
+16_07|Nehemja, 7 Kapitlet|
+16_08|Nehemja, 8 Kapitlet|
+16_09|Nehemja, 9 Kapitlet|
+16_10|Nehemja, 10 Kapitlet|
+16_11|Nehemja, 11 Kapitlet|
+16_12|Nehemja, 12 Kapitlet|
+16_13|Nehemja, 13 Kapitlet|
+#
+17_01|Ester, 1 Kapitlet|
+17_02|Ester, 2 Kapitlet|
+17_03|Ester, 3 Kapitlet|
+17_04|Ester, 4 Kapitlet|
+17_05|Ester, 5 Kapitlet|
+17_06|Ester, 6 Kapitlet|
+17_07|Ester, 7 Kapitlet|
+17_08|Ester, 8 Kapitlet|
+17_09|Ester, 9 Kapitlet|
+17_10|Ester, 10 Kapitlet|
+#
+18_01|Job, 1 Kapitlet|
+18_02|Job, 2 Kapitlet|
+18_03|Job, 3 Kapitlet|
+18_04|Job, 4 Kapitlet|
+18_05|Job, 5 Kapitlet|
+18_06|Job, 6 Kapitlet|
+18_07|Job, 7 Kapitlet|
+18_08|Job, 8 Kapitlet|
+18_09|Job, 9 Kapitlet|
+18_10|Job, 10 Kapitlet|
+18_11|Job, 11 Kapitlet|
+18_12|Job, 12 Kapitlet|
+18_13|Job, 13 Kapitlet|
+18_14|Job, 14 Kapitlet|
+18_15|Job, 15 Kapitlet|
+18_16|Job, 16 Kapitlet|
+18_17|Job, 17 Kapitlet|
+18_18|Job, 18 Kapitlet|
+18_19|Job, 19 Kapitlet|
+18_20|Job, 20 Kapitlet|
+18_21|Job, 21 Kapitlet|
+18_22|Job, 22 Kapitlet|
+18_23|Job, 23 Kapitlet|
+18_24|Job, 24 Kapitlet|
+18_25|Job, 25 Kapitlet|
+18_26|Job, 26 Kapitlet|
+18_27|Job, 27 Kapitlet|
+18_28|Job, 28 Kapitlet|
+18_29|Job, 29 Kapitlet|
+18_30|Job, 30 Kapitlet|
+18_31|Job, 31 Kapitlet|
+18_32|Job, 32 Kapitlet|
+18_33|Job, 33 Kapitlet|
+18_34|Job, 34 Kapitlet|
+18_35|Job, 35 Kapitlet|
+18_36|Job, 36 Kapitlet|
+18_37|Job, 37 Kapitlet|
+18_38|Job, 38 Kapitlet|
+18_39|Job, 39 Kapitlet|
+18_40|Job, 40 Kapitlet|
+18_41|Job, 41 Kapitlet|
+18_42|Job, 42 Kapitlet|
+#
+19_01|Psaltaren, 1 Psalmen|
+19_02|Psaltaren, 2 Psalmen|
+19_03|Psaltaren, 3 Psalmen|
+19_04|Psaltaren, 4 Psalmen|
+19_05|Psaltaren, 5 Psalmen|
+19_06|Psaltaren, 6 Psalmen|
+19_07|Psaltaren, 7 Psalmen|
+19_08|Psaltaren, 8 Psalmen|
+19_09|Psaltaren, 9 Psalmen|
+19_10|Psaltaren, 10 Psalmen|
+19_11|Psaltaren, 11 Psalmen|
+19_12|Psaltaren, 12 Psalmen|
+19_13|Psaltaren, 13 Psalmen|
+19_14|Psaltaren, 14 Psalmen|
+19_15|Psaltaren, 15 Psalmen|
+19_16|Psaltaren, 16 Psalmen|
+19_17|Psaltaren, 17 Psalmen|
+19_18|Psaltaren, 18 Psalmen|
+19_19|Psaltaren, 19 Psalmen|
+19_20|Psaltaren, 20 Psalmen|
+19_21|Psaltaren, 21 Psalmen|
+19_22|Psaltaren, 22 Psalmen|
+19_23|Psaltaren, 23 Psalmen|
+19_24|Psaltaren, 24 Psalmen|
+19_25|Psaltaren, 25 Psalmen|
+19_26|Psaltaren, 26 Psalmen|
+19_27|Psaltaren, 27 Psalmen|
+19_28|Psaltaren, 28 Psalmen|
+19_29|Psaltaren, 29 Psalmen|
+19_30|Psaltaren, 30 Psalmen|
+19_31|Psaltaren, 31 Psalmen|
+19_32|Psaltaren, 32 Psalmen|
+19_33|Psaltaren, 33 Psalmen|
+19_34|Psaltaren, 34 Psalmen|
+19_35|Psaltaren, 35 Psalmen|
+19_36|Psaltaren, 36 Psalmen|
+19_37|Psaltaren, 37 Psalmen|
+19_38|Psaltaren, 38 Psalmen|
+19_39|Psaltaren, 39 Psalmen|
+19_40|Psaltaren, 40 Psalmen|
+19_41|Psaltaren, 41 Psalmen|
+19_42|Psaltaren, 42 Psalmen|
+19_43|Psaltaren, 43 Psalmen|
+19_44|Psaltaren, 44 Psalmen|
+19_45|Psaltaren, 45 Psalmen|
+19_46|Psaltaren, 46 Psalmen|
+19_47|Psaltaren, 47 Psalmen|
+19_48|Psaltaren, 48 Psalmen|
+19_49|Psaltaren, 49 Psalmen|
+19_50|Psaltaren, 50 Psalmen|
+19_51|Psaltaren, 51 Psalmen|
+19_52|Psaltaren, 52 Psalmen|
+19_53|Psaltaren, 53 Psalmen|
+19_54|Psaltaren, 54 Psalmen|
+19_55|Psaltaren, 55 Psalmen|
+19_56|Psaltaren, 56 Psalmen|
+19_57|Psaltaren, 57 Psalmen|
+19_58|Psaltaren, 58 Psalmen|
+19_59|Psaltaren, 59 Psalmen|
+19_60|Psaltaren, 60 Psalmen|
+19_61|Psaltaren, 61 Psalmen|
+19_62|Psaltaren, 62 Psalmen|
+19_63|Psaltaren, 63 Psalmen|
+19_64|Psaltaren, 64 Psalmen|
+19_65|Psaltaren, 65 Psalmen|
+19_66|Psaltaren, 66 Psalmen|
+19_67|Psaltaren, 67 Psalmen|
+19_68|Psaltaren, 68 Psalmen|
+19_69|Psaltaren, 69 Psalmen|
+19_70|Psaltaren, 70 Psalmen|
+19_71|Psaltaren, 71 Psalmen|
+19_72|Psaltaren, 72 Psalmen|
+19_73|Psaltaren, 73 Psalmen|
+19_74|Psaltaren, 74 Psalmen|
+19_75|Psaltaren, 75 Psalmen|
+19_76|Psaltaren, 76 Psalmen|
+19_77|Psaltaren, 77 Psalmen|
+19_78|Psaltaren, 78 Psalmen|
+19_79|Psaltaren, 79 Psalmen|
+19_80|Psaltaren, 80 Psalmen|
+19_81|Psaltaren, 81 Psalmen|
+19_82|Psaltaren, 82 Psalmen|
+19_83|Psaltaren, 83 Psalmen|
+19_84|Psaltaren, 84 Psalmen|
+19_85|Psaltaren, 85 Psalmen|
+19_86|Psaltaren, 86 Psalmen|
+19_87|Psaltaren, 87 Psalmen|
+19_88|Psaltaren, 88 Psalmen|
+19_89|Psaltaren, 89 Psalmen|
+19_90|Psaltaren, 90 Psalmen|
+19_91|Psaltaren, 91 Psalmen|
+19_92|Psaltaren, 92 Psalmen|
+19_93|Psaltaren, 93 Psalmen|
+19_94|Psaltaren, 94 Psalmen|
+19_95|Psaltaren, 95 Psalmen|
+19_96|Psaltaren, 96 Psalmen|
+19_97|Psaltaren, 97 Psalmen|
+19_98|Psaltaren, 98 Psalmen|
+19_99|Psaltaren, 99 Psalmen|
+19_a0|Psaltaren, 100 Psalmen|
+19_a1|Psaltaren, 101 Psalmen|
+19_a2|Psaltaren, 102 Psalmen|
+19_a3|Psaltaren, 103 Psalmen|
+19_a4|Psaltaren, 104 Psalmen|
+19_a5|Psaltaren, 105 Psalmen|
+19_a6|Psaltaren, 106 Psalmen|
+19_a7|Psaltaren, 107 Psalmen|
+19_a8|Psaltaren, 108 Psalmen|
+19_a9|Psaltaren, 109 Psalmen|
+19_b0|Psaltaren, 110 Psalmen|
+19_b1|Psaltaren, 111 Psalmen|
+19_b2|Psaltaren, 112 Psalmen|
+19_b3|Psaltaren, 113 Psalmen|
+19_b4|Psaltaren, 114 Psalmen|
+19_b5|Psaltaren, 115 Psalmen|
+19_b6|Psaltaren, 116 Psalmen|
+19_b7|Psaltaren, 117 Psalmen|
+19_b8|Psaltaren, 118 Psalmen|
+19_b9|Psaltaren, 119 Psalmen|
+19_c0|Psaltaren, 120 Psalmen|
+19_c1|Psaltaren, 121 Psalmen|
+19_c2|Psaltaren, 122 Psalmen|
+19_c3|Psaltaren, 123 Psalmen|
+19_c4|Psaltaren, 124 Psalmen|
+19_c5|Psaltaren, 125 Psalmen|
+19_c6|Psaltaren, 126 Psalmen|
+19_c7|Psaltaren, 127 Psalmen|
+19_c8|Psaltaren, 128 Psalmen|
+19_c9|Psaltaren, 129 Psalmen|
+19_d0|Psaltaren, 130 Psalmen|
+19_d1|Psaltaren, 131 Psalmen|
+19_d2|Psaltaren, 132 Psalmen|
+19_d3|Psaltaren, 133 Psalmen|
+19_d4|Psaltaren, 134 Psalmen|
+19_d5|Psaltaren, 135 Psalmen|
+19_d6|Psaltaren, 136 Psalmen|
+19_d7|Psaltaren, 137 Psalmen|
+19_d8|Psaltaren, 138 Psalmen|
+19_d9|Psaltaren, 139 Psalmen|
+19_e0|Psaltaren, 140 Psalmen|
+19_e1|Psaltaren, 141 Psalmen|
+19_e2|Psaltaren, 142 Psalmen|
+19_e3|Psaltaren, 143 Psalmen|
+19_e4|Psaltaren, 144 Psalmen|
+19_e5|Psaltaren, 145 Psalmen|
+19_e6|Psaltaren, 146 Psalmen|
+19_e7|Psaltaren, 147 Psalmen|
+19_e8|Psaltaren, 148 Psalmen|
+19_e9|Psaltaren, 149 Psalmen|
+19_f0|Psaltaren, 150 Psalmen|
+#
+20_01|Ordspråksboken, 1 Kapitlet|
+20_02|Ordspråksboken, 2 Kapitlet|
+20_03|Ordspråksboken, 3 Kapitlet|
+20_04|Ordspråksboken, 4 Kapitlet|
+20_05|Ordspråksboken, 5 Kapitlet|
+20_06|Ordspråksboken, 6 Kapitlet|
+20_07|Ordspråksboken, 7 Kapitlet|
+20_08|Ordspråksboken, 8 Kapitlet|
+20_09|Ordspråksboken, 9 Kapitlet|
+20_10|Ordspråksboken, 10 Kapitlet|
+20_11|Ordspråksboken, 11 Kapitlet|
+20_12|Ordspråksboken, 12 Kapitlet|
+20_13|Ordspråksboken, 13 Kapitlet|
+20_14|Ordspråksboken, 14 Kapitlet|
+20_15|Ordspråksboken, 15 Kapitlet|
+20_16|Ordspråksboken, 16 Kapitlet|
+20_17|Ordspråksboken, 17 Kapitlet|
+20_18|Ordspråksboken, 18 Kapitlet|
+20_19|Ordspråksboken, 19 Kapitlet|
+20_20|Ordspråksboken, 20 Kapitlet|
+20_21|Ordspråksboken, 21 Kapitlet|
+20_22|Ordspråksboken, 22 Kapitlet|
+20_23|Ordspråksboken, 23 Kapitlet|
+20_24|Ordspråksboken, 24 Kapitlet|
+20_25|Ordspråksboken, 25 Kapitlet|
+20_26|Ordspråksboken, 26 Kapitlet|
+20_27|Ordspråksboken, 27 Kapitlet|
+20_28|Ordspråksboken, 28 Kapitlet|
+20_29|Ordspråksboken, 29 Kapitlet|
+20_30|Ordspråksboken, 30 Kapitlet|
+20_31|Ordspråksboken, 31 Kapitlet|
+#
+21_01|Predikaren, 1 Kapitlet|
+21_02|Predikaren, 2 Kapitlet|
+21_03|Predikaren, 3 Kapitlet|
+21_04|Predikaren, 4 Kapitlet|
+21_05|Predikaren, 5 Kapitlet|
+21_06|Predikaren, 6 Kapitlet|
+21_07|Predikaren, 7 Kapitlet|
+21_08|Predikaren, 8 Kapitlet|
+21_09|Predikaren, 9 Kapitlet|
+21_10|Predikaren, 10 Kapitlet|
+21_11|Predikaren, 11 Kapitlet|
+21_12|Predikaren, 12 Kapitlet|
+#
+22_01|Höga Visan, 1 Kapitlet|
+22_02|Höga Visan, 2 Kapitlet|
+22_03|Höga Visan, 3 Kapitlet|
+22_04|Höga Visan, 4 Kapitlet|
+22_05|Höga Visan, 5 Kapitlet|
+22_06|Höga Visan, 6 Kapitlet|
+22_07|Höga Visan, 7 Kapitlet|
+22_08|Höga Visan, 8 Kapitlet|
+#
+23_01|Jesaja, 1 Kapitlet|
+23_02|Jesaja, 2 Kapitlet|
+23_03|Jesaja, 3 Kapitlet|
+23_04|Jesaja, 4 Kapitlet|
+23_05|Jesaja, 5 Kapitlet|
+23_06|Jesaja, 6 Kapitlet|
+23_07|Jesaja, 7 Kapitlet|
+23_08|Jesaja, 8 Kapitlet|
+23_09|Jesaja, 9 Kapitlet|
+23_10|Jesaja, 10 Kapitlet|
+23_11|Jesaja, 11 Kapitlet|
+23_12|Jesaja, 12 Kapitlet|
+23_13|Jesaja, 13 Kapitlet|
+23_14|Jesaja, 14 Kapitlet|
+23_15|Jesaja, 15 Kapitlet|
+23_16|Jesaja, 16 Kapitlet|
+23_17|Jesaja, 17 Kapitlet|
+23_18|Jesaja, 18 Kapitlet|
+23_19|Jesaja, 19 Kapitlet|
+23_20|Jesaja, 20 Kapitlet|
+23_21|Jesaja, 21 Kapitlet|
+23_22|Jesaja, 22 Kapitlet|
+23_23|Jesaja, 23 Kapitlet|
+23_24|Jesaja, 24 Kapitlet|
+23_25|Jesaja, 25 Kapitlet|
+23_26|Jesaja, 26 Kapitlet|
+23_27|Jesaja, 27 Kapitlet|
+23_28|Jesaja, 28 Kapitlet|
+23_29|Jesaja, 29 Kapitlet|
+23_30|Jesaja, 30 Kapitlet|
+23_31|Jesaja, 31 Kapitlet|
+23_32|Jesaja, 32 Kapitlet|
+23_33|Jesaja, 33 Kapitlet|
+23_34|Jesaja, 34 Kapitlet|
+23_35|Jesaja, 35 Kapitlet|
+23_36|Jesaja, 36 Kapitlet|
+23_37|Jesaja, 37 Kapitlet|
+23_38|Jesaja, 38 Kapitlet|
+23_39|Jesaja, 39 Kapitlet|
+23_40|Jesaja, 40 Kapitlet|
+23_41|Jesaja, 41 Kapitlet|
+23_42|Jesaja, 42 Kapitlet|
+23_43|Jesaja, 43 Kapitlet|
+23_44|Jesaja, 44 Kapitlet|
+23_45|Jesaja, 45 Kapitlet|
+23_46|Jesaja, 46 Kapitlet|
+23_47|Jesaja, 47 Kapitlet|
+23_48|Jesaja, 48 Kapitlet|
+23_49|Jesaja, 49 Kapitlet|
+23_50|Jesaja, 50 Kapitlet|
+23_51|Jesaja, 51 Kapitlet|
+23_52|Jesaja, 52 Kapitlet|
+23_53|Jesaja, 53 Kapitlet|
+23_54|Jesaja, 54 Kapitlet|
+23_55|Jesaja, 55 Kapitlet|
+23_56|Jesaja, 56 Kapitlet|
+23_57|Jesaja, 57 Kapitlet|
+23_58|Jesaja, 58 Kapitlet|
+23_59|Jesaja, 59 Kapitlet|
+23_60|Jesaja, 60 Kapitlet|
+23_61|Jesaja, 61 Kapitlet|
+23_62|Jesaja, 62 Kapitlet|
+23_63|Jesaja, 63 Kapitlet|
+23_64|Jesaja, 64 Kapitlet|
+23_65|Jesaja, 65 Kapitlet|
+23_66|Jesaja, 66 Kapitlet|
+#
+24_01|Jeremia, 1 Kapitlet|
+24_02|Jeremia, 2 Kapitlet|
+24_03|Jeremia, 3 Kapitlet|
+24_04|Jeremia, 4 Kapitlet|
+24_05|Jeremia, 5 Kapitlet|
+24_06|Jeremia, 6 Kapitlet|
+24_07|Jeremia, 7 Kapitlet|
+24_08|Jeremia, 8 Kapitlet|
+24_09|Jeremia, 9 Kapitlet|
+24_10|Jeremia, 10 Kapitlet|
+24_11|Jeremia, 11 Kapitlet|
+24_12|Jeremia, 12 Kapitlet|
+24_13|Jeremia, 13 Kapitlet|
+24_14|Jeremia, 14 Kapitlet|
+24_15|Jeremia, 15 Kapitlet|
+24_16|Jeremia, 16 Kapitlet|
+24_17|Jeremia, 17 Kapitlet|
+24_18|Jeremia, 18 Kapitlet|
+24_19|Jeremia, 19 Kapitlet|
+24_20|Jeremia, 20 Kapitlet|
+24_21|Jeremia, 21 Kapitlet|
+24_22|Jeremia, 22 Kapitlet|
+24_23|Jeremia, 23 Kapitlet|
+24_24|Jeremia, 24 Kapitlet|
+24_25|Jeremia, 25 Kapitlet|
+24_26|Jeremia, 26 Kapitlet|
+24_27|Jeremia, 27 Kapitlet|
+24_28|Jeremia, 28 Kapitlet|
+24_29|Jeremia, 29 Kapitlet|
+24_30|Jeremia, 30 Kapitlet|
+24_31|Jeremia, 31 Kapitlet|
+24_32|Jeremia, 32 Kapitlet|
+24_33|Jeremia, 33 Kapitlet|
+24_34|Jeremia, 34 Kapitlet|
+24_35|Jeremia, 35 Kapitlet|
+24_36|Jeremia, 36 Kapitlet|
+24_37|Jeremia, 37 Kapitlet|
+24_38|Jeremia, 38 Kapitlet|
+24_39|Jeremia, 39 Kapitlet|
+24_40|Jeremia, 40 Kapitlet|
+24_41|Jeremia, 41 Kapitlet|
+24_42|Jeremia, 42 Kapitlet|
+24_43|Jeremia, 43 Kapitlet|
+24_44|Jeremia, 44 Kapitlet|
+24_45|Jeremia, 45 Kapitlet|
+24_46|Jeremia, 46 Kapitlet|
+24_47|Jeremia, 47 Kapitlet|
+24_48|Jeremia, 48 Kapitlet|
+24_49|Jeremia, 49 Kapitlet|
+24_50|Jeremia, 50 Kapitlet|
+24_51|Jeremia, 51 Kapitlet|
+24_52|Jeremia, 52 Kapitlet|
+#
+25_01|Klagovisorna, 1 Kapitlet|
+25_02|Klagovisorna, 2 Kapitlet|
+25_03|Klagovisorna, 3 Kapitlet|
+25_04|Klagovisorna, 4 Kapitlet|
+25_05|Klagovisorna, 5 Kapitlet|
+#
+26_01|Hesekiel, 1 Kapitlet|
+26_02|Hesekiel, 2 Kapitlet|
+26_03|Hesekiel, 3 Kapitlet|
+26_04|Hesekiel, 4 Kapitlet|
+26_05|Hesekiel, 5 Kapitlet|
+26_06|Hesekiel, 6 Kapitlet|
+26_07|Hesekiel, 7 Kapitlet|
+26_08|Hesekiel, 8 Kapitlet|
+26_09|Hesekiel, 9 Kapitlet|
+26_10|Hesekiel, 10 Kapitlet|
+26_11|Hesekiel, 11 Kapitlet|
+26_12|Hesekiel, 12 Kapitlet|
+26_13|Hesekiel, 13 Kapitlet|
+26_14|Hesekiel, 14 Kapitlet|
+26_15|Hesekiel, 15 Kapitlet|
+26_16|Hesekiel, 16 Kapitlet|
+26_17|Hesekiel, 17 Kapitlet|
+26_18|Hesekiel, 18 Kapitlet|
+26_19|Hesekiel, 19 Kapitlet|
+26_20|Hesekiel, 20 Kapitlet|
+26_21|Hesekiel, 21 Kapitlet|
+26_22|Hesekiel, 22 Kapitlet|
+26_23|Hesekiel, 23 Kapitlet|
+26_24|Hesekiel, 24 Kapitlet|
+26_25|Hesekiel, 25 Kapitlet|
+26_26|Hesekiel, 26 Kapitlet|
+26_27|Hesekiel, 27 Kapitlet|
+26_28|Hesekiel, 28 Kapitlet|
+26_29|Hesekiel, 29 Kapitlet|
+26_30|Hesekiel, 30 Kapitlet|
+26_31|Hesekiel, 31 Kapitlet|
+26_32|Hesekiel, 32 Kapitlet|
+26_33|Hesekiel, 33 Kapitlet|
+26_34|Hesekiel, 34 Kapitlet|
+26_35|Hesekiel, 35 Kapitlet|
+26_36|Hesekiel, 36 Kapitlet|
+26_37|Hesekiel, 37 Kapitlet|
+26_38|Hesekiel, 38 Kapitlet|
+26_39|Hesekiel, 39 Kapitlet|
+26_40|Hesekiel, 40 Kapitlet|
+26_41|Hesekiel, 41 Kapitlet|
+26_42|Hesekiel, 42 Kapitlet|
+26_43|Hesekiel, 43 Kapitlet|
+26_44|Hesekiel, 44 Kapitlet|
+26_45|Hesekiel, 45 Kapitlet|
+26_46|Hesekiel, 46 Kapitlet|
+26_47|Hesekiel, 47 Kapitlet|
+26_48|Hesekiel, 48 Kapitlet|
+#
+27_01|Daniel, 1 Kapitlet|
+27_02|Daniel, 2 Kapitlet|
+27_03|Daniel, 3 Kapitlet|
+27_04|Daniel, 4 Kapitlet|
+27_05|Daniel, 5 Kapitlet|
+27_06|Daniel, 6 Kapitlet|
+27_07|Daniel, 7 Kapitlet|
+27_08|Daniel, 8 Kapitlet|
+27_09|Daniel, 9 Kapitlet|
+27_10|Daniel, 10 Kapitlet|
+27_11|Daniel, 11 Kapitlet|
+27_12|Daniel, 12 Kapitlet|
+#
+28_01|Hosea, 1 Kapitlet|
+28_02|Hosea, 2 Kapitlet|
+28_03|Hosea, 3 Kapitlet|
+28_04|Hosea, 4 Kapitlet|
+28_05|Hosea, 5 Kapitlet|
+28_06|Hosea, 6 Kapitlet|
+28_07|Hosea, 7 Kapitlet|
+28_08|Hosea, 8 Kapitlet|
+28_09|Hosea, 9 Kapitlet|
+28_10|Hosea, 10 Kapitlet|
+28_11|Hosea, 11 Kapitlet|
+28_12|Hosea, 12 Kapitlet|
+28_13|Hosea, 13 Kapitlet|
+28_14|Hosea, 14 Kapitlet|
+#
+29_01|Joel, 1 Kapitlet|
+29_02|Joel, 2 Kapitlet|
+29_03|Joel, 3 Kapitlet|
+#
+30_01|Amos, 1 Kapitlet|
+30_02|Amos, 2 Kapitlet|
+30_03|Amos, 3 Kapitlet|
+30_04|Amos, 4 Kapitlet|
+30_05|Amos, 5 Kapitlet|
+30_06|Amos, 6 Kapitlet|
+30_07|Amos, 7 Kapitlet|
+30_08|Amos, 8 Kapitlet|
+30_09|Amos, 9 Kapitlet|
+31|Obadja|
+#
+32_01|Jona, 1 Kapitlet|
+32_02|Jona, 2 Kapitlet|
+32_03|Jona, 3 Kapitlet|
+32_04|Jona, 4 Kapitlet|
+#
+33_01|Mika, 1 Kapitlet|
+33_02|Mika, 2 Kapitlet|
+33_03|Mika, 3 Kapitlet|
+33_04|Mika, 4 Kapitlet|
+33_05|Mika, 5 Kapitlet|
+33_06|Mika, 6 Kapitlet|
+33_07|Mika, 7 Kapitlet|
+#
+34_01|Nahum, 1 Kapitlet|
+34_02|Nahum, 2 Kapitlet|
+34_03|Nahum, 3 Kapitlet|
+#
+35_01|Habackuk, 1 Kapitlet|
+35_02|Habackuk, 2 Kapitlet|
+35_03|Habackuk, 3 Kapitlet|
+#
+36_01|Sefanja, 1 Kapitlet|
+36_02|Sefanja, 2 Kapitlet|
+36_03|Sefanja, 3 Kapitlet|
+#
+37_01|Haggai, 1 Kapitlet|
+37_02|Haggai, 2 Kapitlet|
+#
+38_01|Sakarja, 1 Kapitlet|
+38_02|Sakarja, 2 Kapitlet|
+38_03|Sakarja, 3 Kapitlet|
+38_04|Sakarja, 4 Kapitlet|
+38_05|Sakarja, 5 Kapitlet|
+38_06|Sakarja, 6 Kapitlet|
+38_07|Sakarja, 7 Kapitlet|
+38_08|Sakarja, 8 Kapitlet|
+38_09|Sakarja, 9 Kapitlet|
+38_10|Sakarja, 10 Kapitlet|
+38_11|Sakarja, 11 Kapitlet|
+38_12|Sakarja, 12 Kapitlet|
+38_13|Sakarja, 13 Kapitlet|
+38_14|Sakarja, 14 Kapitlet|
+#
+39_01|Malaki, 1 Kapitlet|
+39_02|Malaki, 2 Kapitlet|
+39_03|Malaki, 3 Kapitlet|
+39_04|Malaki, 4 Kapitlet|
+#
+|<h2>Nya testamentet</h2>|
+#
+#
+40_01|Evangelium enligt Matteus, 1 Kapitlet|
+40_02|Evangelium enligt Matteus, 2 Kapitlet|
+40_03|Evangelium enligt Matteus, 3 Kapitlet|
+40_04|Evangelium enligt Matteus, 4 Kapitlet|
+40_05|Evangelium enligt Matteus, 5 Kapitlet|
+40_06|Evangelium enligt Matteus, 6 Kapitlet|
+40_07|Evangelium enligt Matteus, 7 Kapitlet|
+40_08|Evangelium enligt Matteus, 8 Kapitlet|
+40_09|Evangelium enligt Matteus, 9 Kapitlet|
+40_10|Evangelium enligt Matteus, 10 Kapitlet|
+40_11|Evangelium enligt Matteus, 11 Kapitlet|
+40_12|Evangelium enligt Matteus, 12 Kapitlet|
+40_13|Evangelium enligt Matteus, 13 Kapitlet|
+40_14|Evangelium enligt Matteus, 14 Kapitlet|
+40_15|Evangelium enligt Matteus, 15 Kapitlet|
+40_16|Evangelium enligt Matteus, 16 Kapitlet|
+40_17|Evangelium enligt Matteus, 17 Kapitlet|
+40_18|Evangelium enligt Matteus, 18 Kapitlet|
+40_19|Evangelium enligt Matteus, 19 Kapitlet|
+40_20|Evangelium enligt Matteus, 20 Kapitlet|
+40_21|Evangelium enligt Matteus, 21 Kapitlet|
+40_22|Evangelium enligt Matteus, 22 Kapitlet|
+40_23|Evangelium enligt Matteus, 23 Kapitlet|
+40_24|Evangelium enligt Matteus, 24 Kapitlet|
+40_25|Evangelium enligt Matteus, 25 Kapitlet|
+40_26|Evangelium enligt Matteus, 26 Kapitlet|
+40_27|Evangelium enligt Matteus, 27 Kapitlet|
+40_28|Evangelium enligt Matteus, 28 Kapitlet|
+#
+41_01|Evangelium enligt Markus, 1 Kapitlet|
+41_02|Evangelium enligt Markus, 2 Kapitlet|
+41_03|Evangelium enligt Markus, 3 Kapitlet|
+41_04|Evangelium enligt Markus, 4 Kapitlet|
+41_05|Evangelium enligt Markus, 5 Kapitlet|
+41_06|Evangelium enligt Markus, 6 Kapitlet|
+41_07|Evangelium enligt Markus, 7 Kapitlet|
+41_08|Evangelium enligt Markus, 8 Kapitlet|
+41_09|Evangelium enligt Markus, 9 Kapitlet|
+41_10|Evangelium enligt Markus, 10 Kapitlet|
+41_11|Evangelium enligt Markus, 11 Kapitlet|
+41_12|Evangelium enligt Markus, 12 Kapitlet|
+41_13|Evangelium enligt Markus, 13 Kapitlet|
+41_14|Evangelium enligt Markus, 14 Kapitlet|
+41_15|Evangelium enligt Markus, 15 Kapitlet|
+41_16|Evangelium enligt Markus, 16 Kapitlet|
+#
+42_01|Evangelium enligt Lukas, 1 Kapitlet|
+42_02|Evangelium enligt Lukas, 2 Kapitlet|
+42_03|Evangelium enligt Lukas, 3 Kapitlet|
+42_04|Evangelium enligt Lukas, 4 Kapitlet|
+42_05|Evangelium enligt Lukas, 5 Kapitlet|
+42_06|Evangelium enligt Lukas, 6 Kapitlet|
+42_07|Evangelium enligt Lukas, 7 Kapitlet|
+42_08|Evangelium enligt Lukas, 8 Kapitlet|
+42_09|Evangelium enligt Lukas, 9 Kapitlet|
+42_10|Evangelium enligt Lukas, 10 Kapitlet|
+42_11|Evangelium enligt Lukas, 11 Kapitlet|
+42_12|Evangelium enligt Lukas, 12 Kapitlet|
+42_13|Evangelium enligt Lukas, 13 Kapitlet|
+42_14|Evangelium enligt Lukas, 14 Kapitlet|
+42_15|Evangelium enligt Lukas, 15 Kapitlet|
+42_16|Evangelium enligt Lukas, 16 Kapitlet|
+42_17|Evangelium enligt Lukas, 17 Kapitlet|
+42_18|Evangelium enligt Lukas, 18 Kapitlet|
+42_19|Evangelium enligt Lukas, 19 Kapitlet|
+42_20|Evangelium enligt Lukas, 20 Kapitlet|
+42_21|Evangelium enligt Lukas, 21 Kapitlet|
+42_22|Evangelium enligt Lukas, 22 Kapitlet|
+42_23|Evangelium enligt Lukas, 23 Kapitlet|
+42_24|Evangelium enligt Lukas, 24 Kapitlet|
+#
+43_01|Evangelium enligt Johannes, 1 Kapitlet|
+43_02|Evangelium enligt Johannes, 2 Kapitlet|
+43_03|Evangelium enligt Johannes, 3 Kapitlet|
+43_04|Evangelium enligt Johannes, 4 Kapitlet|
+43_05|Evangelium enligt Johannes, 5 Kapitlet|
+43_06|Evangelium enligt Johannes, 6 Kapitlet|
+43_07|Evangelium enligt Johannes, 7 Kapitlet|
+43_08|Evangelium enligt Johannes, 8 Kapitlet|
+43_09|Evangelium enligt Johannes, 9 Kapitlet|
+43_10|Evangelium enligt Johannes, 10 Kapitlet|
+43_11|Evangelium enligt Johannes, 11 Kapitlet|
+43_12|Evangelium enligt Johannes, 12 Kapitlet|
+43_13|Evangelium enligt Johannes, 13 Kapitlet|
+43_14|Evangelium enligt Johannes, 14 Kapitlet|
+43_15|Evangelium enligt Johannes, 15 Kapitlet|
+43_16|Evangelium enligt Johannes, 16 Kapitlet|
+43_17|Evangelium enligt Johannes, 17 Kapitlet|
+43_18|Evangelium enligt Johannes, 18 Kapitlet|
+43_19|Evangelium enligt Johannes, 19 Kapitlet|
+43_20|Evangelium enligt Johannes, 20 Kapitlet|
+43_21|Evangelium enligt Johannes, 21 Kapitlet|
+#
+44_01|Apostlagärningarna, 1 Kapitlet|
+44_02|Apostlagärningarna, 2 Kapitlet|
+44_03|Apostlagärningarna, 3 Kapitlet|
+44_04|Apostlagärningarna, 4 Kapitlet|
+44_05|Apostlagärningarna, 5 Kapitlet|
+44_06|Apostlagärningarna, 6 Kapitlet|
+44_07|Apostlagärningarna, 7 Kapitlet|
+44_08|Apostlagärningarna, 8 Kapitlet|
+44_09|Apostlagärningarna, 9 Kapitlet|
+44_10|Apostlagärningarna, 10 Kapitlet|
+44_11|Apostlagärningarna, 11 Kapitlet|
+44_12|Apostlagärningarna, 12 Kapitlet|
+44_13|Apostlagärningarna, 13 Kapitlet|
+44_14|Apostlagärningarna, 14 Kapitlet|
+44_15|Apostlagärningarna, 15 Kapitlet|
+44_16|Apostlagärningarna, 16 Kapitlet|
+44_17|Apostlagärningarna, 17 Kapitlet|
+44_18|Apostlagärningarna, 18 Kapitlet|
+44_19|Apostlagärningarna, 19 Kapitlet|
+44_20|Apostlagärningarna, 20 Kapitlet|
+44_21|Apostlagärningarna, 21 Kapitlet|
+44_22|Apostlagärningarna, 22 Kapitlet|
+44_23|Apostlagärningarna, 23 Kapitlet|
+44_24|Apostlagärningarna, 24 Kapitlet|
+44_25|Apostlagärningarna, 25 Kapitlet|
+44_26|Apostlagärningarna, 26 Kapitlet|
+44_27|Apostlagärningarna, 27 Kapitlet|
+44_28|Apostlagärningarna, 28 Kapitlet|
+#
+45_01|Paulus' brev till romarna, 1 Kapitlet|
+45_02|Paulus' brev till romarna, 2 Kapitlet|
+45_03|Paulus' brev till romarna, 3 Kapitlet|
+45_04|Paulus' brev till romarna, 4 Kapitlet|
+45_05|Paulus' brev till romarna, 5 Kapitlet|
+45_06|Paulus' brev till romarna, 6 Kapitlet|
+45_07|Paulus' brev till romarna, 7 Kapitlet|
+45_08|Paulus' brev till romarna, 8 Kapitlet|
+45_09|Paulus' brev till romarna, 9 Kapitlet|
+45_10|Paulus' brev till romarna, 10 Kapitlet|
+45_11|Paulus' brev till romarna, 11 Kapitlet|
+45_12|Paulus' brev till romarna, 12 Kapitlet|
+45_13|Paulus' brev till romarna, 13 Kapitlet|
+45_14|Paulus' brev till romarna, 14 Kapitlet|
+45_15|Paulus' brev till romarna, 15 Kapitlet|
+45_16|Paulus' brev till romarna, 16 Kapitlet|
+#
+46_01|Paulus' första brev till korintierna, 1 Kapitlet|
+46_02|Paulus' första brev till korintierna, 2 Kapitlet|
+46_03|Paulus' första brev till korintierna, 3 Kapitlet|
+46_04|Paulus' första brev till korintierna, 4 Kapitlet|
+46_05|Paulus' första brev till korintierna, 5 Kapitlet|
+46_06|Paulus' första brev till korintierna, 6 Kapitlet|
+46_07|Paulus' första brev till korintierna, 7 Kapitlet|
+46_08|Paulus' första brev till korintierna, 8 Kapitlet|
+46_09|Paulus' första brev till korintierna, 9 Kapitlet|
+46_10|Paulus' första brev till korintierna, 10 Kapitlet|
+46_11|Paulus' första brev till korintierna, 11 Kapitlet|
+46_12|Paulus' första brev till korintierna, 12 Kapitlet|
+46_13|Paulus' första brev till korintierna, 13 Kapitlet|
+46_14|Paulus' första brev till korintierna, 14 Kapitlet|
+46_15|Paulus' första brev till korintierna, 15 Kapitlet|
+46_16|Paulus' första brev till korintierna, 16 Kapitlet|
+#
+47_01|Paulus' andra brev till korintierna, 1 Kapitlet|
+47_02|Paulus' andra brev till korintierna, 2 Kapitlet|
+47_03|Paulus' andra brev till korintierna, 3 Kapitlet|
+47_04|Paulus' andra brev till korintierna, 4 Kapitlet|
+47_05|Paulus' andra brev till korintierna, 5 Kapitlet|
+47_06|Paulus' andra brev till korintierna, 6 Kapitlet|
+47_07|Paulus' andra brev till korintierna, 7 Kapitlet|
+47_08|Paulus' andra brev till korintierna, 8 Kapitlet|
+47_09|Paulus' andra brev till korintierna, 9 Kapitlet|
+47_10|Paulus' andra brev till korintierna, 10 Kapitlet|
+47_11|Paulus' andra brev till korintierna, 11 Kapitlet|
+47_12|Paulus' andra brev till korintierna, 12 Kapitlet|
+47_13|Paulus' andra brev till korintierna, 13 Kapitlet|
+#
+48_01|Paulus' brev till galaterna, 1 Kapitlet|
+48_02|Paulus' brev till galaterna, 2 Kapitlet|
+48_03|Paulus' brev till galaterna, 3 Kapitlet|
+48_04|Paulus' brev till galaterna, 4 Kapitlet|
+48_05|Paulus' brev till galaterna, 5 Kapitlet|
+48_06|Paulus' brev till galaterna, 6 Kapitlet|
+#
+49_01|Paulus' brev till efesierna, 1 Kapitlet|
+49_02|Paulus' brev till efesierna, 2 Kapitlet|
+49_03|Paulus' brev till efesierna, 3 Kapitlet|
+49_04|Paulus' brev till efesierna, 4 Kapitlet|
+49_05|Paulus' brev till efesierna, 5 Kapitlet|
+49_06|Paulus' brev till efesierna, 6 Kapitlet|
+#
+50_01|Paulus' brev till filipperna, 1 Kapitlet|
+50_02|Paulus' brev till filipperna, 2 Kapitlet|
+50_03|Paulus' brev till filipperna, 3 Kapitlet|
+50_04|Paulus' brev till filipperna, 4 Kapitlet|
+#
+51_01|Paulus' brev till kolosserna, 1 Kapitlet|
+51_02|Paulus' brev till kolosserna, 2 Kapitlet|
+51_03|Paulus' brev till kolosserna, 3 Kapitlet|
+51_04|Paulus' brev till kolosserna, 4 Kapitlet|
+#
+52_01|Paulus' första brev till tessalonikerna, 1 Kapitlet|
+52_02|Paulus' första brev till tessalonikerna, 2 Kapitlet|
+52_03|Paulus' första brev till tessalonikerna, 3 Kapitlet|
+52_04|Paulus' första brev till tessalonikerna, 4 Kapitlet|
+52_05|Paulus' första brev till tessalonikerna, 5 Kapitlet|
+#
+53_01|Paulus' andra brev till tessalonikerna, 1 Kapitlet|
+53_02|Paulus' andra brev till tessalonikerna, 2 Kapitlet|
+53_03|Paulus' andra brev till tessalonikerna, 3 Kapitlet|
+#
+54_01|Paulus' första brev till Timoteus, 1 Kapitlet|
+54_02|Paulus' första brev till Timoteus, 2 Kapitlet|
+54_03|Paulus' första brev till Timoteus, 3 Kapitlet|
+54_04|Paulus' första brev till Timoteus, 4 Kapitlet|
+54_05|Paulus' första brev till Timoteus, 5 Kapitlet|
+54_06|Paulus' första brev till Timoteus, 6 Kapitlet|
+#
+55_01|Paulus' andra brev till Timoteus, 1 Kapitlet|
+55_02|Paulus' andra brev till Timoteus, 2 Kapitlet|
+55_03|Paulus' andra brev till Timoteus, 3 Kapitlet|
+55_04|Paulus' andra brev till Timoteus, 4 Kapitlet|
+#
+56_01|Paulus' brev till Titus, 1 Kapitlet|
+56_02|Paulus' brev till Titus, 2 Kapitlet|
+56_03|Paulus' brev till Titus, 3 Kapitlet|
+57|Paulus' brev till Filemon|
+#
+58_01|Brevet till hebréerna, 1 Kapitlet|
+58_02|Brevet till hebréerna, 2 Kapitlet|
+58_03|Brevet till hebréerna, 3 Kapitlet|
+58_04|Brevet till hebréerna, 4 Kapitlet|
+58_05|Brevet till hebréerna, 5 Kapitlet|
+58_06|Brevet till hebréerna, 6 Kapitlet|
+58_07|Brevet till hebréerna, 7 Kapitlet|
+58_08|Brevet till hebréerna, 8 Kapitlet|
+58_09|Brevet till hebréerna, 9 Kapitlet|
+58_10|Brevet till hebréerna, 10 Kapitlet|
+58_11|Brevet till hebréerna, 11 Kapitlet|
+58_12|Brevet till hebréerna, 12 Kapitlet|
+58_13|Brevet till hebréerna, 13 Kapitlet|
+#
+59_01|Petrus' första brev, 1 Kapitlet|
+59_02|Petrus' första brev, 2 Kapitlet|
+59_03|Petrus' första brev, 3 Kapitlet|
+59_04|Petrus' första brev, 4 Kapitlet|
+59_05|Petrus' första brev, 5 Kapitlet|
+#
+60_01|Petrus' andra brev, 1 Kapitlet|
+60_02|Petrus' andra brev, 2 Kapitlet|
+60_03|Petrus' andra brev, 3 Kapitlet|
+#
+61_01|Johannes' första brev, 1 Kapitlet|
+61_02|Johannes' första brev, 2 Kapitlet|
+61_03|Johannes' första brev, 3 Kapitlet|
+61_04|Johannes' första brev, 4 Kapitlet|
+61_05|Johannes' första brev, 5 Kapitlet|
+62|Johannes' andra brev|
+63|Johannes' tredje brev|
+#
+64_01|Jakobs' brev, 1 Kapitlet|
+64_02|Jakobs' brev, 2 Kapitlet|
+64_03|Jakobs' brev, 3 Kapitlet|
+64_04|Jakobs' brev, 4 Kapitlet|
+64_05|Jakobs' brev, 5 Kapitlet|
+65|Judas' brev|
+#
+66_01|Johannes' uppenbarelse, 1 Kapitlet|
+66_02|Johannes' uppenbarelse, 2 Kapitlet|
+66_03|Johannes' uppenbarelse, 3 Kapitlet|
+66_04|Johannes' uppenbarelse, 4 Kapitlet|
+66_05|Johannes' uppenbarelse, 5 Kapitlet|
+66_06|Johannes' uppenbarelse, 6 Kapitlet|
+66_07|Johannes' uppenbarelse, 7 Kapitlet|
+66_08|Johannes' uppenbarelse, 8 Kapitlet|
+66_09|Johannes' uppenbarelse, 9 Kapitlet|
+66_10|Johannes' uppenbarelse, 10 Kapitlet|
+66_11|Johannes' uppenbarelse, 11 Kapitlet|
+66_12|Johannes' uppenbarelse, 12 Kapitlet|
+66_13|Johannes' uppenbarelse, 13 Kapitlet|
+66_14|Johannes' uppenbarelse, 14 Kapitlet|
+66_15|Johannes' uppenbarelse, 15 Kapitlet|
+66_16|Johannes' uppenbarelse, 16 Kapitlet|
+66_17|Johannes' uppenbarelse, 17 Kapitlet|
+66_18|Johannes' uppenbarelse, 18 Kapitlet|
+66_19|Johannes' uppenbarelse, 19 Kapitlet|
+66_20|Johannes' uppenbarelse, 20 Kapitlet|
+66_21|Johannes' uppenbarelse, 21 Kapitlet|
+66_22|Johannes' uppenbarelse, 22 Kapitlet|
+#
+# THE END
+#

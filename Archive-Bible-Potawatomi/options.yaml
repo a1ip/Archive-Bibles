@@ -1,0 +1,40 @@
+entry:
+  - 
+   key: translationId
+   value: POTL44
+  - 
+   key: versificationScheme
+   value: default
+  - 
+   key: script
+   value: Latn
+  - 
+   key: shortTitle
+   value: "1844 Potawatomi Bible"
+  - 
+   key: vernacularTitle
+   value: "1844 Potawatomi Bible"
+  - 
+   key: numberSystem
+   value: Default
+  - 
+   key: languageId
+   value: POT
+  - 
+   key: languageNameInEnglish
+   value: "Potawatomi"
+  - 
+   key: languageName
+   value: "Neshnabémwen"
+  - 
+   key: copyrightOwner
+   value: "Public Domain"
+  - 
+   key: copyrightYears
+   value: 1844
+  -
+   key: publicDomain
+   value: True
+  -
+   key: contentCreator
+   value: "Johnston Lykins"

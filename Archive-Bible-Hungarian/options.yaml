@@ -1,0 +1,40 @@
+entry:
+  - 
+   key: translationId
+   value: HUNVIZ
+  - 
+   key: versificationScheme
+   value: default
+  - 
+   key: script
+   value: Latn
+  - 
+   key: shortTitle
+   value: "1590 Vizsoly Bible"
+  - 
+   key: vernacularTitle
+   value: "Károlyi Biblia"
+  - 
+   key: numberSystem
+   value: Default
+  - 
+   key: languageId
+   value: HUN
+  - 
+   key: languageNameInEnglish
+   value: "Hungarian"
+  - 
+   key: languageName
+   value: "Magyar Nyelv"
+  - 
+   key: copyrightOwner
+   value: "Public Domain"
+  - 
+   key: copyrightYears
+   value: 1590
+  -
+   key: publicDomain
+   value: True
+  -
+   key: contentCreator
+   value: "Gáspár Károli"

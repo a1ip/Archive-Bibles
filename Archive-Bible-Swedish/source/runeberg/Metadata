@@ -1,0 +1,18 @@
+# bibeln/Metadata
+#
+CHARSET: utf-8
+TITLEKEY: bibeln
+D_URN: URN:NBN:se-d1998114
+TITLE: Bibeln
+TYPE: book
+LANGUAGE: sv
+ORIGINAL_LANGUAGE: he el
+THEME: christ
+PUBLISHING_YEAR: 1917
+OUR_PUBLISHING_DATE: 1995-06-11
+MARC: libris:9197270
+# Libris-posten avser Projekt Runebergs utgåva
+#
+# TIFFSCALE moved from Makefile 2006-01-13 21:48 by
+# ~unicorn/script/move_tiffscale_to_metadata.pl
+TIFFSCALE: 5

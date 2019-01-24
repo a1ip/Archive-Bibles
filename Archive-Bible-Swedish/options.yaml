@@ -1,0 +1,49 @@
+entry:
+  - 
+   key: translationId
+   value: SWES17
+  - 
+   key: versificationScheme
+   value: default
+  - 
+   key: script
+   value: Latn
+  - 
+   key: shortTitle
+   value: "1917 års bibelöversättning"
+  - 
+   key: vernacularTitle
+   value: "Bibeln eller Den Heliga Skrift innehållande Nya Testamentets Kanonista Böcker"
+  - 
+   key: EnglishDescription
+   value: "1917 Swedish Bible"
+  - 
+   key: numberSystem
+   value: Default
+  - 
+   key: languageId
+   value: SWE
+  - 
+   key: languageNameInEnglish
+   value: "Swedish"
+  - 
+   key: languageName
+   value: Svenska
+  - 
+   key: copyrightOwner
+   value: "Public Domain"
+  - 
+   key: homeDomain
+   value: "swedish.dbs.org"
+  - 
+   key: copyrightYears
+   value: 1917
+  -
+   key: publicDomain
+   value: True
+  -
+   key: contentCreator
+   value: "Svenska Missionsförbundets Förlag"
+  - 
+   key: countryCode
+   value: SE
