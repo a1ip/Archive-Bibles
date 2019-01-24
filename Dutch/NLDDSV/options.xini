@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>NLD</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>NLDDSV</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>The Dutch States Bible</value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>Dutch Reformed Church</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>DRC</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1637</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Johannes Bogerman, Willem Baudartius, Gerson Bucerus, Jakobus Rolandus, Festus Hommius, and Antonius Walaeus</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+</ini>
