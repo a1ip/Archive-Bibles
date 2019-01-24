@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>ALS</value>
+  </entry>
+  <entry>
+    <key>fcbhId</key>
+    <value>ALSK84</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>ALSK84</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>Kristoforidhi Translation</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>Libra të Dhiatës së Vjetër të përkthyera në dialektin Tosk nga Konstandin Kristoforidhi në 1884</value>
+  </entry>
+  <entry>
+    <key>EnglishDescription</key>
+    <value>Kostandin Kristoforidhi translated the New Testament into Albania's two dialects as well as portions of the Old Testament (Genesis, Exodus, Deuteronomy, The Psalms, The Proverbs, and Isaiah). His work was also supported by British and Foreign Bible Society.</value>
+  </entry>
+  <entry>
+    <key>lwcDescription</key>
+    <value>Libra të Dhiatës së Vjetër të përkthyera në dialektin tosk nga Konstandin Kristoforidhi në 1884 (transliterim nga gërmat greke në latine)</value>
+  </entry> 
+  <entry>
+    <key>copyrightOwner</key>
+    <value>Interconfessional Bible Society of Albania</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>PUB</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1884</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Kostandin Kristoforidhi</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>allRightsReserved</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>silentCopyright</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>justified</key>
+    <value>False</value>
+  </entry>
+</ini>
