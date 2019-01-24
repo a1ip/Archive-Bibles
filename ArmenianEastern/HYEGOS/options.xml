@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>HYE</value>
+  </entry>
+  <entry>
+    <key>fcbhId</key>
+    <value>HYEGOS</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>HYEGOS</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>Genesis, Exodus, and the Gospels in Eastern Armenian</value>
+  </entry>
+  <entry>
+    <key>justified</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>columnCount</key>
+    <value>2</value>
+  </entry>
+</ini>
