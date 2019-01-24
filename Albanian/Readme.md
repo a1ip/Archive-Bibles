@@ -25,8 +25,3 @@
 	If the text is processed by aletheia with no errors
 	- [ ] Fill out options.yaml
 	- [ ] book cover created
-
-
-### Notes
-
-Interconfessional Bible Society of Albania lays claim to the publishing rights according to this Youversion link (https://www.bible.com/en-GB/versions/1822) but our source text doesn't match the text listed here; not only that, we have many more books than this link shows. It stands to reason that they are different translations and have been mislabeled somewhere along the way in Youversion's system.
