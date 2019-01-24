@@ -1,0 +1,486 @@
+\id ROM
+\ide UTF-8
+\sts 1
+\h ROMANOS
+
+
+\c 1
+\p
+\v 1 Paulus servus Christi Iesu, vo catus apostolus, segregatus in evangelium Dei,
+\v 2 quod ante promiserat per prophetas suos in Scripturis sanctis
+\v 3 de Filio suo, qui factus est ex semine David secundum carnem,
+\v 4 qui constitutus est Filius Dei in virtute secundum Spiritum sanctificationis ex resurrectione mortuorum, Iesu Christo Domino nostro,
+\v 5 per quem accepimus gratiam et apostolatum ad oboeditionem fidei in omnibus gentibus pro nomine eius,
+\v 6 in quibus estis et vos vocati Iesu Christi,
+\v 7 omnibus, qui sunt Romae dilectis Dei, vocatis sanctis: gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.
+\v 8 Primum quidem gratias ago Deo meo per Iesum Christum pro omnibus vobis, quia fides vestra annuntiatur in universo mundo;
+\v 9 testis enim mihi est Deus, cui servio in spiritu meo in evangelio Filii eius, quomodo sine intermissione memoriam vestri faciam
+\v 10 semper in orationibus meis obsecrans, si quo modo tandem aliquando prosperum iter habeam in voluntate Dei veniendi ad vos.
+\v 11 Desidero enim videre vos, ut aliquid impertiar gratiae vobis spiritalis ad confirmandos vos,
+\v 12 id est una vobiscum consolari per eam, quae invicem est, fidem vestram atque meam.
+\v 13 Nolo autem vos ignorare, fratres, quia saepe proposui venire ad vos et prohibitus sum usque adhuc, ut aliquem fructum habeam et in vobis, sicut et in ceteris gentibus.
+\v 14 Graecis ac barbaris, sapientibus et insipientibus debitor sum.
+\v 15 Itaque, quod in me est, promptus sum et vobis, qui Romae estis, evangelizare.
+\v 16 Non enim erubesco evangelium: virtus enim Dei est in salutem omni credenti, Iudaeo primum et Graeco.
+\v 17 Iustitia enim Dei in eo revelatur ex fide in fidem, sicut scriptum est: “ Iustus autem ex fide vivet ”.
+\v 18 Revelatur enim ira Dei de caelo super omnem impietatem et iniustitiam hominum, qui veritatem in iniustitia detinent,
+\v 19 quia, quod noscibile est Dei, manifestum est in illis; Deus enim illis manifestavit.
+\v 20 Invisibilia enim ipsius a creatura mundi per ea, quae facta sunt, intellecta conspiciuntur, sempiterna eius et virtus et divinitas, ut sint inexcusabiles;
+\v 21 quia, cum cognovissent Deum, non sicut Deum glorificaverunt aut gratias egerunt, sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum.
+\v 22 Dicentes se esse sapientes, stulti facti sunt,
+\v 23 et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis et volucrum et quadrupedum et serpentium.
+\v 24 Propter quod tradidit illos Deus in concupiscentiis cordis eorum in immunditiam, ut ignominia afficiant corpora sua in semetipsis,
+\v 25 qui commutaverunt veritatem Dei in mendacio et coluerunt et servierunt creaturae potius quam Creatori, qui est benedictus in saecula. Amen.
+\v 26 Propterea tradidit illos Deus in passiones ignominiae. Nam et feminae eorum immutaverunt naturalem usum in eum, qui est contra naturam;
+\v 27 similiter et masculi, relicto naturali usu feminae, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes et mercedem, quam oportuit, erroris sui in semetipsis recipientes.
+\v 28 Et sicut non probaverunt Deum habere in notitia, tradidit eos Deus in reprobum sensum, ut faciant, quae non conveniunt,
+\v 29 repletos omni iniquitate, malitia, avaritia, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate, susurrones,
+\v 30 detractores, Deo odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non oboedientes,
+\v 31 insipientes, incompositos, sine affectione, sine misericordia.
+\v 32 Qui cum iudicium Dei cognovissent, quoniam qui talia agunt, digni sunt morte, non solum ea faciunt, sed et consentiunt facientibus.
+
+\c 2
+\p
+\v 1 Propter quod inexcusabilis es, o homo omnis, qui iudicas. In quo enim iudicas alterum, teipsum condemnas; eadem enim agis, qui iudicas.
+\v 2 Scimus enim quoniam iudicium Dei est secundum veritatem in eos, qui talia agunt.
+\v 3 Existimas autem hoc, o homo, qui iudicas eos, qui talia agunt, et facis ea, quia tu effugies iudicium Dei?
+\v 4 An divitias benignitatis eius et patientiae et longanimitatis contemnis, ignorans quoniam benignitas Dei ad paenitentiam te adducit?
+\v 5 Secundum duritiam autem tuam et impaenitens cor thesaurizas tibi iram in die irae et revelationis iusti iudicii Dei,
+\v 6 qui reddet unicuique secundum opera eius:
+\v 7 his quidem, qui secundum patientiam boni operis gloriam et honorem et incorruptionem quaerunt, vitam aeternam;
+\v 8 his autem, qui ex contentione et non oboediunt veritati, oboediunt autem iniquitati, ira et indignatio.
+\v 9 Tribulatio et angustia in omnem animam hominis operantis malum, Iudaei primum et Graeci;
+\v 10 gloria autem et honor et pax omni operanti bonum, Iudaeo primum et Graeco.
+\v 11 Non est enim personarum acceptio apud Deum!
+\v 12 Quicumque enim sine lege peccaverunt, sine lege et peribunt; et, quicumque in lege peccaverunt, per legem iudicabuntur.
+\v 13 Non enim auditores legis iusti sunt apud Deum, sed factores legis iustificabuntur.
+\v 14 Cum enim gentes, quae legem non habent, naturaliter, quae legis sunt, faciunt, eiusmodi legem non habentes ipsi sibi sunt lex;
+\v 15 qui ostendunt opus legis scriptum in cordibus suis, testimonium simul reddente illis conscientia ipsorum, et inter se invicem cogitationibus accusantibus aut etiam defendentibus,
+\v 16 in die, cum iudicabit Deus occulta hominum secundum evangelium meum per Christum Iesum.
+\v 17 Si autem tu Iudaeus cognominaris et requiescis in lege et gloriaris in Deo,
+\v 18 et nosti Voluntatem et discernis potiora instructus per legem,
+\v 19 et confidis teipsum ducem esse caecorum, lumen eorum, qui in tenebris sunt,
+\v 20 eruditorem insipientium, magistrum infantium, habentem formam scientiae et veritatis in lege.
+\v 21 Qui ergo alium doces, teipsum non doces? Qui praedicas non furandum, furaris?
+\v 22 Qui dicis non moechandum, moecharis? Qui abominaris idola, templa spolias?
+\v 23 Qui in lege gloriaris, per praevaricationem legis Deum inhonoras?
+\v 24 “ Nomen enim Dei propter vos blasphematur inter gentes ”, sicut scriptum est.
+\v 25 Circumcisio quidem prodest, si legem observes; si autem praevaricator legis sis, circumcisio tua praeputium facta est.
+\v 26 Si igitur praeputium iustitias legis custodiat, nonne praeputium illius in circumcisionem reputabitur?
+\v 27 Et iudicabit, quod ex natura est praeputium legem consummans, te, qui per litteram et circumcisionem praevaricator legis es.
+\v 28 Non enim qui manifesto Iudaeus est, neque quae manifesto in carne circumcisio,
+\v 29 sed qui in abscondito Iudaeus est, et circumcisio cordis in spiritu non littera, cuius laus non ex hominibus sed ex Deo est.
+
+\c 3
+\p
+\v 1 Quid ergo amplius est Iudaeo, aut quae utilitas circumcisionis?
+\v 2 Multum per omnem modum. Primum quidem, quia credita sunt illis eloquia Dei.
+\v 3 Quid enim, si quidam non crediderunt? Numquid incredulitas illorum fidem Dei evacuabit?
+\v 4 Absit! Exstet autem Deus verax, omnis autem homo mendax, sicut scriptum est: “ Ut iustificeris in sermonibus tuis et vincas cum iudicaris ”.
+\v 5 Si autem iniustitia nostra iustitiam Dei commendat, quid dicemus? Numquid iniustus Deus, qui infert iram? Secundum hominem dico.
+\v 6 Absit! Alioquin quomodo iudicabit Deus mundum?
+\v 7 Si enim veritas Dei in meo mendacio abundavit in gloriam ipsius, quid adhuc et ego tamquam peccator iudicor?
+\v 8 Et non, sicut blasphemamur, et sicut aiunt quidam nos dicere: “ Faciamus mala, ut veniant bona ”? Quorum damnatio iusta est.
+\v 9 Quid igitur? Praecellimus eos? Nequaquam! Antea enim causati sumus Iudaeos et Graecos omnes sub peccato esse,
+\v 10 sicut scriptum est: “ Non est iustus quisquam,
+\v 11 non est intellegens, non est requirens Deum.
+\v 12 Omnes declinaverunt, simul inutiles facti sunt; non est qui faciat bonum, non est usque ad unum.
+\v 13 Sepulcrum patens est guttur eorum, linguis suis dolose agebant, venenum aspidum sub labiis eorum,
+\v 14 quorum os maledictione et amaritudine plenum est;
+\v 15 veloces pedes eorum ad effundendum sanguinem,
+\v 16 contritio et infelicitas in viis eorum,
+\v 17 et viam pacis non cognoverunt.
+\v 18 Non est timor Dei ante oculos eorum ”.
+\v 19 Scimus autem quoniam, quaecumque lex loquitur, his, qui in lege sunt, loquitur, ut omne os obstruatur, et obnoxius fiat omnis mundus Deo;
+\v 20 quia ex operibus legis non iustificabitur omnis caro coram illo, per legem enim cognitio peccati.
+\v 21 Nunc autem sine lege iustitia Dei manifestata est, testificata a Lege et Prophetis,
+\v 22 iustitia autem Dei per fidem Iesu Christi, in omnes, qui credunt. Non enim est distinctio:
+\v 23 omnes enim peccaverunt et egent gloria Dei,
+\v 24 iustificati gratis per gratiam ipsius per redemptionem, quae est in Christo Iesu;
+\v 25 quem proposuit Deus propitiatorium per fidem in sanguine ipsius ad ostensionem iustitiae suae, cum praetermisisset praecedentia delicta
+\v 26 in sustentatione Dei, ad ostensionem iustitiae eius in hoc tempore, ut sit ipse iustus et iustificans eum, qui ex fide est Iesu.
+\v 27 Ubi est ergo gloriatio? Exclusa est. Per quam legem? Operum? Non, sed per legem fidei.
+\v 28 Arbitramur enim iustificari hominem per fidem sine operibus legis.
+\v 29 An Iudaeorum Deus tantum? Nonne et gentium? Immo et gentium,
+\v 30 quoniam quidem unus Deus, qui iustificabit circumcisionem ex fide et praeputium per fidem.
+\v 31 Legem ergo destruimus per fidem? Absit, sed legem statuimus.
+
+\c 4
+\p
+\v 1 Quid ergo dicemus invenisse Abraham progenitorem no strum secundum carnem?
+\v 2 Si enim Abraham ex operibus iustificatus est, habet gloriam sed non apud Deum.
+\v 3 Quid enim Scriptura dicit? “ Credidit autem Abraham Deo, et reputatum est illi ad iustitiam ”.
+\v 4 Ei autem, qui operatur, merces non reputatur secundum gratiam sed secundum debitum;
+\v 5 ei vero, qui non operatur, sed credit in eum, qui iustificat impium, reputatur fides eius ad iustitiam,
+\v 6 sicut et David dicit beatitudinem hominis, cui Deus reputat iustitiam sine operibus:
+\v 7 “ Beati, quorum remissae sunt iniquitates, et quorum tecta sunt peccata.
+\v 8 Beatus vir, cui non imputabit Dominus peccatum ”.
+\v 9 Beatitudo ergo haec in circumcisione an etiam in praeputio? Dicimus enim: “ Reputata est Abrahae fides ad iustitiam ”.
+\v 10 Quomodo ergo reputata est? In circumcisione an in praeputio? Non in circumcisione sed in praeputio:
+\v 11 et signum accepit circumcisionis, signaculum iustitiae fidei, quae fuit in praeputio, ut esset pater omnium credentium per praeputium, ut reputetur illis iustitia,
+\v 12 et pater circumcisionis his non tantum, qui ex circumcisione sunt, sed et qui sectantur vestigia eius, quae fuit in praeputio, fidei patris nostri Abrahae.
+\v 13 Non enim per legem promissio Abrahae aut semini eius, ut heres esset mundi, sed per iustitiam fidei;
+\v 14 si enim qui ex lege heredes sunt, exinanita est fides, et abolita est promissio.
+\v 15 Lex enim iram operatur; ubi autem non est lex, nec praevaricatio.
+\v 16 Ideo ex fide, ut secundum gratiam, ut firma sit promissio omni semini, non ei, qui ex lege est solum, sed et ei, qui ex fide est Abrahae — qui est pater omnium nostrum,
+\v 17 sicut scriptum est: “ Patrem multarum gentium posui te ” C, ante Deum, cui credidit, qui vivificat mortuos et vocat ea, quae non sunt, quasi sint;
+\v 18 qui contra spem in spe credidit, ut fieret pater multarum gentium, secundum quod dictum est: “ Sic erit semen tuum ”.
+\v 19 Et non infirmatus fide consideravit corpus suum iam emortuum, cum fere centum annorum esset, et emortuam vulvam Sarae;
+\v 20 in repromissione autem Dei non haesitavit diffidentia, sed confortatus est fide, dans gloriam Deo,
+\v 21 et plenissime sciens quia, quod promisit, potens est et facere.
+\v 22 Ideo et reputatum est illi ad iustitiam.
+\v 23 Non est autem scriptum tantum propter ipsum: reputatum est illi,
+\v 24 sed et propter nos, quibus reputabitur, credentibus in eum, qui suscitavit Iesum Dominum nostrum a mortuis,
+\v 25 qui traditus est propter delicta nostra et suscitatus est propter iustificationem nostram.
+
+\c 5
+\p
+\v 1 Iustificati igitur ex fide, pacem habemus ad Deum per Domi num nostrum Iesum Christum,
+\v 2 per quem et accessum habemus fide in gratiam istam, in qua stamus et gloriamur in spe gloriae Dei.
+\v 3 Non solum autem, sed et gloriamur in tribulationibus, scientes quod tribulatio patientiam operatur,
+\v 4 patientia autem probationem, probatio vero spem;
+\v 5 spes autem non confundit, quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.
+\v 6 Adhuc enim Christus, cum adhuc infirmi essemus, secundum tempus pro impiis mortuus est.
+\v 7 Vix enim pro iusto quis moritur; nam pro bono forsitan quis et audeat mori.
+\v 8 Commendat autem suam caritatem Deus in nos, quoniam, cum adhuc peccatores essemus, Christus pro nobis mortuus est.
+\v 9 Multo igitur magis iustificati nunc in sanguine ipsius, salvi erimus ab ira per ipsum!
+\v 10 Si enim, cum inimici essemus, reconciliati sumus Deo per mortem Filii eius, multo magis reconciliati salvi erimus in vita ipsius;
+\v 11 non solum autem, sed et gloriamur in Deo per Dominum nostrum Iesum Christum, per quem nunc reconciliationem accepimus.
+\v 12 Propterea, sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, eo quod omnes peccaverunt.
+\v 13 Usque ad legem enim peccatum erat in mundo; peccatum autem non imputatur, cum lex non est,
+\v 14 sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudine praevaricationis Adae, qui est figura futuri.
+\v 15 Sed non sicut delictum, ita et donum; si enim unius delicto multi mortui sunt, multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in multos abundavit.
+\v 16 Et non sicut per unum, qui peccavit, ita et donum; nam iudicium ex uno in condemnationem, gratia autem ex multis delictis in iustificationem.
+\v 17 Si enim unius delicto mors regnavit per unum, multo magis, qui abundantiam gratiae et donationis iustitiae accipiunt, in vita regnabunt per unum Iesum Christum.
+\v 18 Igitur sicut per unius delictum in omnes homines in condemnationem, sic et per unius iustitiam in omnes homines in iustificationem vitae;
+\v 19 sicut enim per inoboedientiam unius hominis peccatores constituti sunt multi, ita et per unius oboeditionem iusti constituentur multi.
+\v 20 Lex autem subintravit, ut abundaret delictum; ubi autem abundavit peccatum, superabundavit gratia,
+\v 21 ut sicut regnavit peccatum in morte, ita et gratia regnet per iustitiam in vitam aeternam per Iesum Christum Dominum nostrum.
+
+\c 6
+\p
+\v 1 Quid ergo dicemus? Perma nebimus in peccato, ut gratia abundet?
+\v 2 Absit! Qui enim mortui sumus peccato, quomodo adhuc vivemus in illo?
+\v 3 An ignoratis quia, quicumque baptizati sumus in Christum Iesum, in mortem ipsius baptizati sumus?
+\v 4 Consepulti ergo sumus cum illo per baptismum in mortem, ut quemadmodum suscitatus est Christus a mortuis per gloriam Patris, ita et nos in novitate vitae ambulemus.
+\v 5 Si enim complantati facti sumus similitudini mortis eius, sed et resurrectionis erimus;
+\v 6 hoc scientes quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, ut ultra non serviamus peccato.
+\v 7 Qui enim mortuus est, iustificatus est a peccato.
+\v 8 Si autem mortui sumus cum Christo, credimus quia simul etiam vivemus cum eo;
+\v 9 scientes quod Christus suscitatus ex mortuis iam non moritur, mors illi ultra non dominatur.
+\v 10 Quod enim mortuus est, peccato mortuus est semel; quod autem vivit, vivit Deo.
+\v 11 Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo in Christo Iesu.
+\v 12 Non ergo regnet peccatum in vestro mortali corpore, ut oboediatis concupiscentiis eius,
+\v 13 neque exhibeatis membra vestra arma iniustitiae peccato, sed exhibete vos Deo tamquam ex mortuis viventes et membra vestra arma iustitiae Deo.
+\v 14 Peccatum enim vobis non dominabitur; non enim sub lege estis sed sub gratia.
+\v 15 Quid ergo? Peccabimus, quoniam non sumus sub lege sed sub gratia? Absit!
+\v 16 Nescitis quoniam, cui exhibetis vos servos ad oboedientiam, servi estis eius, cui oboeditis, sive peccati ad mortem, sive oboeditionis ad iustitiam?
+\v 17 Gratias autem Deo quod fuistis servi peccati, oboedistis autem ex corde in eam formam doctrinae, in quam traditi estis,
+\v 18 liberati autem a peccato servi facti estis iustitiae.
+\v 19 Humanum dico propter infirmitatem carnis vestrae. Sicut enim exhibuistis membra vestra servientia immunditiae et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servientia iustitiae ad sanctificationem.
+\v 20 Cum enim servi essetis peccati, liberi eratis iustitiae.
+\v 21 Quem ergo fructum habebatis tunc, in quibus nunc erubescitis? Nam finis illorum mors!
+\v 22 Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in sanctificationem, finem vero vitam aeternam!
+\v 23 Stipendia enim peccati mors, donum autem Dei vita aeterna in Christo Iesu Domino nostro.
+
+\c 7
+\p
+\v 1 An ignoratis, fratres — scienti bus enim legem loquor — quia lex in homine dominatur, quanto tempore vivit?
+\v 2 Nam quae sub viro est mulier, viventi viro alligata est lege; si autem mortuus fuerit vir, soluta est a lege viri.
+\v 3 Igitur, vivente viro, vocabitur adultera, si fuerit alterius viri; si autem mortuus fuerit vir, libera est a lege, ut non sit adultera, si fuerit alterius viri.
+\v 4 Itaque, fratres mei, et vos mortificati estis legi per corpus Christi, ut sitis alterius, eius qui ex mortuis suscitatus est, ut fructificaremus Deo.
+\v 5 Cum enim essemus in carne, passiones peccatorum, quae per legem sunt, operabantur in membris nostris, ut fructificarent morti;
+\v 6 nunc autem soluti sumus a lege, mortui ei, in qua detinebamur, ita ut serviamus in novitate Spiritus et non in vetustate litterae.
+\v 7 Quid ergo dicemus? Lex peccatum est? Absit! Sed peccatum non cognovi, nisi per legem; nam concupiscentiam nescirem, nisi lex diceret: “ Non concupisces ”.
+\v 8 Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam; sine lege enim peccatum mortuum erat.
+\v 9 Ego autem vivebam sine lege aliquando; sed, cum venisset mandatum, peccatum revixit,
+\v 10 ego autem mortuus sum; et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem;
+\v 11 nam peccatum, occasione accepta, per mandatum seduxit me et per illud occidit.
+\v 12 Itaque lex quidem sancta, et mandatum sanctum et iustum et bonum.
+\v 13 Quod ergo bonum est, mihi factum est mors? Absit! Sed peccatum, ut appareat peccatum, per bonum mihi operatum est mortem; ut fiat supra modum peccans peccatum per mandatum.
+\v 14 Scimus enim quod lex spiritalis est; ego autem carnalis sum, venumdatus sub peccato.
+\v 15 Quod enim operor, non intellego; non enim, quod volo, hoc ago, sed quod odi, illud facio.
+\v 16 Si autem, quod nolo, illud facio, consentio legi quoniam bona.
+\v 17 Nunc autem iam non ego operor illud, sed, quod habitat in me, peccatum.
+\v 18 Scio enim quia non habitat in me, hoc est in carne mea, bonum; nam velle adiacet mihi, operari autem bonum, non!
+\v 19 Non enim, quod volo bonum, facio, sed, quod nolo malum, hoc ago.
+\v 20 Si autem, quod nolo, illud facio, iam non ego operor illud, sed, quod habitat in me, peccatum.
+\v 21 Invenio igitur hanc legem volenti mihi facere bonum, quoniam mihi malum adiacet.
+\v 22 Condelector enim legi Dei secundum interiorem hominem;
+\v 23 video autem aliam legem in membris meis repugnantem legi mentis meae et captivantem me in lege peccati, quae est in membris meis.
+\v 24 Infelix ego homo! Quis me liberabit de corpore mortis huius?
+\v 25 Gratias autem Deo per Iesum Christum Dominum nostrum! Igitur ego ipse mente servio legi Dei, carne autem legi peccati.
+
+\c 8
+\p
+\v 1 Nihil ergo nunc damnationis est his, qui sunt in Christo Iesu;
+\v 2 lex enim Spiritus vitae in Christo Iesu liberavit te a lege peccati et mortis.
+\v 3 Nam, quod impossibile erat legi, in quo infirmabatur per carnem, Deus Filium suum mittens in similitudine carnis peccati et pro peccato, damnavit peccatum in carne,
+\v 4 ut iustitia legis impleretur in nobis, qui non secundum carnem ambulamus sed secundum Spiritum.
+\v 5 Qui enim secundum carnem sunt, quae carnis sunt, sapiunt; qui vero secundum Spiritum, quae sunt Spiritus.
+\v 6 Nam sapientia carnis mors, sapientia autem Spiritus vita et pax;
+\v 7 quoniam sapientia carnis inimicitia est in Deum, legi enim Dei non subicitur nec enim potest.
+\v 8 Qui autem in carne sunt, Deo placere non possunt.
+\v 9 Vos autem in carne non estis sed in Spiritu, si tamen Spiritus Dei habitat in vobis. Si quis autem Spiritum Christi non habet, hic non est eius.
+\v 10 Si autem Christus in vobis est, corpus quidem mortuum est propter peccatum, Spiritus vero vita propter iustitiam.
+\v 11 Quod si Spiritus eius, qui suscitavit Iesum a mortuis, habitat in vobis, qui suscitavit Christum a mortuis vivificabit et mortalia corpora vestra per inhabitantem Spiritum suum in vobis.
+\v 12 Ergo, fratres, debitores sumus non carni, ut secundum carnem vivamus.
+\v 13 Si enim secundum carnem vixeritis, moriemini; si autem Spiritu opera corporis mortificatis, vivetis.
+\v 14 Quicumque enim Spiritu Dei aguntur, hi filii Dei sunt.
+\v 15 Non enim accepistis spiritum servitutis iterum in timorem, sed accepistis Spiritum adoptionis filiorum, in quo clamamus: “ Abba, Pater! ”.
+\v 16 Ipse Spiritus testimonium reddit una cum spiritu nostro, quod sumus filii Dei.
+\v 17 Si autem filii, et heredes: heredes quidem Dei, coheredes autem Christi, si tamen compatimur, ut et conglorificemur.
+\v 18 Existimo enim quod non sunt condignae passiones huius temporis ad futuram gloriam, quae revelanda est in nobis.
+\v 19 Nam exspectatio creaturae revelationem filiorum Dei exspectat;
+\v 20 vanitati enim creatura subiecta est, non volens sed propter eum, qui subiecit, in spem,
+\v 21 quia et ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum Dei.
+\v 22 Scimus enim quod omnis creatura congemiscit et comparturit usque adhuc;
+\v 23 non solum autem, sed et nos ipsi primitias Spiritus habentes, et ipsi intra nos gemimus adoptionem filiorum exspectantes, redemptionem corporis nostri.
+\v 24 Spe enim salvi facti sumus; spes autem, quae videtur, non est spes; nam, quod videt, quis sperat?
+\v 25 Si autem, quod non videmus, speramus, per patientiam exspectamus.
+\v 26 Similiter autem et Spiritus adiuvat infirmitatem nostram; nam quid oremus, sicut oportet, nescimus, sed ipse Spiritus interpellat gemitibus inenarrabilibus;
+\v 27 qui autem scrutatur corda, scit quid desideret Spiritus, quia secundum Deum postulat pro sanctis.
+\v 28 Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, his, qui secundum propositum vocati sunt.
+\v 29 Nam, quos praescivit, et praedestinavit conformes fieri imaginis Filii eius, ut sit ipse primogenitus in multis fratribus;
+\v 30 quos autem praedestinavit, hos et vocavit; et quos vocavit, hos et iustificavit; quos autem iustificavit, illos et glorificavit.
+\v 31 Quid ergo dicemus ad haec? Si Deus pro nobis, quis contra nos?
+\v 32 Qui Filio suo non pepercit, sed pro nobis omnibus tradidit illum, quomodo non etiam cum illo omnia nobis donabit?
+\v 33 Quis accusabit adversus electos Dei? Deus, qui iustificat?
+\v 34 Quis est qui condemnet? Christus Iesus, qui mortuus est, immo qui suscitatus est, qui et est ad dexteram Dei, qui etiam interpellat pro nobis?
+\v 35 Quis nos separabit a caritate Christi? Tribulatio an angustia an persecutio an fames an nuditas an periculum an gladius?
+\v 36 Sicut scriptum est: “ Propter te mortificamur tota die, aestimati sumus ut oves occisionis ”.
+\v 37 Sed in his omnibus supervincimus per eum, qui dilexit nos.
+\v 38 Certus sum enim quia neque mors neque vita neque angeli neque principatus neque instantia neque futura neque virtutes
+\v 39 neque altitudo neque profundum neque alia quaelibet creatura poterit nos separare a caritate Dei, quae est in Christo Iesu Domino nostro.
+
+\c 9
+\p
+\v 1 Veritatem dico in Christo, non mentior, testimonium mihi per hibente conscientia mea in Spiritu Sancto,
+\v 2 quoniam tristitia est mihi magna, et continuus dolor cordi meo.
+\v 3 Optarem enim ipse ego anathema esse a Christo pro fratribus meis, cognatis meis secundum carnem,
+\v 4 qui sunt Israelitae, quorum adoptio est filiorum et gloria et testamenta et legislatio et cultus et promissiones,
+\v 5 quorum sunt patres, et ex quibus Christus secundum carnem: qui est super omnia Deus benedictus in saecula. Amen.
+\v 6 Non autem quod exciderit verbum Dei. Non enim omnes, qui ex Israel, hi sunt Israel;
+\v 7 neque quia semen sunt Abrahae, omnes filii, sed: “ In Isaac vocabitur tibi semen ”.
+\v 8 Id est, non qui filii carnis, hi filii Dei, sed qui filii sunt promissionis, aestimantur semen;
+\v 9 promissionis enim verbum hoc est: “ Secundum hoc tempus veniam, et erit Sarae filius ”.
+\v 10 Non solum autem, sed et Rebecca ex uno concubitum habens, Isaac patre nostro;
+\v 11 cum enim nondum nati fuissent aut aliquid egissent bonum aut malum, ut secundum electionem propositum Dei maneret,
+\v 12 non ex operibus sed ex vocante dictum est ei: “ Maior serviet minori ”;
+\v 13 sicut scriptum est: “ Iacob dilexi, Esau autem odio habui ”.
+\v 14 Quid ergo dicemus? Numquid iniustitia apud Deum? Absit!
+\v 15 Moysi enim dicit: “ Miserebor, cuius misereor, et misericordiam praestabo, cui misericordiam praesto ”.
+\v 16 Igitur non volentis neque currentis sed miserentis Dei.
+\v 17 Dicit enim Scriptura pharaoni: “ In hoc ipsum excitavi te, ut ostendam in te virtutem meam, et ut annuntietur nomen meum in universa terra ”.
+\v 18 Ergo, cuius vult, miseretur et, quem vult, indurat.
+\v 19 Dices itaque mihi: “ Quid ergo adhuc queritur? Voluntati enim eius quis restitit? ”.
+\v 20 O homo, sed tu quis es, qui respondeas Deo? Numquid dicet figmentum ei, qui se finxit: “ Quid me fecisti sic? ”.
+\v 21 An non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in ignominiam?
+\v 22 Quod si volens Deus ostendere iram et notam facere potentiam suam, sustinuit in multa patientia vasa irae aptata in interitum;
+\v 23 et ut ostenderet divitias gloriae suae in vasa misericordiae, quae praeparavit in gloriam,
+\v 24 quos et vocavit nos non solum ex Iudaeis sed etiam ex gentibus?
+\v 25 Sicut et in Osee dicit: “ Vocabo Non plebem meam Plebem meam et Non dilectam Dilectam.
+\v 26 Et erit: in loco, ubi dictum est eis: “Non plebs mea vos”, ibi vocabuntur Filii Dei vivi ”.
+\v 27 Isaias autem clamat pro Israel: “ Si fuerit numerus filiorum Israel tamquam arena maris, reliquiae salvae fient.
+\v 28 Verbum enim consummans et brevians faciet Dominus super terram ”.
+\v 29 Et sicut praedixit Isaias: “ Nisi Dominus Sabaoth reliquisset nobis semen, sicut Sodoma facti essemus et sicut Gomorra similes fuissemus ”.
+\v 30 Quid ergo dicemus? Quod gentes, quae non sectabantur iustitiam, apprehenderunt iustitiam, iustitiam autem, quae ex fide est;
+\v 31 Israel vero sectans legem iustitiae in legem non pervenit.
+\v 32 Quare? Quia non ex fide sed quasi ex operibus; offenderunt in lapidem offensionis,
+\v 33 sicut scriptum est: “ Ecce pono in Sion lapidem offensionis et petram scandali; et, qui credit in eo, non confundetur ”.
+
+\c 10
+\p
+\v 1 Fratres, voluntas quidem cordis mei et obsecratio ad Deum pro illis in salutem.
+\v 2 Testimonium enim perhibeo illis quod aemulationem Dei habent sed non secundum scientiam;
+\v 3 ignorantes enim Dei iustitiam et suam iustitiam quaerentes statuere, iustitiae Dei non sunt subiecti;
+\v 4 finis enim legis Christus ad iustitiam omni credenti.
+\v 5 Moyses enim scribit de iustitia, quae ex lege est: “ Qui fecerit homo, vivet in eis ”.
+\v 6 Quae autem ex fide est iustitia, sic dicit: “ Ne dixeris in corde tuo: Quis ascendet in caelum?”, id est Christum deducere;
+\v 7 aut: “ Quis descendet in abyssum? ”, hoc est Christum ex mortuis revocare.
+\v 8 Sed quid dicit? “ Prope te est verbum, in ore tuo et in corde tuo ”; hoc est verbum fidei, quod praedicamus.
+\v 9 Quia si confitearis in ore tuo: “ Dominum Iesum! ”, et in corde tuo credideris quod Deus illum excitavit ex mortuis, salvus eris.
+\v 10 Corde enim creditur ad iustitiam, ore autem confessio fit in salutem.
+\v 11 Dicit enim Scriptura: “ Omnis, qui credit in illo, non confundetur ”.
+\v 12 Non enim est distinctio Iudaei et Graeci, nam idem Dominus omnium, dives in omnes, qui invocant illum:
+\v 13 Omnis enim, quicumque invocaverit nomen Domini, salvus erit.
+\v 14 Quomodo ergo invocabunt, in quem non crediderunt? Aut quomodo credent ei, quem non audierunt? Quomodo autem audient sine praedicante?
+\v 15 Quomodo vero praedicabunt nisi mittantur? Sicut scriptum est: “ Quam speciosi pedes evangelizantium bona ”.
+\v 16 Sed non omnes oboedierunt evangelio; Isaias enim dicit: “ Domine, quis credidit auditui nostro? ”.
+\v 17 Ergo fides ex auditu, auditus autem per verbum Christi.
+\v 18 Sed dico: Numquid non audierunt? Quin immo, in omnem terram exiit sonus eorum, et in fines orbis terrae verba eorum.
+\v 19 Sed dico: Numquid Israel non cognovit? Primus Moyses dicit: “ Ego ad aemulationem vos adducam per Non gentem: per gentem insipientem ad iram vos provocabo ”.
+\v 20 Isaias autem audet et dicit: “ Inventus sum in non quaerentibus me; palam apparui his, qui me non interrogabant ”.
+\v 21 Ad Israel autem dicit: “ Tota die expandi manus meas ad populum non credentem et contradicentem ”.
+
+\c 11
+\p
+\v 1 Dico ergo: Numquid repulit Deus populum suum? Absit! Nam et ego Israelita sum, ex semine Abraham, tribu Beniamin.
+\v 2 Non reppulit Deus plebem suam, quam praescivit. An nescitis in Elia quid dicit Scriptura? Quemadmodum interpellat Deum adversus Israel:
+\v 3 “ Domine, prophetas tuos occiderunt, altaria tua suffoderunt, et ego relictus sum solus, et quaerunt animam meam ”.
+\v 4 Sed quid dicit illi responsum divinum? “ Reliqui mihi septem milia virorum, qui non curvaverunt genu Baal ”.
+\v 5 Sic ergo et in hoc tempore reliquiae secundum electionem gratiae factae sunt.
+\v 6 Si autem gratia, iam non ex operibus, alioquin gratia iam non est gratia.
+\v 7 Quid ergo? Quod quaerit Israel, hoc non est consecutus, electio autem consecuta est; ceteri vero excaecati sunt,
+\v 8 sicut scriptum est: “ Dedit illis Deus spiritum soporis, oculos, ut non videant, et aures, ut non audiant, usque in hodiernum diem ”.
+\v 9 Et David dicit: “ Fiat mensa eorum in laqueum et in captionem et in scandalum et in retributionem illis.
+\v 10 Obscurentur oculi eorum, ne videant, et dorsum illorum semper incurva! ”.
+\v 11 Dico ergo: Numquid sic offenderunt, ut caderent? Absit! Sed illorum casu salus gentibus, ut illi ad aemulationem adducantur.
+\v 12 Quod si casus illorum divitiae sunt mundi, et deminutio eorum divitiae gentium, quanto magis plenitudo eorum!
+\v 13 Vobis autem dico gentibus: Quantum quidem ego sum gentium apostolus, ministerium meum honorifico,
+\v 14 si quo modo ad aemulandum provocem carnem meam et salvos faciam aliquos ex illis.
+\v 15 Si enim amissio eorum reconciliatio est mundi, quae assumptio, nisi vita ex mortuis?
+\v 16 Quod si primitiae sanctae sunt, et massa; et si radix sancta, et rami.
+\v 17 Quod si aliqui ex ramis fracti sunt, tu autem, cum oleaster esses, insertus es in illis et consocius radicis pinguedinis olivae factus es,
+\v 18 noli gloriari adversus ramos; quod si gloriaris, non tu radicem portas, sed radix te.
+\v 19 Dices ergo: “ Fracti sunt rami, ut ego inserar ”.
+\v 20 Bene; incredulitate fracti sunt, tu autem fide stas. Noli altum sapere, sed time:
+\v 21 si enim Deus naturalibus ramis non pepercit, ne forte nec tibi parcat.
+\v 22 Vide ergo bonitatem et severitatem Dei: in eos quidem, qui ceciderunt, severitatem; in te autem bonitatem Dei, si permanseris in bonitate, alioquin et tu excideris.
+\v 23 Sed et illi, si non permanserint in incredulitate, inserentur; potens est enim Deus iterum inserere illos!
+\v 24 Nam si tu ex naturali excisus es oleastro et contra naturam insertus es in bonam olivam, quanto magis hi, qui secundum naturam sunt, inserentur suae olivae.
+\v 25 Nolo enim vos ignorare, fratres, mysterium hoc, ut non sitis vobis ipsis sapientes, quia caecitas ex parte contigit in Israel, donec plenitudo gentium intraret,
+\v 26 et sic omnis Israel salvus fiet, sicut scriptum est: “ Veniet ex Sion, qui eripiat, avertet impietates ab Iacob;
+\v 27 et hoc illis a me testamentum, cum abstulero peccata eorum ”.
+\v 28 Secundum evangelium quidem inimici propter vos, secundum electionem autem carissimi propter patres;
+\v 29 sine paenitentia enim sunt dona et vocatio Dei!
+\v 30 Sicut enim aliquando vos non credidistis Deo, nunc autem misericordiam consecuti estis propter illorum incredulitatem,
+\v 31 ita et isti nunc non crediderunt propter vestram misericordiam, ut et ipsi nunc misericordiam consequantur.
+\v 32 Conclusit enim Deus omnes in incredulitatem, ut omnium misereatur!
+\v 33 O altitudo divitiarum et sapientiae et scientiae Dei! Quam incomprehensibilia sunt iudicia eius, et investigabiles viae eius!
+\v 34 Quis enim cognovit sensum Domini? Aut quis consiliarius eius fuit?
+\v 35 Aut quis prior dedit illi, et retribuetur ei?
+\v 36 Quoniam ex ipso et per ipsum et in ipsum omnia. Ipsi gloria in saecula. Amen.
+
+\c 12
+\p
+\v 1 Obsecro itaque vos, fratres, per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum;
+\v 2 et nolite conformari huic saeculo, sed transformamini renovatione mentis, ut probetis quid sit voluntas Dei, quid bonum et bene placens et perfectum.
+\v 3 Dico enim per gratiam, quae data est mihi, omnibus, qui sunt inter vos, non altius sapere quam oportet sapere, sed sapere ad sobrietatem, unicuique sicut Deus divisit mensuram fidei.
+\v 4 Sicut enim in uno corpore multa membra habemus, omnia autem membra non eundem actum habent,
+\v 5 ita multi unum corpus sumus in Christo, singuli autem alter alterius membra.
+\v 6 Habentes autem donationes secundum gratiam, quae data est nobis, differentes: sive prophetiam, secundum rationem fidei;
+\v 7 sive ministerium, in ministrando; sive qui docet, in doctrina;
+\v 8 sive qui exhortatur, in exhortando; qui tribuit, in simplicitate; qui praeest, in sollicitudine; qui miseretur, in hilaritate.
+\v 9 Dilectio sine simulatione. Odientes malum, adhaerentes bono;
+\v 10 caritate fraternitatis invicem diligentes, honore invicem praevenientes,
+\v 11 sollicitudine non pigri, spiritu ferventes, Domino servientes,
+\v 12 spe gaudentes, in tribulatione patientes, orationi instantes,
+\v 13 necessitatibus sanctorum communicantes, hospitalitatem sectantes.
+\v 14 Benedicite persequentibus; benedicite et nolite maledicere!
+\v 15 Gaudere cum gaudentibus, flere cum flentibus.
+\v 16 Idipsum invicem sentientes, non alta sapientes, sed humilibus consentientes. Nolite esse prudentes apud vosmetipsos.
+\v 17 Nulli malum pro malo reddentes; providentes bona coram omnibus hominibus;
+\v 18 si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes;
+\v 19 non vosmetipsos vindicantes, carissimi, sed date locum irae, scriptum est enim: “ Mihi vindicta, ego retribuam ”, dicit Dominus.
+\v 20 Sed si esurierit inimicus tuus, ciba illum; si sitit, potum da illi. Hoc enim faciens, carbones ignis congeres super caput eius.
+\v 21 Noli vinci a malo, sed vince in bono malum.
+
+\c 13
+\p
+\v 1 Omnis anima potestatibus sublimioribus subdita sit. Non est enim potestas nisi a Deo; quae autem sunt, a Deo ordinatae sunt.
+\v 2 Itaque, qui resistit potestati, Dei ordinationi resistit; qui autem resistunt ipsi, sibi damnationem acquirent.
+\v 3 Nam principes non sunt timori bono operi sed malo. Vis autem non timere potestatem? Bonum fac, et habebis laudem ex illa;
+\v 4 Dei enim ministra est tibi in bonum. Si autem malum feceris, time; non enim sine causa gladium portat; Dei enim ministra est, vindex in iram ei, qui malum agit.
+\v 5 Ideo necesse est subditos esse, non solum propter iram sed et propter conscientiam.
+\v 6 Ideo enim et tributa praestatis; ministri enim Dei sunt in hoc ipsum instantes.
+\v 7 Reddite omnibus debita: cui tributum tributum, cui vectigal vectigal, cui timorem timorem, cui honorem honorem.
+\v 8 Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit.
+\v 9 Nam: Non adulterabis, Non occides, Non furaberis, Non concupisces, et si quod est aliud mandatum, in hoc verbo recapitulatur: Diliges proximum tuum tamquam teipsum.
+\v 10 Dilectio proximo malum non operatur; plenitudo ergo legis est dilectio.
+\v 11 Et hoc scientes tempus, quia hora est iam vos de somno surgere; nunc enim propior est nobis salus quam cum credidimus.
+\v 12 Nox processit, dies autem appropiavit. Abiciamus ergo opera tenebrarum et induamur arma lucis.
+\v 13 Sicut in die honeste ambulemus: non in comissationibus et ebrietatibus, non in cubilibus et impudicitiis, non in contentione et aemulatione;
+\v 14 sed induite Dominum Iesum Christum et carnis curam ne feceritis in concupiscentiis.
+
+\c 14
+\p
+\v 1 Infirmum autem in fide assumite, non in disceptatio nibus cogitationum.
+\v 2 Alius enim credit manducare omnia; qui autem infirmus est, holus manducat.
+\v 3 Is qui manducat, non manducantem non spernat; et, qui non manducat, manducantem non iudicet, Deus enim illum assumpsit.
+\v 4 Tu quis es, qui iudices alienum servum? Suo domino stat aut cadit; stabit autem, potens est enim Dominus statuere illum.
+\v 5 Nam alius iudicat inter diem et diem, alius iudicat omnem diem; unusquisque in suo sensu abundet.
+\v 6 Qui sapit diem, Domino sapit; et, qui manducat, Domino manducat, gratias enim agit Deo; et, qui non manducat, Domino non manducat et gratias agit Deo.
+\v 7 Nemo enim nostrum sibi vivit, et nemo sibi moritur;
+\v 8 sive enim vivimus, Domino vivimus, sive morimur, Domino morimur. Sive ergo vivimus, sive morimur, Domini sumus.
+\v 9 In hoc enim Christus et mortuus est et vixit, ut et mortuorum et vivorum dominetur.
+\v 10 Tu autem, quid iudicas fratrem tuum? Aut tu, quare spernis fratrem tuum? Omnes enim stabimus ante tribunal Dei;
+\v 11 scriptum est enim: “ Vivo ego, dicit Dominus, mihi flectetur omne genu, et omnis lingua confitebitur Deo ”.
+\v 12 Itaque unusquisque nostrum pro se rationem reddet Deo.
+\v 13 Non ergo amplius invicem iudicemus, sed hoc iudicate magis, ne ponatis offendiculum fratri vel scandalum.
+\v 14 Scio et certus sum in Domino Iesu, quia nihil commune per seipsum, nisi ei, qui existimat quid commune esse, illi commune est.
+\v 15 Si enim propter cibum frater tuus contristatur, iam non secundum caritatem ambulas. Noli cibo tuo illum perdere, pro quo Christus mortuus est!
+\v 16 Non ergo blasphemetur bonum vestrum!
+\v 17 Non est enim regnum Dei esca et potus, sed iustitia et pax et gaudium in Spiritu Sancto;
+\v 18 qui enim in hoc servit Christo, placet Deo et probatus est hominibus.
+\v 19 Itaque, quae pacis sunt, sectemur et quae aedificationis sunt in invicem.
+\v 20 Noli propter escam destruere opus Dei! Omnia quidem munda sunt, sed malum est homini, qui per offendiculum manducat.
+\v 21 Bonum est non manducare carnem et non bibere vinum neque id, in quo frater tuus offendit.
+\v 22 Tu, quam fidem habes, penes temetipsum habe coram Deo. Beatus, qui non iudicat semetipsum in eo quod probat.
+\v 23 Qui autem discernit si manducaverit, damnatus est, quia non ex fide; omne autem, quod non ex fide, peccatum est.
+
+\c 15
+\p
+\v 1 Debemus autem nos fir miores imbecillitates infir morum sustinere et non nobis placere.
+\v 2 Unusquisque nostrum proximo placeat in bonum ad aedificationem;
+\v 3 etenim Christus non sibi placuit, sed sicut scriptum est: “ Improperia improperantium tibi ceciderunt super me ”.
+\v 4 Quaecumque enim antea scripta sunt, ad nostram doctrinam scripta sunt, ut per patientiam et consolationem Scripturarum spem habeamus.
+\v 5 Deus autem patientiae et solacii det vobis idipsum sapere in alterutrum secundum Christum Iesum,
+\v 6 ut unanimes uno ore glorificetis Deum et Patrem Domini nostri Iesu Christi.
+\v 7 Propter quod suscipite invicem, sicut et Christus suscepit vos, in gloriam Dei.
+\v 8 Dico enim Christum ministrum fuisse circumcisionis propter veritatem Dei ad confirmandas promissiones patrum;
+\v 9 gentes autem propter misericordiam glorificare Deum, sicut scriptum est: “ Propter hoc confitebor tibi in gentibus et nomini tuo cantabo ”.
+\v 10 Et iterum dicit: “ Laetamini, gentes, cum plebe eius ”.
+\v 11 Et iterum: “ Laudate, omnes gentes, Dominum, et magnificent eum omnes populi ”.
+\v 12 Et rursus Isaias ait: “ Erit radix Iesse, et qui exsurget regere gentes: in eo gentes sperabunt ”.
+\v 13 Deus autem spei repleat vos omni gaudio et pace in credendo, ut abundetis in spe in virtute Spiritus Sancti.
+\v 14 Certus sum autem, fratres mei, et ego ipse de vobis, quoniam et ipsi pleni estis bonitate, repleti omni scientia, ita ut possitis et alterutrum monere.
+\v 15 Audacius autem scripsi vobis ex parte, tamquam in memoriam vos reducens propter gratiam, quae data est mihi a Deo,
+\v 16 ut sim minister Christi Iesu ad gentes, consecrans evangelium Dei, ut fiat oblatio gentium accepta, sanctificata in Spiritu Sancto.
+\v 17 Habeo igitur gloriationem in Christo Iesu ad Deum;
+\v 18 non enim audebo aliquid loqui eorum, quae per me non effecit Christus in oboedientiam gentium, verbo et factis,
+\v 19 in virtute signorum et prodigiorum, in virtute Spiritus, ita ut ab Ierusalem et per circuitum usque in Illyricum repleverim evangelium Christi,
+\v 20 sic autem contendens praedicare evangelium, non ubi nominatus est Christus, ne super alienum fundamentum aedificarem,
+\v 21 sed sicut scriptum est: “ Quibus non est annuntiatum de eo, videbunt; et, qui non audierunt, intellegent ”.
+\v 22 Propter quod et impediebar plurimum venire ad vos;
+\v 23 nunc vero ulterius locum non habens in his regionibus, cupiditatem autem habens veniendi ad vos ex multis iam annis,
+\v 24 cum in Hispaniam proficisci coepero, spero enim quod praeteriens videam vos et a vobis deducar illuc, si vobis primum ex parte fruitus fuero.
+\v 25 Nunc autem proficiscor in Ierusalem ministrare sanctis;
+\v 26 probaverunt enim Macedonia et Achaia communicationem aliquam facere in pauperes sanctorum, qui sunt in Ierusalem.
+\v 27 Placuit enim eis, et debitores sunt eorum; nam si spiritalibus eorum communicaverunt gentes, debent et in carnalibus ministrare eis.
+\v 28 Hoc igitur cum consummavero et assignavero eis fructum hunc, proficiscar per vos in Hispaniam;
+\v 29 scio autem quoniam veniens ad vos, in abundantia benedictionis Christi veniam.
+\v 30 Obsecro autem vos, fratres, per Dominum nostrum Iesum Christum et per caritatem Spiritus, ut concertemini mecum in orationibus pro me ad Deum,
+\v 31 ut liberer ab infidelibus, qui sunt in Iudaea, et ministerium meum pro Ierusalem acceptum sit sanctis,
+\v 32 ut veniens ad vos in gaudio per voluntatem Dei refrigerer vobiscum.
+\v 33 Deus autem pacis sit cum omnibus vobis. Amen.
+
+\c 16
+\p
+\v 1 Commendo autem vobis Phoebem sororem nostram, quae est ministra ecclesiae, quae est Cenchreis,
+\v 2 ut eam suscipiatis in Domino digne sanctis et assistatis ei in quocumque negotio vestri indiguerit; etenim ipsa astitit multis et mihi ipsi.
+\v 3 Salutate Priscam et Aquilam adiutores meos in Christo Iesu,
+\v 4 qui pro anima mea suas cervices supposuerunt, quibus non solus ego gratias ago sed et cunctae ecclesiae gentium;
+\v 5 et domesticam eorum ecclesiam. Salutate Epaenetum dilectum mihi, primitias Asiae in Christo.
+\v 6 Salutate Mariam, quae multum laboravit in vobis.
+\v 7 Salutate Andronicum et Iuniam cognatos meos et concaptivos meos, qui sunt nobiles in apostolis, qui et ante me fuerunt in Christo.
+\v 8 Salutate Ampliatum dilectissimum mihi in Domino.
+\v 9 Salutate Urbanum adiutorem nostrum in Christo et Stachyn dilectum meum.
+\v 10 Salutate Apellem probatum in Christo. Salutate eos, qui sunt ex Aristobuli.
+\v 11 Salutate Herodionem cognatum meum. Salutate eos, qui sunt ex Narcissi, qui sunt in Domino.
+\v 12 Salutate Tryphaenam et Tryphosam, quae laborant in Domino. Salutate Persidam carissimam, quae multum laboravit in Domino.
+\v 13 Salutate Rufum electum in Domino et matrem eius et meam.
+\v 14 Salutate Asyncritum, Phlegonta, Hermen, Patrobam, Hermam et, qui cum eis sunt, fratres.
+\v 15 Salutate Philologum et Iuliam, Nereum et sororem eius et Olympam et omnes, qui cum eis sunt, sanctos.
+\v 16 Salutate invicem in osculo sancto. Salutant vos omnes ecclesiae Christi.
+\v 17 Rogo autem vos, fratres, ut observetis eos, qui dissensiones et offendicula praeter doctrinam, quam vos didicistis, faciunt, et declinate ab illis;
+\v 18 huiusmodi enim Domino nostro Christo non serviunt sed suo ventri, et per dulces sermones et benedictiones seducunt corda innocentium.
+\v 19 Vestra enim oboedientia ad omnes pervenit; gaudeo igitur in vobis, sed volo vos sapientes esse in bono et simplices in malo.
+\v 20 Deus autem pacis conteret Satanam sub pedibus vestris velociter. Gratia Domini nostri Iesu vobiscum.
+\v 21 Salutat vos Timotheus adiutor meus et Lucius et Iason et Sosipater cognati mei.
+\v 22 Saluto vos ego Tertius, qui scripsi epistulam in Domino.
+\v 23 Salutat vos Gaius hospes meus et universae ecclesiae. Salutat vos Erastus arcarius civitatis et Quartus frater.
+\v 24 
+\v 25 Ei autem, qui potens est vos confirmare iuxta evangelium meum et praedicationem Iesu Christi secundum revelationem mysterii temporibus aeternis taciti,
+\v 26 manifestati autem nunc, et per scripturas Prophetarum secundum praeceptum aeterni Dei ad oboeditionem fidei in cunctis gentibus patefacti,
+\v 27 soli sapienti Deo per Iesum Christum, cui gloria in saecula. Amen.

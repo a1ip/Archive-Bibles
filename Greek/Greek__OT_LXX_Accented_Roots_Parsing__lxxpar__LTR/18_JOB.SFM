@@ -1,0 +1,1214 @@
+\id JOB
+\ide UTF-8
+\sts 1
+\h [Job]
+
+
+\c 1
+\p
+\v 1 ἄνθρωπος-N2--NSM τις-RI--NSM εἰμί-V9--IAI3S ἐν-P χώρα-N1A-DSF ὁ-RA--DSF *αυσῖτις-N3D-DSF ὅς-RR--DSM ὄνομα-N3M-NSN *ιωβ-N---NSM καί-C εἰμί-V9--IAI3S ὁ-RA--NSM ἄνθρωπος-N2--NSM ἐκεῖνος-RD--NSM ἀληθινός-A1--NSM ἄμεμπτος-A1B-NSM δίκαιος-A1A-NSM θεοσεβής-A3H-NSM ἀποἔχω-V1--PMPNSM ἀπό-P πᾶς-A3--GSN πονηρός-A1A-GSN πρᾶγμα-N3M-GSN
+\v 2 γίγνομαι-VBI-AMI3P δέ-X αὐτός-RD--DSM υἱός-N2--NPM ἑπτά-M καί-C θυγάτηρ-N3--NPF τρεῖς-A3--NPF
+\v 3 καί-C εἰμί-V9--IAI3S ὁ-RA--NPN κτῆνος-N3E-NPN αὐτός-RD--GSM πρόβατον-N2N-NPN ἑπτακισχίλιοι-A1A-NPN κάμηλος-N2--NPF τρισχίλιοι-A1A-NPF ζεῦγος-N3E-NPN βοῦς-N3--GPF πεντακόσιοι-A1A-APN ὄνος-N2--NPF θῆλυς-A3U-NPF νομάς-N3D-NPF πεντακόσιοι-A1A-NPF καί-C ὑπηρεσία-N1A-NSF πολύς-A1--NSF σφόδρα-D καί-C ἔργον-N2N-NPN μέγας-A1P-NPN εἰμί-V9--IAI3S αὐτός-RD--DSM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF καί-C εἰμί-V9--IAI3S ὁ-RA--NSM ἄνθρωπος-N2--NSM ἐκεῖνος-RD--NSM εὐγενής-A3H-NSM ὁ-RA--GPM ἀπό-P ἥλιος-N2--GSM ἀνατολή-N1--GPF
+\v 4 συνπορεύομαι-V1--PMPNPM δέ-X ὁ-RA--NPM υἱός-N2--NPM αὐτός-RD--GSM πρός-P ἀλλήλω-RD--APM ποιέω-VAI-AAI3P πότος-N2--ASM κατά-P ἕκαστος-A1--ASF ἡμέρα-N1A-ASF συν   παραλαμβάνω-V1--PAPNPM ἅμα-D καί-D ὁ-RA--APF τρεῖς-A3--APF ἀδελφή-N1--APF αὐτός-RD--GPM ἐσθίω-V1--PAN καί-C πίνω-V1--PAN μετά-P αὐτός-RD--GPM
+\v 5 καί-C ὡς-C ἄν-X συντελέω-VSI-API3P ὁ-RA--NPF ἡμέρα-N1A-NPF ὁ-RA--GSM πότος-N2--GSM ἀποστέλλω-V1I-IAI3S *ιωβ-N---NSM καί-C καθαρίζω-V1I-IAI3S αὐτός-RD--APM ἀναἵστημι-V6--PMPNSM ὁ-RA--ASN πρωΐ-D καί-C προςφέρω-V1I-IAI3S περί-P αὐτός-RD--GPM θυσία-N1A-APF κατά-P ὁ-RA--ASM ἀριθμός-N2--ASM αὐτός-RD--GPM καί-C μόσχος-N2--ASM εἷς-A3--ASM περί-P ἁμαρτία-N1A-APF περί-P ὁ-RA--GPF ψυχή-N1--GPF αὐτός-RD--GPM λέγω-V1I-IAI3S γάρ-X *ιωβ-N---NSM μήποτε-D ὁ-RA--NPM υἱός-N2--NPM ἐγώ-RP--GS ἐν-P ὁ-RA--DSF διάνοια-N1A-DSF αὐτός-RD--GPM κακός-A1--APN ἐννοέω-VAI-AAI3P πρός-P θεός-N2--ASM οὕτως-D οὖν-X ποιέω-V2I-IAI3S *ιωβ-N---NSM πᾶς-A1S-APF ὁ-RA--APF ἡμέρα-N1A-APF
+\v 6 καί-C ὡς-C γίγνομαι-VBI-AMI3S ὁ-RA--NSF ἡμέρα-N1A-NSF οὗτος-RD--NSF καί-C ἰδού-I ἔρχομαι-VBI-AAI3P ὁ-RA--NPM ἄγγελος-N2--NPM ὁ-RA--GSM θεός-N2--GSM παραἵστημι-VH--AAN ἐνώπιον-P ὁ-RA--GSM κύριος-N2--GSM καί-C ὁ-RA--NSM διάβολος-N2--NSM ἔρχομαι-VBI-AAI3S μετά-P αὐτός-RD--GPM
+\v 7 καί-C εἶπον-VBI-AAI3S ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--DSM διάβολος-N2--DSM πόθεν-D παραγίγνομαι-VM--XMI2S καί-C ἀποκρίνω-VC--APPNSM ὁ-RA--NSM διάβολος-N2--NSM ὁ-RA--DSM κύριος-N2--DSM εἶπον-VBI-AAI3S περιἔρχομαι-VB--AAPNSM ὁ-RA--ASF γῆ-N1--ASF καί-C ἐν   περιπατέω-VA--AAPNSM ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM παραεἰμί-V9--PAI1S
+\v 8 καί-C εἶπον-VBI-AAI3S αὐτός-RD--DSM ὁ-RA--NSM κύριος-N2--NSM προςἔχω-VBI-AAI2S ὁ-RA--DSF διάνοια-N1A-DSF σύ-RP--GS κατά-P ὁ-RA--GSM παῖς-N3D-GSM ἐγώ-RP--GS *ιωβ-N---GSM ὅτι-C οὐ-D εἰμί-V9--PAI3S κατά-P αὐτός-RD--ASM ὁ-RA--GPM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF ἄνθρωπος-N2--NSM ἄμεμπτος-A1B-NSM ἀληθινός-A1--NSM θεοσεβής-A3H-NSM ἀποἔχω-V1--PMPNSM ἀπό-P πᾶς-A3--GSN πονηρός-A1A-GSN πρᾶγμα-N3M-GSN
+\v 9 ἀποκρίνω-VCI-API3S δέ-X ὁ-RA--NSM διάβολος-N2--NSM καί-C εἶπον-VBI-AAI3S ἐναντίον-P ὁ-RA--GSM κύριος-N2--GSM μή-D δωρεά-N1A-ASF σέβομαι-V1--PMI3S *ιωβ-N---NSM ὁ-RA--ASM θεός-N2--ASM
+\v 10 οὐ-D σύ-RP--NS περιφράσσω-VAI-AAI2S ὁ-RA--APN ἔξω-D αὐτός-RD--GSM καί-C ὁ-RA--APN ἔσω-P ὁ-RA--GSF οἰκία-N1A-GSF αὐτός-RD--GSM καί-C ὁ-RA--APN ἔξω-P πᾶς-A3--GPM ὁ-RA--GPM εἰμί-V9--PAPGPM αὐτός-RD--DSM κύκλος-N2--DSM ὁ-RA--APN ἔργον-N2N-APN ὁ-RA--GPF χείρ-N3--GPF αὐτός-RD--GSM εὐλογέω-VA--AAI2S καί-C ὁ-RA--APN κτῆνος-N3E-APN αὐτός-RD--GSM πολύς-A1--APN ποιέω-VAI-AAI2S ἐπί-P ὁ-RA--GSF γῆ-N1--GSF
+\v 11 ἀλλά-C ἀποστέλλω-VA--AAD2S ὁ-RA--ASF χείρ-N3--ASF σύ-RP--GS καί-C ἅπτομαι-VA--AMD2S πᾶς-A3--GPN ὅς-RR--GPN ἔχω-V1--PAI3S εἰ-C μήν-X εἰς-P πρόσωπον-N2N-ASN σύ-RP--AS εὐλογέω-VF--FAI3S
+\v 12 τότε-D εἶπον-VBI-AAI3S ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--DSM διάβολος-N2--DSM ἰδού-I πᾶς-A3--ASN ὅσος-A1--NPN εἰμί-V9--PAI3S αὐτός-RD--DSM δίδωμι-V8--PAI1S ἐν-P ὁ-RA--DSF χείρ-N3--DSF σύ-RP--GS ἀλλά-C αὐτός-RD--GSM μή-D ἅπτομαι-VF--FMI2S καί-C ἐκἔρχομαι-VBI-AAI3S ὁ-RA--NSM διάβολος-N2--NSM παρά-P ὁ-RA--GSM κύριος-N2--GSM
+\v 13 καί-C εἰμί-V9--IAI3S ὡς-C ὁ-RA--NSF ἡμέρα-N1A-NSF οὗτος-RD--NSF ὁ-RA--NPM υἱός-N2--NPM *ιωβ-N---GSM καί-C ὁ-RA--NPF θυγάτηρ-N3--NPF αὐτός-RD--GSM πίνω-V1I-IAI3P οἶνος-N2--ASM ἐν-P ὁ-RA--DSF οἰκία-N1A-DSF ὁ-RA--GSM ἀδελφός-N2--GSM αὐτός-RD--GPM ὁ-RA--GSM πρεσβύτερος-A1A-GSM
+\v 14 καί-C ἰδού-I ἄγγελος-N2--NSM ἔρχομαι-VBI-AAI3S πρός-P *ιωβ-N---ASM καί-C εἶπον-VBI-AAI3S αὐτός-RD--DSM ὁ-RA--NPN ζεῦγος-N3E-NPN ὁ-RA--GPF βοῦς-N3--GPF ἀροτριάω-V3I-IAI3S καί-C ὁ-RA--NPF θῆλυς-A3U-NPF ὄνος-N2--NPF βόσκω-V1I-IMI3P ἔχω-V1--PMPNPF αὐτός-RD--GPF
+\v 15 καί-C ἔρχομαι-VB--AAPNPM ὁ-RA--NPM αἰχμαλωτεύω-V1--PAPNPM αἰχμαλωτεύω-VAI-AAI3P αὐτός-RD--APF καί-C ὁ-RA--APM παῖς-N3D-APM ἀποκτείνω-VAI-AAI3P ἐν-P μάχαιρα-N1A-DPF σώζω-VC--APPNSM δέ-X ἐγώ-RP--NS μόνος-A1--NSM ἔρχομαι-VBI-AAI1S ὁ-RA--GSN ἀποἀγγέλλω-VA--AAN σύ-RP--DS
+\v 16 ἔτι-D οὗτος-RD--GSM λαλέω-V2--PAPGSM ἔρχομαι-VBI-AAI3S ἕτερος-A1A-NSM ἄγγελος-N2--NSM καί-C εἶπον-VBI-AAI3S πρός-P *ιωβ-N---ASM πῦρ-N3--NSN πίπτω-VBI-AAI3S ἐκ-P ὁ-RA--GSM οὐρανός-N2--GSM καί-C κατακαίω-VAI-AAI3S ὁ-RA--APN πρόβατον-N2N-APN καί-C ὁ-RA--APM ποιμήν-N3--APM καταἐσθίω-VBI-AAI3S ὁμοίως-D καί-C σώζω-VC--APPNSM ἐγώ-RP--NS μόνος-A1--NSM ἔρχομαι-VBI-AAI1S ὁ-RA--GSN ἀποἀγγέλλω-VA--AAN σύ-RP--DS
+\v 17 ἔτι-D οὗτος-RD--GSM λαλέω-V2--PAPGSM ἔρχομαι-VBI-AAI3S ἕτερος-A1A-NSM ἄγγελος-N2--NSM καί-C εἶπον-VBI-AAI3S πρός-P *ιωβ-N---ASM ὁ-RA--NPM ἱππεύς-N3V-NPM ποιέω-VAI-AAI3P ἐγώ-RP--DP κεφαλή-N1--APF τρεῖς-A3--APF καί-C κυκλόω-VAI-AAI3P ὁ-RA--APF κάμηλος-N2--APF καί-C αἰχμαλωτεύω-VAI-AAI3P αὐτός-RD--APF καί-C ὁ-RA--APM παῖς-N3D-APM ἀποκτείνω-VAI-AAI3P ἐν-P μάχαιρα-N1A-DPF σώζω-VSI-API1S δέ-X ἐγώ-RP--NS μόνος-A1--NSM καί-C ἔρχομαι-VBI-AAI1S ὁ-RA--GSN ἀποἀγγέλλω-VA--AAN σύ-RP--DS
+\v 18 ἔτι-D οὗτος-RD--GSM λαλέω-V2--PAPGSM ἄλλος-RD--NSM ἄγγελος-N2--NSM ἔρχομαι-V1--PMI3S λέγω-V1--PAPNSM ὁ-RA--DSM *ιωβ-N---DSM ὁ-RA--GPM υἱός-N2--GPM σύ-RP--GS καί-C ὁ-RA--GPF θυγάτηρ-N3--GPF σύ-RP--GS ἐσθίω-V1--PAPGPM καί-C πίνω-V1--PAPGPM παρά-P ὁ-RA--DSM ἀδελφός-N2--DSM αὐτός-RD--GPM ὁ-RA--DSM πρεσβύτερος-A1A-DSM
+\v 19 ἐξαίφνης-D πνεῦμα-N3M-NSN μέγας-A1P-NSN ἐπιἔρχομαι-VBI-AAI3S ἐκ-P ὁ-RA--GSF ἔρημος-N2--GSF καί-C ἅπτομαι-VAI-AMI3S ὁ-RA--GPF τέσσαρες-A3--GPF γωνία-N1A-GPF ὁ-RA--GSF οἰκία-N1A-GSF καί-C πίπτω-VBI-AAI3S ὁ-RA--NSF οἰκία-N1A-NSF ἐπί-P ὁ-RA--APN παιδίον-N2N-APN σύ-RP--GS καί-C τελευτάω-VAI-AAI3P σώζω-VSI-API1S δέ-X ἐγώ-RP--NS μόνος-A1--NSM καί-C ἔρχομαι-VBI-AAI1S ὁ-RA--GSN ἀποἀγγέλλω-VA--AAN σύ-RP--DS
+\v 20 οὕτως-D ἀναἵστημι-VH--AAPNSM *ιωβ-N---NSM διαῥήγνυμι-VAI-AAI3S ὁ-RA--APN ἱμάτιον-N2N-APN αὐτός-RD--GSM καί-C κείρω-VAI-AMI3S ὁ-RA--ASF κόμη-N1--ASF ὁ-RA--GSF κεφαλή-N1--GSF αὐτός-RD--GSM καί-C πίπτω-VB--AAPNSM χαμαί-D προςκυνέω-VAI-AAI3S καί-C εἶπον-VBI-AAI3S
+\v 21 αὐτός-RD--NSM γυμνός-A1--NSM ἐκἔρχομαι-VBI-AAI1S ἐκ-P κοιλία-N1A-GSF μήτηρ-N3--GSF ἐγώ-RP--GS γυμνός-A1--NSM καί-C ἀποἔρχομαι-VF--FMI1S ἐκεῖ-D ὁ-RA--NSM κύριος-N2--NSM δίδωμι-VAI-AAI3S ὁ-RA--NSM κύριος-N2--NSM ἀποαἱρέω-VBI-AMI3S ὡς-C ὁ-RA--DSM κύριος-N2--DSM δοκέω-VAI-AAI3S οὕτως-D καί-C γίγνομαι-VBI-AMI3S εἰμί-V9--PAO3S ὁ-RA--NSN ὄνομα-N3M-NSN κύριος-N2--GSM εὐλογέω-VM--XMPNSN
+\v 22 ἐν-P οὗτος-RD--DPN πᾶς-A3--DPN ὁ-RA--DPN συνβαίνω-VX--XAPDPN αὐτός-RD--DSM οὐδείς-A3--ASN ἁμαρτάνω-VBI-AAI3S *ιωβ-N---NSM ἐναντίον-P ὁ-RA--GSM κύριος-N2--GSM καί-C οὐ-D δίδωμι-VAI-AAI3S ἀφροσύνη-N1--ASF ὁ-RA--DSM θεός-N2--DSM
+
+\c 2
+\p
+\v 1 γίγνομαι-VBI-AMI3S δέ-X ὡς-C ὁ-RA--NSF ἡμέρα-N1A-NSF οὗτος-RD--NSF καί-C ἔρχομαι-VBI-AAI3P ὁ-RA--NPM ἄγγελος-N2--NPM ὁ-RA--GSM θεός-N2--GSM παραἵστημι-VH--AAN ἔναντι-P κύριος-N2--GSM καί-C ὁ-RA--NSM διάβολος-N2--NSM ἔρχομαι-VBI-AAI3S ἐν-P μέσος-A1--DSN αὐτός-RD--GPM παραἵστημι-VH--AAN ἐναντίον-P ὁ-RA--GSM κύριος-N2--GSM
+\v 2 καί-C εἶπον-VBI-AAI3S ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--DSM διάβολος-N2--DSM πόθεν-D σύ-RP--NS ἔρχομαι-V1--PMI2S τότε-D εἶπον-VBI-AAI3S ὁ-RA--NSM διάβολος-N2--NSM ἐνώπιον-P ὁ-RA--GSM κύριος-N2--GSM διαπορεύομαι-VC--APPNSM ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM καί-C ἐν   περιπατέω-VA--AAPNSM ὁ-RA--ASF σύμπας-A1A-ASF παραεἰμί-V9--PAI1S
+\v 3 εἶπον-VBI-AAI3S δέ-X ὁ-RA--NSM κύριος-N2--NSM πρός-P ὁ-RA--ASM διάβολος-N2--ASM προςἔχω-VBI-AAI2S οὖν-X ὁ-RA--DSM θεράπων-N3--DSM ἐγώ-RP--GS *ιωβ-N---DSM ὅτι-C οὐ-D εἰμί-V9--PAI3S κατά-P αὐτός-RD--ASM ὁ-RA--GPM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF ἄνθρωπος-N2--NSM ἄκακος-A1B-NSM ἀληθινός-A1--NSM ἄμεμπτος-A1B-NSM θεοσεβής-A3H-NSM ἀποἔχω-V1--PMPNSM ἀπό-P πᾶς-A3--GSN κακός-A1--GSN ἔτι-D δέ-X ἔχω-V1--PMI3S ἀκακία-N1A-GSF σύ-RP--NS δέ-X εἶπον-VAI-AAI2S ὁ-RA--APN ὑποἄρχω-V1--PAPAPN αὐτός-RD--GSM διά-P κενός-A1--GSF ἀποὀλλύω-VA--AAN
+\v 4 ὑπολαμβάνω-VB--AAPNSM δέ-X ὁ-RA--NSM διάβολος-N2--NSM εἶπον-VBI-AAI3S ὁ-RA--DSM κύριος-N2--DSM δέρμα-N3M-NSN ὑπέρ-P δέρμα-N3M-GSN ὅσος-A1--APN ὑποἄρχω-V1--PAI3S ἄνθρωπος-N2--DSM ὑπέρ-P ὁ-RA--GSF ψυχή-N1--GSF αὐτός-RD--GSM ἐκτίνω-VF--FAI3S
+\v 5 οὐ-D μήν-X δέ-X ἀλλά-C ἀποστέλλω-VA--AAPNSM ὁ-RA--ASF χείρ-N3--ASF σύ-RP--GS ἅπτομαι-VA--AMD2S ὁ-RA--GPN ὀστέον-N2N-GPN αὐτός-RD--GSM καί-C ὁ-RA--GPF σάρξ-N3K-GPF αὐτός-RD--GSM εἰ-C μήν-X εἰς-P πρόσωπον-N2N-ASN σύ-RP--AS εὐλογέω-VF--FAI3S
+\v 6 εἶπον-VBI-AAI3S δέ-X ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--DSM διάβολος-N2--DSM ἰδού-I παραδίδωμι-V8--PAI1S σύ-RP--DS αὐτός-RD--ASM μόνον-D ὁ-RA--ASF ψυχή-N1--ASF αὐτός-RD--GSM διαφυλάσσω-VA--AAD2S
+\v 7 ἐκἔρχομαι-VBI-AAI3S δέ-X ὁ-RA--NSM διάβολος-N2--NSM ἀπό-P ὁ-RA--GSM κύριος-N2--GSM καί-C παίω-VAI-AAI3S ὁ-RA--ASM *ιωβ-N---ASM ἕλκος-N3E-DSN πονηρός-A1A-DSN ἀπό-P πούς-N3D-GPM ἕως-P κεφαλή-N1--GSF
+\v 8 καί-C λαμβάνω-VBI-AAI3S ὄστρακον-N2N-ASN ἵνα-C ὁ-RA--ASM ἰχώρ-N3R-ASM ξύω-V1--PAS3S καί-C καταἧμαι-V1I-IMI3S ἐπί-P ὁ-RA--GSF κοπρία-N1A-GSF ἔξω-P ὁ-RA--GSF πόλις-N3I-GSF
+\v 9 χρόνος-N2--GSM δέ-X πολύς-A3U-GSM προβαίνω-VX--XAPGSM εἶπον-VBI-AAI3S αὐτός-RD--DSM ὁ-RA--NSF γυνή-N3K-NSF αὐτός-RD--GSM μέχρι-P τίς-RI--GSN καρτερέω-VF--FAI2S λέγω-V1--PAPNSM
+\v 9 ἰδού-I ἀναμένω-V1--PAI1S χρόνος-N2--ASM ἔτι-D μικρός-A1A-ASM προςδέχομαι-V1--PMPNSM ὁ-RA--ASF ἐλπίς-N3D-ASF ὁ-RA--GSF σωτηρία-N1A-GSF ἐγώ-RP--GS
+\v 9 ἰδού-I γάρ-X ἀπο  ἀναἵζω-VT--XMI3S σύ-RP--GS ὁ-RA--NSN μνημόσυνον-N2N-NSN ἀπό-P ὁ-RA--GSF γῆ-N1--GSF υἱός-N2--NPM καί-C θυγάτηρ-N3--NPF ἐμός-A1--GSF κοιλία-N1A-GSF ὠδίν-N3--NPF καί-C πόνος-N2--NPM ὅς-RR--APM εἰς-P ὁ-RA--ASN κενός-A1--ASN κοπιάω-VAI-AAI1S μετά-P μόχθος-N2--GPM
+\v 9 σύ-RP--NS τε-X αὐτός-RD--NSM ἐν-P σαπρία-N1A-DSF σκώληξ-N3K-GPM καταἧμαι-V5--PMI2S διανυκτερεύω-V1--PAPNSM αἴθριος-A1B-NSM
+\v 9 καΐἐγώ-C+RPNS πλανῆτις-N3D-NSF καί-C λάτρις-N3--NSF τόπος-N2--ASM ἐκ-P τόπος-N2--GSM περιἔρχομαι-V1--PMPNSF καί-C οἰκία-N1A-ASF ἐκ-P οἰκία-N1A-GSF προςδέχομαι-V1--PMPNSF ὁ-RA--ASM ἥλιος-N2--ASM πότε-D δύω-VF--FMI3S ἵνα-C ἀναπαύω-VA--AMS1S ὁ-RA--GPM μόχθος-N2--GPM καί-C ὁ-RA--GPF ὀδύνη-N1--GPF ὅς-RR--NPF ἐγώ-RP--AS νῦν-D συνἔχω-V1--PAI3P
+\v 9 ἀλλά-C εἶπον-VBI-AAD2S τις-RI--ASN ῥῆμα-N3M-ASN εἰς-P κύριος-N2--ASM καί-C τελευτάω-V3--PAD2S
+\v 10 ὁ-RA--NSM δέ-X ἐνβλέπω-VA--AAPNSM εἶπον-VBI-AAI3S αὐτός-RD--DSF ὥσπερ-D εἷς-A1A-NSF ὁ-RA--GPF ἄφρων-A3N-GPF γυνή-N3K-GPF λαλέω-VAI-AAI2S εἰ-C ὁ-RA--APN ἀγαθός-A1--APN δέχομαι-VAI-AMI1P ἐκ-P χείρ-N3--GSF κύριος-N2--GSM ὁ-RA--APN κακός-A1--APN οὐ-D ὑποφέρω-VF--FAI1P ἐν-P πᾶς-A3--DPN οὗτος-RD--DPN ὁ-RA--DPN συνβαίνω-VX--XAPDPN αὐτός-RD--DSM οὐδείς-A3--ASN ἁμαρτάνω-VBI-AAI3S *ιωβ-N---NSM ὁ-RA--DPN χεῖλος-N3E-DPN ἐναντίον-P ὁ-RA--GSM θεός-N2--GSM
+\v 11 ἀκούω-VA--AAPNPM δέ-X ὁ-RA--NPM τρεῖς-A3--NPM φίλος-A1--NPM αὐτός-RD--GSM ὁ-RA--APN κακός-A1--APN πᾶς-A3--APN ὁ-RA--APN ἐπιἔρχομαι-VB--AAPAPN αὐτός-RD--DSM παραγίγνομαι-VBI-AMI3P ἕκαστος-A1--NSM ἐκ-P ὁ-RA--GSF ἴδιος-A1A-GSF χώρα-N1A-GSF πρός-P αὐτός-RD--ASM *ελιφας-N---NSM ὁ-RA--NSM *θαιμάν-N---GPM βασιλεύς-N3V-NSM *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχαῖος-N2--GPM τύραννος-N2--NSM *σωφαρ-N---NSM ὁ-RA--NSM *μιναῖος-N2--GPM βασιλεύς-N3V-NSM καί-C παραγίγνομαι-VBI-AMI3P πρός-P αὐτός-RD--ASM ὁμοθυμαδόν-D ὁ-RA--GSN παρακαλέω-VA--AAN καί-C ἐπισκέπτομαι-VA--AMN αὐτός-RD--ASM
+\v 12 ὁράω-VB--AAPNPM δέ-X αὐτός-RD--ASM πόρρωθεν-D οὐ-D ἐπιγιγνώσκω-VZI-AAI3P καί-C βοάω-VA--AAPNPM φωνή-N1--DSF μέγας-A1--DSF κλαίω-VAI-AAI3P ῥήγνυμι-VA--AAPNPM ἕκαστος-A1--NSM ὁ-RA--ASF ἑαυτοῦ-RD--GSM στολή-N1--ASF καί-C καταπάσσω-VA--AMPNPM γῆ-N1--ASF
+\v 13 παρα  καταἵζω-VAI-AAI3P αὐτός-RD--DSM ἑπτά-M ἡμέρα-N1A-APF καί-C ἑπτά-M νύξ-N3--APF καί-C οὐδείς-A3--NSM αὐτός-RD--GPM λαλέω-VAI-AAI3S ὁράω-V3I-IAI3P γάρ-X ὁ-RA--ASF πληγή-N1--ASF δεινός-A1--ASF εἰμί-V9--PAPASF καί-C μέγας-A1--ASF σφόδρα-D
+
+\c 3
+\p
+\v 1 μετά-P οὗτος-RD--ASN ἀναοἴγω-VAI-AAI3S *ιωβ-N---NSM ὁ-RA--ASN στόμα-N3M-ASN αὐτός-RD--GSM
+\v 2 καί-C καταἀράομαι-VAI-AMI3S ὁ-RA--ASF ἡμέρα-N1A-ASF αὐτός-RD--GSM λέγω-V1--PAPNSM
+\v 3 ἀποὀλλύω-VB--AMO3S ὁ-RA--NSF ἡμέρα-N1A-NSF ἐν-P ὅς-RR--DSF γεννάω-VCI-API1S καί-C ὁ-RA--NSF νύξ-N3--NSF ἐν-P ὅς-RR--DSF εἶπον-VAI-AAI3P ἰδού-I ἄρσην-A3--NSN
+\v 4 ὁ-RA--NSF ἡμέρα-N1A-NSF ἐκεῖνος-RD--NSF εἰμί-V9--PAO3S σκότος-N3E-ASN καί-C μή-D ἀναζητέω-VA--AAO3S αὐτός-RD--ASF ὁ-RA--NSM κύριος-N2--NSM ἄνωθεν-D μηδέ-C ἔρχομαι-VB--AAO3S εἰς-P αὐτός-RD--ASF φέγγος-N3E-NSN
+\v 5 ἐκλαμβάνω-VB--AAO3S δέ-X αὐτός-RD--ASF σκότος-N3E-NSN καί-C σκιά-N1A-NSF θάνατος-N2--GSM ἐπιἔρχομαι-VB--AAO3S ἐπί-P αὐτός-RD--ASF γνόφος-N2--NSM
+\v 6 καταἀράομαι-VC--APO3S ὁ-RA--NSF ἡμέρα-N1A-NSF καί-C ὁ-RA--NSF νύξ-N3--NSF ἐκεῖνος-RD--NSF ἀποφέρω-VA--AMO3S αὐτός-RD--ASF σκότος-N3E-NSN μή-D εἰμί-V9--PAO3S εἰς-P ἡμέρα-N1A-APF ἐνιαυτός-N2--GSM μηδέ-C ἀριθμέω-VC--APO3S εἰς-P ἡμέρα-N1A-APF μήν-N3--GPM
+\v 7 ἀλλά-C ὁ-RA--NSF νύξ-N3--NSF ἐκεῖνος-RD--NSF εἰμί-V9--PAO3S ὀδύνη-N1--NSF καί-C μή-D ἔρχομαι-VB--AAO3S ἐπί-P αὐτός-RD--ASF εὐφροσύνη-N1--NSF μηδέ-C χαρμονή-N1--NSF
+\v 8 ἀλλά-C καταἀράομαι-VA--AMO3S αὐτός-RD--ASF ὁ-RA--NSM καταράομαι-V3--PMPNSM ὁ-RA--ASF ἡμέρα-N1A-ASF ἐκεῖνος-RD--ASF ὁ-RA--NSM μέλλω-V1--PAPNSM ὁ-RA--ASN μέγας-A1P-ASN κῆτος-N3E-ASN χειρόομαι-VA--AMN
+\v 9 σκοτόω-VC--APO3S ὁ-RA--NPN ἄστρον-N2N-NPN ὁ-RA--GSF νύξ-N3--GSF ἐκεῖνος-RD--GSF ὑπομένω-VA--AAO3S καί-D εἰς-P φωτισμός-N2--ASM μή-D ἔρχομαι-VB--AAO3S καί-C μή-D ὁράω-VB--AAO3S ἑωσφόρος-N2--ASM ἀνατέλλω-V1--PAPASM
+\v 10 ὅτι-C οὐ-D συνκλείω-VAI-AAI3S πύλη-N1--APF γαστήρ-N3--GSF μήτηρ-N3--GSF ἐγώ-RP--GS ἀποἀλλάσσω-VAI-AAI3S γάρ-X ἄν-X πόνος-N2--ASM ἀπό-P ὀφθαλμός-N2--GPM ἐγώ-RP--GS
+\v 11 διά-P τίς-RI--ASN γάρ-X ἐν-P κοιλία-N1A-DSF οὐ-D τελευτάω-VAI-AAI1S ἐκ-P γαστήρ-N3--GSF δέ-X ἐκἔρχομαι-VBI-AAI1S καί-D οὐ-D εὐθύς-D ἀποὀλλύω-VBI-AMI1S
+\v 12 ἵνα-C τίς-RI--ASN δέ-X συνἀντάω-VAI-AAI3P ἐγώ-RP--DS γόνυ-N3--NPN ἵνα-C τίς-RI--ASN δέ-X μαστός-N2--APM θηλάζω-VSI-AAI1S
+\v 13 νῦν-D ἄν-X κοιμάω-VC--APPNSM ἡσυχάζω-VA--AAI1S ὑπνόω-VA--AAPNSM δέ-X ἀναπαύω-VAI-AMI1S
+\v 14 μετά-P βασιλεύς-N3V-GPM βουλευτής-N1M-GPM γῆ-N1--GSF ὅς-RR--NPM ἀγαυριάω-V3I-IMI3P ἐπί-P ξίφος-N3E-DPN
+\v 15 ἤ-C μετά-P ἄρχων-N3--GPM ὅς-RR--GPM πολύς-A3U-NSM ὁ-RA--NSM χρυσός-N2--NSM ὅς-RR--NPM πίμπλημι-VAI-AAI3P ὁ-RA--APM οἶκος-N2--APM αὐτός-RD--GPM ἀργύριον-N2N-GSN
+\v 16 ἤ-C ὥσπερ-D ἔκτρωμα-N3M-NSN ἐκπορεύομαι-V1--PMPNSM ἐκ-P μήτρα-N1A-GSF μήτηρ-N3--GSF ἤ-C ὥσπερ-D νήπιος-A1--NPM ὅς-RR--NPM οὐ-D ὁράω-VBI-AAI3P φῶς-N3T-ASN
+\v 17 ἐκεῖ-D ἀσεβής-A3H-NPM ἐκκαίω-VAI-AAI3P θυμός-N2--ASM ὀργή-N1--GSF ἐκεῖ-D ἀναπαύω-VAI-AMI3P κατάκοπος-A1B-NPM ὁ-RA--DSN σῶμα-N3M-DSN
+\v 18 ὁμοθυμαδόν-D δέ-X ὁ-RA--NPM αἰώνιος-A1B-NPM οὐ-D ἀκούω-VAI-AAI3P φωνή-N1--ASF φορολόγος-N2--GSM
+\v 19 μικρός-A1A-NSM καί-C μέγας-A1P-NSM ἐκεῖ-D εἰμί-V9--PAI3S καί-C θεράπων-N3--NSM οὐ-D δείδω-VX--XAPNSM ὁ-RA--ASM κύριος-N2--ASM αὐτός-RD--GSM
+\v 20 ἵνα-C τίς-RI--ASN γάρ-X δίδωμι-VM--XMI3S ὁ-RA--DPM ἐν-P πικρία-N1A-DSF φῶς-N3T-NSN ζωή-N1--NSF δέ-X ὁ-RA--DPF ἐν-P ὀδύνη-N1--DPF ψυχή-N1--DPF
+\v 21 ὅς-RR--NPM ὁμείρομαι-V1--PMI3P ὁ-RA--GSM θάνατος-N2--GSM καί-C οὐ-D τυγχάνω-V1--PAI3P ἀναὀρύσσω-V1--PAPNPM ὥσπερ-D θησαυρός-N2--APM
+\v 22 περιχαρής-A3H-NPM δέ-X γίγνομαι-VBI-AMI3P ἐάν-C κατατυγχάνω-VB--AAS3P
+\v 23 θάνατος-N2--NSM ἀνήρ-N3--DSM ἀνάπαυμα-N3M-NSN συνκλείω-VAI-AAI3S γάρ-X ὁ-RA--NSM θεός-N2--NSM κατά-P αὐτός-RD--GSM
+\v 24 πρό-P γάρ-X ὁ-RA--GPM σῖτος-N2--GPM ἐγώ-RP--GS στεναγμός-N2--NSM ἐγώ-RP--DS ἥκω-V1--PAI3S δακρύω-V1--PAI1S δέ-X ἐγώ-RP--NS συνἔχω-V1--PMPNSM φόβος-N2--DSM
+\v 25 φόβος-N2--NSM γάρ-X ὅς-RR--ASM φροντίζω-VAI-AAI1S ἔρχομαι-VBI-AAI3S ἐγώ-RP--DS καί-C ὅς-RR--ASM δείδω-VXI-YAI1S συνἀντάω-VAI-AAI3S ἐγώ-RP--DS
+\v 26 οὔτε-C εἰρηνεύω-VAI-AAI1S οὔτε-C ἡσυχάζω-VA--AAI1S οὔτε-C ἀναπαύω-VAI-AMI1S ἔρχομαι-VBI-AAI3S δέ-X ἐγώ-RP--DS ὀργή-N1--NSF
+
+\c 4
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιφας-N---NSM ὁ-RA--NSM *θαιμανίτης-N1M-NSM λέγω-V1--PAI3S
+\v 2 μή-D πολλάκις-D σύ-RP--DS λαλέω-VMI-XMI3S ἐν-P κόπος-N2--DSM ἰσχύς-N3U-ASF δέ-X ῥῆμα-N3M-GPN σύ-RP--GS τίς-RI--NSM ὑποφέρω-VF--FAI3S
+\v 3 εἰ-C γάρ-X σύ-RP--NS νουθετέω-VAI-AAI2S πολύς-A3U-APM καί-C χείρ-N3--APF ἀσθενής-A3H-APF παρακαλέω-VAI-AAI2S
+\v 4 ἀσθενέω-V2--PAPAPM τε-X ἐκ   ἀναἵστημι-VHI-AAI2S ῥῆμα-N3M-DPN γόνυ-N3--DPN τε-X ἀδυνατέω-V2--PAPDPN θάρσος-N3E-ASN περιτίθημι-VAI-AAI2S
+\v 5 νῦν-D δέ-X ἥκω-V1--PAI3S ἐπί-P σύ-RP--AS πόνος-N2--NSM καί-C ἅπτομαι-VAI-AMI3S σύ-RP--GS σύ-RP--NS δέ-X σπουδάζω-VAI-AAI2S
+\v 6 πότερον-D οὐ-D ὁ-RA--NSM φόβος-N2--NSM σύ-RP--GS εἰμί-V9--PAI3S ἐν-P ἀφροσύνη-N1--DSF καί-C ὁ-RA--NSF ἐλπίς-N3D-NSF σύ-RP--GS καί-C ὁ-RA--NSF ἀκακία-N1A-NSF ὁ-RA--GSF ὁδός-N2--GSF σύ-RP--GS
+\v 7 μιμνήσκω-VS--APD2S οὖν-X τίς-RI--NSM καθαρός-A1A-NSM εἰμί-V9--PAPNSM ἀποὀλλύω-VBI-AMI3S ἤ-C πότε-D ἀληθινός-A1--NPM ὁλόρριζος-A1B-NPM ἀποὀλλύω-VBI-AMI3P
+\v 8 κατά-P ὅς-RR--ASM τρόπος-N2--ASM ὁράω-VBI-AAI1S ὁ-RA--APM ἀροτριάω-V3--PAPAPM ὁ-RA--APN ἄτοπος-A1B-APN ὁ-RA--NPM δέ-X σπείρω-V1--PAPNPM αὐτός-RD--APN ὀδύνη-N1--APF θερίζω-VF2-FAI3P ἑαυτοῦ-RD--DPM
+\v 9 ἀπό-P πρόσταγμα-N3M-GSN κύριος-N2--GSM ἀποὀλλύω-VF2-FMI3P ἀπό-P δέ-X πνεῦμα-N3M-GSN ὀργή-N1--GSF αὐτός-RD--GSM ἀπο  ἀναἵζω-VS--FPI3P
+\v 10 σθένος-N3E-NSN λέων-N3--GSM φωνή-N1--NSF δέ-X λέαινα-N1S-GSF γαυρίαμα-N3M-NSN δέ-X δράκων-N3--GPM σβέννυμι-VSI-API3S
+\v 11 μυρμηκολέων-N3--NSM ὄλλυμι-VBI-AMI3S παρά-P ὁ-RA--ASN μή-D ἔχω-V1--PAN βορά-N1A-ASF σκύμνος-N2--NPM δέ-X λέων-N3--GPM λείπω-VBI-AAI3P ἀλλήλω-RD--APM
+\v 12 εἰ-C δέ-X τις-RI--NSN ῥῆμα-N3M-NSN ἀληθινός-A1--NSN γίγνομαι-VXI-YAI3S ἐν-P λόγος-N2--DPM σύ-RP--GS οὐδείς-A3--NSN ἄν-X σύ-RP--DS οὗτος-RD--GPN κακός-A1--NSN ἀποἀντάω-VAI-AAI3S πότερον-D οὐ-D δέχομαι-VF--FMI3S ἐγώ-RP--GS ὁ-RA--NSN οὖς-N3T-NSN ἐξαίσος-A1B-APN παρά-P αὐτός-RD--GSM
+\v 13 φόβος-N2--NPM δέ-X καί-C ἠχώ-N3--NSF νυκτερινός-A1--NSF ἐπιπίπτω-V1--PAPNSM φόβος-N2--NSM ἐπί-P ἄνθρωπος-N2--APM
+\v 14 φρίκη-N1--NSF δέ-X ἐγώ-RP--DS συνἀντάω-VAI-AAI3S καί-C τρόμος-N2--NSM καί-C μεγάλως-D ἐγώ-RP--GS ὁ-RA--NPN ὀστέον-N2N-NPN συνσείω-VAI-AAI3S
+\v 15 καί-C πνεῦμα-N3M-NSN ἐπί-P πρόσωπον-N2N-ASN ἐγώ-RP--GS ἐπιἔρχομαι-VBI-AAI3S φρίττω-VAI-AAI3P δέ-X ἐγώ-RP--GS θρίξ-N3--NPF καί-C σάρξ-N3K-NPF
+\v 16 ἀναἵστημι-VHI-AAI1S καί-C οὐ-D ἐπιγιγνώσκω-VZI-AAI1S ὁράω-VBI-AAI1S καί-C οὐ-D εἰμί-V9--IAI3S μορφή-N1--NSF πρό-P ὀφθαλμός-N2--GPM ἐγώ-RP--GS ἀλλά-C ἤ-C αὔρα-N1A-ASF καί-C φωνή-N1--ASF ἀκούω-V1I-IAI1S
+\v 17 τίς-RI--NSN γάρ-X μή-D καθαρός-A1A-NSM εἰμί-VF--FMI3S βροτός-N2--NSM ἐναντίον-P κύριος-N2--GSM ἤ-C ἀπό-P ὁ-RA--GPN ἔργον-N2N-GPN αὐτός-RD--GSM ἄμεμπτος-A1B-NSM ἀνήρ-N3--NSM
+\v 18 εἰ-C κατά-P παῖς-N3D-GPM αὐτός-RD--GSM οὐ-D πιστεύω-V1--PAI3S κατά-P δέ-X ἄγγελος-N2--GPM αὐτός-RD--GSM σκολιός-A1A-ASN τις-RI--ASN ἐπινοέω-VAI-AAI3S
+\v 19 ὁ-RA--APM δέ-X καταοἰκέω-V2--PAPAPM οἰκία-N1A-APF πήλινος-A1--APF ἐκ-P ὅς-RR--GPM καί-C αὐτός-RD--NPM ἐκ-P ὁ-RA--GSM αὐτός-RD--GSM πηλός-N2--GSM εἰμί-V9--PAI1P παίω-VAI-AAI3S αὐτός-RD--APM σής-N3T-GSM τρόπος-N2--ASM
+\v 20 καί-C ἀπό-P πρωίθεν-D ἕως-P ἑσπέρα-N1A-GSF οὐκέτι-D εἰμί-V9--PAI3P παρά-P ὁ-RA--ASN μή-D δύναμαι-V6--PMN αὐτός-RD--APM ἑαυτοῦ-RD--DPM βοηθέω-VA--AAN ἀποὀλλύω-VBI-AMI3P
+\v 21 ἐνφυσάω-VAI-AAI3S γάρ-X αὐτός-RD--DPM καί-C ξηραίνω-VCI-API3P ἀποὀλλύω-VBI-AMI3P παρά-P ὁ-RA--ASN μή-D ἔχω-V1--PAN αὐτός-RD--APM σοφία-N1A-ASF
+
+\c 5
+\p
+\v 1 ἐπικαλέω-VA--AMD2S δέ-X εἰ-C τις-RI--NSM σύ-RP--DS ὑποἀκούω-VF--FMI3S ἤ-C εἰ-C τις-RI--ASM ἄγγελος-N2--GPM ἅγιος-A1A-GPM ὁράω-VF--FMI2S
+\v 2 καί-C γάρ-X ἄφρων-A3N-ASM ἀνααἱρέω-V2--PAI3S ὀργή-N1--NSF πλανάω-VM--XPPASM δέ-X θανατόω-V4--PAI3S ζῆλος-N2--NSM
+\v 3 ἐγώ-RP--NS δέ-X ὁράω-VX--XAI1S ἄφρων-A3N-APM ῥίζα-N1S-ASF βάλλω-V1--PAPAPM ἀλλά-C εὐθέως-D βιβρώσκω-VCI-API3S αὐτός-RD--GPM ὁ-RA--NSF δίαιτα-N1S-NSF
+\v 4 πόρρω-D γίγνομαι-VB--AMO3P ὁ-RA--NPM υἱός-N2--NPM αὐτός-RD--GPM ἀπό-P σωτηρία-N1A-GSF κολαβρίζομαι-VS--APO3P δέ-X ἐπί-P θύρα-N1A-DPF ἥσσων-A3C-GPM καί-C οὐ-D εἰμί-VF--FMI3S ὁ-RA--NSM ἐκαἱρέω-V2--PMPNSM
+\v 5 ὅς-RR--APN γάρ-X ἐκεῖνος-RD--NPM συνἄγω-VBI-AAI3P δίκαιος-A1A-NPM ἐσθίω-VF--FMI3P αὐτός-RD--NPM δέ-X ἐκ-P κακός-A1--GPN οὐ-D ἐξαιρετός-A1--NPM εἰμί-VF--FMI3P ἐκσιφωνίζω-VS--APO3S αὐτός-RD--GPM ὁ-RA--NSF ἰσχύς-N3U-NSF
+\v 6 οὐ-D γάρ-X μή-D ἐκἔρχομαι-VB--AAS3S ἐκ-P ὁ-RA--GSF γῆ-N1--GSF κόπος-N2--NSM οὐδέ-C ἐκ-P ὄρος-N3E-GPN ἀναβλαστάνω-VF--FAI3S πόνος-N2--NSM
+\v 7 ἀλλά-C ἄνθρωπος-N2--NSM γεννάω-V3--PMI3S κόπος-N2--DSM νεοσσός-N2--NPM δέ-X γύψ-N3P-GSM ὁ-RA--APN ὑψηλός-A1--APN πέτομαι-V1--PMI3P
+\v 8 οὐ-D μήν-X δέ-X ἀλλά-C ἐγώ-RP--NS δέω-VC--FPI1S κύριος-N2--GSM κύριος-N2--ASM δέ-X ὁ-RA--ASM πᾶς-A3--GPM δεσπότης-N1M-ASM ἐπικαλέω-VF--FMI1S
+\v 9 ὁ-RA--ASM ποιέω-V2--PAPASM μέγας-A3--APN καί-C ἀνεξιχνίαστος-A1B-APN ἔνδοξος-A1B-APN τε-X καί-C ἐξαίσιος-A1B-APN ὅς-RR--GPN οὐ-D εἰμί-V9--PAI3S ἀριθμός-N2--NSM
+\v 10 ὁ-RA--ASM δίδωμι-V8--PAPASM ὑετός-N2--ASM ἐπί-P ὁ-RA--ASF γῆ-N1--ASF ἀποστέλλω-V1--PAPASM ὕδωρ-N3--ASN ἐπί-P ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM
+\v 11 ὁ-RA--ASM ποιέω-V2--PAPASM ταπεινός-A1--APM εἰς-P ὕψος-N3E-ASN καί-C ἀποὀλλύω-VX--XAPAPM ἐκἐγείρω-V1--PAPASM
+\v 12 διαἀλλάσσω-V1--PAPASM βουλή-N1--APF πανοῦργος-A1B-GPM καί-C οὐ-D μή-D ποιέω-VF--FAI3P ὁ-RA--NPF χείρ-N3--NPF αὐτός-RD--GPM ἀληθής-A3H-ASN
+\v 13 ὁ-RA--NSM καταλαμβάνω-V1--PAPNSM σοφός-A1--APM ἐν-P ὁ-RA--DSF φρόνησις-N3I-DSF βουλή-N1--ASF δέ-X πολύπλοκος-A1B-GPM ἐκἵστημι-VHI-AAI3S
+\v 14 ἡμέρα-N1A-GSF συνἀντάω-VF--FMI3S αὐτός-RD--DPM σκότος-N3E-NSN ὁ-RA--ASN δέ-X μεσημβρινός-A1A-ASN ψηλαφάω-VA--AAO3P ἴσος-D νύξ-N3--DSF
+\v 15 ἀποὀλλύω-VB--AMO3P δέ-X ἐν-P πόλεμος-N2--DSM ἀδύνατος-A1B-NSM δέ-X ἐκἔρχομαι-VB--AAO3S ἐκ-P χείρ-N3--GSF δυνάστης-N1M-GSM
+\v 16 εἰμί-V9--PAO3S δέ-X ἀδύνατος-A1B-DSM ἐλπίς-N3D-NSF ἄδικος-A1B-GSM δέ-X στόμα-N3M-NSN ἐνφράσσω-VC--APO3S
+\v 17 μακάριος-A1A-NSM δέ-X ἄνθρωπος-N2--NSM ὅς-RR--ASM ἐλέγχω-VAI-AAI3S ὁ-RA--NSM κύριος-N2--NSM νουθέτημα-N3M-ASN δέ-X παντοκράτωρ-N3R-GSM μή-D ἀπο  ἀνααἰνέω-V2--PMD2S
+\v 18 αὐτός-RD--NSM γάρ-X ἀλγέω-V2--PAN ποιέω-V2--PAI3S καί-C πάλιν-D ἀπο  καταἵστημι-V6--PAI3S παίω-VAI-AAI3S καί-C ὁ-RA--NPF χείρ-N3--NPF αὐτός-RD--GSM ἰάομαι-VAI-AMI3P
+\v 19 ἑξάκις-D ἐκ-P ἀνάγκη-N1--GPF σύ-RP--AS ἐκαἱρέω-VF2-FMI3S ἐν-P δέ-X ὁ-RA--DSM ἕβδομος-A1--DSM οὐ-D μή-D ἅπτομαι-VA--AMS3S σύ-RP--GS κακός-A1--NSN
+\v 20 ἐν-P λιμός-N2--DSM ῥύομαι-VF--FMI3S σύ-RP--AS ἐκ-P θάνατος-N2--GSM ἐν-P πόλεμος-N2--DSM δέ-X ἐκ-P χείρ-N3--GSF σίδηρος-N2--GSM λύω-VF--FAI3S σύ-RP--AS
+\v 21 ἀπό-P μάστιξ-N3G-GSF γλῶσσα-N1S-GSF σύ-RP--AS κρύπτω-VF--FAI3S καί-C οὐ-D μή-D φοβέω-VC--APS2S ἀπό-P κακός-A1--GPN ἔρχομαι-V1--PMPGPN
+\v 22 ἄδικος-A1B-GPM καί-C ἄνομος-A1B-GPM καταγελάω-VF--FMI2S ἀπό-P δέ-X θηρίον-N2N-GPN ἄγριος-A1A-GPN οὐ-D μή-D φοβέω-VC--APS2S
+\v 23 θήρ-N3R-NPM γάρ-X ἄγριος-A1A-NPM εἰρηνεύω-VF--FAI3P σύ-RP--DS
+\v 24 εἶτα-D γιγνώσκω-VF--FMI2S ὅτι-C εἰρηνεύω-VF--FAI3S σύ-RP--GS ὁ-RA--NSM οἶκος-N2--NSM ὁ-RA--NSF δέ-X δίαιτα-N1S-NSF ὁ-RA--GSF σκηνή-N1--GSF σύ-RP--GS οὐ-D μή-D ἁμαρτάνω-VB--AAS3S
+\v 25 γιγνώσκω-VF--FMI2S δέ-X ὅτι-C πολύς-A3U-NSN ὁ-RA--NSN σπέρμα-N3M-NSN σύ-RP--GS ὁ-RA--NPN δέ-X τέκνον-N2N-NPN σύ-RP--GS εἰμί-VF--FMI3S ὥσπερ-D ὁ-RA--NSN παμβότανον-N2N-NSN ὁ-RA--GSM ἀγρός-N2--GSM
+\v 26 ἔρχομαι-VF--FMI2S δέ-X ἐν-P τάφος-N2--DSM ὥσπερ-D σῖτος-N2--NSM ὥριμος-A1B-NSN κατά-P καιρός-N2--ASM θερίζω-V1--PPPNSM ἤ-C ὥσπερ-D θιμωνιά-N1A-NSF ἅλων-N3W-GSF κατά-P ὥρα-N1A-ASF συνκομίζω-VS--APPNSF
+\v 27 ἰδού-I οὗτος-RD--APN οὕτως-D ἐκἰχνιάζω-VAI-AAI1P οὗτος-RD--APN εἰμί-V9--PAI3S ὅς-RR--APN ἀκούω-VX--XAI1P σύ-RP--NS δέ-X γιγνώσκω-VZ--AAD2S σεαυτοῦ-RD--DSM εἰ-C τις-RI--ASN πράσσω-VAI-AAI2S
+
+\c 6
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 εἰ-C γάρ-X τις-RI--NSM ἵστημι-V6--PAPNSM ἵστημι-VA--AAO3S ἐγώ-RP--GS ὁ-RA--ASF ὀργή-N1--ASF ὁ-RA--APF δέ-X ὀδύνη-N1--APF ἐγώ-RP--GS αἴρω-VA--AAN ἐν-P ζυγός-N2--DSM ὁμοθυμαδόν-D
+\v 3 καί-C δή-X ἄμμος-N2--GSF παράλιος-A1A-GSF βαρύς-A1A-APNC εἰμί-VF--FMI3S ἀλλά-C ὡς-C ἔοικα-VX--XAI3S ὁ-RA--NPN ῥῆμα-N3M-NPN ἐγώ-RP--GS εἰμί-V9--PAI3S φαῦλος-A1--NPN
+\v 4 βέλος-N3E-NPN γάρ-X κύριος-N2--GSM ἐν-P ὁ-RA--DSN σῶμα-N3M-DSN ἐγώ-RP--GS εἰμί-V9--PAI3S ὅς-RR--GPN ὁ-RA--NSM θυμός-N2--NSM αὐτός-RD--GPN ἐκπίνω-V1--PAI3S ἐγώ-RP--GS ὁ-RA--ASN αἷμα-N3M-ASN ὅταν-D ἄρχω-VA--AMS1S λαλέω-V2--PAN κεντέω-V2--PAI3P ἐγώ-RP--AS
+\v 5 τίς-RI--NSN γάρ-X μή-D διά-P κενός-A1--GSF κράζω-VFX-FMI3S ὄνος-N2--NSM ἄγριος-A1A-NSM ἀλλά-C ἤ-C ὁ-RA--APN σῖτος-N2--APN ζητέω-V2--PAPNSM εἰ-C δέ-X καί-C ῥήγνυμι-VF--FAI3S φωνή-N1--ASF βοῦς-N3--NSF ἐπί-P φάτνη-N1--GSF ἔχω-V1--PAPNSM ὁ-RA--APN βρῶμα-N3M-APN
+\v 6 εἰ-C βιβρώσκω-VC--FPI3S ἄρτος-N2--NSM ἄνευ-P ἅλς-N3--GSM εἰ-C δέ-X καί-C εἰμί-V9--PAI3S γεῦμα-N3M-NSN ἐν-P ῥῆμα-N3M-DPN κενός-A1--DPN
+\v 7 οὐ-D δύναμαι-V6--PMI3S γάρ-X παύω-VA--AMN ἐγώ-RP--GS ὁ-RA--NSF ψυχή-N1--NSF βρόμος-N2--ASM γάρ-X ὁράω-V3--PAI1S ὁ-RA--APN σῖτος-N2--APN ἐγώ-RP--GS ὥσπερ-D ὀσμή-N1--ASF λέων-N3--GSM
+\v 8 εἰ-C γάρ-X δίδωμι-VO--AAO3S καί-C ἔρχομαι-VB--AAO3S ἐγώ-RP--GS ὁ-RA--NSF αἴτησις-N3I-NSF καί-C ὁ-RA--ASF ἐλπίς-N3D-ASF ἐγώ-RP--GS δίδωμι-VO--AAO3S ὁ-RA--NSM κύριος-N2--NSM
+\v 9 ἄρχω-VA--AMPNSM ὁ-RA--NSM κύριος-N2--NSM τιτρώσκω-VA--AAD3S ἐγώ-RP--AS εἰς-P τέλος-N3E-ASN δέ-X μή-D ἐγώ-RP--AS ἀνααἱρέω-VB--AAD3S
+\v 10 εἰμί-V9--PAO3S δέ-X ἐγώ-RP--GS πόλις-N3I-NSF τάφος-N2--NSM ἐπί-P ὅς-RR--GSF ἐπί-P τεῖχος-N3E-GPN ἅλλομαι-V1I-IMI1S ἐπί-P αὐτός-RD--GSF οὐ-D μή-D φείδομαι-VA--AMS1S οὐ-D γάρ-X ψεύδω-VSI-AMI1S ῥῆμα-N3M-APN ἅγιος-A1A-APN θεός-N2--GSM ἐγώ-RP--GS
+\v 11 τίς-RI--NSM γάρ-X ἐγώ-RP--GS ὁ-RA--NSF ἰσχύς-N3U-NSF ὅτι-C ὑπομένω-V1--PAI1S ἤ-C τίς-RI--NSM ἐγώ-RP--GS ὁ-RA--NSM χρόνος-N2--NSM ὅτι-C ἀναἔχω-V1--PMI3S ἐγώ-RP--GS ὁ-RA--NSF ψυχή-N1--NSF
+\v 12 μή-D ἰσχύς-N3U-NSF λίθος-N2--GPM ὁ-RA--NSF ἰσχύς-N3U-NSF ἐγώ-RP--GS ἤ-C ὁ-RA--NPF σάρξ-N3K-NPF ἐγώ-RP--GS εἰμί-V9--PAI3P χάλκειος-A1A-NPF
+\v 13 ἦ-D οὐ-D ἐπί-P αὐτός-RD--DSM πείθω-VXI-YAI1S βοήθεια-N1A-NSF δέ-X ἀπό-P ἐγώ-RP--GS ἀποεἰμί-V9--PAI3S
+\v 14 ἀποεἶπον-VAI-AMI3S ἐγώ-RP--AS ἔλεος-N3E-ASN ἐπισκοπή-N1--NSF δέ-X κύριος-N2--GSM ὑπερὁράω-VBI-AAI3S ἐγώ-RP--AS
+\v 15 οὐ-D προςὁράω-VBI-AAI3P ἐγώ-RP--AS ὁ-RA--NPM ἐγγύς-A1--NPMS ἐγώ-RP--GS ὥσπερ-D χειμάρρους-N2--ASM ἐκλείπω-V1--PAPNSM ἤ-C ὥσπερ-D κῦμα-N3M-NSN παραἔρχομαι-VBI-AAI3P ἐγώ-RP--AS
+\v 16 ὅστις-RX--NPM ἐγώ-RP--AS διαεὐλαβέομαι-V1--IMI3P νῦν-D ἐπιπίπτω-VX--XAI3P ἐγώ-RP--DS ὥσπερ-D χιών-N3N-NSF ἤ-C κρυστάλλος-N2--NSM πήγνυμι-VX--XAPNSM
+\v 17 καθώς-D τήκω-VD--APPNSM θερμός-A1--GSF γίγνομαι-VB--AMPGSF οὐ-D ἐπιγιγνώσκω-VZI-API3S ὅσπερ-RR--NSN εἰμί-V9--IAI3S
+\v 18 οὕτως-D καΐἐγώ-C+RPNS καταλείπω-VVI-API1S ὑπό-P πᾶς-A3--GPM ἀποὀλλύω-VBI-AMI1S δέ-X καί-C ἔξοικος-A1B-NSM γίγνομαι-VBI-AMI1S
+\v 19 ὁράω-VB--AAD2P ὁδός-N2--APF *θαιμάν-N---GPM ἀτραπός-N2--APF *σαβαι-N---GPM ὁ-RA--NPM διαὁράω-V3--PAPNPM
+\v 20 καί-C αἰσχύνη-N1--ASF ὀφείλω-VF--FAI3P ὁ-RA--NPM ἐπί-P πόλις-N3I-DPF καί-C χρῆμα-N3M-DPN πείθω-VX--XAPNPM
+\v 21 ἀτάρ-C δέ-X καί-C σύ-RP--NP ἐπιβαίνω-VZI-AAI2P ἐγώ-RP--DS ἀνελεημόνως-D ὥστε-C ὁράω-VB--AAPNPM ὁ-RA--ASN ἐμός-A1--ASN τραῦμα-N3M-ASN φοβέω-VC--APS2P
+\v 22 τίς-RI--NSN γάρ-X μή-D τις-RI--ASN σύ-RP--AP αἰτέω-VAI-AAI1S ἤ-C ὁ-RA--GSF παρά-P σύ-RP--GP ἰσχύς-N3U-GSF ἐπιδέω-V2--PMI1S
+\v 23 ὥστε-C σώζω-VA--AAN ἐγώ-RP--AS ἐκ-P ἐχθρός-N2--GPM ἤ-C ἐκ-P χείρ-N3--GSF δυνάστης-N1M-GPM ῥύομαι-VA--AMN ἐγώ-RP--AS
+\v 24 διδάσκω-VA--AAD2P ἐγώ-RP--AS ἐγώ-RP--NS δέ-X κωφεύω-VF--FAI1S εἰ-C τις-RI--ASN πλανάω-VM--XPI1S φράζω-VA--AAD2P ἐγώ-RP--DS
+\v 25 ἀλλά-C ὡς-C ἔοικα-VX--XAI3S φαῦλος-A1--NPN ἀληθινός-A1--GSM ῥῆμα-N3M-NPN οὐ-D γάρ-X παρά-P σύ-RP--GP ἰσχύς-N3U-ASF αἰτέω-V2--PMI1S
+\v 26 οὐδέ-C ὁ-RA--NSM ἔλεγχος-N2--NSM σύ-RP--GP ῥῆμα-N3M-DPN ἐγώ-RP--AS παύω-VF--FAI3S οὐδέ-C γάρ-X σύ-RP--GP φθέγμα-N3M-ASN ῥῆμα-N3M-GSN ἀναἔχω-VF--FMI1S
+\v 27 πλήν-D ὅτι-C ἐπί-P ὀρφανός-A1--DSM ἐπιπίπτω-V1--PAI2P ἐνἅλλομαι-V1--PMI2P δέ-X ἐπί-P φίλος-A1--DSM σύ-RP--GP
+\v 28 νυνί-D δέ-X εἰςβλέπω-VA--AAPNSM εἰς-P πρόσωπον-N2N-APN σύ-RP--GP οὐ-D ψεύδω-VF--FMI1S
+\v 29 καταἵζω-VA--AAD2P δή-X καί-C μή-D εἰμί-V9--PAO3S ἄδικος-A1B-NSN καί-C πάλιν-D ὁ-RA--DSM δίκαιος-A1A-DSM συνἔρχομαι-V1--PMI2P
+\v 30 οὐ-D γάρ-X εἰμί-V9--PAI3S ἐν-P γλῶσσα-N1S-DSF ἐγώ-RP--GS ἄδικος-A1B-NSN ἤ-C ὁ-RA--NSM λάρυγξ-N3G-NSM ἐγώ-RP--GS οὐ-D σύνεσις-N3I-ASF μελετάω-V3--PAI3S
+
+\c 7
+\p
+\v 1 πότερον-D οὐ-D πειρατήριον-N2N-NSN εἰμί-V9--PAI3S ὁ-RA--NSM βίος-N2--NSM ἄνθρωπος-N2--GSM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF καί-C ὥσπερ-D μίσθιος-A1A-GSM αὐθημερινός-A1B-GSM ὁ-RA--NSF ζωή-N1--NSF αὐτός-RD--GSM
+\v 2 ἤ-C ὥσπερ-D θεράπων-N3--NSM δείδω-VX--XAPNSM ὁ-RA--ASM κύριος-N2--ASM αὐτός-RD--GSM καί-C τυγχάνω-VX--XAPNSM σκιά-N1A-GSF ἤ-C ὥσπερ-D μισθωτός-A1--NSM ἀναμένω-V1--PAPNSM ὁ-RA--ASM μισθός-N2--ASM αὐτός-RD--GSM
+\v 3 οὕτως-D καΐἐγώ-C+RPNS ὑπομένω-VAI-AAI1S μήν-N3--APM κενός-A1--APM νύξ-N3--NPF δέ-X ὀδύνη-N1--GPF δίδωμι-VM--XPPNPF ἐγώ-RP--DS εἰμί-V9--PAI3P
+\v 4 ἐάν-C κοιμάω-VC--APS1S λέγω-V1--PAI1S πότε-D ἡμέρα-N1A-NSF ὡς-C δέ-X ἄν-X ἀναἵστημι-VH--AAS1S πάλιν-D πότε-D ἑσπέρα-N1A-NSF πλήρης-A3H-NSM δέ-X γίγνομαι-V1--PMI1S ὀδύνη-N1--GPF ἀπό-P ἑσπέρα-N1A-GSF ἕως-P πρωΐ-D
+\v 5 φύρομαι-V1--PPI3S δέ-X ἐγώ-RP--GS ὁ-RA--NSN σῶμα-N3M-NSN ἐν-P σαπρία-N1A-DSF σκώληξ-N3K-GPM τήκω-V1--PAI1S δέ-X βῶλαξ-N3K-APF γῆ-N1--GSF ἀπό-P ἰχώρ-N3--GSM ξύω-V1--PAPNSM
+\v 6 ὁ-RA--NSM δέ-X βίος-N2--NSM ἐγώ-RP--GS εἰμί-V9--PAI3S ἐλαφρός-A1--NSMC λαλιά-N1A-GSF ἀποὀλλύω-VX--XAI3S δέ-X ἐν-P κενός-A1--DSF ἐλπίς-N3D-DSF
+\v 7 μιμνήσκω-VS--APD2S οὖν-X ὅτι-C πνεῦμα-N3M-NSN ἐγώ-RP--GS ὁ-RA--NSF ζωή-N1--NSF καί-C οὐκέτι-D ἐπι  ἀναἔρχομαι-VF--FMI3S ὁ-RA--NSM ὀφθαλμός-N2--NSM ἐγώ-RP--GS ὁράω-VB--AAN ἀγαθός-A1--ASN
+\v 8 οὐ-D περιβλέπω-VF--FMI3S ἐγώ-RP--AS ὀφθαλμός-N2--NSM ὁράω-V3--PAPGSM ἐγώ-RP--AS ὁ-RA--NPM ὀφθαλμός-N2--NPM σύ-RP--GS ἐν-P ἐγώ-RP--DS καί-C οὐκέτι-D εἰμί-V9--PAI1S
+\v 9 ὥσπερ-D νέφος-N3E-NSN ἀπο  κατααἴρω-VC--APPNSN ἀπό-P οὐρανός-N2--GSM ἐάν-C γάρ-X ἄνθρωπος-N2--NSM καταβαίνω-VZ--AAS3S εἰς-P ᾅδης-N1M-ASM οὐκέτι-D μή-D ἀναβαίνω-VZ--AAS3S
+\v 10 οὐδέ-C οὐ-D μή-D ἐπιστρέφω-VA--AAS3S ἔτι-D εἰς-P ὁ-RA--ASM ἴδιος-A1A-ASM οἶκος-N2--ASM οὐδέ-C μή-D ἐπιγιγνώσκω-VZ--AAS3S αὐτός-RD--ASM ἔτι-D ὁ-RA--NSM τόπος-N2--NSM αὐτός-RD--GSM
+\v 11 ἀτάρ-C οὖν-X οὐδέ-C ἐγώ-RP--NS φείδομαι-VF--FMI1S ὁ-RA--DSN στόμα-N3M-DSN ἐγώ-RP--GS λαλέω-VF--FAI1S ἐν-P ἀνάγκη-N1--DSF εἰμί-V9--PAPNSM ἀναοἴγω-VF--FAI1S πικρία-N1A-ASF ψυχή-N1--GSF ἐγώ-RP--GS συνἔχω-V1--PMPNSM
+\v 12 πότερον-D θάλασσα-N1S-NSF εἰμί-V9--PAI1S ἤ-C δράκων-N3--NSM ὅτι-C κατατάσσω-VAI-AAI2S ἐπί-P ἐγώ-RP--AS φυλακή-N1--ASF
+\v 13 εἶπον-VAI-AAI1S ὅτι-C παρακαλέω-VF--FAI3S ἐγώ-RP--AS ὁ-RA--NSF κλίνη-N1--NSF ἐγώ-RP--GS ἀναφέρω-VF--FAI1S δέ-X πρός-P ἐμαυτοῦ-RD--ASM ἴδιος-A1A-DSF λόγος-N2--ASM ὁ-RA--DSF κοίτη-N1--DSF ἐγώ-RP--GS
+\v 14 ἐκφοβέω-V2--PAI2S ἐγώ-RP--AS ἐνύπνιον-N2N-DPN καί-C ἐν-P ὅραμα-N3M-DPN ἐγώ-RP--AS καταπλήσσω-V1--PAI2S
+\v 15 ἀποἀλλάσσω-VF--FAI2S ἀπό-P πνεῦμα-N3M-GSN ἐγώ-RP--GS ὁ-RA--ASF ψυχή-N1--ASF ἐγώ-RP--GS ἀπό-P δέ-X θάνατος-N2--GSM ὁ-RA--APN ὀστέον-N2N-APN ἐγώ-RP--GS
+\v 16 οὐ-D γάρ-X εἰς-P ὁ-RA--ASM αἰών-N3W-ASM ζάω-VF--FMI1S ἵνα-C μακροθυμέω-VA--AAS1S ἀποἵστημι-VH--AAD2S ἀπό-P ἐγώ-RP--GS κενός-A1--NSM γάρ-X ἐγώ-RP--GS ὁ-RA--NSM βίος-N2--NSM
+\v 17 τίς-RI--NSN γάρ-X εἰμί-V9--PAI3S ἄνθρωπος-N2--NSM ὅτι-C μεγαλύνω-VAI-AAI2S αὐτός-RD--ASM ἤ-C ὅτι-C προςἔχω-V1--PAI2S ὁ-RA--ASM νοῦς-N3E-ASM εἰς-P αὐτός-RD--ASM
+\v 18 ἤ-C ἐπισκοπή-N1--ASF αὐτός-RD--GSM ποιέω-VF--FMI2S ἕως-P ὁ-RA--ASN πρωΐ-D καί-C εἰς-P ἀνάπαυσις-N3I-ASF αὐτός-RD--ASM κρίνω-VF2-FAI2S
+\v 19 ἕως-P τίς-RI--GSN οὐ-D ἐάω-V3--PAI2S ἐγώ-RP--AS οὐδέ-C προἵημι-V6--PMI2S ἐγώ-RP--AS ἕως-C ἄν-X καταπίνω-VB--AAS1S ὁ-RA--ASM πτύελος-N2--ASM ἐγώ-RP--GS ἐν-P ὀδύνη-N1--DSF
+\v 20 εἰ-C ἐγώ-RP--NS ἁμαρτάνω-VBI-AAI1S τίς-RI--ASN δύναμαι-V6--PMI1S σύ-RP--DS πράσσω-VA--AAN ὁ-RA--NSM ἐπιἵστημι-V6--PMPNSM ὁ-RA--ASM νοῦς-N3E-ASM ὁ-RA--GPM ἄνθρωπος-N2--GPM διά-P τίς-RI--ASN τίθημι-VEI-AMI2S ἐγώ-RP--AS κατεντευκτής-N1M-ASM σύ-RP--GS εἰμί-V9--PAI1S δέ-X ἐπί-P σύ-RP--DS φορτίον-N2N-ASN
+\v 21 καί-C διά-P τίς-RI--ASN οὐ-D ποιέω-VAI-AMI2S ὁ-RA--GSF ἀνομία-N1A-GSF ἐγώ-RP--GS λήθη-N1--ASF καί-C καθαρισμός-N2--ASM ὁ-RA--GSF ἁμαρτία-N1A-GSF ἐγώ-RP--GS νυνί-D δέ-X εἰς-P γῆ-N1--ASF ἀποἔρχομαι-VF--FMI1S ὀρθρίζω-V1--PAPNSM δέ-X οὐκέτι-D εἰμί-V9--PAI1S
+
+\c 8
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχίτης-N1M-NSM λέγω-V1--PAI3S
+\v 2 μέχρι-P τίς-RI--GSN λαλέω-VF--FAI2S οὗτος-RD--APN πνεῦμα-N3M-NSN πολυρρήμων-A3--NSN ὁ-RA--GSN στόμα-N3M-GSN σύ-RP--GS
+\v 3 μή-D ὁ-RA--NSM κύριος-N2--NSM ἀδικέω-VF--FAI3S κρίνω-V1--PAPNSM ἤ-C ὁ-RA--NSM ὁ-RA--APN πᾶς-A3--APN ποιέω-VA--AAPNSM ταράσσω-VF--FAI3S ὁ-RA--ASN δίκαιος-A1A-ASN
+\v 4 εἰ-C ὁ-RA--NPM υἱός-N2--NPM σύ-RP--GS ἁμαρτάνω-VBI-AAI3P ἐναντίον-P αὐτός-RD--GSM ἀποστέλλω-VAI-AAI3S ἐν-P χείρ-N3--DSF ἀνομία-N1A-GSF αὐτός-RD--GPM
+\v 5 σύ-RP--NS δέ-X ὀρθρίζω-V1--PAD2S πρός-P κύριος-N2--ASM παντοκράτωρ-N3R-ASM δέω-V2--PMPNSM
+\v 6 εἰ-C καθαρός-A1A-NSM εἰμί-V9--PAI2S καί-C ἀληθινός-A1--NSM δέησις-N3I-GSF ἐπιἀκούω-VF--FMI3S σύ-RP--GS ἀπο  καταἵστημι-VF--FAI3S δέ-X σύ-RP--DS δίαιτα-N1S-ASF δικαιοσύνη-N1--GSF
+\v 7 εἰμί-VF--FMI3S οὖν-X ὁ-RA--NPN μέν-X πρῶτος-A1--NPNS σύ-RP--GS ὀλίγος-A1--NPN ὁ-RA--NPN δέ-X ἔσχατος-A1--NPN σύ-RP--GS ἀμύθητος-A1B-NPN
+\v 8 ἐπιἐρωτάω-VA--AAD2S γάρ-X γενεά-N1A-ASF πρῶτος-A1--ASFS ἐκἰχνιάζω-VA--AAD2S δέ-X κατά-P γένος-N3E-ASN πατήρ-N3--GPM
+\v 9 χθιζός-A1--NPM γάρ-X εἰμί-V9--PAI1P καί-C οὐ-D οἶδα-VX--XAI1P σκιά-N1A-NSF γάρ-X εἰμί-V9--PAI3S ἐγώ-RP--GP ἐπί-P ὁ-RA--GSF γῆ-N1--GSF ὁ-RA--NSM βίος-N2--NSM
+\v 10 ἦ-D οὐ-D οὗτος-RD--NPM σύ-RP--AS διδάσκω-VF--FAI3P καί-C ἀναἀγγέλλω-VF2-FAI3P καί-C ἐκ-P καρδία-N1A-GSF ἐκἄγω-VF--FAI3P ῥῆμα-N3M-APN
+\v 11 μή-D θάλλω-V1--PAI3S πάπυρος-N2--NSM ἄνευ-P ὕδωρ-N3T-GSN ἤ-C ὑψόω-VC--FPI3S βούτομον-N2N-NSN ἄνευ-P πότος-N2--GSM
+\v 12 ἔτι-D εἰμί-V9--PAPNSN ἐπί-P ῥίζα-N1S-GSF καί-C οὐ-D μή-D θερίζω-VS--APS3S πρό-P ὁ-RA--GSN πίνω-VB--AAN πᾶς-A1S-NSF βοτάνη-N1--NSF οὐ-D ξηραίνω-V1--PPI3S
+\v 13 οὕτως-D τοίνυν-X εἰμί-VF--FMI3S ὁ-RA--NPN ἔσχατος-A1--NPN πᾶς-A3--GPM ὁ-RA--GPM ἐπιλανθάνω-V1--PMPGPM ὁ-RA--GSM κύριος-N2--GSM ἐλπίς-N3D-NSF γάρ-X ἀσεβής-A3H-GSM ἀποὀλλύω-VF2-FMI3S
+\v 14 ἀοίκητος-A1B-NSM γάρ-X αὐτός-RD--GSM εἰμί-VF--FMI3S ὁ-RA--NSM οἶκος-N2--NSM ἀράχνη-N1--NSF δέ-X αὐτός-RD--GSM ἀποβαίνω-VF--FMI3S ὁ-RA--NSF σκηνή-N1--NSF
+\v 15 ἐάν-C ὑποἐρείδω-VA--AAS3S ὁ-RA--ASF οἰκία-N1A-ASF αὐτός-RD--GSM οὐ-D μή-D ἵστημι-VH--AAS3S ἐπιλαμβάνω-VB--AMPGSM δέ-X αὐτός-RD--GSM οὐ-D μή-D ὑπομένω-VA--AAS3S
+\v 16 ὑγρός-A1A-NSM γάρ-X εἰμί-V9--PAI3S ὑπό-P ἥλιος-N2--GSM καί-C ἐκ-P σαπρία-N1A-GSF αὐτός-RD--GSM ὁ-RA--NSM ῥάδαμνος-N2--NSM αὐτός-RD--GSM ἐκἔρχομαι-VF--FMI3S
+\v 17 ἐπί-P συναγωγή-N1--ASF λίθος-N2--GPM κοιμάω-V3--PMI3S ἐν-P δέ-X μέσος-A1--DSN χάλιξ-N3K-GPM ζάω-VF--FMI3S
+\v 18 ἐάν-C καταπίνω-VA--AAS3S ὁ-RA--NSM τόπος-N2--NSM ψεύδω-VF--FMI3S αὐτός-RD--ASM οὐ-D ὁράω-VX--XAI2S τοιοῦτος-A1--APN
+\v 19 ὅτι-C καταστροφή-N1--NSF ἀσεβής-A3H-GSM τοιοῦτος-A1--NSF ἐκ-P δέ-X γῆ-N1--GSF ἄλλος-RD--ASM ἀναβλαστάνω-VF--FAI3S
+\v 20 ὁ-RA--NSM γάρ-X κύριος-N2--NSM οὐ-D μή-D ἀποποιέω-VA--AMS3S ὁ-RA--ASM ἄκακος-A1B-ASM πᾶς-A3--ASN δέ-X δῶρον-N2N-ASN ἀσεβής-A3H-GSM οὐ-D δέχομαι-VF--FMI3S
+\v 21 ἀληθινός-A1--GPM δέ-X στόμα-N3M-ASN ἐνπίμπλημι-VF--FAI3S γέλως-N3T-GSM ὁ-RA--APN δέ-X χεῖλος-N3E-APN αὐτός-RD--GPM ἐξομολόγησις-N3I-GSF
+\v 22 ὁ-RA--NPM δέ-X ἐχθρός-N2--NPM αὐτός-RD--GPM ἐνδύω-VF--FMI3P αἰσχύνη-N1--ASF δίαιτα-N1S-NSF δέ-X ἀσεβής-A3H-GSM οὐ-D εἰμί-VF--FMI3S
+
+\c 9
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 ἐπί-P ἀλήθεια-N1A-GSF οἶδα-VX--XAI1S ὅτι-C οὕτως-D εἰμί-V9--PAI3S πῶς-D γάρ-X εἰμί-VF--FMI3S δίκαιος-A1A-NSM βροτός-N2--NSM παρά-P κύριος-N2--DSM
+\v 3 ἐάν-C γάρ-X βούλομαι-V1--PMS3S κρίνω-VC--APN αὐτός-RD--DSM οὐ-D μή-D ὑποἀκούω-VA--AAS3S αὐτός-RD--DSM ἵνα-C μή-D ἀντιεἶπον-VB--AAS3S πρός-P εἷς-A3--ASM λόγος-N2--ASM αὐτός-RD--GSM ἐκ-P χίλιοι-A1A-GPM
+\v 4 σοφός-A1--NSM γάρ-X εἰμί-V9--PAI3S διάνοια-N1A-DSF κραταιός-A1A-NSM τε-X καί-C μέγας-A1P-NSM τίς-RI--NSM σκληρός-A1A-NSM γίγνομαι-VB--AMPNSM ἐναντίον-P αὐτός-RD--GSM ὑπομένω-VAI-AAI3S
+\v 5 ὁ-RA--NSM παλαιόω-V4--PAPGPM ὄρος-N3E-APN καί-C οὐ-D οἶδα-VX--XAI3P ὁ-RA--NSM καταστρέφω-V1--PAPNSM αὐτός-RD--APN ὀργή-N1--DSF
+\v 6 ὁ-RA--NSM σείω-V1--PAPNSM ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM ἐκ-P θεμέλιον-N2N-GPN ὁ-RA--NPM δέ-X στῦλος-N2--NPM αὐτός-RD--GSF σαλεύω-V1--PAI3P
+\v 7 ὁ-RA--NSM λέγω-V1--PAPNSM ὁ-RA--DSM ἥλιος-N2--DSM καί-C οὐ-D ἀνατέλλω-V1--PAI3S κατά-P δέ-X ἄστρον-N2N-GPN κατασφραγίζω-V1--PAI3S
+\v 8 ὁ-RA--NSM τανύω-VA--AAPNSM ὁ-RA--ASM οὐρανός-N2--ASM μόνος-A1--NSM καί-C περιπατέω-V2--PAPNSM ὡς-C ἐπί-P ἔδαφος-N3E-GSN ἐπί-P θάλασσα-N1S-GSF
+\v 9 ὁ-RA--NSM ποιέω-V2--PAPNSM *πλειάς-N3D-APF καί-C ἕσπερος-N2--ASM καί-C ἀρκτοῦρος-N2--ASM καί-C ταμιεῖον-N2N-APN νότος-N2--GSM
+\v 10 ὁ-RA--NSM ποιέω-V2--PAPNSM μέγας-A1P-APN καί-C ἀνεξιχνίαστος-A1B-APN ἔνδοξος-A1B-APN τε-X καί-C ἐξαίσιος-A1B-APN ὅς-RR--GPN οὐ-D εἰμί-V9--PAI3S ἀριθμός-N2--NSM
+\v 11 ἐάν-C ὑπερβαίνω-VZ--AAS3S ἐγώ-RP--AS οὐ-D μή-D ὁράω-VB--AAS1S καί-C ἐάν-C παραἔρχομαι-VB--AAS3S ἐγώ-RP--AS οὐδέ-C ὥς-D γιγνώσκω-VZI-AAI1S
+\v 12 ἐάν-C ἀποἀλλάσσω-VA--AAS3S τίς-RI--NSM ἀποστρέφω-VF--FAI3S ἤ-C τίς-RI--NSM εἶπον-VF2-FAI3S αὐτός-RD--DSM τίς-RI--ASN ποιέω-VAI-AAI2S
+\v 13 αὐτός-RD--NSM γάρ-X ἀποστρέφω-VP--XMI3S ὀργή-N1--ASF ὑπό-P αὐτός-RD--GSM κάμπτω-VCI-API3P κῆτος-N3E-NPN ὁ-RA--NPN ὑπό-P οὐρανός-N2--ASM
+\v 14 ἐάν-C δέ-X ἐγώ-RP--GS ὑποἀκούω-VA--AMS3S ἦ-D διακρίνω-VF2-FAI3S ὁ-RA--APN ῥῆμα-N3M-APN ἐγώ-RP--GS
+\v 15 ἐάν-C τε-X γάρ-X εἰμί-V9--PAS1S δίκαιος-A1A-NSM οὐ-D εἰςἀκούω-VF--FMI3S ἐγώ-RP--GS ὁ-RA--GSN κρίμα-N3M-GSN αὐτός-RD--GSM δέω-VC--FPI1S
+\v 16 ἐάν-C τε-X καλέω-VA--AAS1S καί-C ὑποἀκούω-VA--AAS3S οὐ-D πιστεύω-V1--PAI1S ὅτι-C εἰςἀκούω-VX--XAI3S ἐγώ-RP--GS
+\v 17 μή-D γνόφος-N2--DSM ἐγώ-RP--AS ἐκτρίβω-VA--AAS3S πολύς-A1--APN δέ-X ἐγώ-RP--GS ὁ-RA--APN σύντριμμα-N3M-APN ποιέω-VX--XAI3S διά-P κενός-A1--GSF
+\v 18 οὐ-D ἐάω-V3--PAI3S γάρ-X ἐγώ-RP--AS ἀναπνέω-VA--AAN ἐνπίμπλημι-VAI-AAI3S δέ-X ἐγώ-RP--AS πικρία-N1A-GSF
+\v 19 ὅτι-C μέν-X γάρ-X ἰσχύς-N3U-DSF κρατέω-V2--PAI3S τίς-RI--NSM οὖν-X κρίμα-N3M-DSN αὐτός-RD--GSM ἀντιἵστημι-VF--FMI3S
+\v 20 ἐάν-C γάρ-X εἰμί-V9--PAS1S δίκαιος-A1A-NSM ὁ-RA--NSN στόμα-N3M-NSN ἐγώ-RP--GS ἀσεβέω-VF--FAI3S ἐάν-C τε-X εἰμί-V9--PAS1S ἄμεμπτος-A1B-NSM σκολιός-A1A-NSM ἀποβαίνω-VF--FMI1S
+\v 21 εἴτε-C γάρ-X ἀσεβέω-VAI-AAI1S οὐ-D οἶδα-VX--XAI1S ὁ-RA--DSF ψυχή-N1--DSF πλήν-D ὅτι-C ἀποαἱρέω-V2--PPI3S ἐγώ-RP--GS ὁ-RA--NSF ζωή-N1--NSF
+\v 22 διό-C εἶπον-VBI-AAI1S μέγας-A1--ASM καί-C δυνάστης-N1M-ASM ἀποὀλλύω-V5--PAI3S ὀργή-N1--NSF
+\v 23 ὅτι-C φαῦλος-A1--NPM ἐν-P θάνατος-N2--DSM ἐξαίσιος-A1B-DSM ἀλλά-C δίκαιος-A1A-NPM καταγελάω-V3--PMI3P
+\v 24 παραδίδωμι-VM--XPI3P γάρ-X εἰς-P χείρ-N3--APF ἀσεβής-A3H-GSM πρόσωπον-N2N-APN κριτής-N1M-GPM αὐτός-RD--GSF συνκαλύπτω-V1--PAI3S εἰ-C δέ-X μή-D αὐτός-RD--NSM τίς-RI--NSM εἰμί-V9--PAI3S
+\v 25 ὁ-RA--NSM δέ-X βίος-N2--NSM ἐγώ-RP--GS εἰμί-V9--PAI3S ἐλαφρός-A1--NSMC δρομεύς-N3V-GSM ἀποδιδράσκω-VBI-AAI3P καί-C οὐ-D ὁράω-VBI-AAI3P
+\v 26 ἦ-D καί-C εἰμί-V9--PAI3S ναῦς-N3--DPF ἴχνος-N3E-NSN ὁδός-N2--GSF ἤ-C ἀετός-N2--GSM πέτομαι-V1--PMPGSM ζητέω-V2--PAPGSM βορά-N1A-ASF
+\v 27 ἐάν-C τε-X γάρ-X εἶπον-VB--AAS1S ἐπιλανθάνω-VF--FMI1S λαλέω-V2--PAPNSM συνκύπτω-VA--AAPNSM ὁ-RA--DSN πρόσωπον-N2N-DSN στενάζω-VF--FAI1S
+\v 28 σείω-V1--PMI1S πᾶς-A3--DPN ὁ-RA--DPN μέλος-N3E-DPN οἶδα-VX--XAI1S γάρ-X ὅτι-C οὐ-D ἀθῷος-A1--ASM ἐγώ-RP--AS ἐάω-VF--FAI2S
+\v 29 ἐπειδή-C δέ-X εἰμί-V9--PAI1S ἀσεβής-A3H-NSM διά-P τίς-RI--ASN οὐ-D ἀποθνήσκω-VBI-AAI1S
+\v 30 ἐάν-C γάρ-X ἀπολούω-VA--AMS1S χιών-N3N-DSF καί-C ἀπο  κατααἴρω-VA--AMS1S χείρ-N3--DPF καθαρός-A1A-DPF
+\v 31 ἱκανῶς-D ἐν-P ῥύπος-N2--DSM ἐγώ-RP--AS βάπτω-VAI-AAI2S βδελύσσω-VAI-AMI3S δέ-X ἐγώ-RP--AS ὁ-RA--NSF στολή-N1--NSF
+\v 32 οὐ-D γάρ-X εἰμί-V9--PAI2S ἄνθρωπος-N2--NSM κατά-P ἐγώ-RP--AS ὅς-RR--DSM ἀντικρίνω-VF2-FMI1S ἵνα-C ἔρχομαι-VB--AAS1P ὁμοθυμαδόν-D εἰς-P κρίσις-N3I-ASF
+\v 33 εἴθε-I εἰμί-V9--IAI3S ὁ-RA--NSM μεσίτης-N1M-NSM ἐγώ-RP--GP καί-C ἐλέγχω-V1--PAPNSM καί-C διαἀκούω-V1--PAPNSM ἀνά-P μέσος-A1--ASN ἀμφότεροι-A1A-GPM
+\v 34 ἀποἀλλάσσω-VA--AAD3S ἀπό-P ἐγώ-RP--GS ὁ-RA--ASF ῥάβδος-N2--ASF ὁ-RA--NSM δέ-X φόβος-N2--NSM αὐτός-RD--GSM μή-D ἐγώ-RP--AS στροβέω-V2--PAD3S
+\v 35 καί-C οὐ-D μή-D φοβέω-VC--APS1S ἀλλά-C λαλέω-VF--FAI1S οὐ-D γάρ-X οὕτως-D συν   ἐπιἵσταμαι-V6--PMI1S
+
+\c 10
+\p
+\v 1 κάμνω-V1--PAPNSM ὁ-RA--DSF ψυχή-N1--DSF ἐγώ-RP--GS στένω-V1--PAPNSM ἐπι  ἀποἵημι-VF--FAI1S ἐπί-P αὐτός-RD--ASM ὁ-RA--APN ῥῆμα-N3M-APN ἐγώ-RP--GS λαλέω-VF--FAI1S πικρία-N1A-DSF ψυχή-N1--GSF ἐγώ-RP--GS συνἔχω-V1--PMPNSM
+\v 2 καί-C εἶπον-VF2-FAI1S πρός-P κύριος-N2--ASM μή-D ἐγώ-RP--AS ἀσεβέω-V2--PAN διδάσκω-V1--PAD2S καί-C διά-P τίς-RI--ASN ἐγώ-RP--AS οὕτως-D κρίνω-VAI-AAI2S
+\v 3 ἦ-D καλός-A1--NSN σύ-RP--DS ἐάν-C ἀδικέω-VA--AAS1S ὅτι-C ἀποεἶπον-VB--AAS1S ἔργον-N2N-APN χείρ-N3--GPF σύ-RP--GS βουλή-N1--DSF δέ-X ἀσεβής-A3H-GPM προςἔχω-VBI-AAI2S
+\v 4 ἦ-D ὥσπερ-D βροτός-N2--NSM ὁράω-V3--PAI3S καταὁράω-V3--PAI2S ἤ-C καθώς-D ὁράω-V3--PAI3S ἄνθρωπος-N2--NSM βλέπω-VF--FMI2S
+\v 5 ἦ-D ὁ-RA--NSM βίος-N2--NSM σύ-RP--GS ἀνθρώπινος-A1--NSM εἰμί-V9--PAI3S ἤ-C ὁ-RA--NPN ἔτος-N3E-NPN σύ-RP--GS ἀνήρ-N3--GSM
+\v 6 ὅτι-C ἀναζητέω-VAI-AAI2S ὁ-RA--ASF ἀνομία-N1A-ASF ἐγώ-RP--GS καί-C ὁ-RA--APF ἁμαρτία-N1A-APF ἐγώ-RP--GS ἐξιχνίαζω-VAI-AAI2S
+\v 7 οἶδα-VX--XAI2S γάρ-X ὅτι-C οὐ-D ἀσεβέω-VAI-AAI1S ἀλλά-C τίς-RI--NSM εἰμί-V9--PAI3S ὁ-RA--NSM ἐκ-P ὁ-RA--GPF χείρ-N3--GPF σύ-RP--GS ἐκαἱρέω-V2--PMPNSM
+\v 8 ὁ-RA--NPF χείρ-N3--NPF σύ-RP--GS πλάσσω-VAI-AAI3P ἐγώ-RP--AS καί-C ποιέω-VAI-AAI3P ἐγώ-RP--AS μετά-P οὗτος-RD--APN μεταβάλλω-VB--AAPNSM ἐγώ-RP--AS παίω-VAI-AAI2S
+\v 9 μιμνήσκω-VS--APD2S ὅτι-C πηλός-N2--ASM ἐγώ-RP--AS πλάσσω-VAI-AAI2S εἰς-P δέ-X γῆ-N1--ASF ἐγώ-RP--AS πάλιν-D ἀποστρέφω-V1--PAI2S
+\v 10 ἦ-D οὐ-D ὥσπερ-D γάλα-N3--ASN ἐγώ-RP--AS ἀμέλγω-VAI-AAI2S τυρόω-VAI-AAI2S δέ-X ἐγώ-RP--AS ἴσος-D τυρός-N2--DSM
+\v 11 δέρμα-N3M-ASN καί-C κρέας-N3--ASN ἐγώ-RP--AS ἐνδύω-VAI-AAI2S ὀστέον-N2N-DPN δέ-X καί-C νεῦρον-N2--DPN ἐγώ-RP--AS ἐνεἴρω-VAI-AAI2S
+\v 12 ζωή-N1--ASF δέ-X καί-C ἔλεος-N3E-ASN τίθημι-VEI-AMI2S παρά-P ἐγώ-RP--DS ὁ-RA--NSF δέ-X ἐπισκοπή-N1--NSF σύ-RP--GS φυλάσσω-VAI-AAI3S ἐγώ-RP--GS ὁ-RA--ASN πνεῦμα-N3M-ASN
+\v 13 οὗτος-RD--APN ἔχω-V1--PAPNSM ἐν-P σεαυτοῦ-RD--DSM οἶδα-VX--XAI1S ὅτι-C πᾶς-A3--APN δύναμαι-V6--PMI2S ἀδυνατέω-V2--PAI3S δέ-X σύ-RP--DS οὐδείς-A3--NSN
+\v 14 ἐάν-C τε-X γάρ-X ἁμαρτάνω-VB--AAS1S φυλάσσω-V1--PAI2S ἐγώ-RP--AS ἀπό-P δέ-X ἀνομία-N1A-GSF οὐ-D ἀθῷος-A1--ASM ἐγώ-RP--AS ποιέω-VX--XAI2S
+\v 15 ἐάν-C τε-X γάρ-X ἀσεβής-A3H-NSM εἰμί-V9--PAS1S οἴμμοι-I ἐάν-C τε-X εἰμί-V9--PAS1S δίκαιος-A1A-NSM οὐ-D δύναμαι-V6--PMI1S ἀνακύπτω-VA--AAN πλήρης-A3H-NSM γάρ-X ἀτιμία-N1A-GSF εἰμί-V9--PAI1S
+\v 16 ἀγρεύω-V1--PPI1S γάρ-X ὥσπερ-D λέων-N3W-NSM εἰς-P σφαγή-N1--ASF πάλιν-D δέ-X μεταβάλλω-VB--AAPNSM δεινῶς-D ἐγώ-RP--AS ὀλέκω-V1--PAI2S
+\v 17 ἐπι  ἀνακαινίζω-V1--PAPNSM ἐπί-P ἐγώ-RP--AS ὁ-RA--ASF ἔτασις-N3I-ASF ἐγώ-RP--GS ὀργή-N1--DSF δέ-X μέγας-A1--DSF ἐγώ-RP--DS χράω-VAI-AMI2S ἐπιἄγω-VBI-AAI2S δέ-X ἐπί-P ἐγώ-RP--AS πειρατήριον-N2N-APN
+\v 18 ἵνα-C τίς-RI--NSN οὖν-X ἐκ-P κοιλία-N1A-GSF ἐγώ-RP--AS ἐκἄγω-VBI-AAI2S καί-C οὐ-D ἀποθνήσκω-VBI-AAI1S ὀφθαλμός-N2--NSM δέ-X ἐγώ-RP--AS οὐ-D ὁράω-VBI-AAI3S
+\v 19 καί-C ὥσπερ-D οὐ-D εἰμί-V9--PAPNSM γίγνομαι-VBI-AMI1S διά-P τίς-RI--ASN γάρ-X ἐκ-P γαστήρ-N3--GSF εἰς-P μνῆμα-N3M-ASN οὐ-D ἀποἀλλάσσω-VCI-API1S
+\v 20 ἦ-D οὐ-D ὀλίγος-A1--NSM εἰμί-V9--PAI3S ὁ-RA--NSM χρόνος-N2--NSM ὁ-RA--GSM βίος-N2--GSM ἐγώ-RP--GS ἐάω-VA--AAD2S ἐγώ-RP--AS ἀναπαύω-VA--AMN μικρός-A1A-ASN
+\v 21 πρό-P ὁ-RA--GSN ἐγώ-RP--AS πορεύομαι-VC--APN ὅθεν-D οὐ-D ἀναστρέφω-VF--FAI1S εἰς-P γῆ-N1--ASF σκοτεινός-A1--ASF καί-C γνοφερός-A1A-ASF
+\v 22 εἰς-P γῆ-N1--ASF σκότος-N3E-GSN αἰώνιος-A1B-GSN ὅς-RR--GSM οὐ-D εἰμί-V9--PAI3S φέγγος-N3E-NSN οὐδέ-C ὁράω-V3--PAN ζωή-N1--ASF βροτός-N2--GPM
+
+\c 11
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *σωφαρ-N---NSM ὁ-RA--NSM *μιναῖος-N2--NSM λέγω-V1--PAI3S
+\v 2 ὁ-RA--NSM ὁ-RA--APN πολύς-A1--APN λέγω-V1--PAPNSM καί-C ἀντιἀκούω-VF--FMI3S ἤ-C καί-C ὁ-RA--NSM εὔλαλος-A1B-NSM οἴομαι-V1--PMI3S εἰμί-V9--PAN δίκαιος-A1A-NSM εὐλογέω-VM--XPPNSM γεννητός-A1--NSM γυνή-N3K-GSF ὀλιγόβιος-A1B-NSM
+\v 3 μή-D πολύς-A3U-NSM ἐν-P ῥῆμα-N3M-DPN γίγνομαι-V1--PMD2S οὐ-D γάρ-X εἰμί-V9--PAI3S ὁ-RA--NSM ἀντικρίνω-V1--PMPNSM σύ-RP--DS
+\v 4 μή-D γάρ-X λέγω-V1--PAD2S ὅτι-C καθαρός-A1A-NSM εἰμί-V9--PAI1S ὁ-RA--DPN ἔργον-N2N-DPN καί-C ἄμεμπτος-A1B-NSM ἐναντίον-P αὐτός-RD--GSM
+\v 5 ἀλλά-C πῶς-D ἄν-X ὁ-RA--NSM κύριος-N2--NSM λαλέω-VA--AAN πρός-P σύ-RP--AS καί-C ἀναοἴγω-VF--FAI3S χεῖλος-N3E-APN αὐτός-RD--GSM μετά-P σύ-RP--GS
+\v 6 εἶτα-D ἀναἀγγέλλω-VF2-FAI3S σύ-RP--DS δύναμις-N3I-ASF σοφία-N1A-GSF ὅτι-C διπλοῦς-A1C-NSM εἰμί-VF--FMI3S ὁ-RA--GPN κατά-P σύ-RP--AS καί-C τότε-D γιγνώσκω-VF--FMI2S ὅτι-C ἄξιος-A1A-NPN σύ-RP--DS ἀποβαίνω-VZI-AAI3S ἀπό-P κύριος-N2--GSM ὅς-RR--GPN ἁμαρτάνω-VX--XAI2S
+\v 7 ἦ-D ἴχνος-N3E-ASN κύριος-N2--GSM εὑρίσκω-VF--FAI2S ἤ-C εἰς-P ὁ-RA--APN ἔσχατος-A1--APN ἀποἱκνέομαι-VB--AMI2S ὅς-RR--APN ποιέω-VAI-AAI3S ὁ-RA--NSM παντοκράτωρ-N3R-NSM
+\v 8 ὑψηλός-A1--NSM ὁ-RA--NSM οὐρανός-N2--NSM καί-C τίς-RI--ASN ποιέω-VF--FAI2S βαθύς-A1A-APNC δέ-X ὁ-RA--GPM ἐν-P ἅδης-N1M-GSM τίς-RI--ASN οἶδα-VX--XAI2S
+\v 9 ἤ-C μακρός-A1A-APNC μέτρον-N2N-GSN γῆ-N1--GSF ἤ-C εὖρος-N3E-GSN θάλασσα-N1S-GSF
+\v 10 ἐάν-C δέ-X καταστρέφω-VF--FMI2S ὁ-RA--APN πᾶς-A3--APN τίς-RI--NSM εἶπον-VF2-FAI3S αὐτός-RD--DSM τίς-RI--ASN ποιέω-VAI-AAI2S
+\v 11 αὐτός-RD--NSM γάρ-X οἶδα-VX--XAI3S ἔργον-N2N-APN ἄνομος-A1B-GPM ὁράω-VB--AAPNSM δέ-X ἄτοπος-A1B-APN οὐ-D παραὁράω-VF--FMI3S
+\v 12 ἄνθρωπος-N2--NSM δέ-X ἄλλως-D νήχω-V1--PMI3S λόγος-N2--DPM βροτός-N2--NSM δέ-X γεννητός-A1--NSM γυνή-N3K-GSF ἴσος-D ὄνος-N2--DSM ἐρημίτης-N1M-DSM
+\v 13 εἰ-C γάρ-X σύ-RP--NS καθαρός-A1A-ASF τίθημι-VEI-AMI2S ὁ-RA--ASF καρδία-N1A-ASF σύ-RP--GS ὑποτιάζω-V1--PAI2S δέ-X χείρ-N3--APF πρός-P αὐτός-RD--ASM
+\v 14 εἰ-C ἄνομος-A1B-NSN τις-RI--NSN εἰμί-V9--PAI3S ἐν-P χείρ-N3--DPF σύ-RP--GS πόρρω-D ποιέω-VA--AAD2S αὐτός-RD--ASN ἀπό-P σύ-RP--GS ἀδικία-N1A-NSF δέ-X ἐν-P δίαιτα-N1S-DSF σύ-RP--GS μή-D αὐλίζω-VS--APD3S
+\v 15 οὕτως-D γάρ-X ἀναλάμπω-VF--FMI2S σύ-RP--GS ὁ-RA--ASN πρόσωπον-N2N-ASN ὥσπερ-D ὕδωρ-N3--NSN καθαρός-A1A-NSN ἐκδύω-VF--FMI2S δέ-X ῥύπος-N2--ASN καί-C οὐ-D μή-D φοβέω-VC--APS2S
+\v 16 καί-C ὁ-RA--ASM κόπος-N2--ASM ἐπιλανθάνω-VF--FMI2S ὥσπερ-D κῦμα-N3M-ASN παραἔρχομαι-VB--AAPASN καί-C οὐ-D πτοέω-VC--FPI2S
+\v 17 ὁ-RA--NSF δέ-X εὐχή-N1--NSF σύ-RP--GS ὥσπερ-D ἑωσφόρος-N2--NSM ἐκ-P δέ-X μεσημβρία-N1A-GSF ἀνατέλλω-VF2-FAI3S σύ-RP--DS ζωή-N1--NSF
+\v 18 πείθω-VX--XAPNSM τε-X εἰμί-VF--FMI2S ὅτι-C εἰμί-V9--PAI3S σύ-RP--DS ἐλπίς-N3D-NSF ἐκ-P δέ-X μέριμνα-N1S-GSF καί-C φροντίς-N3D-GSF ἀναφαίνω-VF2-FMI3S σύ-RP--DS εἰρήνη-N1--NSF
+\v 19 ἡσυχάζω-VF--FAI2S γάρ-X καί-C οὐ-D εἰμί-VF--FMI3S ὁ-RA--NSM πολεμέω-V2--PAPNSM σύ-RP--AS μεταβάλλω-VB--AMPNPM δέ-X πολύς-A1--NPM σύ-RP--GS δέω-VC--FPI3P
+\v 20 σωτηρία-N1A-NSF δέ-X αὐτός-RD--APM ἀπολείπω-VF--FAI3S ὁ-RA--NSF γάρ-X ἐλπίς-N3D-NSF αὐτός-RD--GPM ἀπώλεια-N1A-NSF ὀφθαλμός-N2--NPM δέ-X ἀσεβής-A3H-GPM τήκω-VD--FPI3P
+
+\c 12
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 εἶτα-D σύ-RP--NP εἰμί-V9--PAI2P ἄνθρωπος-N2--NPM ἦ-D μετά-P σύ-RP--GP τελευτάω-VF--FAI3S σοφία-N1A-NSF
+\v 3 καΐἐμός-C+RPDS μέν-X καρδία-N1A-NSF κατά-P σύ-RP--AP εἰμί-V9--PAI3S
+\v 4 δίκαιος-A1A-NSM γάρ-X ἀνήρ-N3--NSM καί-C ἄμεμπτος-A1B-NSM γίγνομαι-VCI-API3S εἰς-P χλεύασμα-N3M-ASN
+\v 5 εἰς-P χρόνος-N2--ASM γάρ-X τακτός-A1--ASM ἑτοιμάζω-VA--IMI3S πίπτω-VB--AAN ὑπό-P ἄλλος-RD--APM οἶκος-N2--APM τε-X αὐτός-RD--GSM ἐκπορθέω-V2--PPN ὑπό-P ἄνομος-A1B-GPM
+\v 6 οὐ-D μήν-X δέ-X ἀλλά-C μηδείς-A3P-NSM πείθω-VX--XAD3S πονηρός-A1A-NSM εἰμί-V9--PAPNSM ἀθῷος-A1--NSM εἰμί-VF--FMN ὅσος-A1--NPM παραὀργίζω-V1--PAI3P ὁ-RA--ASM κύριος-N2--ASM ὡς-C οὐ-D καί-D ἔτασις-N3I-NSF αὐτός-RD--GPM εἰμί-VF--FMI3S
+\v 7 ἀλλά-C δή-X ἐπιἐρωτάω-VA--AAD2S τετράποδος-A1B-APN ἐάν-C σύ-RP--DS εἶπον-VB--AAS3P πετεινός-A1--APN δέ-X οὐρανός-N2--GSM ἐάν-C σύ-RP--DS ἀποἀγγέλλω-VA--AAS3P
+\v 8 ἐκ   διαἡγέομαι-VA--AMD2S δέ-X γῆ-N1--DSF ἐάν-C σύ-RP--DS φράζω-VA--AAS3S καί-C ἐκἡγέομαι-VF--FMI3P σύ-RP--DS ὁ-RA--NPM ἰχθύς-N3U-NPM ὁ-RA--GSF θάλασσα-N1S-GSF
+\v 9 τίς-RI--NSM οὐ-D γιγνώσκω-VZI-AAI3S ἐν-P πᾶς-A3--DPM οὗτος-RD--DPM ὅτι-C χείρ-N3--NSF κύριος-N2--GSM ποιέω-VAI-AAI3S οὗτος-RD--APN
+\v 10 εἰ-C μή-D ἐν-P χείρ-N3--DSF αὐτός-RD--GSM ψυχή-N1--NSF πᾶς-A3--GPM ὁ-RA--GPM ζάω-V3--PAPGPM καί-C πνεῦμα-N3M-NSN πᾶς-A3--GSM ἄνθρωπος-N2--GSM
+\v 11 οὖς-N3T-NSN μέν-X γάρ-X ῥῆμα-N3M-APN διακρίνω-V1--PAI3S λάρυγξ-N3G-NSM δέ-X σῖτος-N2--APN γεύω-V1--PMI3S
+\v 12 ἐν-P πολύς-A1--DSM χρόνος-N2--DSM σοφία-N1A-NSF ἐν-P δέ-X πολύς-A1--DSM βίος-N2--DSM ἐπιστήμη-N1--NSF
+\v 13 παρά-P αὐτός-RD--DSM σοφία-N1A-NSF καί-C δύναμις-N3I-NSF αὐτός-RD--DSM βουλή-N1--NSF καί-C σύνεσις-N3I-NSF
+\v 14 ἐάν-C καταβάλλω-VB--AAS3S τίς-RI--NSM οἰκοδομέω-VF--FAI3S ἐάν-C κλείω-VA--AAS3S κατά-P ἄνθρωπος-N2--GPM τίς-RI--NSM ἀναοἴγω-VF--FAI3S
+\v 15 ἐάν-C κωλύω-VA--AAS3S ὁ-RA--ASN ὥδωρ-N3T-ASN ξηραίνω-VF2-FAI3S ὁ-RA--ASF γῆ-N1--ASF ἐάν-C δέ-X ἐπιἀφίημι-VH--AAS3S ἀποὀλλύω-VAI-AAI3S αὐτός-RD--ASF καταστρέφω-VA--AAPNSM
+\v 16 παρά-P αὐτός-RD--DSM κράτος-N3E-NSN καί-C ἰσχύς-N3U-NSF αὐτός-RD--DSM ἐπιστήμη-N1--NSF καί-C σύνεσις-N3I-NSF
+\v 17 διαἄγω-V1--PAPNSM βουλευτής-N1M-APM αἰχμάλωτος-A1B-APM κριτής-N1M-APM δέ-X γῆ-N1--GSF ἐκἵστημι-VHI-AAI3S
+\v 18 καθιζάνω-V1--PAPNSM βασιλεύς-N3V-APM ἐπί-P θρόνος-N2--APM καί-C περιδέω-VAI-AAI3S ζωνή-N1--DSF ὀσφύς-N3--APF αὐτός-RD--GPM
+\v 19 ἐκ   ἀποστέλλω-V1--PAPNSM ἱερεύς-N3V-APM αἰχμάλωτος-A1B-APM δυνάστης-N1M-APM δέ-X γῆ-N1--GSF καταστρέφω-VAI-AAI3S
+\v 20 διαἀλλάσσω-V1--PAPNSM χεῖλος-N3E-APN πιστός-A1--GPM σύνεσις-N3I-ASF δέ-X πρεσβύτερος-A1A-GPM γιγνώσκω-VZI-AAI3S
+\v 21 ἐκχέω-V2--PAPNSM ἀτιμία-N1A-ASF ἐπί-P ἄρχων-N3--APM ταπεινός-A1--APM δέ-X ἰάομαι-VAI-AMI3S
+\v 22 ἀνακαλύπτω-V1--PAPNSM βαθύς-A3U-APN ἐκ-P σκότος-N3E-GSN ἐκἄγω-VBI-AAI3S δέ-X εἰς-P φῶς-N3T-ASN σκιά-N1A-ASF θάνατος-N2--GSM
+\v 23 πλανάω-V3--PAPNSM ἔθνος-N3E-APN καί-C ἀποὀλλύω-V5--PAPNSM αὐτός-RD--APN καταστρωννύω-V1--PAPNSM ἔθνος-N3E-APN καί-C καταὁδηγέω-V2--PAPNSM αὐτός-RD--APN
+\v 24 διαἀλλάσσω-V1--PAPNSM καρδία-N1A-APF ἄρχων-N3--GPM γῆ-N1--GSF πλανάω-VAI-AAI3S δέ-X αὐτός-RD--APM ὁδός-N2--DSF ὅς-RR--DSF οὐ-D οἶδα-VXI-YAI3P
+\v 25 ψηλαφάω-VA--AAO3P σκότος-N3E-ASN καί-C μή-D φῶς-N3T-ASN πλανάω-VC--APO3P δέ-X ὥσπερ-D ὁ-RA--NSM μεθύω-V1--PAPNSM
+
+\c 13
+\p
+\v 1 ἰδού-I οὗτος-RD--APN ὁράω-VX--XAI3S ἐγώ-RP--GS ὁ-RA--NSM ὀφθαλμός-N2--NSM καί-C ἀκούω-VX--XAI3S ἐγώ-RP--GS ὁ-RA--NSN οὖς-N3T-NSN
+\v 2 καί-C οἶδα-VX--XAI1S ὅσος-A1--APN καί-D σύ-RP--NP ἐπίσταμαι-V6--PMI2P καί-C οὐ-D ἀσύνετος-A1B-NSMC εἰμί-V9--PAI1S σύ-RP--GP
+\v 3 οὐ-D μήν-X δέ-X ἀλλά-C ἐγώ-RP--NS πρός-P κύριος-N2--ASM λαλέω-VF--FAI1S ἐλέγχω-VF--FAI1S δέ-X ἐναντίον-P αὐτός-RD--GSM ἐάν-C βούλομαι-V1--PMS3S
+\v 4 σύ-RP--NP δέ-X εἰμί-V9--PAI2P ἰατρός-N2--NPM ἄδικος-A1B-NPM καί-C ἰατής-N1M-NPM κακός-A1--GPN πᾶς-A3--NPM
+\v 5 εἰμί-V9--PAO3S δέ-X σύ-RP--DP κωφεύω-VA--AAN καί-C ἀποβαίνω-VF--FMI3S σύ-RP--DP εἰς-P σοφία-N1A-ASF
+\v 6 ἀκούω-VA--AAD2P ἔλεγχος-N2--ASM στόμα-N3M-GSN ἐγώ-RP--GS κρίσις-N3I-ASF δέ-X χεῖλος-N3E-GPN ἐγώ-RP--GS προςἔχω-V1--PAD2P
+\v 7 πότερον-D οὐ-D ἔναντι-P κύριος-N2--GSM λαλέω-V2--PAI2P ἔναντι-P δέ-X αὐτός-RD--GSM φθέγγομαι-V1--PMI2P δόλος-N2--ASM
+\v 8 ἦ-D ὑποστέλλω-VF2-FMI2P σύ-RP--NP δέ-X αὐτός-RD--NPM κριτής-N1M-NPM γίγνομαι-VB--AMD2P
+\v 9 καλός-A1--NSN γέ-X ἐάν-C ἐκἰχνιάζω-VA--AAS3S σύ-RP--AP εἰ-C γάρ-X ὁ-RA--APN πᾶς-A3--APN ποιέω-V2--PAPNPM προςτίθημι-VC--FPI2P αὐτός-RD--DSM
+\v 10 οὐδείς-A3--NSN ἥσσων-A3C-NSN ἐλέγχω-VF--FAI3S σύ-RP--AP εἰ-C δέ-X καί-C κρυφῇ-D πρόσωπον-N2N-APN θαυμάζω-VF--FAI2P
+\v 11 πότερον-D οὐ-D δεινός-A1--NPN αὐτός-RD--GSM στροβέω-VF--FAI3S σύ-RP--AP φόβος-N2--NSM δέ-X παρά-P αὐτός-RD--GSM ἐπιπίπτω-VF2-FMI3S σύ-RP--DP
+\v 12 ἀποβαίνω-VF--FMI3S δέ-X σύ-RP--GP ὁ-RA--NSN ἀγαυρίαμα-N3M-NSN ἴσος-D σποδός-N2--DSF ὁ-RA--ASN δέ-X σῶμα-N3M-ASN πήλινος-A1--ASN
+\v 13 κωφεύω-VA--AAD2P ἵνα-C λαλέω-VA--AAS1S καί-C ἀναπαύω-VA--AMS1S θυμός-N2--GSM
+\v 14 ἀναλαμβάνω-VB--AAPNSM ὁ-RA--APF σάρξ-N3K-APF ἐγώ-RP--GS ὁ-RA--DPM ὀδούς-N3--DPM ψυχή-N1--ASF δέ-X ἐγώ-RP--GS τίθημι-VF--FAI1S ἐν-P χείρ-N3--DSF
+\v 15 ἐάν-C ἐγώ-RP--AS χειρόομαι-VA--AMS3S ὁ-RA--NSM δυνάστης-N1M-NSM ἐπεί-C καί-D ἄρχω-VM--XMI3S ἦ-D μήν-X λαλέω-VF--FAI1S καί-C ἐλέγχω-VF--FAI1S ἐναντίον-P αὐτός-RD--GSM
+\v 16 καί-C οὗτος-RD--NSN ἐγώ-RP--DS ἀποβαίνω-VF--FMI3S εἰς-P σωτηρία-N1A-ASF οὐ-D γάρ-X ἐναντίον-P αὐτός-RD--GSM δόλος-N2--NSM εἰςἔρχομαι-VF--FMI3S
+\v 17 ἀκούω-VA--AAD2P ἀκούω-VA--AAD2P ὁ-RA--APN ῥῆμα-N3M-APN ἐγώ-RP--GS ἀναἀγγέλλω-VF2-FAI1S γάρ-X σύ-RP--GP ἀκούω-V1--PAPGPM
+\v 18 ἰδού-I ἐγώ-RP--NS ἐγγύς-D εἰμί-V9--PAI1S ὁ-RA--GSN κρίμα-N3M-GSN ἐγώ-RP--GS οἶδα-VX--XAI1S ἐγώ-RP--NS ὅτι-C δίκαιος-A1A-NSM ἀναφαίνω-VF2-FMI1S
+\v 19 τίς-RI--NSM γάρ-X εἰμί-V9--PAI3S ὁ-RA--NSM κρίνω-VC--FPPNSM ἐγώ-RP--DS ὅτι-C νῦν-D κωφεύω-VF--FAI1S καί-C ἐκλείπω-VF--FAI1S
+\v 20 δύο-M---DPN δέ-X ἐγώ-RP--DS χράω-VF--FMI2S τότε-D ἀπό-P ὁ-RA--GSN πρόσωπον-N2N-GSN σύ-RP--GS οὐ-D κρύπτω-VD--FPI1S
+\v 21 ὁ-RA--ASF χείρ-N3--ASF ἀπό-P ἐγώ-RP--GS ἀποἔχω-V1--PMD2S καί-C ὁ-RA--NSM φόβος-N2--NSM σύ-RP--GS μή-D ἐγώ-RP--AS καταπλήσσω-V1--PAD3S
+\v 22 εἶτα-D καλέω-VF--FAI2S ἐγώ-RP--NS δέ-X σύ-RP--DS ὑποἀκούω-VF--FMI1S ἤ-C λαλέω-VF--FAI2S ἐγώ-RP--NS δέ-X σύ-RP--DS δίδωμι-VF--FAI1S ἀνταπόκρισις-N3I-ASF
+\v 23 πόσος-A1--NPF εἰμί-V9--PAI3P ὁ-RA--NPF ἁμαρτία-N1A-NPF ἐγώ-RP--GS καί-C ὁ-RA--NPF ἀνομία-N1A-NPF ἐγώ-RP--GS διδάσκω-VA--AAD2S ἐγώ-RP--AS τίς-RI--NPM εἰμί-V9--PAI3P
+\v 24 διά-P τίς-RI--ASN ἀπό-P ἐγώ-RP--GS κρύπτω-V1--PMI2S ἡγέομαι-VM--XMI2S δέ-X ἐγώ-RP--AS ὑπεναντίος-A1A-ASM σύ-RP--DS
+\v 25 ἦ-D ὡς-C φύλλον-N2N-ASN κινέω-V2--PPPASN ὑπό-P ἄνεμος-N2--GSM εὐλαβέομαι-VC--FPI2S ἤ-C ὡς-C χόρτος-N2--DSM φέρω-V1--PPPDSM ὑπό-P πνεῦμα-N3M-GSN ἀντικεῖμαι-V5--PMI2S ἐγώ-RP--DS
+\v 26 ὅτι-C καταγράφω-VAI-AAI2S κατά-P ἐγώ-RP--GS κακός-A1--APN περιτίθημι-VAI-AAI2S δέ-X ἐγώ-RP--DS νεότης-N3T-GSF ἁμαρτία-N1A-APF
+\v 27 τίθημι-VEI-AMI2S δέ-X ἐγώ-RP--GS ὁ-RA--ASM πούς-N3D-ASM ἐν-P κώλυμα-N3M-DSN φυλάσσω-VAI-AAI2S δέ-X ἐγώ-RP--GS πᾶς-A3--APN ὁ-RA--APN ἔργον-N2N-APN εἰς-P δέ-X ῥίζα-N1S-APF ὁ-RA--GPM πούς-N3D-GPM ἐγώ-RP--GS ἀποἱκνέομαι-VB--AMI2S
+\v 28 ὅς-RR--NSN παλαιόω-V4--PPI3S ἴσος-D ἀσκός-N2--DSM ἤ-C ὥσπερ-D ἱμάτιον-N2N-NSN σητόβρωτον-A1B-NSN
+
+\c 14
+\p
+\v 1 βροτός-N2--NSM γάρ-X γεννητός-A1--NSM γυνή-N3K-GSF ὀλιγόβιος-A1B-NSM καί-C πλήρης-A3H-NSM ὀργή-N1--GSF
+\v 2 ἤ-C ὥσπερ-D ἄνθος-N3E-NSN ἀνθέω-VA--AAPNSN ἐκπίπτω-VBI-AAI3S ἀποδιδράσκω-VBI-AAI3S δέ-X ὥσπερ-D σκιά-N1A-NSF καί-C οὐ-D μή-D ἵστημι-VH--AAS3S
+\v 3 οὐ-D καί-C οὗτος-RD--GSM λόγος-N2--ASM ποιέω-VAI-AMI2S καί-C οὗτος-RD--ASM ποιέω-VAI-AAI2S εἰςἔρχομαι-VB--AAN ἐν-P κρίμα-N3M-DSN ἐνώπιον-P σύ-RP--GS
+\v 4 τίς-RI--NSM γάρ-X καθαρός-A1A-NSM εἰμί-VF--FMI3S ἀπό-P ῥύπος-N2--GSM ἀλλά-C οὐδείς-A3--NSF
+\v 5 ἐάν-C καί-C εἷς-A1A-NSF ἡμέρα-N1A-NSF ὁ-RA--NSM βίος-N2--NSM αὐτός-RD--GSM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF ἀριθμητός-A1--NPM δέ-X μήν-N3--NPM αὐτός-RD--GSM παρά-P σύ-RP--DS εἰς-P χρόνος-N2--ASM τίθημι-VEI-AMI2S καί-C οὐ-D μή-D ὑπερβαίνω-VZ--AAS3S
+\v 6 ἀποἵστημι-VH--AAD2S ἀπό-P αὐτός-RD--GSM ἵνα-C ἡσυχάζω-VA--AAS3S καί-C εὐδοκέω-VA--AAS3S ὁ-RA--ASM βίος-N2--ASM ὥσπερ-D ὁ-RA--NSM μισθωτός-A1--NSM
+\v 7 εἰμί-V9--PAI3S γάρ-X δένδρον-N2N-DSN ἐλπίς-N3D-NSF ἐάν-C γάρ-X ἐκκόπτω-VD--AAS3S ἔτι-D ἐπιἀνθέω-VF--FAI3S καί-C ὁ-RA--NSM ῥάδαμνος-N2--NSM αὐτός-RD--GSN οὐ-D μή-D ἐκλείπω-VB--AAS3S
+\v 8 ἐάν-C γάρ-X γηράω-VA--AAS3S ἐν-P γῆ-N1--DSF ὁ-RA--NSF ῥίζα-N1S-NSF αὐτός-RD--GSN ἐν-P δέ-X πέτρα-N1A-DSF τελευτάω-VA--AAS3S ὁ-RA--NSN στέλεχος-N3E-NSN αὐτός-RD--GSN
+\v 9 ἀπό-P ὀσμή-N1--GSF ὕδωρ-N3T-GSN ἀνθέω-VF--FAI3S ποιέω-VF--FAI3S δέ-X θερισμός-N2--ASM ὥσπερ-D νεόφυτος-A1B-ASN
+\v 10 ἀνήρ-N3--NSM δέ-X τελευτάω-VA--AAPNSM οἴχομαι-V1I-IMI3S πίπτω-VB--AAPNSM δέ-X βροτός-N2--NSM οὐκέτι-D εἰμί-V9--PAI3S
+\v 11 χρόνος-N2--DSM γάρ-X σπανίζω-V1--PPI3S θάλασσα-N1S-NSF ποταμός-N2--NSM δέ-X ἐρημόω-VC--APPNSM ξηραίνω-VCI-API3S
+\v 12 ἄνθρωπος-N2--NSM δέ-X κοιμάω-VC--APPNSM οὐ-D μή-D ἀναἵστημι-VH--AAS3S ἕως-C ἄν-X ὁ-RA--NSM οὐρανός-N2--NSM οὐ-D μή-D συνῥάπτω-VD--APS3S καί-C οὐ-D ἐκὑπνίζω-VS--FPI3S ἐκ-P ὕπνος-N2--GSM αὐτός-RD--GPM
+\v 13 εἰ-C γάρ-X ὀφείλω-VB--AAI1S ἐν-P ᾅδης-N1M-DSM ἐγώ-RP--AS φυλάσσω-VAI-AAI2S κρύπτω-VAI-AAI2S δέ-X ἐγώ-RP--AS ἕως-C ἄν-X παύω-VA--AMS3S σύ-RP--GS ὁ-RA--NSF ὀργή-N1--NSF καί-C τάσσω-VA--AAS3S ἐγώ-RP--DS χρόνος-N2--ASM ἐν-P ὅς-RR--DSM μνεία-N1A-ASF ἐγώ-RP--GS ποιέω-VF--FMI2S
+\v 14 ἐάν-C γάρ-X ἀποθνήσκω-VB--AAS3S ἄνθρωπος-N2--NSM ζάω-VF--FMI3S συντελέω-VA--AAPNSM ἡμέρα-N1A-APF ὁ-RA--GSM βίος-N2--GSM αὐτός-RD--GSM ὑπομένω-VA--AAS1S ἕως-C ἄν-X πάλιν-D γίγνομαι-VB--AMS1S
+\v 15 εἶτα-D καλέω-VF--FAI2S ἐγώ-RP--NS δέ-X σύ-RP--DS ὑποἀκούω-VF--FMI1S ὁ-RA--APN δέ-X ἔργον-N2N-APN ὁ-RA--GPF χείρ-N3--GPF σύ-RP--GS μή-D ἀποποιέω-V2--PMD2S
+\v 16 ἀριθμέω-VAI-AAI2S δέ-X ἐγώ-RP--GS ὁ-RA--APN ἐπιτήδευμα-N3M-APN καί-C οὐ-D μή-D παραἔρχομαι-VB--AAS3S σύ-RP--AS οὐδείς-A3--NSN ὁ-RA--GPF ἁμαρτία-N1A-GPF ἐγώ-RP--GS
+\v 17 σφραγίζω-VAI-AAI2S δέ-X ἐγώ-RP--GS ὁ-RA--APF ἀνομία-N1A-APF ἐν-P βαλλάντιον-N2N-DSN ἐπισημαίνω-VAI-AMI2S δέ-X εἰ-C τις-RI--ASN ἄκων-A3P-NSM παραβαίνω-VZI-AAI1S
+\v 18 καί-C πλήν-D ὄρος-N3E-NSN πίπτω-V1--PAPNSN διαπίπτω-VF--FAI3S καί-C πέτρα-N1A-NSF παλαιόω-VC--FPI3S ἐκ-P ὁ-RA--GSM τόπος-N2--GSM αὐτός-RD--GSF
+\v 19 λίθος-N2--APM λεαίνω-VAI-AAI3P ὕδωρ-N3T-NPN καί-C κατακλύζω-VAI-AAI3S ὕδωρ-N3T-NPN ὕπτιος-A1A-APN ὁ-RA--GSN χῶμα-N3M-GSN ὁ-RA--GSF γῆ-N1--GSF καί-C ὑπομονή-N1--ASF ἄνθρωπος-N2--GSM ἀποὀλλύω-VAI-AAI2S
+\v 20 ὠθέω-VAI-AAI2S αὐτός-RD--ASM εἰς-P τέλος-N3E-ASN καί-C οἴχομαι-V1I-IMI3S ἐπιἵστημι-VHI-AAI2S αὐτός-RD--DSM ὁ-RA--ASN πρόσωπον-N2N-ASN καί-C ἐκ   ἀποστέλλω-VAI-AAI2S
+\v 21 πολύς-A1--GPM δέ-X γίγνομαι-VB--AMPGPM ὁ-RA--GPM υἱός-N2--GPM αὐτός-RD--GSM οὐ-D οἶδα-VX--XAI3S ἐάν-C δέ-X ὀλίγος-A1--NPM γίγνομαι-VB--AMS3P οὐ-D ἐπίσταμαι-V6--PMI3S
+\v 22 ἀλλά-C ἤ-C ὁ-RA--NPF σάρξ-N3K-NPF αὐτός-RD--GSM ἀλγέω-VAI-AAI3P ὁ-RA--NSF δέ-X ψυχή-N1--NSF αὐτός-RD--GSM πενθέω-VAI-AAI3S
+
+\c 15
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιφας-N---NSM ὁ-RA--NSM *θαιμανίτης-N1M-NSM λέγω-V1--PAI3S
+\v 2 πότερον-D σοφός-A1--NSM ἀπόκρισις-N3I-ASF δίδωμι-VF--FAI3S σύνεσις-N3I-GSF πνεῦμα-N3M-GSN καί-C ἐνπίμπλημι-VAI-AAI3S πόνος-N2--ASM γαστήρ-N3--GSF
+\v 3 ἐλέγχω-V1--PAPNSM ἐν-P ῥῆμα-N3M-DPN ὅς-RR--DPN οὐ-D δέω-V2--PAI3S ἐν-P λόγος-N2--DPM ὅς-RR--DPM οὐδείς-A3--NSN ὄφελος-N3--NSN
+\v 4 οὐ-D καί-C σύ-RP--NS ἀποποιέω-VAI-AMI2S φόβος-N2--ASM συντελέω-VAI-AMI2S δέ-X ῥῆμα-N3M-APN τοιοῦτος-A1--APN ἔναντι-P ὁ-RA--GSM κύριος-N2--GSM
+\v 5 ἔνοχος-A1B-NSM εἰμί-V9--PAI2S ῥῆμα-N3M-DPN στόμα-N3M-GSN σύ-RP--GS οὐδέ-C διακρίνω-VAI-AAI2S ῥῆμα-N3M-APN δυνάστης-N1M-GPM
+\v 6 ἐλέγχω-VA--AAO3S σύ-RP--AS ὁ-RA--NSN σός-A1--NSN στόμα-N3M-NSN καί-C μή-D ἐγώ-RP--NS ὁ-RA--NPN δέ-X χεῖλος-N3E-NPN σύ-RP--GS καταμαρτυρέω-VF--FAI3P σύ-RP--GS
+\v 7 τίς-RI--NSN γάρ-X μή-D πρῶτος-A1--NSMS ἄνθρωπος-N2--GPM γίγνομαι-VCI-API2S ἤ-C πρό-P θίς-N3--GPM πήγνυμι-VDI-API2S
+\v 8 ἦ-D σύνταγμα-N3M-ASN κύριος-N2--GSM ἀκούω-VX--XAI2S εἰς-P δέ-X σύ-RP--AS ἀποἱκνέομαι-VBI-AMI3S σοφία-N1A-NSF
+\v 9 τίς-RI--ASN γάρ-X οἶδα-VX--XAI2S ὅς-RR--ASN οὐ-D οἶδα-VX--XAI1P ἤ-C τίς-RI--ASN συνἵημι-V7--PAI2S ὅς-RR--ASN οὐ-D καί-D ἐγώ-RP--NP
+\v 10 καί-C γέ-X πρεσβύτης-N1M-NSM καί-C γέ-X παλαιός-A1A-NSM ἐν-P ἐγώ-RP--DP βαρύς-A1A-NSMC ὁ-RA--GSM πατήρ-N3--GSM σύ-RP--GS ἡμέρα-N1A-DPF
+\v 11 ὀλίγος-A1--APN ὅς-RR--GPM ἁμαρτάνω-VX--XAI2S μαστιγόω-VK--XPI2S μεγάλως-D ὑπερβαλλόντως-D λαλέω-VX--XAI2S
+\v 12 τίς-RI--ASN τολμάω-VAI-AAI3S ὁ-RA--NSF καρδία-N1A-NSF σύ-RP--GS ἤ-C τίς-RI--ASN ἐπιφέρω-VAI-AAI3P ὁ-RA--NPM ὀφθαλμός-N2--NPM σύ-RP--GS
+\v 13 ὅτι-C θυμός-N2--ASM ῥήγνυμι-VAI-AAI2S ἔναντι-P κύριος-N2--GSM ἐκἄγω-VBI-AAI2S δέ-X ἐκ-P στόμα-N3M-GSN ῥῆμα-N3M-APN τοιοῦτος-A1--APN
+\v 14 τίς-RI--NSM γάρ-X εἰμί-V9--PAPNSM βροτός-N2--NSM ὅτι-C εἰμί-VF--FMI3S ἄμεμπτος-A1B-NSM ἤ-C ὡς-C εἰμί-VF--FMPNSM δίκαιος-A1A-NSM γεννητός-A1--NSM γυνή-N3K-GSF
+\v 15 εἰ-C κατά-P ἅγιος-A1A-GPM οὐ-D πιστεύω-V1--PAI3S οὐρανός-N2--NSM δέ-X οὐ-D καθαρός-A1A-NSM ἐναντίον-P αὐτός-RD--GSM
+\v 16 ἔα-I δέ-X βδελύσσω-VKI-XPPNSM καί-C ἀκάθαρτος-A1B-NSM ἀνήρ-N3--NSM πίνω-V1--PAPNSM ἀδικία-N1A-GSF ἴσος-D ποτός-N2--DSM
+\v 17 ἀναἀγγέλλω-VF2-FAI1S δέ-X σύ-RP--DS ἀκούω-V1--PAD2S ἐγώ-RP--GS ὅς-RR--APN δή-X ὁράω-VX--XAI1S ἀναἀγγέλλω-VF2-FAI1S σύ-RP--DS
+\v 18 ὅς-RR--APN σοφός-A1--NPM εἶπον-VF2-FAI3P καί-C οὐ-D κρύπτω-VAI-AAI3P πατήρ-N3--APM αὐτός-RD--GPM
+\v 19 αὐτός-RD--DPM μόνος-A1--DPM δίδωμι-VCI-API3S ὁ-RA--NSF γῆ-N1--NSF καί-C οὐ-D ἐπιἔρχομαι-VBI-AAI3S ἀλλογενής-A3H-NSM ἐπί-P αὐτός-RD--APM
+\v 20 πᾶς-A3--NSM ὁ-RA--NSM βίος-N2--NSM ἀσεβής-A3H-GSM ἐν-P φροντίς-N3D-DSF ἔτος-N3E-NPN δέ-X ἀριθμητός-A1--NPN δίδωμι-VM--XPPNPN δυνάστης-N1M-DSM
+\v 21 ὁ-RA--NSM δέ-X φόβος-N2--NSM αὐτός-RD--GSM ἐν-P οὖς-N3T-DPN αὐτός-RD--GSM ὅταν-D δοκέω-V2--PAS3S ἤδη-D εἰρηνεύω-V1--PAN ἥκω-VF--FAI3S αὐτός-RD--GSM ὁ-RA--NSF καταστροφή-N1--NSF
+\v 22 μή-D πιστεύω-V1--PAD3S ἀποστρέφω-VD--APN ἀπό-P σκότος-N3E-GSN ἐντέλλομαι-VM--XPI3S γάρ-X ἤδη-D εἰς-P χείρ-N3--APF σίδηρος-N2--GSM
+\v 23 κατατάσσω-VK--XPI3S δέ-X εἰς-P σῖτος-N2--APN γύψ-N3P-DPM οἶδα-VX--XAI3S δέ-X ἐν-P ἑαυτοῦ-RD--DSM ὅτι-C μένω-V1--PAI3S εἰς-P πτῶμα-N3M-ASN ἡμέρα-N1A-NSF δέ-X αὐτός-RD--ASM σκοτεινός-A1--NSF στροβέω-VF--FAI3S
+\v 24 ἀνάγκη-N1--NSF δέ-X καί-C θλῖψις-N3I-NSF αὐτός-RD--ASM καταἔχω-VF--FAI3S ὥσπερ-D στρατηγός-N2--NSM πρωτοστάτης-N1M-NSM πίπτω-V1--PAPNSM
+\v 25 ὅτι-C αἴρω-VX--XAI3P χείρ-N3--APF ἐναντίον-P ὁ-RA--GSM κύριος-N2--GSM ἔναντι-P δέ-X κύριος-N2--GSM παντοκράτωρ-N3R-GSM τραχηλάω-VAI-AAI3S
+\v 26 τρέχω-VBI-AAI3S δέ-X ἐναντίον-P αὐτός-RD--GSM ὕβρις-N3I-DSF ἐν-P πάχος-N3E-DSN νῶτον-N2N-GSN ἀσπίς-N3D-GSF αὐτός-RD--GSM
+\v 27 ὅτι-C καλύπτω-VAI-AAI3S ὁ-RA--ASN πρόσωπον-N2N-ASN αὐτός-RD--GSM ἐν-P στέαρ-N3T-DSN αὐτός-RD--GSM καί-C ποιέω-VAI-AAI3S περιστόμιον-N2N-ASN ἐπί-P ὁ-RA--GPN μηρίον-N2N-GPN
+\v 28 αὐλίζω-VC--APO3S δέ-X πόλις-N3I-APF ἔρημος-A1B-APF εἰςἔρχομαι-VB--AAO3S δέ-X εἰς-P οἶκος-N2--APM ἀοίκητος-A1B-APM ὅς-RR--APN δέ-X ἐκεῖνος-RD--NPM ἑτοιμάζω-VAI-AAI3P ἄλλος-RD--NPM ἀποφέρω-VF--FMI3P
+\v 29 οὔτε-C μή-D πλουτίζω-VS--APS3S οὔτε-C μή-D μένω-VA--AAS3S αὐτός-RD--GSM ὁ-RA--NPN ὑποἄρχω-V1--PAPNPN οὐ-D μή-D βάλλω-VB--AAS3S ἐπί-P ὁ-RA--ASF γῆ-N1--ASF σκιά-N1A-ASF
+\v 30 οὐδέ-C μή-D ἐκφεύγω-VB--AAS3S ὁ-RA--ASN σκότος-N3E-ASN ὁ-RA--ASM βλαστός-N2--ASM αὐτός-RD--GSM μαραίνω-VA--AAO3S ἄνεμος-N2--NSM ἐκπίπτω-VF--FAO3S δέ-X αὐτός-RD--GSM ὁ-RA--NSN ἄνθος-N3E-NSN
+\v 31 μή-D πιστεύω-V1--PAD3S ὅτι-C ὑπομένω-VF2-FAI3S κενός-A1--NPN γάρ-X ἀποβαίνω-VF--FMI3S αὐτός-RD--DSM
+\v 32 ὁ-RA--NSF τομή-N1--NSF αὐτός-RD--GSM πρό-P ὥρα-N1A-GSF φθείρω-VD--FPI3S καί-C ὁ-RA--NSM ῥάδαμνος-N2--NSM αὐτός-RD--GSM οὐ-D μή-D πυκάζω-VA--AAS3S
+\v 33 τρυγάω-VC--APO3S δέ-X ὥσπερ-D ὄμφαξ-N3K-NSF πρό-P ὥρα-N1A-GSF ἐκπίπτω-VF--FAO3S δέ-X ὡς-C ἄνθος-N3E-NSN ἐλαία-N1A-GSF
+\v 34 μαρτύριον-N2N-NSN γάρ-X ἀσεβής-A3H-GSM θάνατος-N2--NSM πῦρ-N3--NSN δέ-X καίω-VF--FAI3S οἶκος-N2--APM δωροδέκτης-N1M-GPM
+\v 35 ἐν-P γαστήρ-N3--DSF δέ-X λαμβάνω-VF--FMI3S ὀδύνη-N1--APF ἀποβαίνω-VF--FMI3S δέ-X αὐτός-RD--DSM κενός-A1--NPN ὁ-RA--NSF δέ-X κοιλία-N1A-NSF αὐτός-RD--GSM ὑποφέρω-VF--FAI3S δόλος-N2--ASM
+
+\c 16
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 ἀκούω-VK--XAI1S τοιοῦτος-A1--APN πολύς-A1--APN παρακλήτωρ-N3R-NPM κακός-A1--GPM πᾶς-A3--NPM
+\v 3 τίς-RI--NSN γάρ-X μή-D τάξις-N3I-NSF εἰμί-V9--PAI3S ῥῆμα-N3M-DPN πνεῦμα-N3M-GSN ἤ-C τίς-RI--NSN παρα  ἐνὀχλέω-VF--FAI3S σύ-RP--DS ὅτι-C ἀποκρίνω-V1--PAS3S
+\v 4 καΐἐγώ-C+RPNS κατά-P σύ-RP--AP λαλέω-VA--AAS1S εἰ-C ὑποκεῖμαι-V5I-IMI3S γέ-X ὁ-RA--NSF ψυχή-N1--NSF σύ-RP--GP ἀντί-P ὁ-RA--GSF ἐμός-A1--GSF εἶτα-D ἐνἅλλομαι-VF2-FAI1S σύ-RP--DP ῥῆμα-N3M-DPN κινέω-VF--FAI1S δέ-X κατά-P σύ-RP--GP κεφαλή-N1--ASF
+\v 5 εἰμί-V9--PAO3S δέ-X ἰσχύς-N3U-NSF ἐν-P ὁ-RA--DSN στόμα-N3M-DSN ἐγώ-RP--GS κίνησις-N3I-ASF δέ-X χεῖλος-N3E-GPN οὐ-D φείδομαι-VF--FMI1S
+\v 6 ἐάν-C γάρ-X λαλέω-VF--FAI1S οὐ-D ἀλγέω-VF--FAI1S ὁ-RA--ASN τραῦμα-N3M-ASN ἐάν-C δέ-X καί-C σιωπάω-VF--FAI1S τίς-RI--NSN ἐλάττων-A3N-NSN τιτρώσκω-VC--FPI1S
+\v 7 νῦν-D δέ-X κατάκοπος-A1B-ASM ἐγώ-RP--AS ποιέω-VX--XAI3S μωρός-A1A-ASM σήπω-VX--XAPASM
+\v 8 καί-C ἐπιλαμβάνω-VBI-AMI2S ἐγώ-RP--GS εἰς-P μαρτύριον-N2N-ASN γίγνομαι-VCI-API3S καί-C ἀναἵστημι-VHI-AAI3S ἐν-P ἐγώ-RP--DS ὁ-RA--NSN ψεῦδος-N3E-NSN ἐγώ-RP--GS κατά-P πρόσωπον-N2N-ASN ἐγώ-RP--GS ἀντι ἀποκρίνω-VCI-API3S
+\v 9 ὀργή-N1--DSF χράω-VA--AMPNSM καταβάλλω-VBI-AAI3S ἐγώ-RP--AS βρύχω-VAI-AAI3S ἐπί-P ἐγώ-RP--AS ὁ-RA--APM ὀδούς-N3--APM βέλος-N3E-NPN πειρατής-N1M-GPM αὐτός-RD--GSM ἐπί-P ἐγώ-RP--DS πίπτω-VBI-AAI3S
+\v 10 ἀκίς-N3D-DPF ὀφθαλμός-N2--GPM ἐνἅλλομαι-VAI-AMI3S ὀξύς-A3U-DSM παίω-VAI-AAI3S ἐγώ-RP--AS εἰς-P σιαγών-N3N-ASF ὁμοθυμαδόν-D δέ-X κατατρέχω-VBI-AAI3P ἐπί-P ἐγώ-RP--DS
+\v 11 παραδίδωμι-VAI-AAI3S γάρ-X ἐγώ-RP--AS ὁ-RA--NSM κύριος-N2--NSM εἰς-P χείρ-N3--APF ἄδικος-A1B-GSM ἐπί-P δέ-X ἀσεβής-A3H-DPM ῥίπτω-VAI-AAI3S ἐγώ-RP--AS
+\v 12 εἰρηνεύω-V1--PAPASM διασκεδάζω-VAI-AAI3S ἐγώ-RP--AS λαμβάνω-VB--AAPNSM ἐγώ-RP--AS ὁ-RA--GSF κόμη-N1--GSF διατίλλω-VBI-AAI3S καταἵστημι-VHI-AAI3S ἐγώ-RP--AS ὥσπερ-D σκοπός-N2--ASM
+\v 13 κυκλόω-VAI-AAI3P ἐγώ-RP--AS λόγχη-N1--DPF βάλλω-V1--PAPNPM εἰς-P νεφρός-N2--APM ἐγώ-RP--GS οὐ-D φείδομαι-V1--PMPNPM ἐκχέω-VAI-AAI3P εἰς-P ὁ-RA--ASF γῆ-N1--ASF ὁ-RA--ASF χολή-N1--ASF ἐγώ-RP--GS
+\v 14 καταβάλλω-VBI-AAI3P ἐγώ-RP--AS πτῶμα-N3M-ASN ἐπί-P πτῶμα-N3M-DSN τρέχω-VBI-AAI3P πρός-P ἐγώ-RP--AS δύναμαι-V6--PMPNPM
+\v 15 σάκκος-N2--ASM ῥάπτω-VAI-AAI1S ἐπί-P βύρσα-N1S-GSF ἐγώ-RP--GS ὁ-RA--NSN δέ-X σθένος-N3E-NSN ἐγώ-RP--GS ἐν-P γῆ-N1--DSF σβέννυμι-VSI-API3S
+\v 16 ὁ-RA--NSF γαστήρ-N3--NSF ἐγώ-RP--GS συνκαίω-VM--XPI3S ἀπό-P κλαυθμός-N2--GSM ἐπί-P δέ-X βλέφαρον-N2N-DPM ἐγώ-RP--GS σκιά-N1A-NSF
+\v 17 ἄδικος-A1B-NSN δέ-X οὐδείς-A3--NSN εἰμί-V9--IAI3S ἐν-P χείρ-N3--DPF ἐγώ-RP--GS εὐχή-N1--NSF δέ-X ἐγώ-RP--GS καθαρός-A1A-NSF
+\v 18 γῆ-N1--NSF μή-D ἐπικαλύπτω-VA--AAS2S ἐπί-P αἷμα-N3M-DSN ὁ-RA--GSF σάρξ-N3K-GSF ἐγώ-RP--GS μηδέ-C εἰμί-V9--PAO3S τόπος-N2--NSM ὁ-RA--DSF κραυγή-N1--DSF ἐγώ-RP--GS
+\v 19 καί-C νῦν-D ἰδού-I ἐν-P οὐρανός-N2--DPM ὁ-RA--NSM μάρτυς-N3--NSM ἐγώ-RP--GS ὁ-RA--NSM δέ-X συνίστωρ-N3R-NSM ἐγώ-RP--GS ἐν-P ὕψιστος-A1--DPN
+\v 20 ἀποἱκνέομαι-VB--AMO3S ἐγώ-RP--GS ὁ-RA--NSF δέησις-N3I-NSF πρός-P κύριος-N2--ASM ἔναντι-P δέ-X αὐτός-RD--GSM στάζω-V1--PAO3S ἐγώ-RP--GS ὁ-RA--NSM ὀφθαλμός-N2--NSM
+\v 21 εἰμί-V9--PAO3S δέ-X ἔλεγχος-N2--NSM ἀνήρ-N3--DSM ἔναντι-P κύριος-N2--GSM καί-C υἱός-N2--NSM ἄνθρωπος-N2--GSM ὁ-RA--DSM πλησίον-D αὐτός-RD--GSM
+\v 22 ἔτος-N3E-NPN δέ-X ἀριθμητός-A1--NPN ἥκω-V1--PAI3P ὁδός-N2--DSF δέ-X ὅς-RR--DSF οὐ-D ἐπι  ἀναστρέφω-VD--FPI1S πορεύομαι-VF--FMI1S
+
+\c 17
+\p
+\v 1 ὀλέκω-V1--PMI1S πνεῦμα-N3M-DSN φέρω-V1--PMPNSM δέω-V2--PMI1S δέ-X ταφή-N1--GSF καί-C οὐ-D τυγχάνω-V1--PAI1S
+\v 2 λίσσομαι-V1--PMI1S κάμνω-V1--PAPNSM καί-C τίς-RI--ASN ποιέω-VA--AAPNSM
+\v 3 κλέπτω-VAI-AAI3P δέ-X ἐγώ-RP--GS ὁ-RA--APN ὑποἄρχω-V1--PAPAPN ἀλλότριος-A1A-NPM τίς-RI--NSM εἰμί-V9--PAI3S οὗτος-RD--NSM ὁ-RA--DSF χείρ-N3--DSF ἐγώ-RP--GS συνδέω-VC--APD3S
+\v 4 ὅτι-C καρδία-N1A-ASF αὐτός-RD--GPM κρύπτω-VAI-AAI2S ἀπό-P φρόνησις-N3I-GSF διά-P οὗτος-RD--ASN οὐ-D μή-D ὑψόω-VA--AAS2S αὐτός-RD--APM
+\v 5 ὁ-RA--DSF μερίς-N3D-DSF ἀναἀγγέλλω-VF2-FAI3S κακία-N1A-APF ὀφθαλμός-N2--NPM δέ-X ἐγώ-RP--GS ἐπί-P υἱός-N2--DPM τήκω-VDI-API3P
+\v 6 τίθημι-VEI-AMI2S δέ-X ἐγώ-RP--AS θρύλημα-N3M-ASN ἐν-P ἔθνος-N3E-DPN γέλως-N3T-NSM δέ-X αὐτός-RD--DPM ἀποβαίνω-VZI-AAI1S
+\v 7 πωρόω-VM--XPI3P γάρ-X ἀπό-P ὀργή-N1--GSF ὁ-RA--NPM ὀφθαλμός-N2--NPM ἐγώ-RP--GS πολιορκέω-VM--XPI1S μεγάλως-D ὑπό-P πᾶς-A3--GPM
+\v 8 θαῦμα-N3M-NSN ἔχω-VBI-AAI3S ἀληθινός-A1--APM ἐπί-P οὗτος-RD--DSN δίκαιος-A1A-NSM δέ-X ἐπί-P παράνομος-A1B-DSM ἐπι  ἀναἵστημι-VH--AAO3S
+\v 9 ἔχω-VB--AAO3S δέ-X πιστός-A1--NSM ὁ-RA--ASF ἑαυτοῦ-RD--GSM ὁδός-N2--ASF καθαρός-A1A-NSM δέ-X χείρ-N3--APF ἀναλαμβάνω-VB--AAO3S θάρσος-N3E-ASN
+\v 10 οὐ-D μήν-X δέ-X ἀλλά-C πᾶς-A3--NPM ἐρείδω-V1--PAI2P καί-C δεῦτε-D δή-X οὐ-D γάρ-X εὑρίσκω-V1--PAI1S ἐν-P σύ-RP--DP ἀληθής-A3H-ASN
+\v 11 ὁ-RA--NPF ἡμέρα-N1A-NPF ἐγώ-RP--GS παραἔρχομαι-VBI-AAI3P ἐν-P βρόμος-N2--DSM ῥήγνυμι-VDI-API3S δέ-X ὁ-RA--NPN ἄρθρον-N2N-NPN ὁ-RA--GSF καρδία-N1A-GSF ἐγώ-RP--GS
+\v 12 νύξ-N3--ASF εἰς-P ἡμέρα-N1A-ASF τίθημι-VAI-AAI3P φῶς-N3T-NSN ἐγγύς-D ἀπό-P πρόσωπον-N2N-GSN σκότος-N3E-GSN
+\v 13 ἐάν-C γάρ-X ὑπομένω-VA--AAS1S ᾅδης-N1M-NSM ἐγώ-RP--GS ὁ-RA--NSM οἶκος-N2--NSM ἐν-P δέ-X γνόφος-N2--DSM στρωννύω-VMI-XPI3S ἐγώ-RP--GS ὁ-RA--NSF στρωμνή-N1--NSF
+\v 14 θάνατος-N2--ASM ἐπικαλέω-VAI-AMI1S πατήρ-N3--ASM ἐγώ-RP--GS εἰμί-V9--PAN μήτηρ-N3--ASF δέ-X ἐγώ-RP--GS καί-C ἀδελφή-N1--ASF σαπρία-N1A-ASF
+\v 15 ποῦ-D οὖν-X ἐγώ-RP--GS ἔτι-D εἰμί-V9--PAI3S ὁ-RA--NSF ἐλπίς-N3D-NSF ἦ-D ὁ-RA--APN ἀγαθός-A1--APN ἐγώ-RP--GS ὁράω-VF--FMI1S
+\v 16 ἦ-D μετά-P ἐγώ-RP--GS εἰς-P ᾅδης-N1M-ASM καταβαίνω-VF--FMI3P ἤ-C ὁμοθυμαδόν-D ἐπί-P χῶμα-N3M-GSN καταβαίνω-VF--FMI1P
+
+\c 18
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχίτης-N1M-NSM λέγω-V1--PAI3S
+\v 2 μέχρι-P τίς-RI--GSM οὐ-D παύω-VF--FMI2S ἐπιἔχω-VB--AAD2S ἵνα-C καί-D αὐτός-RD--NPM λαλέω-VA--AAS1P
+\v 3 διά-P τίς-RI--ASN ὥσπερ-D τετράποδος-A1B-NPN σιωπάω-VX--XAI1P ἐναντίον-P σύ-RP--GS
+\v 4 χράομαι-VM--XMI3S σύ-RP--DS ὀργή-N1--NSF τίς-RI--NSN γάρ-X ἐάν-C σύ-RP--NS ἀποθνήσκω-VB--AAS2S ἀοίκητος-A1B-NSF ὁ-RA--NSF ὑπό-P οὐρανός-N2--ASM ἤ-C καταστρέφω-VD--FPI3S ὄρος-N3E-NPN ἐκ-P θεμέλιον-N2N-GPN
+\v 5 καί-D φῶς-N3T-ASN ἀσεβής-A3H-GPM σβέννυμι-VS--FPI3S καί-C οὐ-D ἀποβαίνω-VF--FMI3S αὐτός-RD--GPM ὁ-RA--NSF φλόξ-N3G-NSF
+\v 6 ὁ-RA--NSN φῶς-N3T-NSN αὐτός-RD--GSM σκότος-N3E-NSN ἐν-P δίαιτα-N1S-DSF ὁ-RA--NSM δέ-X λύχνος-N2--NSM ἐπί-P αὐτός-RD--DSM σβέννυμι-VS--FPI3S
+\v 7 θηρεύω-VA--AAO3P ἐλαχύς-A1--NPMS ὁ-RA--APN ὑποἄρχω-V1--PAPAPN αὐτός-RD--GSM σφάλλω-VB--AAO3S δέ-X αὐτός-RD--GSM ὁ-RA--NSF βουλή-N1--NSF
+\v 8 ἐνβάλλω-VM--XMI3S δέ-X ὁ-RA--NSM πούς-N3D-NSM αὐτός-RD--GSM ἐν-P παγίς-N3D-DSF ἐν-P δίκτυον-N2N-DSN ἑλίσσω-VQ--APO3S
+\v 9 ἔρχομαι-VB--AAO3P δέ-X ἐπί-P αὐτός-RD--ASM παγίς-N3D-NPF καταἰσχύω-VF--FAI3S ἐπί-P αὐτός-RD--ASM διψάω-V3--PAPAPM
+\v 10 κρύπτω-VP--XMI3S ἐν-P ὁ-RA--DSF γῆ-N1--DSF σχοινίον-N2--NSN αὐτός-RD--GSM καί-C ὁ-RA--NSF σύλληψις-N3I-NSF αὐτός-RD--GSM ἐπί-P τρίβος-N2--GPM
+\v 11 κύκλος-N2--DSM ὄλλυμι-VA--AAO3P αὐτός-RD--ASM ὀδύνη-N1--NPF πολύς-A1--NPM δέ-X περί-P πούς-N3D-APM αὐτός-RD--GSM ἔρχομαι-VB--AAO3P ἐν-P λιμός-N2--DSM στενός-A1--DSM
+\v 12 πτῶμα-N3M-NSN δέ-X αὐτός-RD--DSM ἑτοιμάζω-VT--XPI3S ἐξαίσιος-A1B-NSN
+\v 13 βιβρώσκω-VC--APO3P αὐτός-RD--GSM κλών-N3W-NPM πούς-N3D-GPM καταἐσθίω-VF--FMI3S δέ-X ὁ-RA--APN ὡραῖος-A1A-APN αὐτός-RD--GSM θάνατος-N2--NSM
+\v 14 ἐκῥ/γνυμι-VD--APO3S δέ-X ἐκ-P δίαιτα-N1S-GSF αὐτός-RD--GSM ἴασις-N3I-NSF ἔχω-VB--AAO3S δέ-X αὐτός-RD--ASM ἀνάγκη-N1--NSF αἰτία-N1A-DSF βασιλικός-A1--DSF
+\v 15 κατασκηνόω-VF--FAI3S ἐν-P ὁ-RA--DSF σκηνή-N1--DSF αὐτός-RD--GSM ἐν-P νύξ-N3--DSF αὐτός-RD--GSM κατασπείρω-VD--FPI3P ὁ-RA--NPN εὐπρεπής-A3H-NPN αὐτός-RD--GSM θεῖον-N2N-DSN
+\v 16 ὑποκάτωθεν-D ὁ-RA--NPF ῥίζα-N1S-NPF αὐτός-RD--GSM ξηραίνω-VC--FPI3P καί-C ἐπάνωθεν-D ἐπιπίπτω-VF2-FMI3S θερισμός-N2--NSM αὐτός-RD--GSM
+\v 17 ὁ-RA--NSN μνημόσυνον-N2N-NSN αὐτός-RD--GSM ἀποὀλλύω-VB--AMO3S ἐκ-P γῆ-N1--GSF καί-C ὑποἄρχω-V1--PAI3S ὄνομα-N3M-NSN αὐτός-RD--DSM ἐπί-P πρόσωπον-N2N-ASN ἔξωτέρος-D
+\v 18 ἀποὠθέω-VA--AAO3S αὐτός-RD--ASM ἐκ-P φῶς-N3T-GSN εἰς-P σκότος-N3E-ASN
+\v 19 οὐ-D εἰμί-VF--FMI3S ἐπίγνωστος-A1B-NSM ἐν-P λαός-N2--DSM αὐτός-RD--GSM οὐδέ-C σώζω-VT--XPPNSM ἐν-P ὁ-RA--DSF ὑπό-P οὐρανός-N2--ASM ὁ-RA--NSM οἶκος-N2--NSM αὐτός-RD--GSM ἀλλά-C ἐν-P ὁ-RA--DPN αὐτός-RD--GSM ζάω-VF--FMI3P ἕτερος-A1A-NPM
+\v 20 ἐπί-P αὐτός-RD--DSM στενάζω-VAI-AAI3P ἔσχατος-A1--NPM πρῶτος-A1--APMS δέ-X ἔχω-VBI-AAI3S θαῦμα-N3M-NSN
+\v 21 οὗτος-RD--NPM εἰμί-V9--PAI3P οἶκος-N2--NPM ἄδικος-A1B-GPM οὗτος-RD--NSM δέ-X ὁ-RA--NSM τόπος-N2--NSM ὁ-RA--GPM μή-D οἶδα-VX--XAPGPM ὁ-RA--ASM κύριος-N2--ASM
+
+\c 19
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 ἕως-P τίς-RI--GSN ἔγκοπος-A1B-ASF ποιέω-VF--FAI2P ψυχή-N1--ASF ἐγώ-RP--GS καί-C κατααἱρέω-V2--PAI2P ἐγώ-RP--AS λόγος-N2--DPM
+\v 3 γιγνώσκω-VZ--AAD2P μόνον-D ὅτι-C ὁ-RA--NSM κύριος-N2--NSM ποιέω-VAI-AAI3S ἐγώ-RP--AS οὕτως-D καταλαλέω-V2--PAI2P ἐγώ-RP--GS οὐ-D αἰσχύνω-V1--PMPNPM ἐγώ-RP--AS ἐπικεῖμαι-V5--PMI2P ἐγώ-RP--DS
+\v 4 ναί-X δή-X ἐπί-P ἀλήθεια-N1A-GSF ἐγώ-RP--NS πλανάω-VCI-API1S παρά-P ἐγώ-RP--DS δέ-X αὐλίζω-V1--PMI3S πλάνος-A1B-NSM
+\v 4 λαλέω-VA--AAN ῥῆμα-N3M-ASN ὅς-RR--ASN οὐ-D δέω-V2I-IAI3S ὁ-RA--NPN δέ-X ῥῆμα-N3M-NPN ἐγώ-RP--GS πλανάω-V3--PMI3S καί-C οὐ-D ἐπί-P καιρός-N2--GSM
+\v 5 ἔα-I δέ-X ὅτι-C ἐπί-P ἐγώ-RP--DS μεγαλύνω-V1--PMI2P ἐνἅλλομαι-V1--PMI2P δέ-X ἐγώ-RP--DS ὄνειδος-N3E-DSN
+\v 6 γιγνώσκω-VZ--AAD2P οὖν-X ὅτι-C ὁ-RA--NSM κύριος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--NSM ταράσσω-VA--AAPNSM ὀχύρωμα-N3M-ASN δέ-X αὐτός-RD--GSM ἐπί-P ἐγώ-RP--AS ὑψόω-VAI-AAI3S
+\v 7 ἰδού-I γελάω-V3--PAI1S ὄνειδος-N3E-DSN καί-C οὐ-D λαλέω-VF--FAI1S κράζω-VFX-FMI1S καί-C οὐδαμοῦ-D κρίμα-N3M-NSN
+\v 8 κύκλος-N2--DSM περιοἰκοδομέω-VM--XPI1S καί-C οὐ-D μή-D διαβαίνω-VZ--AAS1S ἐπί-P πρόσωπον-N2N-ASN ἐγώ-RP--GS σκότος-N3E-ASN τίθημι-VEI-AMI3S
+\v 9 ὁ-RA--ASF δέ-X δόξα-N1S-ASF ἀπό-P ἐγώ-RP--GS ἐκδύω-VAI-AAI3S ἀποαἱρέω-VBI-AAI3S δέ-X στέφανος-N2--ASM ἀπό-P κεφαλή-N1--GSF ἐγώ-RP--GS
+\v 10 διασπάω-VAI-AAI3S ἐγώ-RP--AS κύκλος-N2--DSM καί-C οἴχομαι-V1I-IMI1S ἐκκόπτω-VAI-AAI3S δέ-X ὥσπερ-D δένδρον-N2N-ASN ὁ-RA--ASF ἐλπίς-N3D-ASF ἐγώ-RP--GS
+\v 11 δεινῶς-D δέ-X ἐγώ-RP--DS ὀργή-N1--DSF χράω-VAI-AMI3S ἡγέομαι-VAI-AMI3S δέ-X ἐγώ-RP--AS ὥσπερ-D ἐχθρός-N2--ASM
+\v 12 ὁμοθυμαδόν-D δέ-X ἔρχομαι-VBI-AAI3P ὁ-RA--NPN πειρατήριον-N2N-NPN αὐτός-RD--GSM ἐπί-P ἐγώ-RP--DS ὁ-RA--DPF ὁδός-N2--DPF ἐγώ-RP--GS κυκλόω-VAI-AAI3P ἐγώ-RP--AS ἐγκάθετος-A1B-NSM
+\v 13 ἀπό-P ἐγώ-RP--GS δέ-X ἀδελφός-N2--NPM ἐγώ-RP--GS ἀποἵστημι-VHI-AAI3P γιγνώσκω-VZI-AAI3P ἀλλότριος-A1A-APM ἤ-C ἐγώ-RP--AS φίλος-A1--NPM δέ-X ἐγώ-RP--GS ἀνελεήμων-N3N-NPM γίγνομαι-VX--XAI3P
+\v 14 οὐ-D προςποιέω-VAI-AMI3P ἐγώ-RP--AS ὁ-RA--NPM ἐγγύς-A1--NPMS ἐγώ-RP--GS καί-C ὁ-RA--NPM οἶδα-VX--XAPNPM ἐγώ-RP--GS ὁ-RA--ASN ὄνομα-N3M-ASN ἐπιλανθάνω-VBI-AMI3P ἐγώ-RP--GS
+\v 15 γείτων-N3N-NPM οἰκία-N1A-GSF θεραπαίνα-N1A-NPF τε-X ἐγώ-RP--GS ἀλλογενής-A3H-NSM εἰμί-V9I-IMI1S ἐναντίον-P αὐτός-RD--GPM
+\v 16 θεράπων-N3--ASM ἐγώ-RP--GS καλέω-VAI-AAI1S καί-C οὐ-D ὑποἀκούω-VAI-AAI3S στόμα-N3M-NSN δέ-X ἐγώ-RP--GS δέομαι-V1I-IMI3S
+\v 17 καί-C ἱκετεύω-V1I-IAI1S ὁ-RA--ASF γυνή-N3K-ASF ἐγώ-RP--GS προςκαλέω-V2I-IMI1S δέ-X κολακεύω-V1--PAPNSM υἱός-N2--APM παλλακίς-N3D-GPF ἐγώ-RP--GS
+\v 18 ὁ-RA--NPM δέ-X εἰς-P ὁ-RA--ASM αἰών-N3W-ASM ἐγώ-RP--AS ἀποποιέω-VAI-AMI3P ὅταν-D ἀναἵστημι-VH--AAS1S κατά-P ἐγώ-RP--GS λαλέω-V2--PAI3P
+\v 19 βδελύσσω-VAI-AMI3P δέ-X ἐγώ-RP--AS ὁ-RA--NPM οἶδα-VX--XAPNPM ἐγώ-RP--AS ὅς-RR--APM δή-X ἀγαπάω-VXI-YAI1S ἐπι  ἀναἵστημι-VHI-AAI3P ἐγώ-RP--DS
+\v 20 ἐν-P δέρμα-N3M-DSN ἐγώ-RP--GS σήπω-VAI-AAI3P ὁ-RA--NPF σάρξ-N3K-NPF ἐγώ-RP--GS ὁ-RA--NPN δέ-X ὀστέον-N2N-NPN ἐγώ-RP--GS ἐν-P ὀδούς-N3--DPM ἔχω-V1--PMI3S
+\v 21 ἐλεέω-VA--AAD2P ἐγώ-RP--AS ἐλεέω-VA--AAD2P ἐγώ-RP--AS ὦ-I φίλος-A1--NPM χείρ-N3--NSF γάρ-X κύριος-N2--GSM ὁ-RA--NSF ἅπτομαι-VA--AMPNSF ἐγώ-RP--GS εἰμί-V9--PAI3S
+\v 22 διά-P τίς-RI--ASN δέ-X ἐγώ-RP--AS διώκω-V1--PAI2P ὥσπερ-D καί-C ὁ-RA--NSM κύριος-N2--NSM ἀπό-P δέ-X σάρξ-N3K-GPF ἐγώ-RP--GS οὐ-D ἐνπίμπλημι-V6--PPI2P
+\v 23 τίς-RI--NSM γάρ-X ἄν-X δίδωμι-VO--AAO3S γράφω-VD--APN ὁ-RA--NPN ῥῆμα-N3M-NPN ἐγώ-RP--GS τίθημι-VE--APN δέ-X αὐτός-RD--APN ἐν-P βιβλίον-N2N-DSN εἰς-P ὁ-RA--ASM αἰών-N3W-ASM
+\v 24 ἐν-P γραφεῖον-N2N-DSN σιδηροῦς-A1C-DSN καί-C μόλιβος-N2--DSM ἤ-C ἐν-P πέτρα-N1A-DPF ἐνγλύφω-VD--APN
+\v 25 οἶδα-VX--XAI1S γάρ-X ὅτι-C ἀέναος-A1B-NSM εἰμί-V9--PAI3S ὁ-RA--NSM ἐκλύω-V1--PAN ἐγώ-RP--AS μέλλω-V1--PAPNSM ἐπί-P γῆ-N1--GSF
+\v 26 ἀναἵστημι-VA--AAO3S ὁ-RA--ASN δέρμα-N3M-ASN ἐγώ-RP--GS ὁ-RA--ASN ἀνέτλην-VA--AAPASN οὗτος-RD--APN παρά-P γάρ-X κύριος-N2--GSM οὗτος-RD--NPN ἐγώ-RP--DS συντελέω-VSI-API3S
+\v 27 ὅς-RR--APN ἐγώ-RP--NS ἐμαυτοῦ-RD--DSM συν   ἐπιἵσταμαι-V6--PMI1S ὅς-RR--APN ὁ-RA--NSM ὀφθαλμός-N2--NSM ἐγώ-RP--GS ὁράω-VX--XAI3S καί-C οὐ-D ἄλλος-RD--NSM πᾶς-A3--NSN δέ-X ἐγώ-RP--DS συντελέω-VM--XPI3S ἐν-P κόλπος-N2--DSM
+\v 28 εἰ-C δέ-X καί-C εἶπον-VF2-FAI2P τίς-RI--ASN εἶπον-VF2-FAI1P ἔναντι-P αὐτός-RD--GSM καί-C ῥίζα-N1S-ASF λόγος-N2--GSM εὑρίσκω-VF--FAI1P ἐν-P αὐτός-RD--DSM
+\v 29 εὐλαβέομαι-VC--API2P δή-X καί-D σύ-RP--NP ἀπό-P ἐπικάλυμμα-N3M-GSN θυμός-N2--NSM γάρ-X ἐπί-P ἄνομος-A1B-APM ἐπιἔρχομαι-VF--FMI3S καί-C τότε-D γιγνώσκω-VF--FMI3P ποῦ-D εἰμί-V9--PAI3S αὐτός-RD--GPM ὁ-RA--NSF ὕλη-N1--NSF
+
+\c 20
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *σωφαρ-N---NSM ὁ-RA--NSM *μιναῖος-N2--NSM λέγω-V1--PAI3S
+\v 2 οὐ-D οὕτως-D ὑπολαμβάνω-V1I-IAI1S ἀντιεἶπον-VF2-FAN σύ-RP--AS οὗτος-RD--APN καί-C οὐ-D συνἵημι-V6--PAI2P μᾶλλον-D ἤ-C καί-D ἐγώ-RP--NS
+\v 3 παιδεία-N1A-ASF ἐντροπή-N1--GSF ἐγώ-RP--GS ἀκούω-VF--FMI1S καί-C πνεῦμα-N3M-NSN ἐκ-P ὁ-RA--GSF σύνεσις-N3I-GSF ἀποκρίνω-V1--PMI3S ἐγώ-RP--DS
+\v 4 μή-D οὗτος-RD--APN γιγνώσκω-VZI-AAI2S ἀπό-P ὁ-RA--GSN ἔτι-D ἀπό-P ὅς-RR--GSM τίθημι-VEI-API3S ἄνθρωπος-N2--NSM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF
+\v 5 εὐφροσύνη-N1--NSF γάρ-X ἀσεβής-A3H-GPM πτῶμα-N3M-NSN ἐξαίσιος-A1B-NSN χαρμονή-N1--NSF δέ-X παράνομος-A1B-GPM ἀπώλεια-N1A-NSF
+\v 6 ἐάν-C ἀναβαίνω-VZ--AAS3S εἰς-P οὐρανός-N2--ASM αὐτός-RD--GSM ὁ-RA--NPN δῶρον-N2N-NPN ὁ-RA--NSF δέ-X θυσία-N1A-NSF αὐτός-RD--GSM νέφος-N3E-GPN ἅπτομαι-VA--AMS3S
+\v 7 ὅταν-D γάρ-X δοκέω-V2--PAS3S ἤδη-D καταστηρίζω-VK--XPN τότε-D εἰς-P τέλος-N3E-ASN ἀποὀλλύω-VF2-FMI3S ὁ-RA--NPM δέ-X ὁράω-VB--AAPNPM αὐτός-RD--ASM εἶπον-VF2-FAI3P ποῦ-D εἰμί-V9--PAI3S
+\v 8 ὥσπερ-D ἐνύπνιον-N2N-NSN ἐκπετάζω-VC--APPNSN οὐ-D μή-D εὑρίσκω-VC--APS3S πέτομαι-VBI-AMI3S δέ-X ὥσπερ-D φάσμα-N3M-NSN νυκτερινός-A1--NSN
+\v 9 ὀφθαλμός-N2--NSM παραβλέπω-VAI-AAI3S καί-C οὐ-D προςτίθημι-VF--FAI3S καί-C οὐκέτι-D προςνοέω-VF--FAI3S αὐτός-RD--ASM ὁ-RA--NSM τόπος-N2--NSM αὐτός-RD--GSM
+\v 10 ὁ-RA--APM υἱός-N2--APM αὐτός-RD--GSM ὄλλυμι-VA--AAO3P ἥσσων-A3C-NPM ὁ-RA--NPF δέ-X χείρ-N3--NPF αὐτός-RD--GSM πυρσεύω-VA--AAO3P ὀδύνη-N1--APF
+\v 11 ὀστέον-N2N-NPN αὐτός-RD--GSM ἐνπίμπλημι-VSI-API3P νεότης-N3T-GSF αὐτός-RD--GSM καί-C μετά-P αὐτός-RD--GSM ἐπί-P χῶμα-N3M-GSN κοιμάω-VC--FPI3S
+\v 12 ἐάν-C γλυκαίνω-VC--APS3S ἐν-P στόμα-N3M-DSN αὐτός-RD--GSM κακία-N1A-NSF κρύπτω-VF--FAI3S αὐτός-RD--ASF ὑπό-P ὁ-RA--ASF γλῶσσα-N1S-ASF αὐτός-RD--GSM
+\v 13 οὐ-D φείδομαι-VF--FMI3S αὐτός-RD--GSF καί-C οὐ-D ἐν   καταλείπω-VF--FAI3S αὐτός-RD--ASF καί-C συνἔχω-VF--FAI3S αὐτός-RD--ASF ἐν-P μέσος-A1--DSN ὁ-RA--GSM λάρυγξ-N3G-GSM αὐτός-RD--GSM
+\v 14 καί-C οὐ-D μή-D δύναμαι-VC--APS3S βοηθέω-VA--AAN ἑαυτοῦ-RD--DSM χολή-N1--NSF ἀσπίς-N3D-GSF ἐν-P γαστήρ-N3--DSF αὐτός-RD--GSM
+\v 15 πλοῦτος-N2--NSM ἀδίκως-D συνἄγω-V1--PPPNSM ἐκἐμέω-VS--FPI3S ἐκ-P οἰκία-N1A-GSF αὐτός-RD--GSM ἐκἕλκω-VF--FAI3S αὐτός-RD--ASM ἄγγελος-N2--NSM
+\v 16 θυμός-N2--ASM δέ-X δράκων-N3--GPM θηλάζω-VA--AAO3S ἀνααἱρέω-VB--AAO3S δέ-X αὐτός-RD--ASM γλῶσσα-N1S-NSF ὄφις-N3I-GSM
+\v 17 μή-D ὁράω-VB--AAO3S ἄμελξις-N3I-ASF νομάς-N3D-GPF μηδέ-C νομή-N1--APF μέλι-N3T-GSN καί-C βούτυρον-N2N-GSN
+\v 18 εἰς-P κενός-A1--APN καί-C μάταιος-A1A-APN κοπιάω-VAI-AAI3S πλοῦτος-N2--ASM ἐκ-P ὅς-RR--GSM οὐ-D γεύω-VF--FMI3S ὥσπερ-D στρίφνος-N2--NSM ἀμάσητος-A1B-NSM ἀκατάποτος-A1B-NSM
+\v 19 πολύς-A1--GPM γάρ-X ἀδύνατος-A1B-GPM οἶκος-N2--APM θλάω-VAI-AAI3S δίαιτα-N1S-ASF δέ-X ἁρπάζω-VAI-AAI3S καί-C οὐ-D ἵστημι-VAI-AAI3S
+\v 20 οὐ-D εἰμί-V9--PAI3S αὐτός-RD--GSM σωτηρία-N1A-NSF ὁ-RA--DPN ὑποἄρχω-V1--PAPDPN ἐν-P ἐπιθυμία-N1A-DSF αὐτός-RD--GSM οὐ-D σώζω-VC--FPI3S
+\v 21 οὐ-D εἰμί-V9--PAI3S ὑπόλειμμα-N3M-NSN ὁ-RA--DPN βρῶμα-N3M-DPN αὐτός-RD--GSM διά-P οὗτος-RD--ASN οὐ-D ἀνθέω-VF--FAI3S αὐτός-RD--GSM ὁ-RA--NPN ἀγαθός-A1--NPN
+\v 22 ὅταν-D δέ-X δοκέω-V2--PAS3S ἤδη-D πληρόω-VM--XPN θλίβω-VD--FPI3S πᾶς-A1S-NSF δέ-X ἀνάγκη-N1--NSF ἐπί-P αὐτός-RD--ASM ἐπιἔρχομαι-VF--FMI3S
+\v 23 εἰ-C πῶς-D πληρόω-VA--AAN γαστήρ-N3--ASF αὐτός-RD--GSM ἐπι  ἀποστέλλω-VA--AAN ἐπί-P αὐτός-RD--ASM θυμός-N2--ASM ὀργή-N1--GSF νίπτω-VA--AAO3S ἐπί-P αὐτός-RD--ASM ὀδύνη-N1--APF
+\v 24 καί-C οὐ-D μή-D σώζω-VC--APS3S ἐκ-P χείρ-N3--GSF σίδηρος-N2--GSM τιτρώσκω-VA--AAO3S αὐτός-RD--ASM τόξον-N2N-NSN χαλκεῖον-N2N-NSN
+\v 25 δια   ἐκἔρχομαι-VB--AAO3S δέ-X διά-P σῶμα-N3M-GSN αὐτός-RD--GSM βέλος-N3E-ASN ἀστραπή-N1--NPF δέ-X ἐν-P δίαιτα-N1S-DPF αὐτός-RD--GSM περιπατέω-VA--AAO3P ἐπί-P αὐτός-RD--DSM φόβος-N2--NPM
+\v 26 πᾶς-A3--NSN δέ-X σκότος-N3E-NSN αὐτός-RD--DSM ὑπομένω-VA--AAO3S καταἐσθίω-VF--FMI3S αὐτός-RD--ASM πῦρ-N3--NSN ἄκαυστος-A1B-NSN κακόω-VA--AAO3S δέ-X αὐτός-RD--GSM ἐπήλυτος-N2--NSM ὁ-RA--ASM οἶκος-N2--ASM
+\v 27 ἀνακαλύπτω-VA--AAO3S δέ-X αὐτός-RD--GSM ὁ-RA--NSM οὐρανός-N2--NSM ὁ-RA--APF ἀνομία-N1A-APF γῆ-N1--NSF δέ-X ἐπι  ἀναἵστημι-VH--AAO3S αὐτός-RD--DSM
+\v 28 ἕλκω-VA--AAO3S ὁ-RA--ASM οἶκος-N2--ASM αὐτός-RD--GSM ἀπώλεια-N1A-NSF εἰς-P τέλος-N3E-ASN ἡμέρα-N1A-NSF ὀργή-N1--GSF ἐπιἔρχομαι-VB--AAO3S αὐτός-RD--DSM
+\v 29 οὗτος-RD--NSF ὁ-RA--NSF μερίς-N3D-NSF ἄνθρωπος-N2--GSM ἀσεβής-A3H-GSM παρά-P κύριος-N2--GSM καί-C κτῆμα-N3M-NSN ὑποἄρχω-V1--PAPGPM αὐτός-RD--DSM παρά-P ὁ-RA--GSM ἐπισκοπός-N2--GSM
+
+\c 21
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 ἀκούω-VA--AAD2P ἀκούω-VA--AAD2P ἐγώ-RP--GS ὁ-RA--GPM λόγος-N2--GPM ἵνα-C μή-D εἰμί-V9--PAS3S ἐγώ-RP--DS παρά-P σύ-RP--GP οὗτος-RD--NSF ὁ-RA--NSF παράκλησις-N3I-NSF
+\v 3 αἴρω-VA--AAD2P ἐγώ-RP--AS ἐγώ-RP--NS δέ-X λαλέω-VF--FAI1S εἶτα-D οὐ-D καταγελάω-VF--FAI2P ἐγώ-RP--GS
+\v 4 τίς-RI--ASN γάρ-X μή-D ἄνθρωπος-N2--GSM ἐγώ-RP--GS ὁ-RA--NSF ἔλεγξις-N3I-NSF ἤ-C διά-P τίς-RI--ASN οὐ-D θυμόω-VC--FPI1S
+\v 5 εἰςβλέπω-VA--AAPNPM εἰς-P ἐγώ-RP--AS θαυμάζω-VA--AAD2P χείρ-N3--ASF τίθημι-VE--AAPNPM ἐπί-P σιαγών-N3N-DSF
+\v 6 ἐάν-C τε-X γάρ-X μιμνήσκω-VS--APS1S σπουδάζω-VX--XAI1S ἔχω-V1--PAI3P δέ-X ἐγώ-RP--GS ὁ-RA--APF σάρξ-N3K-APF ὀδύνη-N1--NPF
+\v 7 διά-P τίς-RI--ASN ἀσεβής-A3H-NPM ζάω-V3--PAI3P παλαιόω-VM--XMI3P δέ-X καί-C ἐν-P πλοῦτος-N2--DSM
+\v 8 ὁ-RA--NSM σπόρος-N2--NSM αὐτός-RD--GPM κατά-P ψυχή-N1--ASF ὁ-RA--NPN δέ-X τέκνον-N2N-NPN αὐτός-RD--GPM ἐν-P ὀφθαλμός-N2--DPM
+\v 9 ὁ-RA--NPM οἶκος-N2--NPM αὐτός-RD--GPM εὐθηνέω-V2--PAI3P φόβος-N2--NSM δέ-X οὐδαμοῦ-D μάστιξ-N3G-NSF δέ-X παρά-P κύριος-N2--GSM οὐ-D εἰμί-V9--PAI3S ἐπί-P αὐτός-RD--DPM
+\v 10 ὁ-RA--NSF βοῦς-N3--NSF αὐτός-RD--GPM οὐ-D ὠμοτοκέω-VAI-AAI3S διασώζω-VCI-API3S δέ-X αὐτός-RD--GPM ἐν-P γαστήρ-N3--DSF ἔχω-V1--PAPNSF καί-C οὐ-D σφάλλω-VBI-AAI3S
+\v 11 μένω-V1--PAI3P δέ-X ὡς-C πρόβατον-N2N-APN αἰώνιος-A1B-APN ὁ-RA--APN δέ-X παιδίον-N2N-APN αὐτός-RD--GPM προςπαίζω-V1--PAI3P
+\v 12 ἀναλαμβάνω-VB--AAPNPM ψαλτήριον-N2N-ASN καί-C κιθάρα-N1A-ASF καί-C εὐφραίνω-V1--PPI3P φωνή-N1--DSF ψαλμός-N2--GSM
+\v 13 συντελέω-VAI-AAI3P δέ-X ἐν-P ἀγαθός-A1--DPM ὁ-RA--ASM βίος-N2--ASM αὐτός-RD--GPM ἐν-P δέ-X ἀνάπαυσις-N3I-DSF ᾅδης-N1M-GSM κοιμάω-VCI-API3P
+\v 14 λέγω-V1--PAI3S δέ-X κύριος-N2--DSM ἀποἵστημι-VH--AAD2S ἀπό-P ἐγώ-RP--GS ὁδός-N2--APF σύ-RP--GS οἶδα-VX--XAN οὐ-D βούλομαι-V1--PMI1S
+\v 15 τίς-RI--NSN ἱκανός-A1--NSM ὅτι-C δουλεύω-VF--FAI1P αὐτός-RD--DSM καί-C τίς-RI--NSN ὠφέλεια-N1A-NSF ὅτι-C ἀποἀντάω-VF--FAI1P αὐτός-RD--DSM
+\v 16 ἐν-P χείρ-N3--DPF γάρ-X εἰμί-V9--IAI3S αὐτός-RD--GPM ὁ-RA--NPN ἀγαθός-A1--NPN ἔργον-N2N-NPN δέ-X ἀσεβής-A3H-GPM οὐ-D ἐπιὁράω-V3--PAI3S
+\v 17 οὐ-D μήν-X δέ-X ἀλλά-C καί-C ἀσεβής-A3H-GPM λύχνος-N2--NSM σβέννυμι-VC--FPI3S ἐπιἔρχομαι-VF--FMI3S δέ-X αὐτός-RD--DPM ὁ-RA--NSF καταστροφή-N1--NSF ὠδίν-N3--NPF δέ-X αὐτός-RD--APM ἔχω-VF--FAI3P ἀπό-P ὀργή-N1--GSF
+\v 18 εἰμί-VF--FMI3P δέ-X ὥσπερ-D ἄχυρον-N2N-APN πρό-P ἄνεμος-N2--GSM ἤ-C ὥσπερ-D κονιορτός-N2--NSM ὅς-RR--ASM ὑποαἱρέω-VB--AMI3S λαῖλαψ-N3P-NSF
+\v 19 ἐκλείπω-VB--AAO3S υἱός-N2--APM ὁ-RA--NPN ὑποἄρχω-V1--PAPNPN αὐτός-RD--GSM ἀντι ἀποδίδωμι-VF--FAI3S πρός-P αὐτός-RD--ASM καί-C γιγνώσκω-VF--FMI3S
+\v 20 ὁράω-VB--AAO3P ὁ-RA--NPM ὀφθαλμός-N2--NPM αὐτός-RD--GSM ὁ-RA--ASF ἑαυτοῦ-RD--GSM σφαγή-N1--ASF ἀπό-P δέ-X κύριος-N2--GSM μή-D διασώζω-VC--APO3S
+\v 21 ὅτι-C τίς-RI--NSN θέλημα-N3M-NSN αὐτός-RD--GSM ἐν-P οἶκος-N2--DSM αὐτός-RD--GSM μετά-P αὐτός-RD--ASM καί-C ἀριθμός-N2--NPM μήν-N3--GPM αὐτός-RD--GSM διααἱρέω-VCI-API3P
+\v 22 πότερον-D οὐ-D ὁ-RA--NSM κύριος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--NSM διδάσκω-V1--PAPNSM σύνεσις-N3I-ASF καί-C ἐπιστήμη-N1--ASF αὐτός-RD--NSM δέ-X φόνος-N2--APM διακρίνω-VF2-FAI3S
+\v 23 οὗτος-RD--NSM ἀποθνήσκω-VF2-FMI3S ἐν-P κράτος-N3E-DSN ἁπλοσύνη-N1--GSF αὐτός-RD--GSM ὅλος-A1--NSM δέ-X εὐπαθέω-V2--PAPNSM καί-C εὐθηνέω-V2--PAPNSM
+\v 24 ὁ-RA--NPN δέ-X ἔγκατα-N2N-NPN αὐτός-RD--GSM πλήρης-A3H-NPN στέαρ-N3T-GSN μυελός-N2--NSM δέ-X αὐτός-RD--GSM διαχέω-V2--PMI3S
+\v 25 ὁ-RA--NSM δέ-X τελευτάω-V3--PAI3S ὑπό-P πικρία-N1A-GSF ψυχή-N1--GSF οὐ-D ἐσθίω-VB--AAPNSM οὐδείς-A3--ASN ἀγαθός-A1--ASN
+\v 26 ὁμοθυμαδόν-D δέ-X ἐπί-P γῆ-N1--GSF κοιμάω-V3--PMI3P σαπρία-N1A-NSF δέ-X αὐτός-RD--APM καλύπτω-VAI-AAI3S
+\v 27 ὥστε-C οἶδα-VX--XAI1S σύ-RP--AP ὅτι-C τόλμα-N1S-DSF ἐπικεῖμαι-V5--PMI2P ἐγώ-RP--DS
+\v 28 ὅτι-C εἶπον-VF2-FAI2P ποῦ-D εἰμί-V9--PAI3S οἶκος-N2--NSM ἄρχων-N3--GSM καί-C ποῦ-D εἰμί-V9--PAI3S ὁ-RA--NSF σκέπη-N1--NSF ὁ-RA--GPN σκήνωμα-N3M-GPN ὁ-RA--GPM ἀσεβής-A3H-GPM
+\v 29 ἐρωτάω-VA--AAD2P παραπορεύομαι-V1--PMPAPM ὁδός-N2--ASF καί-C ὁ-RA--APN σημεῖον-N2N-APN αὐτός-RD--GPM οὐ-D ἀποἀλλοτριόω-VF--FAI2S
+\v 30 ὅτι-C εἰς-P ἡμέρα-N1A-ASF ἀπώλεια-N1A-GSF κουφίζω-V1--PPI3S ὁ-RA--NSM πονηρός-A1A-NSM εἰς-P ἡμέρα-N1A-ASF ὀργή-N1--GSF αὐτός-RD--GSM ἀποἄγω-VQ--FPI3P
+\v 31 τίς-RI--NSM ἀποἀγγέλλω-VF2-FAI3S ἐπί-P πρόσωπον-N2N-GSN αὐτός-RD--GSM ὁ-RA--ASF ὁδός-N2--ASF αὐτός-RD--GSM καί-C αὐτός-RD--NSM ποιέω-VAI-AAI3S τίς-RI--NSM ἀντι ἀποδίδωμι-VF--FAI3S αὐτός-RD--DSM
+\v 32 καί-C αὐτός-RD--NSM εἰς-P τάφος-N2--APM ἀποφέρω-VQI-API3S καί-C ἐπί-P σορός-N2--DSF ἀγρυπνέω-VAI-AAI3S
+\v 33 γλυκαίνω-VCI-API3P αὐτός-RD--DSM χάλιξ-N3K-NPM χειμάρρους-N2--GSM καί-C ὀπίσω-P αὐτός-RD--GSM πᾶς-A3--NSM ἄνθρωπος-N2--NSM ἀποἔρχομαι-VF--FMI3S καί-C ἔμπροσθεν-P αὐτός-RD--GSM ἀναρίθμητος-A1B-NPM
+\v 34 πῶς-D δέ-X παρακαλέω-V2--PAI2P ἐγώ-RP--AS κενός-A1--APN ὁ-RA--ASN δέ-X ἐγώ-RP--AS καταπαύω-VA--AMN ἀπό-P σύ-RP--GP οὐδείς-A3--ASN
+
+\c 22
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιφας-N---NSM ὁ-RA--NSM *θαιμανίτης-N---NSM λέγω-V1--PAI3S
+\v 2 πότερον-D οὐ-D ὁ-RA--NSM κύριος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--NSM διδάσκω-V1--PAPNSM σύνεσις-N3I-ASF καί-C ἐπιστήμη-N1--ASF
+\v 3 τίς-RI--NSN γάρ-X μέλω-V1--PAI3S ὁ-RA--DSM κύριος-N2--DSM ἐάν-C σύ-RP--NS εἰμί-V9--IAI2S ὁ-RA--DPN ἔργον-N2N-DPN ἄμεμπτος-A1B-NSM ἤ-C ὠφέλεια-N1A-NSF ὅτι-C ἁπλόω-VA--AAS2S ὁ-RA--ASF ὁδός-N2--ASF σύ-RP--GS
+\v 4 ἦ-D λόγος-N2--ASM σύ-RP--GS ποιέω-V2--PMPNSM ἐλέγχω-VF--FAI3S σύ-RP--AS καί-C συν   εἰςἔρχομαι-VF--FMI3S σύ-RP--DS εἰς-P κρίσις-N3I-ASF
+\v 5 πότερον-D οὐ-D ὁ-RA--NSF κακία-N1A-NSF σύ-RP--GS εἰμί-V9--PAI3S πολύς-A1--NSF ἀναρίθμητος-A1B-NPF δέ-X σύ-RP--GS εἰμί-V9--PAI3P ὁ-RA--NPF ἁμαρτία-N1A-NPF
+\v 6 ἐνεχυράζω-V1I-IAI2S δέ-X ὁ-RA--APM ἀδελφός-N2--APM σύ-RP--GS διά-P κενός-A1--GSF ἀμφίασις-N3I-ASM δέ-X γυμνός-A1--GPM ἀποαἱρέω-VBI-AMI2S
+\v 7 οὐδέ-C ὕδωρ-N3--NSN διψάω-V3--PAPAPM ποτίζω-VAI-AAI2S ἀλλά-C πεινάω-V3--PAPGPM στερέω-VAI-AAI2S ψωμός-N2--ASM
+\v 8 θαυμάζω-VAI-AAI2S δέ-X τις-RI--GPN πρόσωπον-N2N-ASN οἰκίζω-VAI-AAI2S δέ-X ὁ-RA--APM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF
+\v 9 χήρα-N1A-APF δέ-X ἐκ   ἀποστέλλω-VAI-AAI2S κενός-A1--APF ὀρφανός-A1--APM δέ-X κακόω-VAI-AAI2S
+\v 10 τοιγαροῦν-C κυκλόω-VAI-AAI3P σύ-RP--AS παγίς-N3D-NPF καί-C σπουδάζω-VAI-AAI3S σύ-RP--AS πόλεμος-N2--NSM ἐξαίσιος-A1B-NSM
+\v 11 ὁ-RA--NSN φῶς-N3T-NSN σύ-RP--DS σκότος-N3E-ASN ἀποβαίνω-VZI-AAI3S κοιμάω-VC--APPASM δέ-X ὕδωρ-N3--NSN σύ-RP--AS καλύπτω-VAI-AAI3S
+\v 12 μή-D οὐ-D ὁ-RA--NSM ὁ-RA--APN ὑψηλός-A1--APN ναίω-V1--PAPNSM ἐπιὁράω-V3--PAI3S ὁ-RA--APM δέ-X ὕβρις-N3I-DSF φέρω-V1--PMPAPM ταπεινόω-VAI-AAI3S
+\v 13 καί-C εἶπον-VAI-AAI2S τίς-RI--ASN γιγνώσκω-VZI-AAI3S ὁ-RA--NSM ἰσχυρός-A1A-NSM ἦ-D κατά-P ὁ-RA--GSM γνόφος-N2--GSM κρίνω-VF2-FAI3S
+\v 14 νέφος-N3E-NPN ἀποκρυφή-N1--NSF αὐτός-RD--GSM καί-C οὐ-D ὁράω-VC--FPI3S καί-C γῦρος-N2--ASM οὐρανός-N2--GSM διαπορεύομαι-VF--FMI3S
+\v 15 μή-D τρίβος-N2--ASF αἰώνιος-A1B-ASF φυλάσσω-VF--FAI2S ὅς-RR--ASF πατέω-VAI-AAI3P ἀνήρ-N3--NPM ἄδικος-A1B-NPM
+\v 16 ὅς-RR--NPM συνλαμβάνω-VVI-API3P ἄωρος-A1B-NPM ποταμός-N2--NSM ἐπιῥέω-V2--PAPNSM ὁ-RA--NPM θεμέλιος-N2--NPM αὐτός-RD--GPM
+\v 17 ὁ-RA--NPM λέγω-V1--PAPNPM κύριος-N2--NSM τίς-RI--ASN ποιέω-VF--FAI3S ἐγώ-RP--DP ἤ-C τίς-RI--ASN ἐπιἄγω-VF--FMI3S ἐγώ-RP--DP ὁ-RA--NSM παντοκράτωρ-N3R-NSM
+\v 18 ὅς-RR--NSM δέ-X ἐνπίμπλημι-VAI-AAI3S ὁ-RA--APM οἶκος-N2--APM αὐτός-RD--GPM ἀγαθός-A1--GPM βουλή-N1--NSF δέ-X ἀσεβής-A3H-GPM πόρρω-D ἀπό-P αὐτός-RD--GSM
+\v 19 ὁράω-VB--AAPNPM δίκαιος-A1A-NPM γελάω-VAI-AAI3P ἄμεμπτος-A1B-NSM δέ-X μυκτηρίζω-VAI-AAI3S
+\v 20 εἰ-C μή-D ἀπο  ἀναἵζω-VSI-API3S ὁ-RA--NSF ὑπόστασις-N3I-NSF αὐτός-RD--GPM καί-C ὁ-RA--ASN καταλείμμα-N3M-ASN αὐτός-RD--GPM καταἐσθίω-VF--FMI3S πῦρ-N3--NSN
+\v 21 γίγνομαι-VB--AMD2S δή-X σκληρός-A1A-NSM ἐάν-C ὑπομένω-VA--AAS2S εἶτα-D ὁ-RA--NSM καρπός-N2--NSM σύ-RP--GS εἰμί-VF--FMI3S ἐν-P ἀγαθός-A1--DPM
+\v 22 ἐκλαμβάνω-VB--AAD2S δέ-X ἐκ-P στόμα-N3M-GSN αὐτός-RD--GSM ἐξηγορία-N1A-ASF καί-C ἀναλαμβάνω-VB--AAD2S ὁ-RA--APN ῥῆμα-N3M-APN αὐτός-RD--GSM ἐν-P καρδία-N1A-DSF σύ-RP--GS
+\v 23 ἐάν-C δέ-X ἐπιστρέφω-VD--APS2S καί-C ταπεινόω-VA--AAS2S σεαυτοῦ-RD--ASM ἔναντι-P κύριος-N2--GSM πόρρω-D ποιέω-VAI-AAI2S ἀπό-P δίαιτα-N1S-GSF σύ-RP--GS ὁ-RA--ASN ἄδικος-A1B-ASN
+\v 24 τίθημι-VF--FPI2S ἐπί-P χῶμα-N3M-DSN ἐν-P πέτρα-N1A-DSF καί-C ὡς-C πέτρα-N1A-DSF χειμάρρους-N2--ASM *ωφιρ-N---GSM
+\v 25 εἰμί-VF--FMI3S οὖν-X σύ-RP--GS ὁ-RA--NSM παντοκράτωρ-N3R-NSM βοηθός-N2--NSM ἀπό-P ἐχθρός-N2--GPM καθαρός-A1A-ASM δέ-X ἀποδίδωμι-VF--FAI3S σύ-RP--AS ὥσπερ-D ἀργύριον-N2N-ASN πυρόω-VM--XPPASN
+\v 26 εἶτα-D παρρησιάζομαι-VS--FPI2S ἔναντι-P κύριος-N2--GSM ἀναβλέπω-VA--AAPNSM εἰς-P ὁ-RA--ASM οὐρανός-N2--ASM ἱλαρῶς-D
+\v 27 εὔχομαι-VA--AMPGSM δέ-X σύ-RP--GS πρός-P αὐτός-RD--ASM εἰςἀκούω-VF--FMI3S σύ-RP--GS δίδωμι-VF--FAI3S δέ-X σύ-RP--DS ἀποδίδωμι-VO--AAN ὁ-RA--APF εὐχή-N1--APF
+\v 28 ἀπο  καταἵστημι-VF--FAI3S δέ-X σύ-RP--DS δίαιτα-N1S-ASF δικαιοσύνη-N1--GSF ἐπί-P δέ-X ὁδός-N2--DPF σύ-RP--GS εἰμί-VF--FMI3S φέγγος-N3E-NSN
+\v 29 ὅτι-C ταπεινόω-VAI-AAI3S αὐτός-RD--ASM καί-C εἶπον-VF2-FAI2S ὑπερηφανεύω-VAI-AMI3S καί-C κύφω-V1--PAPASM ὀφθαλμός-N2--DPM σώζω-VF--FAI3S
+\v 30 ῥύομαι-VF--FMI3S ἀθῷος-A1--ASM καί-C διασώζω-VC--APD2S ἐν-P καθαρός-A1A-DPF χείρ-N3--DPF σύ-RP--GS
+
+\c 23
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 καί-D δή-X οἶδα-VX--XAI1S ὅτι-C ἐκ-P χείρ-N3--GSF ἐγώ-RP--GS ὁ-RA--NSF ἔλεγξις-N3I-NSF εἰμί-V9--PAI3S καί-C ὁ-RA--NSF χείρ-N3--NSF αὐτός-RD--GSM βαρύς-A3U-NSF γίγνομαι-VX--XAI3S ἐπί-P ἐμός-A1--DSM στεναγμός-N2--DSM
+\v 3 τίς-RI--NSM δέ-X ἄρα-X γιγνώσκω-VZ--AAO3S ὅτι-C εὑρίσκω-VB--AAO1S αὐτός-RD--ASM καί-C ἔρχομαι-VB--AAO1S εἰς-P τέλος-N3E-ASN
+\v 4 εἶπον-VB--AAO1S δέ-X ἐμαυτοῦ-RD--GSM κρίμα-N3M-ASN ὁ-RA--ASN δέ-X στόμα-N3M-ASN ἐγώ-RP--GS ἐνπίμπλημι-VA--AAO1S ἔλεγχος-N2--GPM
+\v 5 γιγνώσκω-VZ--AAO1S δέ-X ῥῆμα-N3M-APN ὅς-RR--APN ἐγώ-RP--DS εἶπον-VF2-FAI3S αἰσθάνομαι-VB--AMO1S δέ-X τίς-RI--ASM ἐγώ-RP--DS ἀποἀγγέλλω-VF2-FAI3S
+\v 6 καί-C εἰ-C ἐν-P πολύς-A1--DSF ἰσχύς-N3U-DSF ἐπιἔρχομαι-VF--FMI3S ἐγώ-RP--DS εἶτα-D ἐν-P ἀπειλή-N1--DSF ἐγώ-RP--DS οὐ-D χράω-VF--FMI3S
+\v 7 ἀλήθεια-N1A-NSF γάρ-X καί-C ἔλεγχος-N2--NSM παρά-P αὐτός-RD--GSM ἐκἄγω-VB--AAO3S δέ-X εἰς-P τέλος-N3E-ASN ὁ-RA--ASN κρίμα-N3M-ASN ἐγώ-RP--GS
+\v 8 εἰς-P γάρ-X πρῶτος-A1--APNS πορεύομαι-VF--FMI1S καί-C οὐκέτι-D εἰμί-V9--PAI1S ὁ-RR--APN δέ-X ἐπί-P ἔσχατος-A1--DPM τίς-RI--ASN οἶδα-VX--XAI1S
+\v 9 ἀριστερός-A1--APN ποιέω-VA--AAPGSM αὐτός-RD--GSM καί-C οὐ-D καταἔχω-VBI-AAI1S περιβάλλω-VF2-FAI3S δεξιός-A1A-APN καί-C οὐ-D ὁράω-VF--FMI1S
+\v 10 οἶδα-VX--XAI3S γάρ-X ἤδη-D ὁδός-N2--ASF ἐγώ-RP--GS διακρίνω-VAI-AAI3S δέ-X ἐγώ-RP--AS ὥσπερ-D ὁ-RA--ASN χρυσίον-N2N-ASN
+\v 11 ἐκἔρχομαι-VF--FMI1S δέ-X ἐν-P ἔνταλμα-N3M-DPN αὐτός-RD--GSM ὁδός-N2--APF γάρ-X αὐτός-RD--GSM φυλάσσω-VAI-AAI1S καί-C οὐ-D μή-D ἐκκλίνω-V1--PAI1S
+\v 12 ἀπό-P ἔνταλμα-N3M-GPN αὐτός-RD--GSM καί-C οὐ-D μή-D παραἔρχομαι-VB--AAS1S ἐν-P δέ-X κόλπος-N2--DSM ἐγώ-RP--GS κρύπτω-VAI-AAI1S ῥῆμα-N3M-APN αὐτός-RD--GSM
+\v 13 εἰ-C δέ-X καί-C αὐτός-RD--NSM κρίνω-VAI-AAI3S οὕτως-D τίς-RI--NSM εἰμί-V9--PAI3S ὁ-RA--NSM ἀντιεἶπον-VB--AAPNSM αὐτός-RD--DSM ὅς-RR--ASN γάρ-X αὐτός-RD--NSM θέλω-VAI-AAI3S καί-D ποιέω-VAI-AAI3S
+\v 15 διά-P οὗτος-RD--ASN ἐπί-P αὐτός-RD--DSM σπουδάζω-VX--XAI1S νουθετέω-V2--PMPNSM δέ-X φροντίζω-VAI-AAI1S αὐτός-RD--GSM
+\v 15 ἐπί-P οὗτος-RD--DSM ἀπό-P πρόσωπον-N2N-GSN αὐτός-RD--GSM κατασπουδάζω-VS--APS1S κατανοέω-VF--FAI1S καί-C πτοέω-VC--FPI1S ἐκ-P αὐτός-RD--GSM
+\v 16 κύριος-N2--NSM δέ-X μαλακύνω-V1I-IAI3S ὁ-RA--ASF καρδία-N1A-ASF ἐγώ-RP--GS ὁ-RA--NSM δέ-X παντοκράτωρ-N3R-NSM σπουδάζω-VAI-AAI3S ἐγώ-RP--AS
+\v 17 οὐ-D γάρ-X οἶδα-VXI-YAI1S ὅτι-C ἐπιἔρχομαι-VF--FMI3S ἐγώ-RP--DS σκότος-N3E-ASN πρό-P πρόσωπον-N2N-GSN δέ-X ἐγώ-RP--GS καλύπτω-VAI-AAI3S γνόφος-N2--NSM
+
+\c 24
+\p
+\v 1 διά-P τίς-RI--ASN δέ-X κύριος-N2--ASM λανθάνω-VBI-AAI3P ὥρα-N1A-NPF
+\v 2 ἀσεβής-A3H-NPM δέ-X ὅριον-N2N-ASN ὑπερβαίνω-VZI-AAI3P ποίμνιον-N2--ASN σύν-P ποιμήν-N3--DSM ἁρπάζω-VA--AAPNPM
+\v 3 ὑποζύγιον-N2--ASN ὀρφανός-A1--GPM ἀποἄγω-VBI-AAI3P καί-C βοῦς-N3--ASF χήρα-N1A-GSF ἐνεχυράζω-VAI-AAI3P
+\v 4 ἐκκλίνω-VAI-AAI3P ἀδύνατος-A1B-APM ἐκ-P ὁδός-N2--GSF δίκαιος-A1A-GSF ὁμοθυμαδόν-D κρύπτω-VDI-API3P πραΰς-A3U-NPM γῆ-N1--GSF
+\v 5 ἀποβαίνω-VZI-AAI3P δέ-X ὥσπερ-D ὄνος-N2--NPM ἐν-P ἀγρός-N2--DSM ὑπέρ-P ἐγώ-RP--GS ἐκἔρχομαι-VB--AAPNPM ὁ-RA--ASF ἑαυτοῦ-RD--GPM πρᾶξις-N3I-ASF ἡδύνω-VC--API3S αὐτός-RD--DSM ἄρτος-N2--NSM εἰς-P νέος-A1A-APMC
+\v 6 ἀγρός-N2--ASM πρό-P ὥρα-N1A-GSF οὐ-D αὐτός-RD--GPM εἰμί-V9--PAPASM θερίζω-VAI-AAI3P ἀδύνατος-A1B-NPM δέ-X ἀμπελών-N3W-APM ἀσεβής-A3H-GPM ἀμισθί-D καί-C ἀσιτί-D ἐργάζομαι-VAI-AMI3P
+\v 7 γυμνός-A1--APM πολύς-A1--APM κοιμίζω-VAI-AAI3P ἄνευ-P ἱμάτιον-N2N-GPN ἀμφίασις-N3I-ASM δέ-X ψυχή-N1--GSF αὐτός-RD--GPM ἀποαἱρέω-VBI-AMI3P
+\v 8 ἀπό-P ψεκάς-N3D-GPF ὄρος-N3E-GPN ὑγραίνω-V1--PMI3P παρά-P ὁ-RA--ASN μή-D ἔχω-V1--PAN αὐτός-RD--APM σκέπη-N1--ASF πέτρα-N1A-ASF περιβάλλω-VBI-AMI3P
+\v 9 ἁρπάζω-VAI-AAI3P ὀρφανός-A1--ASM ἀπό-P μαστός-N2--GSM ἐκπίπτω-VX--XAPASM δέ-X ταπεινόω-VAI-AAI3P
+\v 10 γυμνός-A1--APM δέ-X κοιμίζω-VAI-AAI3P ἀδίκως-D πεινάω-V3--PAPGPM δέ-X ὁ-RA--ASM ψωμός-N2--ASM ἀποαἱρέω-VBI-AMI3P
+\v 11 ἐν-P στενός-A1--DPM ἀδίκως-D ἐνεδρεύω-VAI-AAI3P ὁδός-N2--ASF δέ-X δίκαιος-A1A-ASF οὐ-D οἶδα-VXI-YAI3P
+\v 12 ὅς-RR--NPM ἐκ-P πόλις-N3I-GSF καί-C οἶκος-N2--GPM ἴδιος-A1A-GPM ἐκβάλλω-V1I-IMI3P ψυχή-N1--NSF δέ-X νήπιος-A1A-GPM στενάζω-VAI-AAI3S μέγας-A1P-ASN αὐτός-RD--NSM δέ-X διά-P τίς-RI--ASN οὗτος-RD--GPM ἐπισκοπή-N1--ASF οὐ-D ποιέω-VM--XMI3S
+\v 13 ἐπί-P γῆ-N1--GSF εἰμί-V9--PAPGPM αὐτός-RD--GPM καί-C οὐ-D ἐπιγιγνώσκω-VZI-AAI3P ὁδός-N2--ASF δέ-X δικαιοσύνη-N1--GSF οὐ-D οἶδα-VXI-YAI3P οὐδέ-C ἀτραπός-N2--APF αὐτός-RD--GSF πορεύομαι-VCI-API3P
+\v 14 γιγνώσκω-VZ--AAPNSM δέ-X αὐτός-RD--GPM ὁ-RA--APN ἔργον-N2N-APN παραδίδωμι-VAI-AAI3S αὐτός-RD--APM εἰς-P σκότος-N3E-ASN καί-C νύξ-N3--GSF εἰμί-VF--FMI3S ὡς-C κλέπτης-N1M-NSM
+\v 15 καί-C ὀφθαλμός-N2--NSM μοιχός-N2--GSM φυλάσσω-VAI-AAI3S σκότος-N3E-ASN λέγω-V1--PAPNSM οὐ-D προςνοέω-VF--FAI3S ἐγώ-RP--AS ὀφθαλμός-N2--NSM καί-C ἀποκρυβή-N1--ASF πρόσωπον-N2N-GSN τίθημι-VEI-AMI3S
+\v 16 διαὀρύσσω-VAI-AAI3S ἐν-P σκότος-N3E-DSN οἰκία-N1A-APF ἡμέρα-N1A-GSF σφραγίζω-VAI-AAI3P ἑαυτοῦ-RD--APM οὐ-D ἐπιγιγνώσκω-VZI-AAI3P φῶς-N3T-ASN
+\v 17 ὅτι-C ὁμοθυμαδόν-D ὁ-RA--ASN πρωΐ-D αὐτός-RD--DPM σκιά-N1A-NSF θάνατος-N2--GSM ὅτι-C ἐπιγιγνώσκω-VF--FMI3S ταραχή-N1--APF σκιά-N1A-GSF θάνατος-N2--GSM
+\v 18 ἐλαφρός-A1A-NSM εἰμί-V9--PAI3S ἐπί-P πρόσωπον-N2N-ASN ὕδωρ-N3T-GSN καταἀράομαι-VC--APO3S ὁ-RA--NSF μερίς-N3D-NSF αὐτός-RD--GPM ἐπί-P γῆ-N1--GSF
+\v 19 ἀναφαίνω-VD--APO3S δέ-X ὁ-RA--NPN φυτόν-N2N-NPN αὐτός-RD--GPM ἐπί-P γῆ-N1--GSF ξηρός-A1A-APN ἀγκαλίς-N3D-APF γάρ-X ὀρφανός-A1--GPM ἁρπάζω-VAI-AAI3P
+\v 20 εἶτα-D ἀναμιμνήσκω-VSI-API3S αὐτός-RD--GSM ὁ-RA--NSF ἁμαρτία-N1A-NSF ὥσπερ-D δέ-X ὁμίχλη-N1--NSF δρόσος-N2--GSF ἀφανής-A3H-NSM γίγνομαι-VBI-AMI3S ἀποδίδωμι-VC--APO3S δέ-X αὐτός-RD--DSM ὅς-RR--APN πράσσω-VAI-AAI3S συντρίβω-VD--APO3S δέ-X πᾶς-A3--NSM ἄδικος-A1B-NSM ἴσος-D ξύλον-N2N-DSN ἀνίατος-A1B-DSN
+\v 21 στεῖρα-N1A-ASF γάρ-X οὐ-D εὖ-D ποιέω-VAI-AAI3S καί-C γύναιον-N2N-ASN οὐ-D ἐλεέω-VAI-AAI3S
+\v 22 θυμός-N2--DSM δέ-X καταστρέφω-VAI-AAI3S ἀδύνατος-A1B-APM ἀναἵστημι-VH--AAPNSM τοιγαροῦν-C οὐ-D μή-D πιστεύω-VF--FMI2S κατά-P ὁ-RA--GSF ἑαυτοῦ-RD--GSM ζωή-N1--GSF
+\v 23 μαλακίζομαι-VS--APPNSM μή-D ἐλπίζω-V1--PAD3S ὑγιάζω-VS--APN ἀλλά-C πίπτω-VF2-FMI3S νόσος-N2--DSF
+\v 24 πολύς-A1--APM γάρ-X κακόω-VAI-AAI3S ὁ-RA--NSN ὕψωμα-N3M-NSN αὐτός-RD--GSM μαραίνω-VCI-API3S δέ-X ὥσπερ-D μολόχη-N1--NSF ἐν-P καῦμα-N3M-DSN ἤ-C ὥσπερ-D στάχυς-N3U-NSM ἀπό-P καλάμη-N1--GSF αὐτόματος-A1--NSM ἀποπίπτω-VB--AAPNSM
+\v 25 εἰ-C δέ-X μή-D τίς-RI--NSM εἰμί-V9--PAI3S ὁ-RA--NSM φημί-V6--PMPNSM ψευδής-A3H-APN ἐγώ-RP--AS λέγω-V1--PAN καί-C τίθημι-VF--FAI3S εἰς-P οὐδείς-A3--ASN ὁ-RA--APN ῥῆμα-N3M-APN ἐγώ-RP--GS
+
+\c 25
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχίτης-N1M-NSM λέγω-V1--PAI3S
+\v 2 τίς-RI--NSN γάρ-X προοίμιον-N2N-NSN ἤ-C φόβος-N2--NSM παρά-P αὐτός-RD--GSM ὁ-RA--NSM ποιέω-V2--PAPNSM ὁ-RA--ASF σύμπας-A1A-ASF ἐν-P ὕψιστος-A1--DSM
+\v 3 μή-D γάρ-X τις-RI--NSM ὑπολαμβάνω-VB--AAO3S ὅτι-C εἰμί-V9--PAI3S παρέλκυσις-N3I-NSF πειρατής-N1M-DPM ἐπί-P τίς-RI--APM δέ-X οὐ-D ἐπιἔρχομαι-VF--FMI3S ἔνεδρα-N1A-NSF παρά-P αὐτός-RD--GSM
+\v 4 πῶς-D γάρ-X εἰμί-VF--FMI3S δίκαιος-A1A-NSM βροτός-N2--NSM ἔναντι-P κύριος-N2--GSM ἤ-C τίς-RI--NSM ἄν-X ἀποκαθαρίζω-VA--AAO3S ἑαυτοῦ-RD--ASM γεννητός-A1--NSM γυνή-N3K-GSF
+\v 5 εἰ-C σελήνη-N1--DSF συντάσσω-V1--PAI3S καί-C οὐ-D ἐπιφαύσκω-V1--PAI3S ἄστρον-N2N-NPN δέ-X οὐ-D καθαρός-A1A-NPN ἐναντίον-P αὐτός-RD--GSM
+\v 6 ἔα-I δέ-X ἄνθρωπος-N2--NSM σαπρία-N1A-NSF καί-C υἱός-N2--NSM ἄνθρωπος-N2--GSM σκώληξ-N3K-NSM
+
+\c 26
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S
+\v 2 τίς-RI--DSM προςκεῖμαι-V5--PMI2S ἤ-C τίς-RI--DSM μέλλω-V1--PAI2S βοηθέω-V2--PAN πότερον-D οὐ-D ὅς-RR--DSM πολύς-A1--NSF ἰσχύς-N3U-NSF καί-C ὅς-RR--DSM βραχίων-N3N-NSM κραταιός-A1A-NSM εἰμί-V9--PAI3S
+\v 3 τίς-RI--DSN συνβουλεύω-VM--XMI2S οὐ-D ὅς-RR--DSM πᾶς-A1S-NSF σοφία-N1A-NSF ἤ-C τίς-RI--DSN ἐπιἀκολουθέω-VF--FAI2S οὐ-D ὅς-RR--DSM μέγας-A1--NSFS δύναμις-N3I-NSF
+\v 4 τίς-RI--DSN ἀναἀγγέλλω-VAI-AAI2S ῥῆμα-N3M-APN πνοή-N1--NSF δέ-X τίς-RI--GSN εἰμί-V9--PAI3S ὁ-RA--NSF ἐκἔρχομαι-VB--AAPNSF ἐκ-P σύ-RP--GS
+\v 5 μή-D γίγας-N3--NPM μαιόομαι-VC--FPI3P ὑποκάτωθεν-D ὕδωρ-N3T-GSN καί-C ὁ-RA--GPM γείτων-N3N-GPM αὐτός-RD--GSM
+\v 6 γυμνός-A1--NSM ὁ-RA--NSM ᾅδης-N1M-NSM ἐπώπιον-D αὐτός-RD--GSM καί-C οὐ-D εἰμί-V9--PAI3S περιβόλαιον-N2N-NSN ὁ-RA--DSF ἀπώλεια-N1A-DSF
+\v 7 ἐκτείνω-V1--PAPNSM βορέας-N1T-ASM ἐπί-P οὐδείς-A3--ASN κρεμάζω-V1--PAPNSM γῆ-N1--ASF ἐπί-P οὐδείς-A3--GSM
+\v 8 δεσμεύω-V1--PAPNSM ὕδωρ-N3--ASN ἐν-P νεφέλη-N1--DPF αὐτός-RD--GSM καί-C οὐ-D ῥήγνυμι-VDI-API3S νέφος-N3E-ASN ὑποκάτω-D αὐτός-RD--GSM
+\v 9 ὁ-RA--NSM κρατέω-V2--PAPNSM πρόσωπον-N2N-ASN θρόνος-N2--GSM ἐκπετάζω-V1--PAPNSM ἐπί-P αὐτός-RD--ASM νέφος-N3E-ASN αὐτός-RD--GSM
+\v 10 πρόσταγμα-N3M-ASN γυρόω-VAI-AAI3S ἐπί-P πρόσωπον-N2N-ASN ὕδωρ-N3T-GSN μέχρι-P συντέλεια-N1A-GSF φῶς-N3T-GSN μετά-P σκότος-N3E-GSN
+\v 11 στῦλος-N2--NPM οὐρανός-N2--GSM πετάννυμι-VSI-API3P καί-C ἐκἵστημι-VHI-AAI3P ἀπό-P ὁ-RA--GSF ἐπιτίμησις-N3I-GSF αὐτός-RD--GSM
+\v 12 ἰσχύς-N3U-DSF καταπαύω-VAI-AAI3S ὁ-RA--ASF θάλασσα-N1S-ASF ἐπιστήμη-N1--DSF δέ-X τιτρώσκω-VAI-AAI3S ὁ-RA--ASN κῆτος-N3E-ASN
+\v 13 κλεῖθρον-N2N-NPN δέ-X οὐρανός-N2--GSM δείδω-VX--XAI3P αὐτός-RD--ASM πρόσταγμα-N3M-DSN δέ-X θανατόω-VAI-AAI3S δράκων-N3--ASM ἀποστάτης-N1M-ASM
+\v 14 ἰδού-I οὗτος-RD--NPN μέρος-N3E-NPN ὁδός-N2--GSF αὐτός-RD--GSM καί-C ἐπί-P ἰκμάς-N3D-APF λόγος-N2--GSM ἀκούω-VF--FMI1P ἐν-P αὐτός-RD--DSM σθένος-N3E-ASN δέ-X βροντή-N1--GSF αὐτός-RD--GSM τίς-RI--NSM οἶδα-VX--XAI3S ὁπότε-D ποιέω-VF--FAI3S
+
+\c 27
+\p
+\v 1 ἔτι-D δέ-X προςτίθημι-VE--AAPNSM *ιωβ-N---NSM εἶπον-VBI-AAI3S ὁ-RA--DSN προοίμιον-N2N-DSN
+\v 2 ζάω-V3--PAI3S κύριος-N2--NSM ὅς-RR--NSM οὕτως-D ἐγώ-RP--AS κρίνω-VX--XAI3S καί-C ὁ-RA--NSM παντοκράτωρ-N3R-NSM ὁ-RA--NSM πικραίνω-VA--AAPNSM ἐγώ-RP--GS ὁ-RA--ASF ψυχή-N1--ASF
+\v 3 ἦ-D μήν-X ἔτι-D ὁ-RA--GSF πνοή-N1--GSF ἐγώ-RP--GS ἐνεἰμί-V9--PAPGSF πνεῦμα-N3M-NSN δέ-X θεῖος-A1A-NSN ὁ-RA--NSN περιεἰμί-V9--PAPNSN ἐγώ-RP--DS ἐν-P ῥίς-N3--DPF
+\v 4 μή-D λαλέω-VF--FAN ὁ-RA--APN χεῖλος-N3E-APN ἐγώ-RP--GS ἄνομος-A1B-APN οὐδέ-C ὁ-RA--NSF ψυχή-N1--NSF ἐγώ-RP--GS μελετάω-VF--FAI3S ἄδικος-A1B-APN
+\v 5 μή-D ἐγώ-RP--DS εἰμί-V9--PAO3S δίκαιος-A1A-APM σύ-RP--AP ἀποφαίνω-VA--AAN ἕως-C ἄν-X ἀποθνήσκω-VB--AAS1S οὐ-D γάρ-X ἀποἀλλάσσω-VF--FAI1S ἐγώ-RP--GS ὁ-RA--ASF ἀκακία-N1A-ASF
+\v 6 δικαιοσύνη-N1--DSF δέ-X προςἔχω-V1--PAPNSM οὐ-D μή-D προἵημι-VA--AMS1S οὐ-D γάρ-X συνοἶδα-VX--XAI1S ἐμαυτοῦ-RD--DSM ἄτοπος-A1B-APN πράσσω-VA--AAPNSM
+\v 7 οὐ-D μήν-X δέ-X ἀλλά-C εἰμί-V9--PAO3P ὁ-RA--NPM ἐχθρός-N2--NPM ἐγώ-RP--GS ὥσπερ-D ὁ-RA--NSF καταστροφή-N1--NSF ὁ-RA--GPM ἀσεβής-A3H-GPM καί-C ὁ-RA--NPM ἐπί-P ἐγώ-RP--AS ἐπιανίστημι-VM--AMPNPM ὥσπερ-D ὁ-RA--NSF ἀπώλεια-N1A-NSF ὁ-RA--GPM παράνομος-A1B-GPM
+\v 8 καί-C τίς-RI--NSM γάρ-X εἰμί-V9--PAI3S ἐλπίς-N3D-NSF ἀσεβής-A3H-DSM ὅτι-C ἐπιἔχω-V1--PAI3S πείθω-VX--XAPNSM ἐπί-P κύριος-N2--ASM ἆρα-X σώζω-VC--FPI3S
+\v 9 ἦ-D ὁ-RA--ASF δέησις-N3I-ASF αὐτός-RD--GSM εἰςἀκούω-VF--FMI3S κύριος-N2--NSM ἤ-C ἐπιἔρχομαι-VB--AAPGSF αὐτός-RD--DSM ἀνάγκη-N1--GSF
+\v 10 μή-D ἔχω-V1--PAI3S τις-RI--ASM παρρησία-N1A-ASF ἔναντι-P αὐτός-RD--GSM ἤ-C ὡς-C ἐπικαλέω-VA--AMPGSM αὐτός-RD--GSM εἰςἀκούω-VF--FMI3S αὐτός-RD--GSM
+\v 11 ἀλλά-C δή-X ἀναἀγγέλλω-VF2-FAI1S σύ-RP--DP τίς-RI--ASN εἰμί-V9--PAI3S ἐν-P χείρ-N3--DSF κύριος-N2--GSM ὅς-RR--APN εἰμί-V9--PAI3S παρά-P παντοκράτωρ-N3R-DSM οὐ-D ψεύδω-VF--FMI1S
+\v 12 ἰδού-I δή-X πᾶς-A3--NPM οἶδα-VX--XAD2P ὅτι-C κενός-A1--APN κενός-A1--DPM ἐπιβάλλω-V1--PAI2P
+\v 13 οὗτος-RD--NSF ὁ-RA--NSF μερίς-N3D-NSF ἄνθρωπος-N2--GSM ἀσεβής-A3H-GSM παρά-P κύριος-N2--GSM κτῆμα-N3M-NSN δέ-X δυνάστης-N1M-GPM ἔρχομαι-VF--FMI3S παρά-P παντοκράτωρ-N3R-GSM ἐπί-P αὐτός-RD--APM
+\v 14 ἐάν-C δέ-X πολύς-A1--NPM γίγνομαι-VB--AMS3P ὁ-RA--NPM υἱός-N2--NPM αὐτός-RD--GSM εἰς-P σφαγή-N1--ASF εἰμί-VF--FMI3P ἐάν-C δέ-X καί-C ἀνδρόω-VC--APS3P προςαἰτέω-VF--FAI3P
+\v 15 ὁ-RA--NPM δέ-X περιεἰμί-V9--PAPNPM αὐτός-RD--GSM ἐν-P θάνατος-N2--DSM τελευτάω-VF--FAI3P χήρα-N1A-GSF δέ-X αὐτός-RD--GPM οὐδείς-A3--NSF ἐλεέω-VF--FAI3S
+\v 16 ἐάν-C συνἄγω-VB--AAS3S ὥσπερ-D γῆ-N1--ASF ἀργύριον-N2N-ASN ἴσος-D δέ-X πηλός-N2--DSM ἑτοιμάζω-VF--FMI2S χρυσίον-N2N-ASN
+\v 17 οὗτος-RD--APN πᾶς-A3--APN δίκαιος-A1A-NPM περιποιέω-VF--FMI3P ὁ-RA--APN δέ-X χρῆμα-N3M-APN αὐτός-RD--GSM ἀληθινός-A1--NPM καταἔχω-VF--FAI3P
+\v 18 ἀποβαίνω-VZI-AAI3S δέ-X ὁ-RA--NSM οἶκος-N2--NSM αὐτός-RD--GSM ὥσπερ-D σής-N1M-NPM καί-C ὥσπερ-D ἀράχνη-N1--NSF
+\v 19 πλούσιος-A1A-NSM κοιμάω-VC--APPNSM καί-C οὐ-D προςτίθημι-VF--FAI3S ὀφθαλμός-N2--APM αὐτός-RD--GSM δια   ἀναοἴγω-VAI-AAI3S καί-C οὐ-D εἰμί-V9--PAI3S
+\v 20 συνἀντάω-VAI-AAI3P αὐτός-RD--DSM ὥσπερ-D ὕδωρ-N3--NSN ὁ-RA--NPF ὀδύνη-N1--NPF νύξ-N3--DSF δέ-X ὑποαἱρέω-VB--AMI3S αὐτός-RD--ASM γνόφος-N2--NSM
+\v 21 ἀναλαμβάνω-VF--FMI3S αὐτός-RD--ASM καίω-VF--FAPNSM καί-C ἀποἔρχομαι-VF--FMI3S καί-C λικμάω-VF--FAI3S αὐτός-RD--ASM ἐκ-P ὁ-RA--GSM τόπος-N2--GSM αὐτός-RD--GSM
+\v 22 καί-C ἐπιῥίπτω-VF--FAI3S ἐπί-P αὐτός-RD--ASM καί-C οὐ-D φείδομαι-VF--FMI3S ἐκ-P χείρ-N3--GSF αὐτός-RD--GSM φυγή-N1--DSF φεύγω-VF--FMI3S
+\v 23 κροτέω-VF--FAI3S ἐπί-P αὐτός-RD--GSM χείρ-N3--APF αὐτός-RD--GSM καί-C συρίζω-VF2-FAI3S αὐτός-RD--ASM ἐκ-P ὁ-RA--GSM τόπος-N2--GSM αὐτός-RD--GSN
+
+\c 28
+\p
+\v 1 εἰμί-V9--PAI3S γάρ-X ἀργύριον-N2N-DSN τόπος-N2--NSM ὅθεν-D γίγνομαι-V1--PMI3S τόπος-N2--NSM δέ-X χρυσίον-N2N-DSN ὅθεν-D διαἠθέω-V2--AMI3S
+\v 2 σίδηρος-N2--NSM μέν-X γάρ-X ἐκ-P γῆ-N1--GSF γίγνομαι-V1--PMI3S χαλκός-N2--NSM δέ-X ἴσος-D λίθος-N2--DSM λατομέω-V2--PMI3S
+\v 3 τάξις-N3I-ASF τίθημι-VEI-AMI3S σκότος-N3E-DSN καί-C πᾶς-A3--NSN πέρας-N3T-NSN αὐτός-RD--NSM ἐκἀκριβαζομαι-V1--PMI3S λίθος-N2--NSM σκοτία-N1A-NSF καί-C σκιά-N1A-NSF θάνατος-N2--GSM
+\v 4 διακοπή-N1--NSF χειμάρρους-N2--GSM ἀπό-P κονία-N1A-GSF ὁ-RA--NPM δέ-X ἐπιλανθάνω-V1--PMPNPM ὁδός-N2--ASF δίκαιος-A1A-ASF ἀσθενέω-VAI-AAI3P ἐκ-P βροτός-N2--GPM
+\v 5 γῆ-N1--NSF ἐκ-P αὐτός-RD--GSF ἐκἔρχομαι-VF--FMI3S ἄρτος-N2--NSM ὑποκάτω-D αὐτός-RD--GSF στρέφω-VDI-API3S ὡσεί-D πῦρ-N3--NSN
+\v 6 τόπος-N2--NSM σάπφειρος-N2--GSF ὁ-RA--NPM λίθος-N2--NPM αὐτός-RD--GSF καί-C χῶμα-N3M-NSN χρυσίον-N2N-NSN αὐτός-RD--DSM
+\v 7 τρίβος-N2--NSF οὐ-D γιγνώσκω-VZI-AAI3S αὐτός-RD--ASF πετεινόν-N2N-NSN καί-C οὐ-D παραβλέπω-VAI-AAI3S αὐτός-RD--ASF ὀφθαλμός-N2--NSM γύψ-N3P-GSM
+\v 8 οὐ-D πατέω-VAI-AAI3P αὐτός-RD--ASF υἱός-N2--NPM ἀλαζών-N3N-GPM οὐ-D παραἔρχομαι-VBI-AAI3S ἐπί-P αὐτός-RD--GSF λέων-N3W-NSM
+\v 9 ἐν-P ἀκρότομος-A1B-DSM ἐκτείνω-VAI-AAI3S χείρ-N3--ASF αὐτός-RD--GSM καταστρέφω-VAI-AAI3S δέ-X ἐκ-P ῥίζα-N1S-GPF ὄρος-N3E-APN
+\v 10 δίνη-N1--APF δέ-X ποταμός-N2--GPM ῥήγνυμι-VAI-AAI3S πᾶς-A3--ASN δέ-X ἔντιμος-A1B-ASN ὁράω-VBI-AAI3S ἐγώ-RP--GS ὁ-RA--NSM ὀφθαλμός-N2--NSM
+\v 11 βάθος-N3E-APN δέ-X ποταμός-N2--GPM ἀνακαλύπτω-VAI-AAI3S δεικνύω-VAI-AAI3S δέ-X ἑαυτοῦ-RD--GSM δύναμις-N3I-ASF εἰς-P φῶς-N3T-ASN
+\v 12 ὁ-RA--NSF δέ-X σοφία-N1A-NSF πόθεν-D εὑρίσκω-VC--API3S ποῖος-A1A-NSM δέ-X τόπος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--GSF ἐπιστήμη-N1--GSF
+\v 13 οὐ-D οἶδα-VX--XAI3S βροτός-N2--NSM ὁδός-N2--ASF αὐτός-RD--GSF οὐδέ-C μή-D εὑρίσκω-VC--APS3S ἐν-P ἄνθρωπος-N2--DPM
+\v 14 ἄβυσσος-N2--NSF εἶπον-VBI-AAI3S οὐ-D εἰμί-V9--PAI3S ἐν-P ἐγώ-RP--DS καί-C θάλασσα-N1S-NSF εἶπον-VBI-AAI3S οὐ-D εἰμί-V9--PAI3S μετά-P ἐγώ-RP--GS
+\v 15 οὐ-D δίδωμι-VF--FAI3S συγκλεισμός-N2--ASM ἀντί-P αὐτός-RD--GSF καί-C οὐ-D ἵστημι-VC--FPI3S ἀργύριον-N2N-ASN ἀντάλλαγμα-N3M-ASN αὐτός-RD--GSF
+\v 16 καί-C οὐ-D συνβαστάζω-VS--FPI3S χρυσίον-N2N-DSN *ωφιρ-N---GSM ἐν-P ὄνυξ-N3--DSM τίμιος-A1A-DSM καί-C σάπφειρος-N2--DSF
+\v 17 οὐ-D ἰσόω-VC--FPI3S αὐτός-RD--DSF χρυσίον-N2N-NSN καί-C ὕαλος-N2--NSF καί-C ὁ-RA--NSN ἄλλαγμα-N3M-NSN αὐτός-RD--GSF σκεῦος-N3E-NPN χρυσοῦς-A1C-NPN
+\v 18 μετέωρος-A1B-NPN καί-C γαβις-N---NS οὐ-D μιμνήσκω-VS--FPI3S καί-C ἕλκω-VA--AAD2S σοφία-N1A-ASF ὑπέρ-P ὁ-RA--APN ἐσώτατος-A1--APNS
+\v 19 οὐ-D ἰσόω-VC--FPI3S αὐτός-RD--DSF τοπάζιον-N2N-NSN *αἰθιοπία-N1A-GSF χρυσίον-N2N-DSN καθαρός-A1A-DSN οὐ-D συνβαστάζω-VS--FPI3S
+\v 20 ὁ-RA--NSF δέ-X σοφία-N1A-NSF πόθεν-D εὑρίσκω-VC--API3S ποῖος-A1A-NSM δέ-X τόπος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--GSF σύνεσις-N3I-GSF
+\v 21 λανθάνω-VX--XAI3S πᾶς-A3--ASM ἄνθρωπος-N2--ASM καί-C ἀπό-P πετεινόν-N2N-GPN ὁ-RA--GSM οὐρανός-N2--GSM κρύπτω-VDI-API3S
+\v 22 ὁ-RA--NSF ἀπώλεια-N1A-NSF καί-C ὁ-RA--NSM θάνατος-N2--NSM εἶπον-VAI-AAI3P ἀκούω-VX--XAI1P δέ-X αὐτός-RD--GSF ὁ-RA--ASN κλέος-N3E-ASN
+\v 23 ὁ-RA--NSM θεός-N2--NSM εὖ-D συνἵστημι-VHI-AAI3S αὐτός-RD--GSF ὁ-RA--ASF ὁδός-N2--ASF αὐτός-RD--NSM δέ-X οἶδα-VX--XAI3S ὁ-RA--ASM τόπος-N2--ASM αὐτός-RD--GSF
+\v 24 αὐτός-RD--NSM γάρ-X ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM πᾶς-A1S-ASF ἐπιὁράω-V3--PAI3S οἶδα-VX--XAPNSM ὁ-RA--APN ἐν-P ὁ-RA--DSF γῆ-N1--DSF πᾶς-A3--APN ὅς-RR--APN ποιέω-VAI-AAI3S
+\v 25 ἄνεμος-N2--GPM σταθμός-N2--ASM ὕδωρ-N3T-GSN τε-X μέτρον-N2N-APN
+\v 26 ὅτε-D ποιέω-VAI-AAI3S οὕτως-D ὑετός-N2--ASM ἀριθμέω-VAI-AAI3S καί-C ὁδός-N2--ASF ἐν-P τινάγμα-N3M-DSN φωνή-N1--GSF
+\v 27 τότε-D ὁράω-VBI-AAI3S αὐτός-RD--ASF καί-C ἐκἡγέομαι-VAI-AMI3S αὐτός-RD--ASF ἑτοιμάζω-VA--AAPNSM ἐκἰχνεύω-VA--AAI3S
+\v 28 εἶπον-VBI-AAI3S δέ-X ἄνθρωπος-N2--DSM ἰδού-I ὁ-RA--NSF θεοσεβεία-N1A-NSF εἰμί-V9--PAI3S σοφία-N1A-NSF ὁ-RA--ASN δέ-X ἀποἔχω-V1--PMN ἀπό-P κακός-A1--GPM εἰμί-V9--PAI3S ἐπιστήμη-N1--NSF
+
+\c 29
+\p
+\v 1 ἔτι-D δέ-X προςτίθημι-VE--AAPNSM *ιωβ-N---NSM εἶπον-VBI-AAI3S ὁ-RA--DSN προοίμιον-N2N-DSN
+\v 2 τίς-RI--NSM ἄν-X ἐγώ-RP--AS τίθημι-VE--AAO3S κατά-P μήν-N3--ASM ἔμπροσθεν-P ἡμέρα-N1A-GPF ὅς-RR--GPF ἐγώ-RP--AS ὁ-RA--NSM θεός-N2--NSM φυλάσσω-VAI-AAI3S
+\v 3 ὡς-C ὅτε-D αὔγω-V1I-IAI3S ὁ-RA--NSM λύχνος-N2--NSM αὐτός-RD--GSM ὑπέρ-P κεφαλή-N1--GSF ἐγώ-RP--GS ὅτε-D ὁ-RA--DSN φῶς-N3T-DSN αὐτός-RD--GSM πορεύομαι-V1I-IMI1S ἐν-P σκότος-N3E-DSN
+\v 4 ὅτε-D εἰμί-V9I-IMI1S ἐπιβρίθω-V1--PAPNSM ὁδός-N2--DPF ὅτε-D ὁ-RA--NSM θεός-N2--NSM ἐπισκοπή-N1--ASF ποιέω-V2I-IMI3S ὁ-RA--GSM οἶκος-N2--GSM ἐγώ-RP--GS
+\v 5 ὅτε-D εἰμί-V9I-IMI1S ὑλώδης-A3H-NSM λίαν-D κύκλος-N2--DSM δέ-X ἐγώ-RP--GS ὁ-RA--NPM παῖς-N3D-NPM
+\v 6 ὅτε-D χέω-V2I-IMI3P ἐγώ-RP--GS ὁ-RA--NPF ὁδός-N2--NPF βούτυρον-N2N-DSN ὁ-RA--NPN δέ-X ὄρος-N3E-NPN ἐγώ-RP--GS χέω-V2I-IMI3P γάλα-N3--DSN
+\v 7 ὅτε-D ἐκπορεύομαι-V1I-IMI1S ὄρθριος-A1A-NSM ἐν-P πόλις-N3I-DSF ἐν-P δέ-X πλατύς-A3U-DPF τίθημι-V7I-IMI3S ἐγώ-RP--GS ὁ-RA--NSM δίφρος-N2--NSM
+\v 8 ὁράω-VB--AAPNPM ἐγώ-RP--AS νεανίσκος-N2--NPM κρύπτω-VDI-API3P πρεσβύτης-N1M-NPM δέ-X πᾶς-A3--NPM ἵστημι-VAI-AAI3P
+\v 9 ἁδρός-A1A-NPM δέ-X παύω-VAI-AMI3P λαλέω-V2--PAPNPM δάκτυλος-N2--ASM ἐπιτίθημι-VE--AAPNPM ἐπί-P στόμα-N3M-DSN
+\v 10 ὁ-RA--NPM δέ-X ἀκούω-VA--AAPNPM μακαρίζω-VAI-AAI3P ἐγώ-RP--AS καί-C γλῶσσα-N1S-NSF αὐτός-RD--GPM ὁ-RA--DSM λάρυγξ-N3G-DSM αὐτός-RD--GPM κολλάω-VCI-API3S
+\v 11 ὅτι-C οὖς-N3T-NSN ἀκούω-VAI-AAI3S καί-C μακαρίζω-VAI-AAI3S ἐγώ-RP--AS ὀφθαλμός-N2--NSM δέ-X ὁράω-VB--AAPNSM ἐγώ-RP--AS ἐκκλίνω-V1I-IAI3S
+\v 12 διασώζω-VAI-AAI1S γάρ-X πτωχός-N2--ASM ἐκ-P χείρ-N3--GSF δυνάστης-N1M-GSM καί-C ὀρφανός-A1--DSM ὅς-RR--DSM οὐ-D εἰμί-V9--IAI3S βοηθός-N2--NSM βοηθέω-VAI-AAI1S
+\v 13 εὐλογία-N1A-NSF ἀποὀλλύω-V5--PMPGSM ἐπί-P ἐγώ-RP--AS ἔρχομαι-VB--AAO3S στόμα-N3M-ASN δέ-X χήρα-N1A-GSF ἐγώ-RP--AS εὐλογέω-VA--AAI3S
+\v 14 δικαιοσύνη-N1--ASF δέ-X ἐνδύω-VXI-YAI1S ἀμφιάζω-VAI-AMI1S δέ-X κρίμα-N3M-ASN ἴσος-D διπλοΐς-N3D-DSF
+\v 15 ὀφθαλμός-N2--NSM εἰμί-V9I-IMI1S τυφλός-A1--GPM πούς-N3D-NSM δέ-X χωλός-A1--GPM
+\v 16 ἐγώ-RP--NS εἰμί-V9I-IMI1S πατήρ-N3--NSM ἀδύνατος-A1B-GPM δίκη-N1--ASF δέ-X ὅς-RR--ASF οὐ-D οἶδα-VXI-YAI1S ἐξιχνιάζω-VAI-AAI1S
+\v 17 συντρίβω-VAI-AAI1S δέ-X μύλη-N1--APF ἄδικος-A1B-GPM ἐκ-P δέ-X μέσος-A1--GSM ὁ-RA--GPM ὀδούς-N3--GPM αὐτός-RD--GPM ἅρπαγμα-N3M-ASN ἐκσπάω-VAI-AAI1S
+\v 18 εἶπον-VAI-AAI1S δέ-X ὁ-RA--NSF ἡλικία-N1A-NSF ἐγώ-RP--GS γηράω-VF--FAI3S ὥσπερ-D στέλεχος-N3E-NSN φοῖνιξ-N3K-GSM πολύς-A1--ASM χρόνος-N2--ASM βιόω-VF--FAI1S
+\v 19 ὁ-RA--NSF ῥίζα-N1S-NSF ἐγώ-RP--GS δια   ἀναοἴγω-VM--XMI3S ἐπί-P ὕδωρ-N3T-GSN καί-C δρόσος-N2--NSF αὐλίζω-VS--FPI3S ἐν-P ὁ-RA--DSM θερισμός-N2--DSM ἐγώ-RP--GS
+\v 20 ὁ-RA--NSF δόξα-N1S-NSF ἐγώ-RP--GS καινός-A1--NSF μετά-P ἐγώ-RP--GS καί-C ὁ-RA--NSN τόξον-N2N-NSN ἐγώ-RP--GS ἐν-P χείρ-N3--DSF αὐτός-RD--GSM πορεύομαι-VF--FMI3S
+\v 21 ἐγώ-RP--GS ἀκούω-VA--AAPNPM προςἔχω-VBI-AAI3P σιωπάω-VAI-AAI3P δέ-X ἐπί-P ὁ-RA--DSF ἐμός-A1--DSF βουλή-N1--DSF
+\v 22 ἐπί-P δέ-X ὁ-RA--DSN ἐμός-A1--DSN ῥῆμα-N3M-DSN οὐ-D προςτίθημι-VEI-AMI3P περιχαρής-A3H-APM δέ-X γίγνομαι-V1I-IMI3P ὁπόταν-C αὐτός-RD--DPM λαλέω-V2I-IAI1S
+\v 23 ὥσπερ-D γῆ-N1--NSF διψάω-V3--PAPNSF προςδέχομαι-V1--PMPNSF ὁ-RA--ASM ὑετός-N2--ASM οὕτως-D οὗτος-RD--NPM ὁ-RA--ASF ἐμός-A1--ASF λαλιά-N1A-ASF
+\v 24 ἐάν-C γελάω-VA--AAS1S πρός-P αὐτός-RD--APM οὐ-D μή-D πιστεύω-VA--AAS3P καί-C φῶς-N3T-NSN ὁ-RA--GSN πρόσωπον-N2N-GSN ἐγώ-RP--GS οὐ-D ἀποπίπτω-V1I-IAI3S
+\v 25 ἐκλέγω-VAI-AMI1S ὁδός-N2--ASF αὐτός-RD--GPM καί-C καταἵζω-VAI-AAI1S ἄρχων-N3--NSM καί-C κατασκηνόω-V4I-IAI1S ὡσεί-D βασιλεύς-N3V-NSM ἐν-P μονοζώνος-N2--DPM ὅς-RR--ASM τρόπος-N2--ASM παθεινός-N2--APM παρακαλέω-V2--PAPNSM
+
+\c 30
+\p
+\v 1 νυνί-D δέ-X καταγελάω-VAI-AAI3P ἐγώ-RP--GS ἐλαχύς-A1--NPMS νῦν-D νουθετέω-V2--PAI3P ἐγώ-RP--AS ἐν-P μέρος-N3E-DSN ὅς-RR--GPM ἐκοὐδενόω-V4--IAI1S πατήρ-N3--APM αὐτός-RD--GPM ὅς-RR--APM οὐ-D ἡγέομαι-VAI-AMI1S εἰμί-V9--PAN ἄξιος-A1A-APM κύων-N3--GPF ὁ-RA--GPF ἐμός-A1--GPF νομάς-N3D-GPF
+\v 2 καί-C γέ-X ἰσχύς-N3U-NSF χείρ-N3--GPF αὐτός-RD--GPM ἵνα-C τίς-RI--ASN ἐγώ-RP--DS ἐπί-P αὐτός-RD--APM ἀποὀλλύω-VBI-AMI3S συντέλεια-N1A-NSF
+\v 3 ἐν-P ἔνδεια-N1A-DSF καί-C λιμός-N2--DSM ἄγονος-A1B-NSM ὁ-RA--NPM φεύγω-V1--PAPNPM ἄνυδρος-A1B-ASM χθές-D συνοχή-N1--ASF καί-C ταλαιπωρία-N1A-ASF
+\v 4 ὁ-RA--NPM περικλείω-V1--PAPNPM ἄλιμον-A1B-NPN ἐπί-P ἠχώ-V1--PAPDSN ὅστις-RX--NPM ἄλιμον-A1B-NPN εἰμί-V9--IAI3S αὐτός-RD--GPM ὁ-RA--APN σῖτος-N2--APN ἄτιμος-A1B-NPM δέ-X καί-C φαυλίζω-VT--XMPNPM ἐνδεής-A3H-NPM πᾶς-A3--GSM ἀγαθός-A1--GSM ὅς-RR--NPM καί-D ῥίζα-N1S-APF ξύλον-N2N-GPN μασάω-V3I-IMI3P ὑπό-P λιμός-N2--GSM μέγας-A1--GSM
+\v 5 ἐπι  ἀναἵστημι-VHI-AAI3P ἐγώ-RP--DS κλέπτης-N1M-NPM
+\v 6 ὅς-RR--GPM ὁ-RA--NPM οἶκος-N2--NPM αὐτός-RD--GPM εἰμί-V9--IAI3P τρώγλη-N1--NPF πέτρος-N2--GPM
+\v 7 ἀνά-P μέσος-A1--ASM εὐήχης-A3H-GPM βοάω-VF--FMI3P ὅς-RR--NPM ὑπό-P φρύγανον-N2N-APN ἄγριος-A1A-APN διααἰτάω-V3I-IMI3P
+\v 8 ἄφρων-A3N-GPM υἱός-N2--NPM καί-C ἄτιμος-A1B-GPM ὄνομα-N3M-NSN καί-C κλέος-N3E-NSN σβέννυμι-VMI-XPPNSN ἀπό-P γῆ-N1--GSF
+\v 9 νυνί-D δέ-X κιθάρα-N1A-NSF ἐγώ-RP--NS εἰμί-V9--PAI1S αὐτός-RD--GPM καί-C ἐγώ-RP--AS θρύλημα-N3M-ASN ἔχω-V1--PAI3P
+\v 10 βδελύσσω-VAI-AMI3P δέ-X ἐγώ-RP--AS ἀποἵστημι-VH--AAPNPM μακράν-D ἀπό-P δέ-X πρόσωπον-N2N-GSN ἐγώ-RP--GS οὐ-D φείδομαι-VAI-AMI3P πτύελος-N2--ASM
+\v 11 ἀναοἴγω-VA--AAPNSM γάρ-X φαρέτρα-N1A-ASF αὐτός-RD--GSM κακόω-VAI-AAI3S ἐγώ-RP--AS καί-C χαλινός-N2--ASM ὁ-RA--GSN πρόσωπον-N2N-GSN ἐγώ-RP--GS ἐκ   ἀποστέλλω-VAI-AAI3P
+\v 12 ἐπί-P δεξιός-A1A-GPM βλαστός-N2--GSM ἐπι  ἀναἵστημι-VHI-AAI3P πούς-N3D-ASM αὐτός-RD--GPM ἐκτείνω-VAI-AAI3P καί-C ὁδοποιέω-VAI-AAI3P ἐπί-P ἐγώ-RP--AS τρίβος-N2--APF ἀπώλεια-N1A-APF αὐτός-RD--GPM
+\v 13 ἐκτρίβω-VD--API3P τρίβος-N2--NPF ἐγώ-RP--GS ἐκδύω-VAI-AAI3S γάρ-X ἐγώ-RP--GS ὁ-RA--ASF στολή-N1--ASF
+\v 14 βέλος-N3E-DPN αὐτός-RD--GSM καταἀκοντίζω-VAI-AAI3S ἐγώ-RP--AS χράομαι-VM--XMI3S ἐγώ-RP--DS ὡς-C βούλομαι-V1--PMI3S ἐν-P ὀδύνη-N1--DPF φύρομαι-VM--XMI1S
+\v 15 ἐπιστρέφω-V1--PMI3P δέ-X ἐγώ-RP--GS ὁ-RA--NPF ὀδύνη-N1--NPF οἴχομαι-V1I-IMI3S ἐγώ-RP--GS ὁ-RA--NSF ἐλπίς-N3D-NSF ὥσπερ-D πνεῦμα-N3M-ASN καί-C ὥσπερ-D νέφος-N3E-ASN ὁ-RA--NSF σωτηρία-N1A-NSF ἐγώ-RP--GS
+\v 16 καί-C νῦν-D ἐπί-P ἐγώ-RP--AS ἐκχέω-VC--FPI3S ὁ-RA--NSF ψυχή-N1--NSF ἐγώ-RP--GS ἔχω-V1--PAI3P δέ-X ἐγώ-RP--AS ἡμέρα-N1A-NPF ὀδύνη-N1--GPF
+\v 17 νύξ-N3--DSF δέ-X ἐγώ-RP--GS ὁ-RA--NPN ὀστέον-N2N-NPN συνκαίω-VM--XPI3S ὁ-RA--NPN δέ-X νεῦρον-N2N-NPN ἐγώ-RP--GS διαλύω-VM--XPI3S
+\v 18 ἐν-P πολύς-A1--DSF ἰσχύς-N3U-DSF ἐπιλαμβάνω-VBI-AMI3S ἐγώ-RP--GS ὁ-RA--GSF στολή-N1--GSF ὥσπερ-D ὁ-RA--ASN περιστόμιον-N2N-ASN ὁ-RA--GSM χιτών-N3W-GSM ἐγώ-RP--GS περιἔχω-VBI-AAI3S ἐγώ-RP--AS
+\v 19 ἡγέομαι-VM--XMI2S δέ-X ἐγώ-RP--AS ἴσος-D πηλός-N2--DSM ἐν-P γῆ-N1--DSF καί-C σποδός-N2--DSF ἐγώ-RP--GS ὁ-RA--NSF μερίς-N3D-NSF
+\v 20 κράζω-VX--XAI1S δέ-X πρός-P σύ-RP--AS καί-C οὐ-D εἰςἀκούω-V1--PAI2S ἐγώ-RP--GS ἵστημι-VAI-AAI3P καί-C κατανοέω-VAI-AAI3P ἐγώ-RP--AS
+\v 21 ἐπιβαίνω-VZI-AAI2S δέ-X ἐγώ-RP--DS ἀνελεημόνως-D χείρ-N3--DSF κραταιός-A1A-DSF ἐγώ-RP--AS μαστιγόω-VAI-AAI2S
+\v 22 τάσσω-VAI-AAI2S δέ-X ἐγώ-RP--AS ἐν-P ὀδύνη-N1--DPF καί-C ἀποῥίπτω-VAI-AAI2S ἐγώ-RP--AS ἀπό-P σωτηρία-N1A-GSF
+\v 23 οἶδα-VX--XAI1S γάρ-X ὅτι-C θάνατος-N2--NSM ἐγώ-RP--AS ἐκτρίβω-VF--FAI3S οἰκία-N1A-NSF γάρ-X πᾶς-A3--DSM θνητός-A1--DSM γῆ-N1--NSF
+\v 24 εἰ-C γάρ-X ὀφείλω-VB--AAI1S δύναμαι-V6--PMO1S ἐμαυτοῦ-RD--ASM χειρόομαι-VA--AMN ἤ-C δέω-VC--APPNSM γέ-X ἕτερος-A1A-GSM καί-C ποιέω-VF--FAI3S ἐγώ-RP--DS οὗτος-RD--ASN
+\v 25 ἐγώ-RP--NS δέ-X ἐπί-P πᾶς-A3--DSM ἀδύνατος-A1B-DSM κλαίω-VAI-AAI1S στενάζω-VAI-AAI1S δέ-X ὁράω-VB--AAPNSM ἀνήρ-N3--ASM ἐν-P ἀνάγκη-N1--DPF
+\v 26 ἐγώ-RP--NS δέ-X ἐπιἔχω-V1--PAPNSM ἀγαθός-A1--DPM ἰδού-I συνἀντάω-VAI-AAI3P ἐγώ-RP--DS μᾶλλον-D ἡμέρα-N1A-NPF κακός-A1--GPN
+\v 27 ὁ-RA--NSF κοιλία-N1A-NSF ἐγώ-RP--GS ἐκζέω-VAI-AAI3S καί-C οὐ-D σιωπάω-VF--FMI3S προφθάνω-VAI-AAI3P ἐγώ-RP--AS ἡμέρα-N1A-NPF πτωχεία-N1A-GSF
+\v 28 στένω-V1--PAPNSM πορεύομαι-VM--XMI1S ἄνευ-P φιμός-N2--GSM ἵστημι-VXI-XAI1S δέ-X ἐν-P ἐκκλησία-N1A-DSF κράζω-VX--XAPNSM
+\v 29 ἀδελφός-N2--NSM γίγνομαι-VX--XAI1S σειρήν-N3--GPF ἑταῖρος-N2--NSM δέ-X στρουθός-N2--GPM
+\v 30 ὁ-RA--NSN δέ-X δέρμα-N3M-NSN ἐγώ-RP--GS σκοτόω-VMI-XPI3S μεγάλως-D ὁ-RA--NPN δέ-X ὀστέον-N2N-NPN ἐγώ-RP--GS ἀπό-P καῦμα-N3M-GSN
+\v 31 ἀποβαίνω-VZI-AAI3S δέ-X εἰς-P πάθος-N3E-ASN ἐγώ-RP--GS ὁ-RA--NSF κιθάρα-N1A-NSF ὁ-RA--NSM δέ-X ψαλμός-N2--NSM ἐγώ-RP--GS εἰς-P κλαυθμός-N2--ASM ἐγώ-RP--DS
+
+\c 31
+\p
+\v 1 διαθήκη-N1--ASF τίθημι-VEI-AMI1S ὁ-RA--DPM ὀφθαλμός-N2--DPM ἐγώ-RP--GS καί-C οὐ-D συνἵημι-VF--FAI1S ἐπί-P παρθένος-N2--ASF
+\v 2 καί-C τίς-RI--ASN μερίζω-VAI-AAI3S ὁ-RA--NSM θεός-N2--NSM ἀπάνωθεν-D καί-C κληρονομία-N1A-NSF ἱκανός-A1--GSM ἐκ-P ὕψιστος-A1--GPM
+\v 3 οὐ-D ἀπώλεια-N1A-NSF ὁ-RA--DSM ἄδικος-A1B-DSM καί-C ἀπαλλοτρίωσις-N3I-NSF ὁ-RA--DPM ποιέω-V2--PAPDPM ἀνομία-N1A-ASF
+\v 4 οὐ-D αὐτός-RD--NSM ὁράω-VF--FMI3S ὁδός-N2--ASF ἐγώ-RP--GS καί-C πᾶς-A3--APN ὁ-RA--APN διάβημα-N3M-APN ἐγώ-RP--GS ἐκἀριθμέω-VF--FMI3S
+\v 5 εἰ-C δέ-X εἰμί-V9I-IMI1S πορεύομαι-VM--XMPNSM μετά-P γελοιαστής-N1M-GPM εἰ-C δέ-X καί-C σπουδάζω-VAI-AAI3S ὁ-RA--NSM πούς-N3D-NSM ἐγώ-RP--GS εἰς-P δόλος-N2--ASM
+\v 6 ἵστημι-V6--PAO3S ἐγώ-RP--AS ἄρα-X ἐν-P ζυγός-N2--DSM δίκαιος-A1A-DSM οἶδα-VX--XAI3S δέ-X ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--ASF ἀκακία-N1A-ASF ἐγώ-RP--GS
+\v 7 εἰ-C ἐκκλίνω-V1I-IAI3S ὁ-RA--NSM πούς-N3D-NSM ἐγώ-RP--GS ἐκ-P ὁ-RA--GSF ὁδός-N2--GSF εἰ-C δέ-X καί-C ὁ-RA--DSM ὀφθαλμός-N2--DSM ἐπιἀκολουθέω-VAI-AAI3S ὁ-RA--NSF καρδία-N1A-NSF ἐγώ-RP--GS εἰ-C δέ-X καί-C ὁ-RA--DPF χείρ-N3--DPF ἐγώ-RP--GS ἅπτομαι-VAI-AMI1S δῶρον-N2N-GPN
+\v 8 σπείρω-VA--AAO1S ἄρα-X καί-C ἄλλος-RD--NPM ἐσθίω-VB--AAO3P ἄρριζος-A1B-NSM δέ-X γίγνομαι-VB--AMO1S ἐπί-P γῆ-N1--GSF
+\v 9 εἰ-C ἐκἀκολουθέω-VAI-AAI3S ὁ-RA--NSF καρδία-N1A-NSF ἐγώ-RP--GS γυνή-N3K-DSF ἀνήρ-N3--GSM ἕτερος-A1A-GSM εἰ-C καί-C ἐγκάθετος-A1B-NSM γίγνομαι-VBI-AMI1S ἐπί-P θύρα-N1A-DPF αὐτός-RD--GSF
+\v 10 ἀρέσκω-VA--AAO3S ἄρα-X καί-C ὁ-RA--NSF γυνή-N3K-NSF ἐγώ-RP--GS ἕτερος-A1A-DSM ὁ-RA--NPN δέ-X νήπιος-A1A-NPN ἐγώ-RP--GS ταπεινόω-VC--APO3S
+\v 11 θυμός-N2--NSM γάρ-X ὀργή-N1--GSF ἀκατάσχετος-A1B-NSM ὁ-RA--ASN μιαίνω-VA--AAN ἀνήρ-N3--GSM γυνή-N3K-ASF
+\v 12 πῦρ-N3--NSN γάρ-X εἰμί-V9--PAI3S καίω-V1--PMPNSN ἐπί-P πᾶς-A3--GPN ὁ-RA--GPN μέρος-N3E-GPN ὅς-RR--GSM δέ-X ἄν-X ἐπιἔρχομαι-VB--AAS3S ἐκ-P ῥίζα-N1S-GPF ἀποὀλλύω-VAI-AAI3S
+\v 13 εἰ-C δέ-X καί-C φαυλίζω-VAI-AAI1S κρίμα-N3M-ASN θεράπων-N3--GSM ἐγώ-RP--GS ἤ-C θεραπαίνα-N1S-GSF κρίνω-V1--PMPGPM αὐτός-RD--GPM πρός-P ἐγώ-RP--AS
+\v 14 τίς-RI--ASN γάρ-X ποιέω-VA--AAS1S ἐάν-C ἔτασις-N3I-ASF ἐγώ-RP--GS ποιέω-VA--AMS3S ὁ-RA--NSM κύριος-N2--NSM ἐάν-C δέ-X καί-C ἐπισκοπή-N1--ASF τίς-RI--ASM ἀπόκρισις-N3I-ASF ποιέω-VF--FMI1S
+\v 15 πότερον-D οὐ-D ὡς-C καί-D ἐγώ-RP--NS γίγνομαι-VBI-AMI1S ἐν-P γαστήρ-N3--DSF καί-C ἐκεῖνος-RD--NPM γίγνομαι-VX--XAI3P γίγνομαι-VX--XAI1P δέ-X ἐν-P ὁ-RA--DSF αὐτός-RD--DSF κοιλία-N1A-DSF
+\v 16 ἀδύνατος-A1B-NPM δέ-X χρεία-N1A-ASF ὅς-RR--ASF ποτέ-D ἔχω-V1I-IAI3P οὐ-D ἀποτυγχάνω-VBI-AAI3P χήρα-N1A-APF δέ-X ὁ-RA--ASM ὀφθαλμός-N2--ASM οὐ-D ἐκτήκω-VAI-AAI1S
+\v 17 εἰ-C δέ-X καί-C ὁ-RA--ASM ψωμός-N2--ASM ἐγώ-RP--GS ἐσθίω-VBI-AAI1S μόνος-A1--NSM καί-C οὐ-D ὀρφανός-A1--DSM μεταδίδωμι-VAI-AAI1S
+\v 18 ὅτι-C ἐκ-P νεότης-N3T-GSF ἐγώ-RP--GS ἐκτρέφω-V1I-IAI1S ὡς-C πατήρ-N3--NSM καί-C ἐκ-P γαστήρ-N3--GSF μήτηρ-N3--GSF ἐγώ-RP--GS ὁδηγέω-VAI-AAI1S
+\v 19 εἰ-C δέ-X καί-C ὑπερὁράω-VBI-AAI1S γυμνός-A1--ASM ἀποὀλλύω-V5--PMPASM καί-C οὐ-D ἀμφιάζω-VAI-AAI1S
+\v 20 ἀδύνατος-A1B-NPM δέ-X εἰ-C μή-D εὐλογέω-VA--AAI3P ἐγώ-RP--AS ἀπό-P δέ-X κουρά-N1A-GSF ἀμνός-N2--GPM ἐγώ-RP--GS θερμαίνω-VCI-API3P ὁ-RA--NPM ὦμος-N2--NPM αὐτός-RD--GPM
+\v 21 εἰ-C ἐπιαἴρω-VAI-AAI1S ὀρφανός-A1--DSM χείρ-N3--ASF πείθω-VX--XAPNSM ὅτι-C πολύς-A1--NSF ἐγώ-RP--DS βοήθεια-N1A-NSF περιεἰμί-V9--PAI3S
+\v 22 ἀποἵστημι-VH--AAO3S ἄρα-X ὁ-RA--NSM ὦμος-N2--NSM ἐγώ-RP--GS ἀπό-P ὁ-RA--GSF κλείς-N3D-GSF ὁ-RA--NSM δέ-X βραχίων-N3N-NSM ἐγώ-RP--GS ἀπό-P ὁ-RA--GSM ἀγκών-N3N-GSM ἐγώ-RP--GS συντρίβω-VD--APO3S
+\v 23 φόβος-N2--NSM γάρ-X κύριος-N2--GSM συνἔχω-VBI-AAI3S ἐγώ-RP--AS καί-C ἀπό-P ὁ-RA--GSN λῆμμα-N3M-GSN αὐτός-RD--GSM οὐ-D ὑποφέρω-VF--FAI1S
+\v 24 εἰ-C τάσσω-VAI-AAI1S χρυσίον-N2N-ASN ἰσχύς-N3U-ASF ἐγώ-RP--GS εἰ-C δέ-X καί-D λίθος-N2--DSM πολυτελής-A3H-DSM πείθω-VXI-YAI1S
+\v 25 εἰ-C δέ-X καί-D εὐφραίνω-VC--API1S πολύς-A1--GSM πλοῦτος-N2--GSM ἐγώ-RP--DS γίγνομαι-VB--AMPGSM εἰ-C δέ-X καί-D ἐπί-P ἀναρίθμητος-A1B-DPM τίθημι-VEI-AMI1S χείρ-N3--ASF ἐγώ-RP--GS
+\v 26 ἦ-D οὐ-D ὁράω-V3--PAI1S μέν-X ἥλιος-N2--ASM ὁ-RA--ASM ἐπιφαύσκω-V1--PAPASM ἐκλείπω-V1--PAPASM σελήνη-N1--ASF δέ-X φθίνω-V1--PAPASF οὐ-D γάρ-X ἐπί-P αὐτός-RD--DPM εἰμί-V9--PAI3S
+\v 27 καί-C εἰ-C ἀπατάω-VCI-API3S λάθρα-D ὁ-RA--NSF καρδία-N1A-NSF ἐγώ-RP--GS εἰ-C δέ-X καί-C χείρ-N3--ASF ἐγώ-RP--GS ἐπιτίθημι-VE--AAPNSM ἐπί-P στόμα-N3M-DSN ἐγώ-RP--GS φιλέω-VAI-AAI1S
+\v 28 καί-C οὗτος-RD--ASN ἐγώ-RP--DS ἄρα-X ἀνομία-N1A-NSF ὁ-RA--NSF μέγας-A1--NSFS λογίζομαι-VS--APO3S ὅτι-C ψεύδω-VSI-AMI1S ἐναντίον-P κύριος-N2--GSM ὁ-RA--GSM ὕψιστος-A1--GSM
+\v 29 εἰ-C δέ-X καί-C ἐπιχαρής-A3H-NSM γίγνομαι-VBI-AMI1S πτῶμα-N3M-DSN ἐχθρός-N2--GPM ἐγώ-RP--GS καί-C εἶπον-VBI-AAI3S ὁ-RA--NSF καρδία-N1A-NSF ἐγώ-RP--GS εὖγε-I
+\v 30 ἀκούω-VA--AMD3S ἄρα-X ὁ-RA--ASN οὖς-N3T-ASN ἐγώ-RP--GS ὁ-RA--ASF κατάρα-N1A-ASF ἐγώ-RP--GS θρυλέω-VC--APO1S δέ-X ἄρα-X ὑπό-P λαός-N2--GSM ἐγώ-RP--GS κακόω-V4--PMPNSM
+\v 31 εἰ-C δέ-X καί-C πολλάκις-D εἶπον-VBI-AAI3P ὁ-RA--NPF θεραπαίνα-N1A-NPF ἐγώ-RP--GS τίς-RI--NSM ἄν-X δίδωμι-VO--AAO3S ἐγώ-RP--DP ὁ-RA--GPF σάρξ-N3K-GPF αὐτός-RD--GSM πίμπλημι-VS--APN λίαν-D ἐγώ-RP--GS χρηστός-A1--GSM εἰμί-V9--PAPGSM
+\v 32 ἔξω-D δέ-X οὐ-D αὐλίζω-V1I-IMI3S ξένος-A1--NSM ὁ-RA--NSF δέ-X θύρα-N1A-NSF ἐγώ-RP--GS πᾶς-A3--DSM ἔρχομαι-VB--AAPDSM ἀναοἴγω-VMI-YPI3S
+\v 33 εἰ-C δέ-X καί-C ἁμαρτάνω-VB--AAPNSM ἀκουσίως-D κρύπτω-VAI-AAI1S ὁ-RA--ASF ἁμαρτία-N1A-ASF ἐγώ-RP--GS
+\v 34 οὐ-D γάρ-X διατρέπω-VDI-API1S πολυοχλία-N1A-ASF πλῆθος-N3E-GSN ὁ-RA--GSN μή-D ἐκἀγορεύω-VA--AAN ἐνώπιον-P αὐτός-RD--GPM εἰ-C δέ-X καί-C ἐάω-VAI-AAI1S ἀδύνατος-A1B-ASM ἐκἔρχομαι-VB--AAN θύρα-N1A-ASF ἐγώ-RP--GS κόλπος-N2--DSM κενός-A1--DSM
+\v 35 τίς-RI--NSM δίδωμι-VO--AAO3S ἀκούω-V1--PAPASM ἐγώ-RP--GS χείρ-N3--ASF δέ-X κύριος-N2--GSM εἰ-C μή-D δείδω-VXI-YAI1S συγγραφή-N1--ASF δέ-X ὅς-RR--ASF ἔχω-V1I-IAI3P κατά-P τις-RI--GSN
+\v 36 ἐπί-P ὦμος-N2--DPM ἄν-X περιτίθημι-VE--AMPNSM στέφανος-N2--ASM ἀναγιγνώσκω-V1I-IAI1S
+\v 37 καί-C εἰ-C μή-D ῥήγνυμι-VA--AAPNSM αὐτός-RD--ASF ἀποδίδωμι-VAI-AAI1S οὐδείς-A3--ASN λαμβάνω-VB--AAPNSM παρά-P χρεοφειλέτης-N1M-GSM
+\v 38 εἰ-C ἐπί-P ἐγώ-RP--DS ποτέ-D ὁ-RA--NSF γῆ-N1--NSF στενάζω-VAI-AAI3S εἰ-C δέ-X καί-C ὁ-RA--NPM αὖλαξ-N3K-NPM αὐτός-RD--GSF κλαίω-VAI-AAI3P ὁμοθυμαδόν-D
+\v 39 εἰ-C δέ-X καί-C ὁ-RA--ASF ἰσχύς-N3U-ASF αὐτός-RD--GSF ἐσθίω-VBI-AAI1S μόνος-A1--NSM ἄνευ-P τιμή-N1--GSF εἰ-C δέ-X καί-C ψυχή-N1--ASF κύριος-N2--GSM ὁ-RA--GSF γῆ-N1--GSF ἐκβάλλω-VB--AAPNSM λυπέω-VAI-AAI1S
+\v 40 ἀντί-P πυρός-N2--GSM ἄρα-X ἐκἔρχομαι-VB--AAO3S ἐγώ-RP--DS κνίδη-N1--NSF ἀντί-P δέ-X κριθή-N1--GSF βάτος-N2--NSF καί-C παύω-VAI-AMI3S *ιωβ-N---NSM ῥῆμα-N3M-DPN
+
+\c 32
+\p
+\v 1 ἡσυχάζω-VA--AAI3P δέ-X καί-C ὁ-RA--NPM τρεῖς-A3--NPM φίλος-A1--NPM αὐτός-RD--GSM ἔτι-D ἀντιεἶπον-VB--AAN *ιωβ-N---NSM εἰμί-V9--IAI3S γάρ-X *ιωβ-N---NSM δίκαιος-A1A-NSM ἐναντίον-P αὐτός-RD--GPM
+\v 2 ὀργίζω-VSI-API3S δέ-X *ελιους-N---NSM ὁ-RA--NSM ὁ-RA--GSM *βαραχιηλ-N---GSM ὁ-RA--NSM *βουζίτης-N1M-NSM ἐκ-P ὁ-RA--GSF συγγένεια-N1A-GSF *ραμ-N---GSF ὁ-RA--GSF *αυσίτις-N3D-GSF χώρα-N1A-GSF ὀργίζω-VSI-API3S δέ-X ὁ-RA--DSM *ιωβ-N---DSM σφόδρα-D διότι-C ἀποφαίνω-VAI-AAI3S ἑαυτοῦ-RD--ASM δίκαιος-A1A-ASM ἐναντίον-P κύριος-N2--GSM
+\v 3 καί-C κατά-P ὁ-RA--GPM τρεῖς-A3--GPM δέ-X φίλος-A1--GPM ὀργίζω-VSI-API3S σφόδρα-D διότι-C οὐ-D δύναμαι-VCI-API3P ἀποκρίνω-VC--APN ἀντίθετος-A1B-APN *ιωβ-N---ASM καί-C τίθημι-VEI-AMI3P αὐτός-RD--ASM εἰμί-V9--PAN ἀσεβής-A3H-APN
+\v 4 *ελιους-N---NSM δέ-X ὑπομένω-VAI-AAI3S δίδωμι-VO--AAN ἀπόκρισις-N3I-ASF *ιωβ-N---ASM ὅτι-C πρεσβύτερος-N2--NPM αὐτός-RD--GSM εἰμί-V9--PAI3P ἡμέρα-N1A-DPF
+\v 5 καί-C ὁράω-VBI-AAI3S *ελιους-N---NSM ὅτι-C οὐ-D εἰμί-V9--PAI3S ἀπόκρισις-N3I-NSF ἐν-P στόμα-N3M-DSN ὁ-RA--GPM τρεῖς-A3--GPM ἀνήρ-N3--GPM καί-C θυμόω-VCI-API3S ὀργή-N1--NSF αὐτός-RD--GSM
+\v 6 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιους-N---NSM ὁ-RA--NSM ὁ-RA--GSM *βαραχιηλ-N---GSM ὁ-RA--NSM *βουζίτης-N1M-NSM εἶπον-VBI-AAI3S νέος-A1A-NSMC μέν-X εἰμί-V9--PAI1S ὁ-RA--DSM χρόνος-N2--DSM σύ-RP--NP δέ-X εἰμί-V9--PAI2P πρεσβύτερος-N2--NPM διό-C ἡσυχάζω-VA--AAI1S φοβέω-VC--APPNSM ὁ-RA--GSN σύ-RP--DP ἀναἀγγέλλω-VA--AAN ὁ-RA--ASF ἐμαυτοῦ-RD--GSM ἐπιστήμη-N1--ASF
+\v 7 εἶπον-VAI-AAI1S δέ-X ὅτι-C ὁ-RA--NSM χρόνος-N2--NSM εἰμί-V9--PAI3S ὁ-RA--NSM λαλέω-V2--PAPNSM ἐν-P πολύς-A1--DPM δέ-X ἔτος-N3E-DPN οἶδα-VX--XAI3P σοφία-N1A-ASF
+\v 8 ἀλλά-C πνεῦμα-N3M-NSN εἰμί-V9--PAI3S ἐν-P βροτός-N2--DPM πνοή-N1--NSF δέ-X παντοκράτωρ-N3R-GSM εἰμί-V9--PAI3S ὁ-RA--NSF διδάσκω-V1--PAPNSF
+\v 9 οὐ-D ὁ-RA--NPM πολυχρόνιος-A1B-NPM εἰμί-V9--PAI3P σοφός-A1--NPM οὐδέ-C ὁ-RA--NPM γέρων-N3--NPM οἶδα-VX--XAI3P κρίμα-N3M-ASN
+\v 10 διό-C εἶπον-VAI-AAI1S ἀκούω-VA--AAD2P ἐγώ-RP--GS καί-C ἀναἀγγέλλω-VF2-FAI1S σύ-RP--DP ὅς-RR--APN οἶδα-VX--XAI1S
+\v 11 ἐνὠτίζομαι-V1--PMD2P ἐγώ-RP--GS ὁ-RA--APN ῥῆμα-N3M-APN εἶπον-VF2-FAI1S γάρ-X σύ-RP--GP ἀκούω-V1--PAPGPM ἄχρι-P ὅς-RR--GSM ἐτάζω-VA--AAS2P λόγος-N2--APM
+\v 12 καί-C μέχρι-P σύ-RP--GP συνἵημι-VF--FAI1S καί-C ἰδού-I οὐ-D εἰμί-V9--IAI3S ὁ-RA--DSM *ιωβ-N---DSM ἐλέγχω-V1--PAPNSM ἀντι ἀποκρίνω-V1--PMPNSM ῥῆμα-N3M-APN αὐτός-RD--GSM ἐκ-P σύ-RP--GP
+\v 13 ἵνα-C μή-D εἶπον-VB--AAS2P εὑρίσκω-VB--AAI1P σοφία-N1A-ASF κύριος-N2--DSM προςτίθημι-VE--AMPNPM
+\v 14 ἄνθρωπος-N2--DSM δέ-X ἐπιτρέπω-VAI-AAI2P λαλέω-VA--AAN τοιοῦτος-A1--APN ῥῆμα-N3M-APN
+\v 15 πτοέω-VCI-API3P οὐ-D ἀποκρίνω-VCI-API3P ἔτι-D παλαιόω-V4I-AAI3P ἐκ-P αὐτός-RD--GPM λόγος-N2--APM
+\v 16 ὑπομένω-VAI-AAI1S οὐ-D γάρ-X λαλέω-VAI-AAI3P ὅτι-C ἵστημι-VAI-AAI3P οὐ-D ἀποκρίνω-VCI-API3P
+\v 17 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιους-N---NSM λέγω-V1--PAI3S
+\v 18 πάλιν-D λαλέω-VF--FAI1S πλήρης-A3H-NSM γάρ-X εἰμί-V9--PAI1S ῥῆμα-N3M-GPN ὀλέκω-V1--PAI3S γάρ-X ἐγώ-RP--AS ὁ-RA--NSN πνεῦμα-N3M-NSN ὁ-RA--GSF γαστήρ-N3--GSF
+\v 19 ὁ-RA--NSF δέ-X γαστήρ-N3--NSF ἐγώ-RP--GS ὥσπερ-D ἀσκός-N2--NSM γλεύκος-N3E-GSN ζέω-V2--PAPNSM δέω-VM--XMPNSM ἤ-C ὥσπερ-D φυσητήρ-N3H-NSM χαλκεύς-N3V-GSM ῥήγνυμι-VXI-XAPNSM
+\v 20 λαλέω-VF--FAI1S ἵνα-C ἀναπαύω-VA--AMS1S ἀναοἴγω-VA--AAPNSM ὁ-RA--APN χεῖλος-N3E-APN
+\v 21 ἄνθρωπος-N2--ASM γάρ-X οὐ-D μή-D αἰσχύνω-VC--APS1S ἀλλά-C μήν-X οὐδέ-C βροτός-N2--ASM οὐ-D μή-D ἐντρέπω-VB--AAS1S
+\v 22 οὐ-D γάρ-X ἐπίσταμαι-V6--PMI1S θαυμάζω-VA--AAN πρόσωπον-N2N-ASN εἰ-C δέ-X μή-D καί-C ἐγώ-RP--AS σής-N1M-NPM ἐσθίω-VF--FMI3P
+
+\c 33
+\p
+\v 1 οὐ-D μήν-X δέ-X ἀλλά-C ἀκούω-VA--AAD2S *ιωβ-N---NSM ὁ-RA--APN ῥῆμα-N3M-APN ἐγώ-RP--GS καί-C λαλιά-N1A-ASF ἐνὠτίζομαι-V1--PMD2S ἐγώ-RP--GS
+\v 2 ἰδού-I γάρ-X ἀναοἴγω-VAI-AAI1S ὁ-RA--ASN στόμα-N3M-ASN ἐγώ-RP--GS καί-C λαλέω-VAI-AAI3S ὁ-RA--NSF γλῶσσα-N1S-NSF ἐγώ-RP--GS
+\v 3 καθαρός-A1A-NSF ἐγώ-RP--GS ὁ-RA--NSF καρδία-N1A-NSF ῥῆμα-N3M-DPN σύνεσις-N3I-NSF δέ-X χεῖλος-N3E-GPN ἐγώ-RP--GS καθαρός-A1A-NSF νοέω-VF--FAI3S
+\v 4 πνεῦμα-N3M-NSN θεῖος-A1A-NSN ὁ-RA--NSN ποιέω-VA--AAPNSN ἐγώ-RP--AS πνοή-N1--NSF δέ-X παντοκράτωρ-N3R-GSM ὁ-RA--NSF διδάσκω-V1--PAPNSF ἐγώ-RP--AS
+\v 5 ἐάν-C δύναμαι-V6--PMS2S δίδωμι-VO--AAD2S ἐγώ-RP--DS ἀπόκρισις-N3I-ASF πρός-P οὗτος-RD--APN ὑπομένω-VA--AAD2S ἵστημι-VH--AAD2S κατά-P ἐγώ-RP--AS καί-C ἐγώ-RP--NS κατά-P σύ-RP--AS
+\v 6 ἐκ-P πηλός-N2--GSM διαἀρτίζω-VT--XMI2S σύ-RP--NS ὡς-C καί-C ἐγώ-RP--NS ἐκ-P ὁ-RA--GSM αὐτός-RD--GSM διαἀρτίζω-VT--XMI1P
+\v 7 οὐ-D ὁ-RA--NSM φόβος-N2--NSM ἐγώ-RP--GS σύ-RP--AS στροβέω-VF--FAI3S οὐδέ-C ὁ-RA--NSF χείρ-N3--NSF ἐγώ-RP--GS βαρύς-A3U-NSF εἰμί-VF--FMI3S ἐπί-P σύ-RP--DS
+\v 8 πλήν-D εἶπον-VAI-AAI2S ἐν-P οὖς-N3T-DPN ἐγώ-RP--GS φωνή-N1--ASF ῥῆμα-N3M-GPN σύ-RP--GS ἀκούω-VK--XAI1S
+\v 9 διότι-C λέγω-V1--PAI2S καθαρός-A1A-NSM εἰμί-V9--PAI1S οὐ-D ἁμαρτάνω-VB--AAPNSM ἄμεμπτος-A1B-NSM δέ-X εἰμί-V9--PAI1S οὐ-D γάρ-X ἀνομέω-VAI-AAI1S
+\v 10 μέμψις-N3I-ASF δέ-X κατά-P ἐγώ-RP--GS εὑρίσκω-VB--AAI3S ἡγέομαι-VM--XMI3S δέ-X ἐγώ-RP--AS ὥσπερ-D ὑπεναντίος-A1A-ASM
+\v 11 τίθημι-VEI-AMI3S δέ-X ἐν-P ξύλον-N2N-DSN ὁ-RA--ASM πούς-N3D-ASM ἐγώ-RP--GS φυλάσσω-VAI-AAI3S δέ-X ἐγώ-RP--GS πᾶς-A1S-APF ὁ-RA--APF ὁδός-N2--APF
+\v 12 πῶς-D γάρ-X λέγω-V1--PAI2S δίκαιος-A1A-NSM εἰμί-V9--PAI1S καί-C οὐ-D ἐπιἀκούω-VX--XAI3S ἐγώ-RP--GS αἰώνιος-A1B-NSM γάρ-X εἰμί-V9--PAI3S ὁ-RA--NSM ἐπάνω-D βροτός-N2--GPM
+\v 13 λέγω-V1--PAI2S δέ-X διά-P τίς-RI--ASN ὁ-RA--GSF δίκη-N1--GSF ἐγώ-RP--GS οὐ-D ἐπιἀκούω-VX--XAI3S πᾶς-A3--ASN ῥῆμα-N3M-ASN
+\v 14 ἐν-P γάρ-X ὁ-RA--DSN ἅπαξ-D λαλέω-VA--AAN ὁ-RA--NSM κύριος-N2--NSM ἐν-P δέ-X ὁ-RA--DSN δεύτερος-A1A-DSN ἐνύπνιον-N2N-ASN
+\v 15 ἤ-C ἐν-P μελέτη-N1--DSF νυκτερινός-A1--DSF ὡς-C ὅταν-D ἐπιπίπτω-V1--PAS3S δεινός-A1--NSM φόβος-N2--NSM ἐπί-P ἄνθρωπος-N2--APM ἐπί-P νύσταγμα-N3M-GPN ἐπί-P κοίτη-N1--GSF
+\v 16 τότε-D ἀνακαλύπτω-V1--PAI3S νοῦς-N3E-ASM ἄνθρωπος-N2--GPM ἐν-P εἶδος-N3E-DPN φόβος-N2--GSM τοιοῦτος-A1--DPM αὐτός-RD--APM ἐκφοβέω-VAI-AAI3S
+\v 17 ἀποστρέφω-VA--AAN ἄνθρωπος-N2--ASM ἐκ-P ἀδικία-N1A-GSF ὁ-RA--ASN δέ-X σῶμα-N3M-ASN αὐτός-RD--GSM ἀπό-P πτῶμα-N3M-GSN ῥύομαι-VAI-AMI3S
+\v 18 φείδομαι-VAI-AMI3S δέ-X ὁ-RA--GSF ψυχή-N1--GSF αὐτός-RD--GSM ἀπό-P θάνατος-N2--GSM καί-C μή-D πίπτω-VB--AAN αὐτός-RD--ASM ἐν-P πόλεμος-N2--DSM
+\v 19 πάλιν-D δέ-X ἐλέγχω-VAI-AAI3S αὐτός-RD--ASM ἐν-P μαλακία-N1A-DSF ἐπί-P κοίτη-N1--GSF καί-C πλῆθος-N3E-ASN ὀστέον-N2N-GPN αὐτός-RD--GSM ναρκάω-VAI-AAI3S
+\v 20 πᾶς-A3--ASM δέ-X βρωτός-A1--ASM σῖτος-N2--GSM οὐ-D μή-D δύναμαι-V6--PMS3S προςδέχομαι-VA--AMN καί-C ὁ-RA--NSF ψυχή-N1--NSF αὐτός-RD--GSM βρῶσις-N3I-ASF ἐπιθυμέω-VA--AAO3S
+\v 21 ἕως-C ἄν-X σήπω-VB--AAS3P αὐτός-RD--GSM ὁ-RA--NPF σάρξ-N3K-NPF καί-C ἀποδεικνύω-VA--AAS3S ὁ-RA--APN ὀστέον-N2N-APN αὐτός-RD--GSM κενός-A1--APN
+\v 22 ἐγγίζω-VAI-AAI3S δέ-X εἰς-P θάνατος-N2--ASM ὁ-RA--NSF ψυχή-N1--NSF αὐτός-RD--GSM ὁ-RA--NSF δέ-X ζωή-N1--NSF αὐτός-RD--GSM ἐν-P ᾅδης-N1M-DSM
+\v 23 ἐάν-C εἰμί-V9--PAS3P χίλιοι-A1A-NPM ἄγγελος-N2--NPM θανατηφόρος-A1A-NPM εἷς-A3--NSM αὐτός-RD--GPM οὐ-D μή-D τιτρώσκω-VA--AAS3S αὐτός-RD--ASM ἐάν-C νοέω-VA--AAS3S ὁ-RA--DSF καρδία-N1A-DSF ἐπιστρέφω-VD--APN ἐπί-P κύριος-N2--ASM ἀναἀγγέλλω-VA--AAS3S δέ-X ἄνθρωπος-N2--DSM ὁ-RA--ASF ἑαυτοῦ-RD--GSM μέμψις-N3I-ASF ὁ-RA--ASF δέ-X ἄνοια-N1A-ASF αὐτός-RD--GSM δεικνύω-VA--AAS3S
+\v 24 ἀντιἔχω-VF--FMI3S ὁ-RA--GSN μή-D πίπτω-VB--AAN αὐτός-RD--ASM εἰς-P θάνατος-N2--ASM ἀνανεόω-VF--FAI3S δέ-X αὐτός-RD--GSM ὁ-RA--ASN σῶμα-N3M-ASN ὥσπερ-D ἀλοιφή-N1--ASF ἐπί-P τοῖχος-N2--GSM ὁ-RA--APN δέ-X ὀστέον-N2N-APN αὐτός-RD--GSM ἐνπίμπλημι-VF--FAI3S μυελός-N2--GSM
+\v 25 ἁπαλύνω-V1--PAI3S δέ-X αὐτός-RD--GSM ὁ-RA--APF σάρξ-N3K-APF ὥσπερ-D νήπιος-A1A-GSM ἀπο  καταἵστημι-VF--FAI3S δέ-X αὐτός-RD--ASM ἀνδρόω-VC--APPASM ἐν-P ἄνθρωπος-N2--DPM
+\v 26 εὔχομαι-VA--AMPNSM δέ-X πρός-P κύριος-N2--ASM καί-C δεκτός-A1--APN αὐτός-RD--DSM εἰμί-VF--FMI3S εἰςἔρχομαι-VF--FMI3S δέ-X πρόσωπον-N2N-DSN καθαρός-A1A-DSM σύν-P ἐξηγορία-N1A-DSF ἀποδίδωμι-VF--FAI3S δέ-X ἄνθρωπος-N2--DPM δικαιοσύνη-N1--ASF
+\v 27 εἶτα-D τότε-D ἀπομέμπτω-VF--FMI3S ἄνθρωπος-N2--NSM αὐτός-RD--NSM ἑαυτοῦ-RD--DSM λέγω-V1--PAPNSM οἷος-RR--APN συντελέω-V2I-IAI1P καί-C οὐ-D ἄξιος-A1A-APN ἐτάζω-VAI-AAI3S ἐγώ-RP--AS ὅς-RR--GPM ἁμαρτάνω-VBI-AAI1S
+\v 28 σώζω-VA--AAD2S ψυχή-N1--ASF ἐγώ-RP--GS ὁ-RA--GSN μή-D ἔρχομαι-VB--AAN εἰς-P διαφθορά-N1A-ASF καί-C ὁ-RA--NSF ζωή-N1--NSF ἐγώ-RP--GS φῶς-N3T-ASN ὁράω-VF--FMI3S
+\v 29 ἰδού-I πᾶς-A3--APN οὗτος-RD--APN ἐργάζομαι-V1--PMI3S ὁ-RA--NSM ἰσχυρός-A1A-NSM ὁδός-N2--APF τρεῖς-A3--APF μετά-P ἀνήρ-N3--GSM
+\v 30 ἀλλά-C ῥύομαι-VAI-AMI3S ὁ-RA--ASF ψυχή-N1--ASF ἐγώ-RP--GS ἐκ-P θάνατος-N2--GSM ἵνα-C ὁ-RA--NSF ζωή-N1--NSF ἐγώ-RP--GS ἐν-P φῶς-N3T-DSN αἰνέω-V2--PAS3S αὐτός-RD--ASM
+\v 31 ἐνὠτίζομαι-V1--PMD2S *ιωβ-N---VSM καί-C ἀκούω-V1--PAD2S ἐγώ-RP--GS κωφεύω-VA--AAD2S καί-C ἐγώ-RP--NS εἰμί-V9--PAI1S λαλέω-VF--FAI1S
+\v 32 εἰ-C εἰμί-V9--PAI3P λόγος-N2--NPM ἀποκρίνω-VC--APD2S ἐγώ-RP--DS λαλέω-VA--AAD2S θέλω-V1--PAI1S γάρ-X δικαιόω-VC--APN σύ-RP--AS
+\v 33 εἰ-C μή-D σύ-RP--NS ἀκούω-VA--AAD2S ἐγώ-RP--GS κωφεύω-VA--AAD2S καί-C διδάσκω-VF--FAI1S σύ-RP--AS σοφία-N1A-ASF
+
+\c 34
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιους-N---NSM λέγω-V1--PAI3S
+\v 2 ἀκούω-VA--AAD2P ἐγώ-RP--GS σοφός-A1--NPM ἐπιἵστημι-V6--PMPNPM ἐνὠτίζομαι-V1--PMD2P ὁ-RA--ASN καλός-A1--ASM
+\v 3 ὅτι-C οὖς-N3K-NSN λόγος-N2--APM δοκιμάζω-V1--PAI3S καί-C λάρυγξ-N3G-NSM γεύω-V1--PMI3S βρῶσις-N3I-ASF
+\v 4 κρίσις-N3I-ASF αἱρέω-VBI-AMS1P ἑαυτοῦ-RD--DPM γιγνώσκω-VZ--AAS1P ἀνά-P μέσος-A1--ASM ἑαυτοῦ-RD--GPM ὅς-RR--ASN τις-RI--ASN καλός-A1--ASN
+\v 5 ὅτι-C εἶπον-VX--XAI3S *ιωβ-N---NSM δίκαιος-A1A-NSM εἰμί-V9--PAI1S ὁ-RA--NSM κύριος-N2--NSM ἀποἀλλάσσω-VAI-AAI3S ἐγώ-RP--GS ὁ-RA--ASN κρίμα-N3M-ASN
+\v 6 ψεύδω-VAI-AMI3S δέ-X ὁ-RA--DSN κρίμα-N3M-DSN ἐγώ-RP--GS βίαιος-A1A-ASN ὁ-RA--ASN βέλος-N3E-ASN ἐγώ-RP--GS ἄνευ-P ἀδικία-N1A-GSF
+\v 7 τίς-RI--NSM ἀνήρ-N3--NSM ὥσπερ-D *ιωβ-N---NSM πίνω-V1--PAPNSM μυκτηρισμός-N2--ASM ὥσπερ-D ὕδωρ-N3--NSN
+\v 8 οὐ-D ἁμαρτάνω-VB--AAPNSM οὐδέ-C ἀσεβέω-VA--AAPNSM ἤ-C ὁδός-N2--GSF κοινωνέω-VA--AAPNSM μετά-P ποιέω-V2--PAPGPM ὁ-RA--APN ἄνομος-A1B-APN ὁ-RA--GSN πορεύομαι-VC--APN μετά-P ἀσεβής-A3H-GPM
+\v 9 μή-D γάρ-X εἶπον-VB--AAS2S ὅτι-C οὐ-D εἰμί-VF--FMI3S ἐπισκοπή-N1--NSF ἀνήρ-N3--GSM καί-C ἐπισκοπή-N1--NSF αὐτός-RD--DSM παρά-P κύριος-N2--GSM
+\v 10 διό-C συνετός-A1--VPM καρδία-N1A-GSF ἀκούω-VA--AAD2P ἐγώ-RP--GS μή-D ἐγώ-RP--DS εἰμί-V9--PAO3S ἔναντι-P κύριος-N2--GSM ἀσεβέω-VA--AAN καί-C ἔναντι-P παντοκράτωρ-N3R-GSM ταράσσω-VA--AAN ὁ-RA--ASN δίκαιος-A1A-ASN
+\v 11 ἀλλά-C ἀποδίδωμι-V8--PAO3S ἄνθρωπος-N2--DSM καθά-D ποιέω-V2--PAI3S ἕκαστος-A1--NSM αὐτός-RD--GPM καί-C ἐν-P τρίβος-N2--DSM ἀνήρ-N3--GSM εὑρίσκω-VF--FAI3S αὐτός-RD--ASM
+\v 12 οἴομαι-V1--PAS3S δέ-X ὁ-RA--ASM κύριος-N2--ASM ἄτοπος-A1B-APN ποιέω-VF--FAN ἤ-C ὁ-RA--NSM παντοκράτωρ-N3R-NSM ταράσσω-VF--FAI3S κρίσις-N3I-ASF
+\v 13 ὅς-RR--NSM ποιέω-VAI-AAI3S ὁ-RA--ASF γῆ-N1--ASF τίς-RI--NSM δέ-X εἰμί-V9--PAI3S ὁ-RA--NSM ποιέω-V2--PAPNSM ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM καί-C ὁ-RA--APN ἐνεἰμί-V9--PAPAPN πᾶς-A3--APN
+\v 14 εἰ-C γάρ-X βούλομαι-V1--PMO3S συνἔχω-V1--PAN καί-C ὁ-RA--ASN πνεῦμα-N3M-ASN παρά-P αὐτός-RD--DSM καταἔχω-VB--AAN
+\v 15 τελευτάω-VF--FAI3S πᾶς-A1S-NSF σάρξ-N3K-NSF ὁμοθυμαδόν-D πᾶς-A3--NSM δέ-X βροτός-N2--NSM εἰς-P γῆ-N1--ASF ἀποἔρχομαι-VF--FMI3S ὅθεν-D καί-C πλάσσω-VSI-API3S
+\v 16 εἰ-C δέ-X μή-D νουθετέω-V2--PAS3S ἀκούω-V1--PAD2S οὗτος-RD--APN ἐνὠτίζομαι-V1--PMD2S φωνή-N1--ASF ῥῆμα-N3M-GPN
+\v 17 ὁράω-VB--AAD2S σύ-RP--NS ὁ-RA--ASM μισέω-V2--PAPASM ἄνομος-A1B-APN καί-C ὁ-RA--ASM ὄλλυμι-V5--PAPASM ὁ-RA--APM πονηρός-A1A-APM εἰμί-V9--PAPASM αἰώνιος-A1B-ASM δίκαιος-A1A-ASM
+\v 18 ἀσεβής-A3H-NSM ὁ-RA--NSM λέγω-V1--PAPNSM βασιλεύς-N3V-DSM παρανομέω-V2--PAI2S ἀσεβής-A3H-VSMS ὁ-RA--DPM ἄρχων-N3--DPM
+\v 19 ὅς-RR--NSM οὐ-D ἐπιαἰσχύνω-VCI-API3S πρόσωπον-N2N-ASN ἔντιμος-A1B-GSM οὐδέ-C οἶδα-VX--XAI3S τιμή-N1--ASF τίθημι-VE--AMN ἁδρός-A1A-DPM θαυμάζω-VS--APN πρόσωπον-N2N-APN αὐτός-RD--GPM
+\v 20 κενός-A1--APN δέ-X αὐτός-RD--DPM ἀποβαίνω-VF--FMI3S ὁ-RA--ASN κράζω-VX--XAN καί-C δέω-V2--PMN ἀνήρ-N3--GSM χράω-VAI-AMI3P γάρ-X παρανόμως-D ἐκκλίνω-V1--PMPGPM ἀδύνατος-A1B-GPM
+\v 21 αὐτός-RD--NSM γάρ-X ὁρατής-N1M-NSM εἰμί-V9--PAI3S ἔργον-N2N-GPN ἄνθρωπος-N2--GPM λανθάνω-VX--XAI3S δέ-X αὐτός-RD--ASM οὐδείς-A3--ASN ὅς-RR--GPM πράσσω-V1--PAI3P
+\v 22 οὐδέ-C εἰμί-VF--FMI3S τόπος-N2--NSM ὁ-RA--GSN κρύπτω-VD--APN ὁ-RA--APM ποιέω-V2--PAPAPM ὁ-RA--APN ἄνομος-A1B-APN
+\v 23 ὅτι-C οὐ-D ἐπί-P ἀνήρ-N3--ASM τίθημι-VF--FAI3S ἔτι-D ὁ-RA--NSM γάρ-X κύριος-N2--NSM πᾶς-A3--APM ἐπιὁράω-V3--PAI3S
+\v 24 ὁ-RA--NSM καταλαμβάνω-V1--PAPNSM ἀνεξιχνίαστος-A1B-APN ἔνδοξος-A1B-APN τε-X καί-C ἐξαίσιος-A1B-APN ὅς-RR--GPM οὐ-D εἰμί-V9--PAI3S ἀριθμός-N2--NSM
+\v 25 ὁ-RA--NSM γνωρίζω-V1--PAPNSM αὐτός-RD--GPM ὁ-RA--APN ἔργον-N2N-APN καί-C στρέφω-VF--FAI3S νύξ-N3--ASF καί-C ταπεινόω-VC--FPI3P
+\v 26 σβέννυμι-VAI-AAI3S δέ-X ἀσεβής-A3H-APM ὁρατός-A1--NPM δέ-X ἐναντίον-P αὐτός-RD--GSM
+\v 27 ὅτι-C ἐκκλίνω-VAI-AAI3P ἐκ-P νόμος-N2--GSM θεός-N2--GSM δικαίωμα-N3M-APN δέ-X αὐτός-RD--GSM οὐ-D ἐπιγιγνώσκω-VZI-AAI3P
+\v 28 ὁ-RA--GSN ἐπιἄγω-VB--AAN ἐπί-P αὐτός-RD--ASM κραυγή-N1--ASF πένης-N3T-GSM καί-C κραυγή-N1--ASF πτωχός-N2--GPM εἰςἀκούω-VF--FMI3S
+\v 29 καί-C αὐτός-RD--NSM ἡσυχία-N1A-ASF παραἔχω-VF--FAI3S καί-C τίς-RI--NSM καταδικάζω-VF2-FMI3S καί-C κρύπτω-VF--FAI3S πρόσωπον-N2N-ASN καί-C τίς-RI--NSM ὁράω-VF--FMI3S αὐτός-RD--ASM καί-C κατά-P ἔθνος-N3E-GSN καί-C κατά-P ἄνθρωπος-N2--GSM ὁμός-A1--GSM
+\v 30 βασιλεύω-V1--PAPNSM ἄνθρωπος-N2--ASM ὑποκριτής-N1M-ASM ἀπό-P δυσκολία-N1A-GSF λαός-N2--GSM
+\v 31 ὅτι-C πρός-P ὁ-RA--ASM ἰσχυρός-A1A-ASM ὁ-RA--NSM λέγω-V1--PAPNSM λαμβάνω-VX--XAI1S οὐ-D ἐνεχυράζω-VF2-FAI1S
+\v 32 ἄνευ-P ἐμαυτοῦ-RD--GSM ὁράω-VF--FMI1S σύ-RP--NS δεικνύω-VA--AAD2S ἐγώ-RP--DS εἰ-C ἀδικία-N1A-ASF ἐργάζομαι-VAI-AMI1S οὐ-D μή-D προςτίθημι-VF--FAI1S
+\v 33 μή-D παρά-P σύ-RP--GS ἀποτίνω-VF2-FAI3S αὐτός-RD--ASF ὅτι-C ἀποὠθέω-VA--AAS3S ὅτι-C σύ-RP--NS ἐκλέγω-VF--FMI2S καί-C οὐ-D ἐγώ-RP--NS καί-C τίς-RI--ASN γιγνώσκω-VZI-AAI2S λαλέω-VA--AAD2S
+\v 34 διό-C συνετός-A1--NPM καρδία-N1A-GSF εἶπον-VF2-FAI3P οὗτος-RD--APN ἀνήρ-N3--NSM δέ-X σοφός-A1--NSM ἀκούω-VX--XAI3S ἐγώ-RP--GS ὁ-RA--ASN ῥῆμα-N3M-ASN
+\v 35 *ιωβ-N---NSM δέ-X οὐ-D ἐν-P σύνεσις-N3I-DSF λαλέω-VAI-AAI3S ὁ-RA--APN δέ-X ῥῆμα-N3M-APN αὐτός-RD--GSM οὐ-D ἐν-P ἐπιστήμη-N1--DSF
+\v 36 οὐ-D μήν-X δέ-X ἀλλά-C μανθάνω-VB--AAD2S *ιωβ-N---VSM μή-D δίδωμι-VO--AAS2S ἔτι-D ἀνταπόκρισις-N3I-ASF ὥσπερ-D ὁ-RA--NPM ἄφρων-A3N-NPM
+\v 37 ἵνα-C μή-D προςτίθημι-VE--AAS1P ἐπί-P ἁμαρτία-N1A-DPF ἐγώ-RP--GP ἀνομία-N1A-NSF δέ-X ἐπί-P ἐγώ-RP--DP λογίζομαι-VS--FPI3S πολύς-A1--APN λαλέω-V2--PAPGPM ῥῆμα-N3M-APN ἐναντίον-P ὁ-RA--GSM κύριος-N2--GSM
+
+\c 35
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ελιους-N---NSM λέγω-V1--PAI3S
+\v 2 τίς-RI--ASN οὗτος-RD--ASN ἡγέομαι-VAI-AMI2S ἐν-P κρίσις-N3I-DSF σύ-RP--NS τίς-RI--NSM εἰμί-V9--PAI2S ὅτι-C εἶπον-VAI-AAI2S δίκαιος-A1A-NSM εἰμί-V9--PAI1S ἔναντι-P κύριος-N2--GSM
+\v 3 ἤ-C εἶπον-VF2-FAI2S τίς-RI--ASN ποιέω-VA--AAS1S ἁμαρτάνω-VB--AAPNSM
+\v 4 ἐγώ-RP--NS σύ-RP--DS δίδωμι-VF--FAI1S ἀπόκρισις-N3I-ASF καί-C ὁ-RA--DPM τρεῖς-A3--DPM φίλος-A1--DPM σύ-RP--GS
+\v 5 ἀναβλέπω-VA--AAD2S εἰς-P ὁ-RA--ASM οὐρανός-N2--ASM καί-C ὁράω-VB--AAD2S καταμανθάνω-VB--AAD2S δέ-X νέφος-N3E-APN ὡς-C ὑψηλός-A1--APN ἀπό-P σύ-RP--GS
+\v 6 εἰ-C ἁμαρτάνω-VBI-AAI2S τίς-RI--ASN πράσσω-V1--FAI2S εἰ-C δέ-X καί-C πολύς-A1--APN ἀνομέω-VAI-AAI2S τίς-RI--ASN δύναμαι-V6--PMI2S ποιέω-VA--AAN
+\v 7 ἐπεί-C δέ-X οὖν-X δίκαιος-A1A-NSM εἰμί-V9--PAI2S τίς-RI--ASN δίδωμι-VF--FAI2S αὐτός-RD--DSM ἤ-C τίς-RI--ASN ἐκ-P χείρ-N3--GSF σύ-RP--GS λαμβάνω-VF--FMI3S
+\v 8 ἀνήρ-N3--DSM ὁ-RA--DSM ὅμοιος-A1A-DSM σύ-RP--GS ὁ-RA--NSF ἀσέβεια-N1A-NSF σύ-RP--GS καί-C υἱός-N2--DSM ἄνθρωπος-N2--GSM ὁ-RA--NSF δικαιοσύνη-N1--NSF σύ-RP--GS
+\v 9 ἀπό-P πλῆθος-N3E-GSN συκοφαντέω-V2--PMPNPM κράζω-VFX-FMI3P βοάω-VF--FMI3P ἀπό-P βραχίων-N3N-GSM πολύς-A1--GPM
+\v 10 καί-C οὐ-D εἶπον-VBI-AAI3S ποῦ-D εἰμί-V9--PAI3S ὁ-RA--NSM θεός-N2--NSM ὁ-RA--NSM ποιέω-VA--AAPNSM ἐγώ-RP--AS ὁ-RA--NSM κατατάσσω-V1--PAPNSM φυλακή-N1--APF νυκτερινός-A1--GSF
+\v 11 ὁ-RA--NSM διαὁρίζω-V1--PAPNSM ἐγώ-RP--AS ἀπό-P τετράποδος-A1B-GPM γῆ-N1--GSF ἀπό-P δέ-X πετεινόν-N2N-GPN οὐρανός-N2--GSM
+\v 12 ἐκεῖ-D κράζω-VFX-FMI3P καί-C οὐ-D μή-D εἰςἀκούω-VA--AAS3S καί-C ἀπό-P ὕβρις-N3I-GSF πονηρός-A1A-GPM
+\v 13 ἄτοπος-A1B-APN γάρ-X οὐ-D βούλομαι-V1--PMI3S ὁ-RA--NSM κύριος-N2--NSM ὁράω-VB--AAN αὐτός-RD--NSM γάρ-X ὁ-RA--NSM παντοκράτωρ-N3R-NSM ὁρατής-N1M-NSM εἰμί-V9--PAI3S
+\v 14 ὁ-RA--GPM συντελέω-V2--PAPGPM ὁ-RA--APN ἄνομος-A1B-APN καί-C σώζω-VF--FAI3S ἐγώ-RP--AS κρίνω-VC--APD2S δέ-X ἐναντίον-P αὐτός-RD--GSM εἰ-C δύναμαι-V6--PMI2S αἰνέω-VA--AAN αὐτός-RD--ASM ὡς-C εἰμί-V9--PAI3S
+\v 15 καί-C νῦν-D ὅτι-C οὐ-D εἰμί-V9--PAI3S ἐπισκέπτομαι-V1--PMPNSM ὀργή-N1--ASF αὐτός-RD--GSM καί-C οὐ-D γιγνώσκω-VZI-AAI3S παράπτωμα-N3M-DSN σφόδρα-D
+\v 16 καί-C *ιωβ-N---NSM ματαίως-D ἀναοἴγω-V1--PAI3S ὁ-RA--ASN στόμα-N3M-ASN αὐτός-RD--GSM ἐν-P ἀγνωσία-N1A-DSF ῥῆμα-N3M-APN βαρύνω-VA--PAI3S
+
+\c 36
+\p
+\v 1 προςτίθημι-VE--AAPNSM δέ-X *ελιους-N---NSM ἔτι-D λέγω-V1--PAI3S
+\v 2 μένω-VA--AAD2S ἐγώ-RP--AS μικρός-A1A-ASM ἔτι-D ἵνα-C διδάσκω-VF--FAI1S σύ-RP--AS ἔτι-D γάρ-X ἐν-P ἐγώ-RP--DS εἰμί-V9--PAI3S λέξις-N3I-NSF
+\v 3 ἀναλαμβάνω-VB--AAPNSM ὁ-RA--ASF ἐπιστήμη-N1--ASF ἐγώ-RP--GS μακράν-D ἔργον-N2N-DPN δέ-X ἐγώ-RP--GS δίκαιος-A1A-APN εἶπον-VF2-FAI1S
+\v 4 ἐπί-P ἀλήθεια-N1A-GSF καί-C οὐ-D ἄδικος-A1B-APN ῥῆμα-N3M-APN ἀδίκως-D συνἵημι-V7--PAI2S
+\v 5 γιγνώσκω-V1--PAD2S δέ-X ὅτι-C ὁ-RA--NSM κύριος-N2--NSM οὐ-D μή-D ἀποποιέω-VA--AMS3S ὁ-RA--ASM ἄκακος-A1B-ASM δυνατός-A1--NSM ἰσχύς-N3U-DSF καρδία-N1A-GSF
+\v 6 ἀσεβής-A3H-ASM οὐ-D μή-D ζωοποιέω-VF--FAI3S καί-C κρίμα-N3M-ASN πτωχός-N2--GPM δίδωμι-VF--FAI3S
+\v 7 οὐ-D ἀποαἱρέω-VF2-FAI3S ἀπό-P δίκαιος-A1A-GSM ὀφθαλμός-N2--APM αὐτός-RD--GSM καί-C μετά-P βασιλεύς-N3V-GPM εἰς-P θρόνος-N2--ASM καί-C καταἵζω-VF2-FAI3S αὐτός-RD--APM εἰς-P νεῖκος-N3E-ASN καί-C ὑψόω-VC--FPI3P
+\v 8 καί-C εἰ-C πεδάω-VM--XPPNPM ἐν-P χειροπέδη-N1--DPF συνἔχω-VM--FPI3P ἐν-P σχοινίον-N2--DPN πενία-N1A-GSF
+\v 9 καί-C ἀναἀγγέλλω-VF2-FAI3S αὐτός-RD--DPM ὁ-RA--APN ἔργον-N2N-APN αὐτός-RD--GPM καί-C ὁ-RA--APN παράπτωμα-N3M-APN αὐτός-RD--GPM ὅτι-C ἰσχύω-VF--FAI3P
+\v 10 ἀλλά-C ὁ-RA--GSM δίκαιος-A1A-GSM εἰςἀκούω-VF--FMI3S καί-C εἶπον-VBI-AAI3S ὅτι-C ἐπιστρέφω-VD--FPI3P ἐκ-P ἀδικία-N1A-GSF
+\v 11 ἐάν-C ἀκούω-VA--AAS3P καί-C δουλεύω-VA--AAS3P συντελέω-VF--FAI3P ὁ-RA--APF ἡμέρα-N1A-APF αὐτός-RD--GPM ἐν-P ἀγαθός-A1--DPM καί-C ὁ-RA--APN ἔτος-N3E-APN αὐτός-RD--GPM ἐν-P εὐπρέπεια-N1A-DPF
+\v 12 ἀσεβής-A3H-NPM δέ-X οὐ-D διασώζω-V1--PAI3S παρά-P ὁ-RA--ASN μή-D βούλομαι-V1--PMN οἶδα-VX--XAN αὐτός-RD--APM ὁ-RA--ASM κύριος-N2--ASM καί-C διότι-C νουθετέω-V2--PMPNPM ἀνήκοος-A1B-NPM εἰμί-V9--IAI3P
+\v 13 καί-C ὑποκριτής-N1M-NSM καρδία-N1A-DSF τάσσω-VF--FAI3P θυμός-N2--ASM οὐ-D βοάω-VF--FMI3P ὅτι-C δέω-VAI-AAI3S αὐτός-RD--APM
+\v 14 ἀποθνήσκω-VB--AAO3S τοίνυν-X ἐν-P νεότης-N3T-DSF ὁ-RA--NSF ψυχή-N1--NSF αὐτός-RD--GPM ὁ-RA--NSF δέ-X ζωή-N1--NSF αὐτός-RD--GPM τιτρώσκω-V1--PPPNSF ὑπό-P ἄγγελος-N2--GPM
+\v 15 ἀντί-P ὅς-RR--GPM θλίβω-VAI-AAI3P ἀσθενής-A3H-APN καί-C ἀδύνατος-A1B-ASM κρίμα-N3M-ASN δέ-X πραΰς-A3U-GPM ἐκτίθημι-VF--FAI3S
+\v 16 καί-C προσέτι-D ἀπατάω-VAI-AAI3S σύ-RP--AS ἐκ-P στόμα-N3M-GSN ἐχθρός-N2--GSM ἄβυσσος-N2--NSF κατάχυσις-N3I-NSF ὑποκάτω-D αὐτός-RD--GSF καί-C καταβαίνω-VZI-AAI3S τράπεζα-N1S-NSF σύ-RP--GS πλήρης-A3H-NSM πιότης-N3T-GSF
+\v 17 οὐ-D ὑστερέω-VF--FAI3S δέ-X ἀπό-P δίκαιος-A1A-GPM κρίμα-N3M-ASN
+\v 18 θυμός-N2--NSM δέ-X ἐπί-P ἀσεβής-A3H-APM εἰμί-VF--FMI3S διά-P ἀσέβεια-N1A-ASF δῶρον-N2N-GPN ὅς-RR--GPN δέχομαι-V1I-IMI3P ἐπί-P ἀδικία-N1A-DPF
+\v 19 μή-D σύ-RP--AS ἐκκλίνω-VA--AAD3S ἑκών-A3P-NSM ὁ-RA--NSM νοῦς-N3E-NSM δέησις-N3I-GSF ἐν-P ἀνάγκη-N1--DSF εἰμί-V9--PAPGPM ἀδύνατος-A1B-GPM καί-C πᾶς-A3--APM ὁ-RA--APM κραταιόω-V4--PAPAPM ἰσχύς-N3U-ASF
+\v 20 μή-D ἐκἕλκω-VA--AAS2S ὁ-RA--ASF νύξ-N3--ASF τοῦ-RA--GSN ἀναβαίνω-VZ--AAN λαός-N2--APM ἀντί-P αὐτός-RD--GPM
+\v 21 ἀλλά-C φυλάσσω-VA--AMD2S μή-D πράσσω-VA--AAS2S ἄτοπος-A1B-APN ἐπί-P οὗτος-RD--ASM γάρ-X ἐκεἰλέω-V2--PAI1S ἀπό-P πτωχεία-N1A-GSF
+\v 22 ἰδού-I ὁ-RA--NSM ἰσχυρός-A1A-NSM κραταιόω-VF--FAI3S ἐν-P ἰσχύς-N3U-DSF αὐτός-RD--GSM τίς-RI--NSM γάρ-X εἰμί-V9--PAI3S κατά-P αὐτός-RD--ASM δυνάστης-N1M-NSM
+\v 23 τίς-RI--NSM δέ-X εἰμί-V9--PAI3S ὁ-RA--NSM ἐτάζω-V1--PAPNSM αὐτός-RD--GSM ὁ-RA--APN ἔργον-N2N-APN ἤ-C τίς-RI--NSM ὁ-RA--NSM εἶπον-VA--AAPNSM πράσσω-VAI-AAI3S ἄδικος-A1B-APN
+\v 24 μιμνήσκω-VS--APD2S ὅτι-C μέγας-A1--NPN εἰμί-V9--PAI3S αὐτός-RD--GSM ὁ-RA--NPN ἔργον-N2N-NPN ὅς-RR--GPM ἄρχω-VAI-AAI3P ἀνήρ-N3--NPM
+\v 25 πᾶς-A3--NSM ἄνθρωπος-N2--NSM ὁράω-VBI-AAI3S ἐν-P ἑαυτοῦ-RD--DSM ὅσος-A1--NPM τιτρώσκω-V1--PPPNPM εἰμί-V9--PAI3P βροτός-N2--NPM
+\v 26 ἰδού-I ὁ-RA--NSM ἰσχυρός-A1A-NSM πολύς-A1--NSM καί-C οὐ-D γιγνώσκω-VF--FMI1P ἀριθμός-N2--NSM ἔτος-N3E-GPN αὐτός-RD--GSM καί-C ἀπέραντος-A1B-NSM
+\v 27 ἀριθμέω-V2--PMS3S δέ-X αὐτός-RD--DSM σταγών-N3N-NPF ὑετός-N2--GSM καί-C ἐπιχέω-VC--FPI3P ὑετός-N2--DSM εἰς-P νεφέλη-N1--ASF
+\v 28 ῥέω-VF--FMI3P παλαίωμα-N3M-NPN σκιάζω-VAI-AAI3S δέ-X νέφος-N3E-NPN ἐπί-P ἀμύθητος-A1B-GPM βροτός-N2--GPM
+\v 28 ὥρα-N1A-ASF τίθημι-VEI-AMI3S κτῆνος-N3E-DPN οἶδα-VX--XAI3P δέ-X κοίτη-N1--GSF τάξις-N3I-ASF
+\v 28 ἐπί-P οὗτος-RD--DPM πᾶς-A3--DPM οὐ-D ἐκἵστημι-V6--PMI3S σύ-RP--GS ὁ-RA--NSF διάνοια-N1A-NSF οὐδέ-C διαἀλλάσσω-V1--PMI3S σύ-RP--GS ὁ-RA--NSF καρδία-N1A-NSF ἀπό-P σῶμα-N3M-GSN
+\v 29 καί-C ἐάν-C συνεἰμί-V9--PAS3S ἀπέκτασις-N3I-APF νεφέλη-N1--GSF ἰσότης-N3H-APF σκηνή-N1--GSF αὐτός-RD--GSM
+\v 30 ἰδού-I ἐκτείνω-V1--PAI3S ἐπί-P αὐτός-RD--ASM ηδω-N---AS καί-C ῥίζωμα-N3M-APN ὁ-RA--GSF θάλασσα-N1S-GSF καλύπτω-VAI-AAI3S
+\v 31 ἐν-P γάρ-X αὐτός-RD--DPM κρίνω-VF2-FAI3S λαός-N2--APM δίδωμι-VF--FAI3S τροφή-N1--ASF ὁ-RA--DSM ἰσχύω-V1--PAPDSM
+\v 32 ἐπί-P χείρ-N3--GPF καλύπτω-VAI-AAI3S φῶς-N3T-ASN καί-C ἐντέλλομαι-VAI-AMI3S περί-P αὐτός-RD--GSF ἐν-P ἀποἀντάω-V3--PAPDSM
+\v 33 ἀναἀγγέλλω-VF2-FAI3S περί-P αὐτός-RD--GSM φίλος-A1--ASM αὐτός-RD--GSM κτῆσις-N3I-NSF καί-C περί-P ἀδικία-N1A-GSF
+
+\c 37
+\p
+\v 1 καί-C οὗτος-RD--GSF ταράσσω-VQI-API3S ὁ-RA--NSF καρδία-N1A-NSF ἐγώ-RP--GS καί-C ἀποῥέω-VD--API3S ἐκ-P ὁ-RA--GSM τόπος-N2--GSM αὐτός-RD--GSF
+\v 2 ἀκούω-V1--PAD2S ἀκοή-N1--ASF ἐν-P ὀργή-N1--DSF θυμός-N2--GSM κύριος-N2--GSM καί-C μελέτη-N1--NSF ἐκ-P στόμα-N3M-GSN αὐτός-RD--GSM ἐκἔρχομαι-VF--FMI3S
+\v 3 ὑποκάτω-D πᾶς-A3--GSM ὁ-RA--GSM οὐρανός-N2--GSM ἀρχή-N1--NSF αὐτός-RD--GSM καί-C ὁ-RA--ASN φῶς-N3T-ASN αὐτός-RD--GSM ἐπί-P πτέρυξ-N3G-GPF ὁ-RA--GSF γῆ-N1--GSF
+\v 4 ὀπίσω-P αὐτός-RD--GSM βοάω-VF--FMI3S φωνή-N1--NSF βροντάω-VF--FAI3S ἐν-P φωνή-N1--DSF ὕβρις-N3I-GSF αὐτός-RD--GSM καί-C οὐ-D ἀντιἀλλάσσω-VF--FAI3S αὐτός-RD--APM ὅτι-C ἀκούω-VF--FAI3S φωνή-N1--ASF αὐτός-RD--GSM
+\v 5 βροντάω-VF--FAI3S ὁ-RA--NSM ἰσχυρός-A1A-NSM ἐν-P φωνή-N1--DSF αὐτός-RD--GSM θαυμάσιος-A1A-APN ποιέω-VAI-AAI3S γάρ-X μέγας-A1--APN ὅς-RR--APN οὐ-D οἶδα-VXI-YAI1P
+\v 6 συντάσσω-V1--PAPNSM χιών-N3N-DSF γίγνομαι-V1--PMD2S ἐπί-P ὁ-RA--GSF γῆ-N1--GSF καί-C χειμών-N3W-NSM ὑετός-N2--NSM καί-C χειμών-N3W-NSM ὑετός-N2--GPM δυναστεία-N1A-GSF αὐτός-RD--GSM
+\v 7 ἐν-P χείρ-N3--DSF πᾶς-A3--GSM ἄνθρωπος-N2--GSM κατασφραγίζω-V1--PAI3S ἵνα-C γιγνώσκω-VZ--AAS3S πᾶς-A3--NSM ἄνθρωπος-N2--NSM ὁ-RA--ASF ἑαυτοῦ-RD--GSM ἀσθένεια-N1A-ASF
+\v 8 εἰςἔρχομαι-VBI-AAI3S δέ-X θηρίον-N2N-NPN ὑπό-P σκέπη-N1--ASF ἡσυχάζω-VA--AAI3P δέ-X ἐπί-P κοίτη-N1--GSF
+\v 9 ἐκ-P ταμιεῖον-N2N-GPN ἐπιἔρχομαι-V1--PMI3P δίνη-N1--NPF ἀπό-P δέ-X ἀκρωτήριον-N2N-GPN ψῦχος-N3E-NSN
+\v 10 καί-C ἀπό-P πνοή-N1--GSF ἰσχυρός-A1A-GSM δίδωμι-VF--FAI3S πάγος-N2--NSM οἰακίζω-V1--PAI3S δέ-X ὁ-RA--ASN ὕδωρ-N3--ASN ὡς-C ἐάν-C βούλομαι-V1--PMS3S
+\v 11 καί-C ἐκλεκτός-A1--ASM καταπλάσσω-V1--PAI3S νεφέλη-N1--NSF διασκορπίζω-VF2-FAI3S νέφος-N3E-ASN φῶς-N3T-NSN αὐτός-RD--GSM
+\v 12 καί-C αὐτός-RD--NSM κύκλωμα-N3M-APN διαστρέφω-VF--FAI3S ἐν-P θεεβουλαθωθ-N---DP εἰς-P ἔργον-N2N-APN αὐτός-RD--GPM πᾶς-A3--APN ὅσος-A1--APN ἄν-X ἐντέλλομαι-VA--AMS3S αὐτός-RD--DPM οὗτος-RD--NPN συντάσσω-VK--XPI3S παρά-P αὐτός-RD--GSM ἐπί-P ὁ-RA--GSF γῆ-N1--GSF
+\v 13 ἐάν-C εἰς-P παιδεία-N1A-ASF ἐάν-C εἰς-P ὁ-RA--ASF γῆ-N1--ASF αὐτός-RD--GSM ἐάν-C εἰς-P ἔλεος-N3E-ASN εὑρίσκω-VF--FAI3S αὐτός-RD--ASM
+\v 14 ἐνὠτίζομαι-V1--PMD2S οὗτος-RD--APN *ιωβ-N---VSM ἵστημι-VH--AAD2S νουθετέω-V2--PPD2S δύναμις-N3I-ASF κύριος-N2--GSM
+\v 15 οἶδα-VX--XAI1P ὅτι-C ὁ-RA--NSM θεός-N2--NSM τίθημι-VEI-AMI3S ἔργον-N2N-APN αὐτός-RD--GSM φῶς-N3T-ASN ποιέω-VA--AAPNSM ἐκ-P σκότος-N3E-GSN
+\v 16 ἐπίσταμαι-V6--PMI3S δέ-X διάκρισις-N3I-ASF νέφος-N3E-GPN ἐξαίσιος-A1B-APN δέ-X πτῶμα-N3M-APN πονηρός-A1A-GPM
+\v 17 σύ-RP--GS δέ-X ὁ-RA--NSF στολή-N1--NSF θερμός-A1--NSF ἡσυχάζω-V1--PMI3S δέ-X ἐπί-P ὁ-RA--GSF γῆ-N1--GSF
+\v 18 στερεόω-VF--FAI2S μετά-P αὐτός-RD--GSM εἰς-P παλαίωμα-N3M-APN ἰσχυρός-A1A-NPF ὡς-C ὅρασις-N3I-NSF ἐπίχυσις-N3I-GSF
+\v 19 διά-P τίς-RI--ASN διδάσκω-VA--AAD2S ἐγώ-RP--AS τίς-RI--ASN εἶπον-VF2-FAI1P αὐτός-RD--DSM καί-C παύω-VA--AMS1P πολύς-A1--APN λέγω-V1--PAPNPM
+\v 20 μή-D βίβλος-N2--NSF ἤ-C γραμματεύς-N3V-NSM ἐγώ-RP--DS παραἵστημι-VXI-XAI3S ἵνα-C ἄνθρωπος-N2--ASM ἵστημι-VXI-XAPNSM κατασιωπάω-VA--AAS1S
+\v 21 πᾶς-A3--DPM δέ-X οὐ-D ὁρατός-A1--ASN ὁ-RA--ASN φῶς-N3T-ASN τηλαυγής-A3H-NSN εἰμί-V9--PAI3S ἐν-P ὁ-RA--DPM παλαίωμα-N3M-DPM ὥσπερ-D ὁ-RA--ASN παρά-P αὐτός-RD--GSM ἐπί-P νέφος-N3E-GPN
+\v 22 ἀπό-P βορέας-N1T-GSM νέφος-N3E-NPN χρυσαυγέω-V2--PAPNPN ἐπί-P οὗτος-RD--DPM μέγας-A1--NSF ὁ-RA--NSF δόξα-N1S-NSF καί-C τιμή-N1--NSF παντοκράτωρ-N3R-GSM
+\v 23 καί-C οὐ-D εὑρίσκω-V1--PAI1P ἄλλος-RD--ASM ὅμοιος-A1A-ASM ὁ-RA--DSF ἰσχύς-N3U-DSF αὐτός-RD--GSM ὁ-RA--NSM ὁ-RA--APN δίκαιος-A1A-APN κρίνω-V1--PAPNSM οὐ-D οἴομαι-V1--PAI3S ἐπιἀκούω-V1--PAN αὐτός-RD--ASM
+\v 24 διό-C φοβέω-VC--FPI3P αὐτός-RD--ASM ὁ-RA--NPM ἄνθρωπος-N2--NPM φοβέω-VC--FPI3P δέ-X αὐτός-RD--ASM καί-C ὁ-RA--NPM σοφός-A1--NPM καρδία-N1A-DSF
+
+\c 38
+\p
+\v 1 μετά-P δέ-X ὁ-RA--ASN παύω-VA--AMN *ελιους-N---ASM ὁ-RA--GSF λέξις-N3I-GSF εἶπον-VBI-AAI3S ὁ-RA--NSM κύριος-N2--NSM ὁ-RA--DSM *ιωβ-N---DSM διά-P λαῖλαψ-N3P-GSF καί-C νέφος-N3E-GPN
+\v 2 τίς-RI--NSM οὗτος-RD--NSM ὁ-RA--NSM κρύπτω-V1--PAPNSM ἐγώ-RP--AS βουλή-N1--ASF συνἔχω-V1--PAPNSM δέ-X ῥῆμα-N3M-APN ἐν-P καρδία-N1A-DSF ἐγώ-RP--AS δέ-X οἴομαι-V1--PMI3S κρύπτω-V1--PAN
+\v 3 ζώννυμι-VO--AMD2S ὥσπερ-D ἀνήρ-N3--NSM ὁ-RA--ASF ὀσφύς-N3U-ASF σύ-RP--GS ἐρωτάω-VA--AAS1S δέ-X σύ-RP--AS σύ-RP--NS δέ-X ἐγώ-RP--DS ἀποκρίνω-VC--APD2S
+\v 4 ποῦ-D εἰμί-V9--IAS2S ἐν-P ὁ-RA--DSN θεμελιόω-V4--PAN ἐγώ-RP--AS ὁ-RA--ASF γῆ-N1--ASF ἀποἀγγέλλω-VA--AAD2S δέ-X ἐγώ-RP--DS εἰ-C ἐπίσταμαι-V6--PMS2S σύνεσις-N3I-ASF
+\v 5 τίς-RI--NSM τίθημι-VEI-AMI3S ὁ-RA--APN μέτρον-N2N-APN αὐτός-RD--GSF εἰ-C οἶδα-VX--XAI2S ἤ-C τίς-RI--NSM ὁ-RA--NSM ἐπιἄγω-VB--AAPNSM σπαρτίον-N2--ASN ἐπί-P αὐτός-RD--GSF
+\v 6 ἐπί-P τίς-RI--GSN ὁ-RA--NPM κρίκος-N2--NPM αὐτός-RD--GSF πήγνυμι-VX--XAI3P τίς-RI--NSM δέ-X εἰμί-V9--PAI3S ὁ-RA--NSM βάλλω-VB--AAPNSM λίθος-N2--ASM γωνιαῖος-A1--ASM ἐπί-P αὐτός-RD--GSF
+\v 7 ὅτε-D γίγνομαι-VCI-API3P ἄστρον-N2N-NPN αἰνέω-VAI-AAI3P ἐγώ-RP--AS φωνή-N1--DSF μέγας-A1--DSF πᾶς-A3--NPM ἄγγελος-N2--NPM ἐγώ-RP--GS
+\v 8 φράσσω-VAI-AAI1S δέ-X θάλασσα-N1S-ASF πύλη-N1--DPF ὅτε-D μαιμάσσω-VAI-AAI3S ἐκ-P κοιλία-N1A-GSF μήτηρ-N3--GSF αὐτός-RD--GSF ἐκπορεύομαι-V1--PMPNSF
+\v 9 τίθημι-VEI-AMI1S δέ-X αὐτός-RD--DSF νέφος-N3E-ASN ἀμφίασις-N3I-ASM ὁμίχλη-N1--DSF δέ-X αὐτός-RD--ASF σπαργανόω-VAI-AAI1S
+\v 10 τίθημι-VEI-AMI1S δέ-X αὐτός-RD--DSF ὅριον-N2N-APN περιτίθημι-VE--AAPNSM κλεῖθρον-N2N-APN καί-C πύλη-N1--APF
+\v 11 εἶπον-VAI-AAI1S δέ-X αὐτός-RD--DSF μέχρι-P οὗτος-RD--GSM ἔρχομαι-VF--FMI2S καί-C οὐ-D ὑπερβαίνω-VF--FMI2S ἀλλά-C ἐν-P σεαυτοῦ-RD--DSF συντρίβω-VD--FPI3S σύ-RP--GS ὁ-RA--NPN κῦμα-N3M-NPN
+\v 12 ἦ-D ἐπί-P σύ-RP--GS συντάσσω-VX--XAI1S φέγγος-N3E-ASN πρωινός-A1--ASN ἑωσφόρος-N2--NSM δέ-X ὁράω-VBI-AAI3S ὁ-RA--ASF ἑαυτοῦ-RD--GSM τάξις-N3I-ASF
+\v 13 ἐπιλαμβάνω-VB--AMN πτέρυξ-N3G-GPF γῆ-N1--GSF ἐκτινάσσω-VA--AAN ἀσεβής-A3H-APM ἐκ-P αὐτός-RD--GSF
+\v 14 ἦ-D σύ-RP--NS λαμβάνω-VB--AAPNSM γῆ-N1--ASF πηλός-N2--ASM πλάσσω-VAI-AAI2S ζῷον-N2N-ASN καί-C λαλητός-N2--ASM αὐτός-RD--ASM τίθημι-VEI-AMI2S ἐπί-P γῆ-N1--GSF
+\v 15 ἀποαἱρέω-VBI-AAI2S δέ-X ἀπό-P ἀσεβής-A3H-GPM ὁ-RA--ASN φῶς-N3T-ASN βραχίων-N3N-ASM δέ-X ὑπερήφανος-A1B-GPM συντρίβω-VAI-AAI2S
+\v 16 ἔρχομαι-VBI-AAI2S δέ-X ἐπί-P πηγή-N1--ASF θάλασσα-N1S-GSF ἐν-P δέ-X ἴχνος-N3E-DPN ἄβυσσος-N2--GSF περιπατέω-VAI-AAI2S
+\v 17 ἀναοἴγω-V1--PMI3P δέ-X σύ-RP--DS φόβος-N2--DSM πύλη-N1--NPF θάνατος-N2--GSM πυλωρός-N2--NPM δέ-X ᾅδης-N1M-GSM ὁράω-VB--AAPNPM σύ-RP--AS πτήσσω-VAI-AAI3P
+\v 18 νουθετέω-VM--XPP2S δέ-X ὁ-RA--ASN εὖρος-N3E-ASN ὁ-RA--GSF ὑπό-P οὐρανός-N2--ASM ἀναἀγγέλλω-VA--AAD2S δή-X ἐγώ-RP--DS πόσος-A1--NSF τίς-RI--NSM εἰμί-V9--PAI3S
+\v 19 ποῖος-A1A-DSF δέ-X γῆ-N1--DSF αὐλίζω-V1--PMI3S ὁ-RA--NSN φῶς-N3T-NSN σκότος-N3E-GSN δέ-X ποῖος-A1A-NSM ὁ-RA--NSM τόπος-N2--NSM
+\v 20 εἰ-C ἄγω-VB--AAO2S ἐγώ-RP--AS εἰς-P ὅριον-N2N-APN αὐτός-RD--GPM εἰ-C δέ-X καί-C ἐπίσταμαι-V6--PMI2S τρίβος-N2--APF αὐτός-RD--GPM
+\v 21 οἶδα-VX--XAI1S ἄρα-X ὅτι-C τότε-D γεννάω-VM--XMI2S ἀριθμός-N2--NSM δέ-X ἔτος-N3E-GPN σύ-RP--GS πολύς-A1--NSM
+\v 22 ἔρχομαι-VBI-AAI2S δέ-X ἐπί-P θησαυρός-N2--APM χιών-N3N-GSF θησαυρός-N2--APM δέ-X χαλάζα-N1S-GSF ὁράω-VX--XAI2S
+\v 23 ἀποκεῖμαι-V5--PMI3S δέ-X σύ-RP--DS εἰς-P ὥρα-N1A-ASF ἐχθρός-N2--GPM εἰς-P ἡμέρα-N1A-ASF πόλεμος-N2--GSM καί-C μάχη-N1--GSF
+\v 24 πόθεν-D δέ-X ἐκπορεύομαι-V1--PMI3S πάχνη-N1--NSF ἤ-C διασκεδάζω-V5--PPI3S νότος-N2--NSM εἰς-P ὁ-RA--ASF ὑπό-P οὐρανός-N2--ASM
+\v 25 τίς-RI--NSM δέ-X ἑτοιμάζω-VAI-AAI3S ὑετός-N2--DSM λάβρος-A1B-DSM ῥύσις-N3I-ASF ὁδός-N2--ASF δέ-X κυδοιμέω-V2--PAPNSM
+\v 26 ὁ-RA--GSN ὑετίζω-VA--AAN ἐπί-P γῆ-N1--ASF ὅς-RR--GSM οὐ-D ἀνήρ-N3--NSM ἔρημος-N2--ASF ὅς-RR--GSM οὐ-D ὑποἄρχω-V1--PAI3S ἄνθρωπος-N2--NSM ἐν-P αὐτός-RD--DSF
+\v 27 ὁ-RA--GSN χορτάζω-VA--AAN ἄβατος-A1B-ASM καί-C ἀοίκητος-A1B-ASM καί-C ὁ-RA--GSN ἐκβλαστάνω-VA--AAN ἔξοδος-N2--ASF χλόη-N1--GSF
+\v 28 τίς-RI--NSM εἰμί-V9--PAI3S ὑετός-N2--GSM πατήρ-N3--NSM τίς-RI--NSM δέ-X εἰμί-V9--PAI3S ὁ-RA--NSM τίκτω-VX--XAPNSM βῶλος-N2--APF δρόσος-N2--GSF
+\v 29 ἐκ-P γαστήρ-N3--GSF δέ-X τίς-RI--GSN ἐκπορεύομαι-V1--PMI3S ὁ-RA--NSM κρυστάλλος-N2--NSM πάχνη-N1--ASF δέ-X ἐν-P οὐρανός-N2--DSM τίς-RI--NSM τίκτω-VX--XAI3S
+\v 30 ὅς-RR--NSF καταβαίνω-V1--PAI3S ὥσπερ-D ὕδωρ-N3--NSN ῥέω-V2--PAPNSN πρόσωπον-N2N-ASN δέ-X ἄβυσσος-N2--GSF τίς-RI--NSM πήγνυμι-VAI-AAI3S
+\v 31 συνἵημι-VAI-AAI2S δέ-X δεσμός-N2--ASM *πλειάς-N3D-GSM καί-C φραγμός-N2--ASM *ὠρίων-N---GSM ἀναοἴγω-VAI-AAI2S
+\v 32 ἦ-D δια   ἀναοἴγω-VF--FAI2S μαζουρωθ-N---ASM ἐν-P καιρός-N2--DSM αὐτός-RD--GSM καί-C *ἕσπερος-N---ASM ἐπί-P κόμη-N1--GSF αὐτός-RD--GSM ἄγω-VF--FAI2S αὐτός-RD--APN
+\v 33 ἐπίσταμαι-V6--PMI2S δέ-X τροπή-N1--APF οὐρανός-N2--GSM ἤ-C ὁ-RA--APN ὑπό-P οὐρανός-N2--ASM ὁμοθυμαδόν-D γίγνομαι-V1--PMPAPN
+\v 34 καλέω-VF--FAI2S δέ-X νέφος-N3E-ASN φωνή-N1--DSF καί-C τρόμος-N2--DSM ὕδωρ-N3T-GSN λάβρος-A1B-DSM ὑποἀκούω-VF--FMI3S σύ-RP--GS
+\v 35 ἀποστέλλω-VF2-FAI2S δέ-X κεραυνός-N2--APM καί-C πορεύομαι-VF--FMI3P εἶπον-VF2-FAI3P δέ-X σύ-RP--DS τίς-RI--NSN εἰμί-V9--PAI3S
+\v 36 τίς-RI--NSM δέ-X δίδωμι-VAI-AAI3S γυνή-N3K-DPF ὕφασμα-N3M-GSN σοφία-N1A-ASF ἤ-C ποικιλτικός-A1--ASF ἐπιστήμη-N1--ASF
+\v 37 τίς-RI--NSM δέ-X ὁ-RA--NSM ἀριθμέω-V2--PAPNSM νέφος-N3E-APN σοφία-N1A-DSF οὐρανός-N2--ASM δέ-X εἰς-P γῆ-N1--ASF κλίνω-V1I-IAI3S
+\v 38 χέω-VM--XMI3S δέ-X ὥσπερ-D γῆ-N1--NSF κονία-N1A-NSF κολλάω-VX--XAI1S δέ-X αὐτός-RD--ASM ὥσπερ-D λίθος-N2--DSM κύβος-N2--ASM
+\v 39 θηρεύω-VF--FAI2S δέ-X λέων-N3N-DPM βορά-N1A-ASF ψυχή-N1--APF δέ-X δράκων-N3--GPM ἐνπίμπλημι-VF--FAI2S
+\v 40 δείδω-VX--XAI3P γάρ-X ἐν-P κοίτη-N1--DPF αὐτός-RD--GPM καταἧμαι-V5--PMI3P δέ-X ἐν-P ὕλη-N1--DPF ἐνεδρεύω-V1--PAPNPM
+\v 41 τίς-RI--NSM δέ-X ἑτοιμάζω-VAI-AAI3S κόραξ-N3K-DSM βορά-N1A-ASF νεοσσός-N2--NPM γάρ-X αὐτός-RD--GSM πρός-P κύριος-N2--ASM κράζω-VX--XAI3P πλανάω-V3--PMPNPM ὁ-RA--APN σῖτος-N2--APN ζητέω-V2--PAPNPM
+
+\c 39
+\p
+\v 1 εἰ-C γιγνώσκω-VZI-AAI2S καιρός-N2--ASM τοκετός-N2--GSM τραγελάφος-N2--GPM πέτρα-N1A-APF φυλάσσω-VAI-AAI2S δέ-X ὠδίν-N3--APF ἔλαφος-N2--GPM
+\v 2 ἀριθμέω-VAI-AAI2S δέ-X αὐτός-RD--GPM μήν-N3--APM πλήρης-A3H-APM τοκετός-N2--GSM ὠδίν-N3--APF δέ-X αὐτός-RD--GPM λύω-VAI-AAI2S
+\v 3 ἐκτρέφω-VAI-AAI2S δέ-X αὐτός-RD--GPM ὁ-RA--APN παιδίον-N2N-APN ἔξω-P φόβος-N2--GSM ὠδίς-N3--APF αὐτός-RD--GPM ἐκ   ἀποστέλλω-VF2-FAI2S
+\v 4 ἀποῥήσσω-VF--FAI3P ὁ-RA--NPN τέκνον-N2N-NPN αὐτός-RD--GPM πληθύνω-VC--FPI3P ἐν-P γένημα-N3M-DSN ἐκἔρχομαι-VF--FMI3P καί-C οὐ-D μή-D ἀνακάμπτω-VF--FAI3P αὐτός-RD--DPM
+\v 5 τίς-RI--NSM δέ-X εἰμί-V9--PAI3S ὁ-RA--NSM ἀποἵημι-VH--AAPNSM ὄνος-N2--ASM ἄγριος-A1A-ASM ἐλεύθερος-A1A-ASM δεσμός-N2--APM δέ-X αὐτός-RD--GSM τίς-RI--NSM λύω-VAI-AAI3S
+\v 6 τίθημι-VEI-AMI1S δέ-X ὁ-RA--ASF δίαιτα-N1S-ASF αὐτός-RD--GSM ἔρημος-N2--ASF καί-C ὁ-RA--APN σκήνωμα-N3M-APN αὐτός-RD--GSM ἁλμυρίς-N3D-APN
+\v 7 καταγελάω-V3--PAPNSM πολυοχλία-N1A-APF πόλις-N3I-GSF μέμψις-N3I-ASF δέ-X φορολόγος-N2--GSM οὐ-D ἀκούω-V1--PAPNSM
+\v 8 κατασκέπτομαι-VF--FMI3S ὄρος-N3E-APN νομή-N1--ASF αὐτός-RD--GSM καί-C ὀπίσω-P πᾶς-A3--GSM χλωρός-A1A-GSM ζητέω-V2--PAI3S
+\v 9 βούλομαι-VF--FMI3S δέ-X σύ-RP--DS μονόκερως-N3T-NSM δουλεύω-VA--AAN ἤ-C κοιμάω-VC--APN ἐπί-P φάτνη-N1--GSF σύ-RP--GS
+\v 10 δέω-VF--FAI2S δέ-X ἐν-P ἱμάς-N3--DSM ζυγός-N2--ASM αὐτός-RD--GSM ἤ-C ἕλκω-VF--FAI3S σύ-RP--GS αὖλαξ-N3K-APM ἐν-P πεδίον-N2N-DSN
+\v 11 πείθω-VX--XAI2S δέ-X ἐπί-P αὐτός-RD--DSM ὅτι-C πολύς-A1--NSF ὁ-RA--NSF ἰσχύς-N3U-NSF αὐτός-RD--GSM ἐπι  ἀποἵημι-VF--FAI2S δέ-X αὐτός-RD--DSM ὁ-RA--APN ἔργον-N2N-APN σύ-RP--GS
+\v 12 πιστεύω-VF--FAI2S δέ-X ὅτι-C ἀποδίδωμι-VF--FAI3S σύ-RP--DS ὁ-RA--ASM σπόρος-N2--ASM εἰςφέρω-VF--FAI3S δέ-X σύ-RP--GS ὁ-RA--ASM ἅλων-N3W-ASM
+\v 13 πτέρυξ-N3G-NSF τέρπω-V1--PAPGPF νεελασα-N---GS ἐάν-C συνλαμβάνω-VB--AAS2S ασιδα-N---NSF καί-C νεσσα-N---NSF
+\v 14 ὅτι-C ἀποἵημι-VF--FAI3S εἰς-P γῆ-N1--ASF ὁ-RA--APN ᾠόν-N2N-APN αὐτός-RD--GSF καί-C ἐπί-P χοῦς-N3--ASM θάλπω-VF--FAI3S
+\v 15 καί-C ἐπιλανθάνω-VBI-AMI3S ὅτι-C πούς-N3D-NSM σκορπίζω-VF2-FAI3S καί-C θηρίον-N2N-NPN ἀγρός-N2--GSM καταἀπατάω-VF--FAI3S
+\v 16 ἀποσκληρύνω-V1I-IAI3S ὁ-RA--APN τέκνον-N2N-APN αὐτός-RD--GSF ὥστε-C μή-D ἑαυτοῦ-RD--DSF εἰς-P κενός-A1--ASM κοπιάω-VAI-AAI3S ἄνευ-P φόβος-N2--GSM
+\v 17 ὅτι-C κατασιωπάω-VAI-AAI3S αὐτός-RD--DSF ὁ-RA--NSM θεός-N2--NSM σοφία-N1A-ASF καί-C οὐ-D μερίζω-VAI-AAI3S αὐτός-RD--DSF ἐν-P ὁ-RA--DSF σύνεσις-N3I-DSF
+\v 18 κατά-P καιρός-N2--ASM ἐν-P ὕψος-N3E-DSN ὑψόω-VF--FAI3S καταγελάω-VF--FAI3S ἵππος-N2--GSM καί-C ὁ-RA--GSM ἐπιβάτης-N1M-GSM αὐτός-RD--GSM
+\v 19 ἦ-D σύ-RP--NS περιτίθημι-VAI-AAI2S ἵππος-N2--DSM δύναμις-N3I-ASF ἐνδύω-VAI-AAI2S δέ-X τράχηλος-N2--DSM αὐτός-RD--GSM φόβος-N2--ASM
+\v 20 περιτίθημι-VAI-AAI2S δέ-X αὐτός-RD--DSM πανοπλία-N1A-ASF δόξα-N1S-ASF δέ-X στῆθος-N3E-GPN αὐτός-RD--GSM τόλμα-N1S-DSF
+\v 21 ἀναὀρύσσω-V1--PAPNSM ἐν-P πεδίον-N2N-DSN γαυριάω-V3--PAI3S ἐκπορεύομαι-V1--PMI3S δέ-X εἰς-P πεδίον-N2N-ASN ἐν-P ἰσχύς-N3U-DSF
+\v 22 συν   ἀντιεἰμί-V9--PAPNSM βέλος-N3E-DSN καταγελάω-V3--PAI3S καί-C οὐ-D μή-D ἀποστρέφω-VD--APS3S ἀπό-P σίδηρος-N2--GSM
+\v 23 ἐπί-P αὐτός-RD--DSM γαυριάω-V3--PAI3S τόξον-N2N-ASN καί-C μάχαιρα-N1A-NSF
+\v 24 καί-C ὀργή-N1--DSF ἀπο  ἀναἵζω-VF2-FAI3S ὁ-RA--ASF γῆ-N1--ASF καί-C οὐ-D μή-D πιστεύω-VF--FMI2S ἕως-C ἄν-X σημαίνω-VA--AAS3S σάλπιγξ-N3G-NSF
+\v 25 σάλπιγξ-N3G-GSF δέ-X σημαίνω-V1--PAPGSF λέγω-V1--PAI3S εὖγε-I πόρρωθεν-D δέ-X ὀσφραίνομαι-V1--PMI3S πόλεμος-N2--GSM σύν-P ἅλμα-N3M-DSN καί-C κραυγή-N1--DSF
+\v 26 ἐκ-P δέ-X ὁ-RA--GSF σός-A1--GSF ἐπιστήμη-N1--GSF ἵστημι-VXI-XAI3S ἱέραξ-N3K-NSM ἀνα  ἀποἐτάζω-VA--AAPNSM ὁ-RA--APF πτέρυξ-N3G-APF ἀκίνητος-A1B-NSM καταὁράω-V3--PAPNSM ὁ-RA--APN πρός-P νότος-N2--ASM
+\v 27 ἐπί-P δέ-X σός-A1--DSN πρόσταγμα-N3M-DSN ὑψόω-V4--PMI3S ἀετός-N2--NSM γύψ-N3P-NSM δέ-X ἐπί-P νοσσιά-N1A-GSF αὐτός-RD--GSM καταἕζομαι-VO--AAPNSM αὐλίζω-V1--PMI3S
+\v 28 ἐπί-P ἐξοκή-N1--DSF πέτρα-N1A-GSF καί-C ἀπόκρυφος-A1B-DSN
+\v 29 ἐκεῖσε-D εἰμί-V9--PAPNSM ζητέω-V2--PAI3S ὁ-RA--APN σῖτος-N2--APN πόρρωθεν-D ὁ-RA--NPM ὀφθαλμός-N2--NPM αὐτός-RD--GSM σκοπεύω-V1--PAI3P
+\v 30 νεοσσός-N2--NPM δέ-X αὐτός-RD--GSM φύρομαι-V1--PMI3P ἐν-P αἷμα-N3M-DSN ὅς-RR--GSM δέ-X ἄν-X εἰμί-V9--PAS3P θνήσκω-VX--XAPNPM παραχρῆμα-D εὑρίσκω-V1--PPI3P
+
+\c 40
+\p
+\v 1 καί-C ἀποκρίνω-VCI-API3S κύριος-N2--NSM ὁ-RA--NSM θεός-N2--NSM ὁ-RA--DSM *ιωβ-N---DSM καί-C εἶπον-VBI-AAI3S
+\v 2 μή-D κρίσις-N3I-ASF μετά-P ἱκανός-A1--GSM ἐκκλίνω-VF2-FAI3S ἐλέγχω-V1--PAPNSM θεός-N2--ASM ἀποκρίνω-VC--FPI3S αὐτός-RD--ASF
+\v 3 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S ὁ-RA--DSM κύριος-N2--DSM
+\v 4 τίς-RI--ASN ἔτι-D ἐγώ-RP--NS κρίνω-V1--PMI1S νουθετέω-V2--PPPNSM καί-C ἐλέγχω-V1--PAPNSM κύριος-N2--ASM ἀκούω-V1--PAPNSM τοιοῦτος-A1--APN οὐδείς-A3--ASN εἰμί-V9--PAPNSM ἐγώ-RP--NS δέ-X τίς-RI--ASM ἀπόκρισις-N3I-ASF δίδωμι-VO--AAS1S πρός-P οὗτος-RD--APN χείρ-N3--ASF τίθημι-VF--FAI1S ἐπί-P στόμα-N3M-DSN ἐγώ-RP--GS
+\v 5 ἅπαξ-D λαλέω-VX--XAI1S ἐπί-P δέ-X ὁ-RA--DSM δεύτερος-A1A-DSM οὐ-D προςτίθημι-VF--FAI1S
+\v 6 ἔτι-D δέ-X ὑπολαμβάνω-VB--AAPNSM ὁ-RA--NSM κύριος-N2--NSM εἶπον-VBI-AAI3S ὁ-RA--DSM *ιωβ-N---DSM ἐκ-P ὁ-RA--GSN νέφος-N3E-GSN
+\v 7 μή-D ἀλλά-C ζώννυμι-VO--AMD2S ὥσπερ-D ἀνήρ-N3--NSM ὁ-RA--ASF ὀσφύς-N3U-ASF σύ-RP--GS ἐρωτάω-VA--AAS1S δέ-X σύ-RP--AS σύ-RP--NS δέ-X ἐγώ-RP--DS ἀποκρίνω-VC--APD2S
+\v 8 μή-D ἀποποιέω-V2--PMD2S ἐγώ-RP--GS ὁ-RA--ASN κρίμα-N3M-ASN οἴομαι-V1--PMI2S δέ-X ἐγώ-RP--AS ἄλλως-D σύ-RP--DS χρηματίζω-VX--XAN ἤ-C ἵνα-C ἀναφαίνω-VD--APS2S δίκαιος-A1A-NSM
+\v 9 ἦ-D βραχίων-N3N-NSM σύ-RP--DS εἰμί-V9--PAI3S κατά-P ὁ-RA--GSM κύριος-N2--GSM ἤ-C φωνή-N1--DSF κατά-P αὐτός-RD--ASM βροντάω-V3--PAI2S
+\v 10 ἀναλαμβάνω-VB--AAD2S δή-X ὕψος-N3E-ASN καί-C δύναμις-N3I-ASF δόξα-N1S-ASF δέ-X καί-C τιμή-N1--ASF ἀμφιἔννυμι-VA--AMD2S
+\v 11 ἀποστέλλω-VA--AAD2S δέ-X ἄγγελος-N2--APM ὀργή-N1--DSF πᾶς-A3--ASM δέ-X ὑβριστής-N1M-ASM ταπεινόω-VF--FAD2S
+\v 12 ὑπερήφανος-A1B-ASM δέ-X σβέννυμι-VA--AAD2S σήπω-VA--AAD2S δέ-X ἀσεβής-A3H-APM παραχρῆμα-D
+\v 13 κρύπτω-VA--AAD2S δέ-X εἰς-P γῆ-N1--ASF ἔξω-D ὁμοθυμαδόν-D ὁ-RA--APN δέ-X πρόσωπον-N2N-APN αὐτός-RD--GPM ἀτιμία-N1A-GSF ἐνπίμπλημι-VA--AAD2S
+\v 14 ὁμολογέω-VF--FAI1S ἄρα-X ὅτι-C δύναμαι-V6--PMI3S ὁ-RA--NSF δεξιός-A1A-APN σύ-RP--GS σώζω-VA--AAN
+\v 15 ἀλλά-C δή-X ἰδού-I θηρίον-N2N-APN παρά-P σύ-RP--DS χόρτος-N2--ASM ἴσος-D βοῦς-N3--DPF ἐσθίω-V1--PAI3S
+\v 16 ἰδού-I δή-X ἰσχύς-N3U-NSF αὐτός-RD--GSM ἐπί-P ὀσφύς-N3U-DSF ὁ-RA--NSF δέ-X δύναμις-N3I-NSF ἐπί-P ὀμφαλός-N2--GSM γαστήρ-N3--GSF
+\v 17 ἵστημι-VAI-AAI3S οὐρά-N1A-ASF ὡς-C κυπάρισσος-N2--ASM ὁ-RA--NPN δέ-X νεῦρον-N2N-NPN αὐτός-RD--GSM συνπλέκω-VK--XPI3S
+\v 18 ὁ-RA--NPF πλευρά-N1A-NPF αὐτός-RD--GSM πλευρά-N1A-NPF χάλκειος-A1A-NPF ὁ-RA--NSF δέ-X ῥάχις-N3I-NSF αὐτός-RD--GSM σίδηρος-N2--NSM χυτός-A1--NSM
+\v 19 οὗτος-RD--NSN εἰμί-V9--PAI3S ἀρχή-N1--NSF πλάσμα-N3M-GSN κύριος-N2--GSM ποιέω-VM--XPPASM ἐν   καταπαίζω-V1--PMN ὑπό-P ὁ-RA--GPM ἄγγελος-N2--GPM αὐτός-RD--GSM
+\v 20 ἐπιἔρχομαι-VB--AAPNSM δέ-X ἐπί-P ὄρος-N3E-ASN ἀκρότομος-A1B-ASN ποιέω-VAI-AAI3S χαρμονή-N1--ASF τετράπους-N3--DPM ἐν-P ὁ-RA--DSM τάρταρος-N2--DSM
+\v 21 ὑπό-P παντοδαπός-A1--APN δένδρον-N2N-APN κοιμάω-V3--PMI3S παρά-P πάπυρος-N2--ASM καί-C κάλαμος-N2--ASM καί-C βούτομον-N2N-ASN
+\v 22 σκιάζω-V1--PMI3P δέ-X ἐν-P αὐτός-RD--DSN δένδρον-N2N-NPN μέγας-A1--NPN σύν-P ῥάδαμνος-N2--DPM καί-C κλών-N3W-NPM ἄγνος-N2--GSM
+\v 23 ἐάν-C γίγνομαι-VB--AMS3S πλήμμυρα-N1A-NSF οὐ-D μή-D αἰσθάνομαι-VS--APS3S πείθω-VX--XAI3S ὅτι-C προςκρούω-VF--FAI3S ὁ-RA--NSM *ιορδάνης-N1M-NSM εἰς-P ὁ-RA--ASN στόμα-N3M-ASN αὐτός-RD--GSN
+\v 24 ἐν-P ὁ-RA--DSM ὀφθαλμός-N2--DSM αὐτός-RD--GSN δέχομαι-VF--FMI3S αὐτός-RD--ASN ἐνσκολιευόμαι-V1--PMPNSM τιτράω-VF--FAI3S ῥίς-N3--ASF
+\v 25 ἄγω-VF--FAI2S δέ-X δράκων-N3--ASM ἐν-P ἄγκιστρον-N2N-DSN περιτίθημι-VF--FAI2S δέ-X φορβεά-N1A-ASF περί-P ῥίς-N3--ASF αὐτός-RD--GSM
+\v 26 εἰ-C δέω-VF--FAI2S κρίκος-N2--ASM ἐν-P ὁ-RA--DSM μυκτήρ-N3--DSM αὐτός-RD--GSM ψέλιον-N2--DSN δέ-X τρυπάω-VF--FAI2S ὁ-RA--ASN χεῖλος-N3E-ASN αὐτός-RD--GSM
+\v 27 λαλέω-VF--FAI3S δέ-X σύ-RP--DS δέησις-N3I-DSF ἱκετηρίος-A1A-DSF μαλακῶς-D
+\v 28 τίθημι-VF--FMI3S δέ-X διαθήκη-N1--ASF μετά-P σύ-RP--GS λαμβάνω-VF--FMI2S δέ-X αὐτός-RD--ASM δοῦλος-N2--ASM αἰώνιος-A1B-ASM
+\v 29 παίζω-VF--FMI2S δέ-X ἐν-P αὐτός-RD--DSM ὥσπερ-D ὄρνεον-N2N-DSN ἤ-C δέω-VF--FAI2S αὐτός-RD--ASM ὥσπερ-D στρουθίον-N2N-ASN παιδίον-N2N-DSN
+\v 30 ἐνσιτέομαι-V2--PMI3P δέ-X ἐν-P αὐτός-RD--DSM ἔθνος-N3E-NPN μεριτεύω-V1--PMI3P δέ-X αὐτός-RD--ASM φοῖνιξ-N3K-GPM γένος-N3E-APN
+\v 31 πᾶς-A3--NSN δέ-X πλωτός-A1--NSN συνἔρχομαι-VB--AAPNSN οὐ-D μή-D φέρω-VAI-AAS3P βύρσα-N1A-ASF εἷς-A1A-ASF οὐρά-N1A-GSF αὐτός-RD--GSM καί-C ἐν-P πλοῖον-N2N-DPN ἁλιεύς-N3V-GPM κεφαλή-N1--ASF αὐτός-RD--GSM
+\v 32 ἐπιτίθημι-VF--FAI2S δέ-X αὐτός-RD--DSM χείρ-N3--ASF μιμνήσκω-VS--APPNSM πόλεμος-N2--ASM ὁ-RA--ASM γίγνομαι-V1--PMPASM ἐν-P σῶμα-N3M-DSN αὐτός-RD--GSM καί-C μηκέτι-D γίγνομαι-V1--PMD3S
+
+\c 41
+\p
+\v 1 οὐ-D ὁράω-VX--XAI2S αὐτός-RD--ASM οὐδέ-C ἐπί-P ὁ-RA--DPM λέγω-V1--PMPDPM θαυμάζω-VX--XAI2S
+\v 2 οὐ-D δείδω-VX--XAI2S ὅτι-C ἑτοιμάζω-VT--XPI3S ἐγώ-RP--DS τίς-RI--NSM γάρ-X εἰμί-V9--PAI3S ὁ-RA--NSM ἐγώ-RP--DS ἀντιἵστημι-VH--AAPNSM
+\v 3 ἤ-C τίς-RI--NSM ἀντιἵστημι-VF--FMI3S ἐγώ-RP--DS καί-C ὑπομένω-VF2-FAI3S εἰ-C πᾶς-A1S-NSF ὁ-RA--NSF ὑπό-P οὐρανός-N2--ASM ἐμός-A1--NSF εἰμί-V9--PAI3S
+\v 4 οὐ-D σιωπάω-VF--FMI1S διά-P αὐτός-RD--ASM καί-C λόγος-N2--ASM δύναμις-N3I-GSF ἐλεέω-VF--FAI3S ὁ-RA--ASM ἴσος-A1--ASM αὐτός-RD--GSM
+\v 5 τίς-RI--NSM ἀποκαλύπτω-VF--FAI3S πρόσωπον-N2N-ASN ἐνδύσις-N3I-GSF αὐτός-RD--GSM εἰς-P δέ-X πτύξις-N3I-ASF θώραξ-N3K-GSM αὐτός-RD--GSM τίς-RI--NSM ἄν-X εἰςἔρχομαι-VB--AAO3S
+\v 6 πύλη-N1--APF πρόσωπον-N2N-GSN αὐτός-RD--GSM τίς-RI--NSM ἀναοἴγω-VF--FAI3S κύκλος-N2--DSM ὀδούς-N3--GPM αὐτός-RD--GSM φόβος-N2--NSM
+\v 7 ὁ-RA--NPN ἔγκατα-N2N-NPN αὐτός-RD--GSM ἀσπίς-N3D-NPF χάλκειος-A1A-NPF σύνδεσμος-N2--NSM δέ-X αὐτός-RD--GSM ὥσπερ-D σμιρίτης-N1M-NSM λίθος-N2--NSM
+\v 8 εἷς-A3--NSM ὁ-RA--GSM εἷς-A3--GSM κολλάω-V3--PPI3P πνεῦμα-N3M-NSN δέ-X οὐ-D μή-D διαἔρχομαι-VB--AAS3S αὐτός-RD--ASM
+\v 9 ἀνήρ-N3--NSM ὁ-RA--DSM ἀδελφός-N2--DSM αὐτός-RD--GSM προςκολλάω-VC--FPI3S συνἐχω-V1--PAI3P καί-C οὐ-D μή-D ἀποσπάω-V3--APS3P
+\v 10 ἐν-P πταρμός-N2--DSM αὐτός-RD--GSM ἐπιφαύσκω-V1--PMI3S φέγγος-N3E-NSN ὁ-RA--NPM δέ-X ὀφθαλμός-N2--NPM αὐτός-RD--GSM εἶδος-N3E-NSN ἑωσφόρος-N2--GSM
+\v 11 ἐκ-P στόμα-N3M-GSN αὐτός-RD--GSM ἐκπορεύομαι-V1--PMI3P λαμπάς-N3D-NPF καίω-V1--PMPNPF καί-C διαῥίπτω-V1--PMI3P ἐσχάρα-N1A-NPF πῦρ-N3--GSN
+\v 12 ἐκ-P μυκτήρ-N3W-NSM αὐτός-RD--GSM ἐκπορεύομαι-V1--PMI3S καπνός-N2--NSM κάμινος-N2--GSF καίω-V1--PMPGSF πῦρ-N3--DSN ἄνθραξ-N3K-GPM
+\v 13 ὁ-RA--NSF ψυχή-N1--NSF αὐτός-RD--GSM ἄνθραξ-N3K-NPM φλόξ-N3G-NSF δέ-X ἐκ-P στόμα-N3M-GSN αὐτός-RD--GSM ἐκπορεύομαι-V1--PMI3S
+\v 14 ἐν-P δέ-X τράχηλος-N2--DSM αὐτός-RD--GSM αὐλίζω-V1--PMI3S δύναμις-N3I-NSF ἔμπροσθεν-P αὐτός-RD--GSM τρέχω-V1--PAI3S ἀπώλεια-N1A-NSF
+\v 15 σάρξ-N3K-NPF δέ-X σῶμα-N3M-GSN αὐτός-RD--GSM κολλάω-VM--XPI3P καταχέω-V2--PAI3S ἐπί-P αὐτός-RD--ASM οὐ-D σαλεύω-VC--FPI3S
+\v 16 ὁ-RA--NSF καρδία-N1A-NSF αὐτός-RD--GSM πήγνυμι-VX--XAI3S ὡς-C λίθος-N2--NSM ἵστημι-VXI-XAI3S δέ-X ὥσπερ-D ἄκμων-N3W-NSM ἀνήλατος-A1B-NSM
+\v 17 στρέφω-VD--APPGSM δέ-X αὐτός-RD--GSM φόβος-N2--NSM θηρίον-N2N-DPN τετράπους-N3--DPM ἐπί-P γῆ-N1--GSF ἅλλομαι-V1--PMPDPM
+\v 18 ἐάν-C συνἀντάω-VA--AAS3P αὐτός-RD--DSM λόγχη-N1--NPF οὐδείς-A3--ASN μή-D ποιέω-VA--AAS3P δόρυ-N3--ASN ἐπιαἴρω-VM--XMPASN καί-C θώραξ-N3K-APM
+\v 19 ἡγέομαι-VM--XMI3S μέν-X γάρ-X σίδηρος-N2--ASM ἄχυρον-N2N-APN χαλκός-N2--ASM δέ-X ὥσπερ-D ξύλον-N2N-ASN σαθρός-A1A-ASN
+\v 20 οὐ-D μή-D τιτρώσκω-VA--AAS3S αὐτός-RD--ASM τόξον-N2N-NSN χαλκεῖον-N2N-NSN ἡγέομαι-VM--XMI3S μέν-X πετροβόλος-N2--ASM χόρτος-N2--ASM
+\v 21 ὡς-C καλάμη-N1--NSF λογίζομαι-VSI-API3P σφῦρα-N1A-NPF καταγελάω-V3--PAI3S δέ-X σεισμός-N2--GSM πυρφόρος-A1B-GSM
+\v 22 ὁ-RA--NSF στρωμνή-N1--NSF αὐτός-RD--GSM ὀβελίσκος-N2--NPM ὀξύς-A3U-NPM πᾶς-A3--NSM δέ-X χρυσός-N2--NSM θάλασσα-N1S-GSF ὑπό-P αὐτός-RD--ASM ὥσπερ-D πηλός-N2--NSM ἀμύθητος-A1B-NSM
+\v 23 ἀναζέω-V2--PAI3S ὁ-RA--ASF ἄβυσσος-N2--ASF ὥσπερ-D χαλκεῖον-N2N-ASN ἡγέομαι-VM--XMI3S δέ-X ὁ-RA--ASF θάλασσα-N1S-ASF ὥσπερ-D ἐξάλειπτρον-N2N-ASN
+\v 24 ὁ-RA--ASM δέ-X τάρταρος-N2--ASM ὁ-RA--GSF ἄβυσσος-N2--GSF ὥσπερ-D αἰχμάλωτος-A1B-ASM λογίζομαι-VAI-AMI3S ἄβυσσος-N2--ASF εἰς-P περίπατος-N2--ASM
+\v 25 οὐ-D εἰμί-V9--PAI3S οὐδείς-A3--NSN ἐπί-P ὁ-RA--GSF γῆ-N1--GSF ὅμοιος-A1A-ASM αὐτός-RD--DSM ποιέω-VM--XMPASM ἐν   καταπαίζω-V1--PMN ὑπό-P ὁ-RA--GPM ἄγγελος-N2--GPM ἐγώ-RP--GS
+\v 26 πᾶς-A3--ASN ὑψηλός-A1--ASN ὁράω-V3--PAI3S αὐτός-RD--NSM δέ-X βασιλεύς-N3V-NSM πᾶς-A3--GPM ὁ-RA--GPM ἐν-P ὁ-RA--DPN ὕδωρ-N3T-DPN
+
+\c 42
+\p
+\v 1 ὑπολαμβάνω-VB--AAPNSM δέ-X *ιωβ-N---NSM λέγω-V1--PAI3S ὁ-RA--DSM κύριος-N2--DSM
+\v 2 οἶδα-VX--XAI1S ὅτι-C πᾶς-A3--APN δύναμαι-V6--PMI2S ἀδυνατέω-V2--PAI3S δέ-X σύ-RP--DS οὐδείς-A3--ASN
+\v 3 τίς-RI--NSM γάρ-X εἰμί-V9--PAI3S ὁ-RA--NSM κρύπτω-V1--PAPNSM σύ-RP--AS βουλή-N1--ASF φείδομαι-V1--PMPNSM δέ-X ῥῆμα-N3M-GPN καί-C σύ-RP--AS οἴομαι-V1--PMI3S κρύπτω-V1--PAN τίς-RI--NSM δέ-X ἀναἀγγέλλω-VF2-FAI3S ἐγώ-RP--DS ὅς-RR--APN οὐ-D οἶδα-VXI-YAI1S μέγας-A1--APN καί-C θαυμαστός-A1--APN ὅς-RR--APN οὐ-D ἐπιἵστημι-V6I-IMI1S
+\v 4 ἀκούω-VA--AAD2S δέ-X ἐγώ-RP--GS κύριος-N2--VSM ἵνα-C καΐἐγώ-C+RPNS λαλέω-VF--FAI1S ἐρωτάω-VA--AAS1S δέ-X σύ-RP--AS σύ-RP--NS δέ-X ἐγώ-RP--AS διδάσκω-VA--AAD2S
+\v 5 ἀκοή-N1--ASF μέν-X οὖς-N3T-GSN ἀκούω-V1I-IAI1S σύ-RP--GS ὁ-RA--ASN πρότερον-A1--ASN νυνί-D δέ-X ὁ-RA--NSM ὀφθαλμός-N2--NSM ἐγώ-RP--GS ὁράω-VX--XAI3S σύ-RP--AS
+\v 6 διό-C φαυλίζω-VAI-AAI1S ἐμαυτοῦ-RD--ASM καί-C τήκω-VDI-API1S ἡγέομαι-VM--XMI1S δέ-X ἐμαυτοῦ-RD--ASM γῆ-N1--ASF καί-C σποδός-N2--ASF
+\v 7 γίγνομαι-VBI-AMI3S δέ-X μετά-P ὁ-RA--ASN λαλέω-VA--AAN ὁ-RA--ASM κύριος-N2--ASM πᾶς-A3--APN ὁ-RA--APN ῥῆμα-N3M-APN οὗτος-RD--APN ὁ-RA--DSM *ιωβ-N---DSM εἶπον-VBI-AAI3S ὁ-RA--NSM κύριος-N2--NSM *ελιφας-N---DSM ὁ-RA--DSM *θαιμανίτης-N1M-DSM ἁμαρτάνω-VBI-AAI2S σύ-RP--NS καί-C ὁ-RA--NPM δύο-M φίλος-A1--NPM σύ-RP--GS οὐ-D γάρ-X λαλέω-VAI-AAI2P ἐνώπιον-P ἐγώ-RP--GS ἀληθής-A3H-ASN οὐδείς-A3--ASN ὥσπερ-D ὁ-RA--NSM θεράπων-N3--NSM ἐγώ-RP--GS *ιωβ-N---NSM
+\v 8 νῦν-D δέ-X λαμβάνω-VB--AAD2P ἑπτά-M μόσχος-N2--APM καί-C ἑπτά-M κριός-N2--APM καί-C πορεύομαι-VC--APS2P πρός-P ὁ-RA--ASM θεράπων-N3--ASM ἐγώ-RP--GS *ιωβ-N---ASM καί-C ποιέω-VF--FAI3S κάρπωσις-N3I-ASF περί-P σύ-RP--GP *ιωβ-N---NSM δέ-X ὁ-RA--NSM θεράπων-N3--NSM ἐγώ-RP--GS εὔχομαι-VF--FMI3S περί-P σύ-RP--GP ὅτι-C εἰ-C μή-D πρόσωπον-N2N-ASN αὐτός-RD--GSM λαμβάνω-VF--FMI1S εἰ-C μή-D γάρ-X διά-P αὐτός-RD--ASM ἀποὀλλύω-VAI-AAI1S ἄν-X σύ-RP--AP οὐ-D γάρ-X λαλέω-VAI-AAI2P ἀληθής-A3H-ASN κατά-P ὁ-RA--GSM θεράπων-N3--GSM ἐγώ-RP--GS *ιωβ-N---GSM
+\v 9 πορεύομαι-VCI-API3S δέ-X *ελιφας-N---NSM ὁ-RA--NSM *θαιμανίτης-N1M-NSM καί-C *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχίτης-N1M-NSM καί-C *σωφαρ-N---NSM ὁ-RA--NSM *μιναῖος-N2--NSM καί-C ποιέω-VAI-AAI3P καθώς-D συντάσσω-VAI-AAI3S αὐτός-RD--DPM ὁ-RA--NSM κύριος-N2--NSM καί-C λύω-VAI-AAI3S ὁ-RA--ASF ἁμαρτία-N1A-ASF αὐτός-RD--DPM διά-P *ιωβ-N---ASM
+\v 10 ὁ-RA--NSM δέ-X κύριος-N2--NSM αὐξάνω-VAI-AAI3S ὁ-RA--ASM *ιωβ-N---ASM εὔχομαι-VA--AMPGSM δέ-X αὐτός-RD--GSM καί-C περί-P ὁ-RA--GPM φίλος-A1--GPM αὐτός-RD--GSM ἀποἵημι-VAI-AAI3S αὐτός-RD--DPM ὁ-RA--ASF ἁμαρτία-N1A-ASF δίδωμι-VAI-AAI3S δέ-X ὁ-RA--NSM κύριος-N2--NSM διπλοῦς-A1C-APN ὅσος-A1--APN εἰμί-V9--IAI3S ἔμπροσθεν-D *ιωβ-N---DSM εἰς-P διπλασιασμός-N2--ASM
+\v 11 ἀκούω-VAI-AAI3P δέ-X πᾶς-A3--NPM ὁ-RA--NPM ἀδελφός-N2--NPM αὐτός-RD--GSM καί-C ὁ-RA--NPF ἀδελφή-N1--NPF αὐτός-RD--GSM πᾶς-A3--APN ὁ-RA--APN συνβαίνω-VX--XAPAPN αὐτός-RD--DSM καί-C ἔρχομαι-VBI-AAI3P πρός-P αὐτός-RD--ASM καί-C πᾶς-A3--NPM ὅσος-A1--NPM οἶδα-VXI-YAI3P αὐτός-RD--ASM ἐκ-P πρῶτος-A1--GSMS ἐσθίω-VB--AAPNPM δέ-X καί-C πίνω-VB--AAPNPM παρά-P αὐτός-RD--DSM παρακαλέω-VAI-AAI3P αὐτός-RD--ASM καί-C θαυμάζω-VAI-AAI3P ἐπί-P πᾶς-A3--DPM ὅς-RR--DPM ἐπιἄγω-VBI-AAI3S αὐτός-RD--DSM ὁ-RA--NSM κύριος-N2--NSM δίδωμι-VAI-AAI3S δέ-X αὐτός-RD--DSM ἕκαστος-A1--NSM ἀμνάς-N3D-ASF εἷς-A1A-ASF καί-C τετράδραχμον-N2N-ASN χρυσοῦς-A1C-ASN ἄσημος-A1B-ASN
+\v 12 ὁ-RA--NSM δέ-X κύριος-N2--NSM εὐλογέω-VA--AAI3S ὁ-RA--APN ἔσχατος-A1--APN *ιωβ-N---GSM ἤ-C ὁ-RA--APN ἔμπροσθεν-D εἰμί-V9--IAI3S δέ-X ὁ-RA--NPN κτῆνος-N3E-NPN αὐτός-RD--GSM πρόβατον-N2N-NPN μύριοι-A1A-NPN τετρακισχίλιοι-A1A-NPN κάμηλος-N2--NPF ἑξακισχίλιοι-A1A-NPF ζεῦγος-N3E-NPN βοῦς-N3--GPF χίλιοι-A1A-NPN ὄνος-N2--NPF θῆλυς-A3U-NPF νομάς-N3D-NPF χίλιοι-A1A-NPF
+\v 13 γεννάω-V3--PMI3P δέ-X αὐτός-RD--DSM υἱός-N2--NPM ἑπτά-M καί-C θυγάτηρ-N3--NPF τρεῖς-A3--NPM
+\v 14 καί-C καλέω-VAI-AAI3S ὁ-RA--ASF μέν-X πρῶτος-A1--ASFS *ἡμέρα-N1A-ASF ὁ-RA--ASF δέ-X δεύτερος-A1A-ASF *κασία-N1A-ASF ὁ-RA--ASF δέ-X τρίτος-A1--ASF *ἀμάλθεια-N1A-GSF κέρας-N3T-ASN
+\v 15 καί-C οὐ-D εὑρίσκω-VC--API3P κατά-P ὁ-RA--APF θυγάτηρ-N3--APF *ιωβ-N---GSM βελτίων-A3C-NPM αὐτός-RD--GPM ἐν-P ὁ-RA--DSF ὑπό-P οὐρανός-N2--ASM δίδωμι-VAI-AAI3S δέ-X αὐτός-RD--DPF ὁ-RA--NSM πατήρ-N3--NSM κληρονομία-N1A-ASF ἐν-P ὁ-RA--DPM ἀδελφός-N2--DPM
+\v 16 ζάω-VAI-AAI3S δέ-X *ιωβ-N---NSM μετά-P ὁ-RA--ASF πληγή-N1--ASF ἔτος-N3E-APN ἑκατόν-M ἑβδομήκοντα-M ὁ-RA--NPN δέ-X πᾶς-A3--NPN ζάω-VAI-AAI3S ἔτος-N3E-NPN διακόσιοι-A1A-NPN τεσσαράκοντα-M ὀκτώ-M καί-C ὁράω-VBI-AAI3S *ιωβ-N---NSM ὁ-RA--APM υἱός-N2--APM αὐτός-RD--GSM καί-C ὁ-RA--APM υἱός-N2--APM ὁ-RA--GPM υἱός-N2--GPM αὐτός-RD--GSM τέταρτος-A1--ASF γενεά-N1A-ASF
+\v 17 καί-C τελευτάω-VAI-AAI3S *ιωβ-N---NSM πρεσβύτερος-N2--NSM καί-C πλήρης-A3H-NSM ἡμέρα-N1A-GPF
+\v 17 γράφω-VP--XPI3S δέ-X αὐτός-RD--ASM πάλιν-D ἀναἵστημι-VF--FMN μετά-P ὅς-RR--GPM ὁ-RA--NSM κύριος-N2--NSM ἀναἵστημι-V6--PAI3S
+\v 17 οὗτος-RD--NSM ἑρμηνεύω-V1--PMI3S ἐκ-P ὁ-RA--GSF *συριακή-N1--GSF βίβλος-N2--GSF ἐν-P μέν-X γῆ-N1--DSF καταοἰκέω-V2--PAPNSM ὁ-RA--DSF *αυσίτις-N3D-DSF ἐπί-P ὁ-RA--DPN ὅριον-N2N-DPN ὁ-RA--GSF *ιδουμαία-N1A-GSF καί-C *ἀραβία-N1A-GSF προ   ὑποἄρχω-V1I-IAI3S δέ-X αὐτός-RD--DSM ὄνομα-N3M-NSN *ιωβαβ-N---NSM
+\v 17 λαμβάνω-VB--AAPNSM δέ-X γυνή-N3K-ASF *ἀράβισσα-N1A-ASF γεννάω-V3--PAI3S υἱός-N2--ASM ὅς-RR--DSM ὄνομα-N3M-NSN *εννων-N---NSM εἰμί-V9--IAI3S δέ-X αὐτός-RD--NSM πατήρ-N3--GSM μέν-X *ζαρε-N---GSM ὁ-RA--GPM *ησαυ-N---GSM υἱός-N2--GPM υἱός-N2--NSM μήτηρ-N3--GSF δέ-X *βοσορρα-N1A-GSF ὥστε-C εἰμί-V9--PAN αὐτός-RD--ASM πέμπτος-A1--ASM ἀπό-P *ἀβραάμ-N---GSM
+\v 17 καί-C οὗτος-RD--NPM ὁ-RA--NPM βασιλεύς-N3V-NPM ὁ-RA--NPM βασιλεύω-VA--AAPNPM ἐν-P *εδωμ-N---DSM ὅς-RR--GSF καί-C αὐτός-RD--NSM ἄρχω-VAI-AAI3S χώρα-N1A-GSF πρῶτος-A1--NSMS *βαλακ-N---NSM ὁ-RA--NSM ὁ-RA--GSM *βεωρ-N---GSM καί-C ὄνομα-N3M-NSN ὁ-RA--DSF πόλις-N3I-DSF αὐτός-RD--GSM *δενναβα-N---NSF μετά-P δέ-X *βαλακ-N---ASM *ιωβαβ-N---NSM ὁ-RA--NSM καλέω-V2--PMPNSM *ιωβ-N---NSM μετά-P δέ-X οὗτος-RD--ASM *ασομ-N---NSM ὁ-RA--NSM ὑποἄρχω-V1--PAPNSM ἡγεμών-N3N-NSM ἐκ-P ὁ-RA--GSF *θαιμανίτις-N3D-GSF χώρα-N1A-GSF μετά-P δέ-X οὗτος-RD--ASM *αδαδ-N---NSM υἱός-N2--NSM *βαραδ-N---GSM ὁ-RA--NSM ἐκκόπτω-VA--AAPNSM *μαδιαμ-N---AS ἐν-P ὁ-RA--DSN πεδίον-N2N-DSN *μωαβ-N---GSM καί-C ὄνομα-N3M-NSN ὁ-RA--DSF πόλις-N3I-DSF αὐτός-RD--GSM *γεθθαιμ-N---NS
+\v 17 ὁ-RA--NPM δέ-X ἔρχομαι-VB--AAPNPM πρός-P αὐτός-RD--ASM φίλος-A1--NPM *ελιφας-N---NSM ὁ-RA--GPM *ησαυ-N---GSM υἱός-N2--GPM *θαιμανων-N---GPM βασιλεύς-N3V-NSM *βαλδαδ-N---NSM ὁ-RA--NSM *σαυχαῖος-N2--GPM τύραννος-N2--NSM *σωφαρ-N---NSM ὁ-RA--NSM *μιναῖος-N2--GPM βασιλεύς-N3V-NSM

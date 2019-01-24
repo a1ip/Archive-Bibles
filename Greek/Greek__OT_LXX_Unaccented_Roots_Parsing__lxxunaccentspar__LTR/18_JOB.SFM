@@ -1,0 +1,1214 @@
+\id JOB
+\ide UTF-8
+\sts 1
+\h [Job]
+
+
+\c 1
+\p
+\v 1 ανθρωπος-N2--NSM τις-RI--NSM ειμι-V9--IAI3S εν-P χωρα-N1A-DSF ο-RA--DSF *αυσιτις-N3D-DSF ος-RR--DSM ονομα-N3M-NSN *ιωβ-N---NSM και-C ειμι-V9--IAI3S ο-RA--NSM ανθρωπος-N2--NSM εκεινος-RD--NSM αληθινος-A1--NSM αμεμπτος-A1B-NSM δικαιος-A1A-NSM θεοσεβης-A3H-NSM αποεχω-V1--PMPNSM απο-P πας-A3--GSN πονηρος-A1A-GSN πραγμα-N3M-GSN
+\v 2 γιγνομαι-VBI-AMI3P δε-X αυτος-RD--DSM υιος-N2--NPM επτα-M και-C θυγατηρ-N3--NPF τρεις-A3--NPF
+\v 3 και-C ειμι-V9--IAI3S ο-RA--NPN κτηνος-N3E-NPN αυτος-RD--GSM προβατον-N2N-NPN επτακισχιλιοι-A1A-NPN καμηλος-N2--NPF τρισχιλιοι-A1A-NPF ζευγος-N3E-NPN βους-N3--GPF πεντακοσιοι-A1A-APN ονος-N2--NPF θηλυς-A3U-NPF νομας-N3D-NPF πεντακοσιοι-A1A-NPF και-C υπηρεσια-N1A-NSF πολυς-A1--NSF σφοδρα-D και-C εργον-N2N-NPN μεγας-A1P-NPN ειμι-V9--IAI3S αυτος-RD--DSM επι-P ο-RA--GSF γη-N1--GSF και-C ειμι-V9--IAI3S ο-RA--NSM ανθρωπος-N2--NSM εκεινος-RD--NSM ευγενης-A3H-NSM ο-RA--GPM απο-P ηλιος-N2--GSM ανατολη-N1--GPF
+\v 4 συνπορευομαι-V1--PMPNPM δε-X ο-RA--NPM υιος-N2--NPM αυτος-RD--GSM προς-P αλληλω-RD--APM ποιεω-VAI-AAI3P ποτος-N2--ASM κατα-P εκαστος-A1--ASF ημερα-N1A-ASF συν   παραλαμβανω-V1--PAPNPM αμα-D και-D ο-RA--APF τρεις-A3--APF αδελφη-N1--APF αυτος-RD--GPM εσθιω-V1--PAN και-C πινω-V1--PAN μετα-P αυτος-RD--GPM
+\v 5 και-C ως-C αν-X συντελεω-VSI-API3P ο-RA--NPF ημερα-N1A-NPF ο-RA--GSM ποτος-N2--GSM αποστελλω-V1I-IAI3S *ιωβ-N---NSM και-C καθαριζω-V1I-IAI3S αυτος-RD--APM αναιστημι-V6--PMPNSM ο-RA--ASN πρωι-D και-C προςφερω-V1I-IAI3S περι-P αυτος-RD--GPM θυσια-N1A-APF κατα-P ο-RA--ASM αριθμος-N2--ASM αυτος-RD--GPM και-C μοσχος-N2--ASM εις-A3--ASM περι-P αμαρτια-N1A-APF περι-P ο-RA--GPF ψυχη-N1--GPF αυτος-RD--GPM λεγω-V1I-IAI3S γαρ-X *ιωβ-N---NSM μηποτε-D ο-RA--NPM υιος-N2--NPM εγω-RP--GS εν-P ο-RA--DSF διανοια-N1A-DSF αυτος-RD--GPM κακος-A1--APN εννοεω-VAI-AAI3P προς-P θεος-N2--ASM ουτως-D ουν-X ποιεω-V2I-IAI3S *ιωβ-N---NSM πας-A1S-APF ο-RA--APF ημερα-N1A-APF
+\v 6 και-C ως-C γιγνομαι-VBI-AMI3S ο-RA--NSF ημερα-N1A-NSF ουτος-RD--NSF και-C ιδου-I ερχομαι-VBI-AAI3P ο-RA--NPM αγγελος-N2--NPM ο-RA--GSM θεος-N2--GSM παραιστημι-VH--AAN ενωπιον-P ο-RA--GSM κυριος-N2--GSM και-C ο-RA--NSM διαβολος-N2--NSM ερχομαι-VBI-AAI3S μετα-P αυτος-RD--GPM
+\v 7 και-C ειπον-VBI-AAI3S ο-RA--NSM κυριος-N2--NSM ο-RA--DSM διαβολος-N2--DSM ποθεν-D παραγιγνομαι-VM--XMI2S και-C αποκρινω-VC--APPNSM ο-RA--NSM διαβολος-N2--NSM ο-RA--DSM κυριος-N2--DSM ειπον-VBI-AAI3S περιερχομαι-VB--AAPNSM ο-RA--ASF γη-N1--ASF και-C εν   περιπατεω-VA--AAPNSM ο-RA--ASF υπο-P ουρανος-N2--ASM παραειμι-V9--PAI1S
+\v 8 και-C ειπον-VBI-AAI3S αυτος-RD--DSM ο-RA--NSM κυριος-N2--NSM προςεχω-VBI-AAI2S ο-RA--DSF διανοια-N1A-DSF συ-RP--GS κατα-P ο-RA--GSM παις-N3D-GSM εγω-RP--GS *ιωβ-N---GSM οτι-C ου-D ειμι-V9--PAI3S κατα-P αυτος-RD--ASM ο-RA--GPM επι-P ο-RA--GSF γη-N1--GSF ανθρωπος-N2--NSM αμεμπτος-A1B-NSM αληθινος-A1--NSM θεοσεβης-A3H-NSM αποεχω-V1--PMPNSM απο-P πας-A3--GSN πονηρος-A1A-GSN πραγμα-N3M-GSN
+\v 9 αποκρινω-VCI-API3S δε-X ο-RA--NSM διαβολος-N2--NSM και-C ειπον-VBI-AAI3S εναντιον-P ο-RA--GSM κυριος-N2--GSM μη-D δωρεα-N1A-ASF σεβομαι-V1--PMI3S *ιωβ-N---NSM ο-RA--ASM θεος-N2--ASM
+\v 10 ου-D συ-RP--NS περιφρασσω-VAI-AAI2S ο-RA--APN εξω-D αυτος-RD--GSM και-C ο-RA--APN εσω-P ο-RA--GSF οικια-N1A-GSF αυτος-RD--GSM και-C ο-RA--APN εξω-P πας-A3--GPM ο-RA--GPM ειμι-V9--PAPGPM αυτος-RD--DSM κυκλος-N2--DSM ο-RA--APN εργον-N2N-APN ο-RA--GPF χειρ-N3--GPF αυτος-RD--GSM ευλογεω-VA--AAI2S και-C ο-RA--APN κτηνος-N3E-APN αυτος-RD--GSM πολυς-A1--APN ποιεω-VAI-AAI2S επι-P ο-RA--GSF γη-N1--GSF
+\v 11 αλλα-C αποστελλω-VA--AAD2S ο-RA--ASF χειρ-N3--ASF συ-RP--GS και-C απτομαι-VA--AMD2S πας-A3--GPN ος-RR--GPN εχω-V1--PAI3S ει-C μην-X εις-P προσωπον-N2N-ASN συ-RP--AS ευλογεω-VF--FAI3S
+\v 12 τοτε-D ειπον-VBI-AAI3S ο-RA--NSM κυριος-N2--NSM ο-RA--DSM διαβολος-N2--DSM ιδου-I πας-A3--ASN οσος-A1--NPN ειμι-V9--PAI3S αυτος-RD--DSM διδωμι-V8--PAI1S εν-P ο-RA--DSF χειρ-N3--DSF συ-RP--GS αλλα-C αυτος-RD--GSM μη-D απτομαι-VF--FMI2S και-C εκερχομαι-VBI-AAI3S ο-RA--NSM διαβολος-N2--NSM παρα-P ο-RA--GSM κυριος-N2--GSM
+\v 13 και-C ειμι-V9--IAI3S ως-C ο-RA--NSF ημερα-N1A-NSF ουτος-RD--NSF ο-RA--NPM υιος-N2--NPM *ιωβ-N---GSM και-C ο-RA--NPF θυγατηρ-N3--NPF αυτος-RD--GSM πινω-V1I-IAI3P οινος-N2--ASM εν-P ο-RA--DSF οικια-N1A-DSF ο-RA--GSM αδελφος-N2--GSM αυτος-RD--GPM ο-RA--GSM πρεσβυτερος-A1A-GSM
+\v 14 και-C ιδου-I αγγελος-N2--NSM ερχομαι-VBI-AAI3S προς-P *ιωβ-N---ASM και-C ειπον-VBI-AAI3S αυτος-RD--DSM ο-RA--NPN ζευγος-N3E-NPN ο-RA--GPF βους-N3--GPF αροτριαω-V3I-IAI3S και-C ο-RA--NPF θηλυς-A3U-NPF ονος-N2--NPF βοσκω-V1I-IMI3P εχω-V1--PMPNPF αυτος-RD--GPF
+\v 15 και-C ερχομαι-VB--AAPNPM ο-RA--NPM αιχμαλωτευω-V1--PAPNPM αιχμαλωτευω-VAI-AAI3P αυτος-RD--APF και-C ο-RA--APM παις-N3D-APM αποκτεινω-VAI-AAI3P εν-P μαχαιρα-N1A-DPF σωζω-VC--APPNSM δε-X εγω-RP--NS μονος-A1--NSM ερχομαι-VBI-AAI1S ο-RA--GSN αποαγγελλω-VA--AAN συ-RP--DS
+\v 16 ετι-D ουτος-RD--GSM λαλεω-V2--PAPGSM ερχομαι-VBI-AAI3S ετερος-A1A-NSM αγγελος-N2--NSM και-C ειπον-VBI-AAI3S προς-P *ιωβ-N---ASM πυρ-N3--NSN πιπτω-VBI-AAI3S εκ-P ο-RA--GSM ουρανος-N2--GSM και-C κατακαιω-VAI-AAI3S ο-RA--APN προβατον-N2N-APN και-C ο-RA--APM ποιμην-N3--APM καταεσθιω-VBI-AAI3S ομοιως-D και-C σωζω-VC--APPNSM εγω-RP--NS μονος-A1--NSM ερχομαι-VBI-AAI1S ο-RA--GSN αποαγγελλω-VA--AAN συ-RP--DS
+\v 17 ετι-D ουτος-RD--GSM λαλεω-V2--PAPGSM ερχομαι-VBI-AAI3S ετερος-A1A-NSM αγγελος-N2--NSM και-C ειπον-VBI-AAI3S προς-P *ιωβ-N---ASM ο-RA--NPM ιππευς-N3V-NPM ποιεω-VAI-AAI3P εγω-RP--DP κεφαλη-N1--APF τρεις-A3--APF και-C κυκλοω-VAI-AAI3P ο-RA--APF καμηλος-N2--APF και-C αιχμαλωτευω-VAI-AAI3P αυτος-RD--APF και-C ο-RA--APM παις-N3D-APM αποκτεινω-VAI-AAI3P εν-P μαχαιρα-N1A-DPF σωζω-VSI-API1S δε-X εγω-RP--NS μονος-A1--NSM και-C ερχομαι-VBI-AAI1S ο-RA--GSN αποαγγελλω-VA--AAN συ-RP--DS
+\v 18 ετι-D ουτος-RD--GSM λαλεω-V2--PAPGSM αλλος-RD--NSM αγγελος-N2--NSM ερχομαι-V1--PMI3S λεγω-V1--PAPNSM ο-RA--DSM *ιωβ-N---DSM ο-RA--GPM υιος-N2--GPM συ-RP--GS και-C ο-RA--GPF θυγατηρ-N3--GPF συ-RP--GS εσθιω-V1--PAPGPM και-C πινω-V1--PAPGPM παρα-P ο-RA--DSM αδελφος-N2--DSM αυτος-RD--GPM ο-RA--DSM πρεσβυτερος-A1A-DSM
+\v 19 εξαιφνης-D πνευμα-N3M-NSN μεγας-A1P-NSN επιερχομαι-VBI-AAI3S εκ-P ο-RA--GSF ερημος-N2--GSF και-C απτομαι-VAI-AMI3S ο-RA--GPF τεσσαρες-A3--GPF γωνια-N1A-GPF ο-RA--GSF οικια-N1A-GSF και-C πιπτω-VBI-AAI3S ο-RA--NSF οικια-N1A-NSF επι-P ο-RA--APN παιδιον-N2N-APN συ-RP--GS και-C τελευταω-VAI-AAI3P σωζω-VSI-API1S δε-X εγω-RP--NS μονος-A1--NSM και-C ερχομαι-VBI-AAI1S ο-RA--GSN αποαγγελλω-VA--AAN συ-RP--DS
+\v 20 ουτως-D αναιστημι-VH--AAPNSM *ιωβ-N---NSM διαρηγνυμι-VAI-AAI3S ο-RA--APN ιματιον-N2N-APN αυτος-RD--GSM και-C κειρω-VAI-AMI3S ο-RA--ASF κομη-N1--ASF ο-RA--GSF κεφαλη-N1--GSF αυτος-RD--GSM και-C πιπτω-VB--AAPNSM χαμαι-D προςκυνεω-VAI-AAI3S και-C ειπον-VBI-AAI3S
+\v 21 αυτος-RD--NSM γυμνος-A1--NSM εκερχομαι-VBI-AAI1S εκ-P κοιλια-N1A-GSF μητηρ-N3--GSF εγω-RP--GS γυμνος-A1--NSM και-C αποερχομαι-VF--FMI1S εκει-D ο-RA--NSM κυριος-N2--NSM διδωμι-VAI-AAI3S ο-RA--NSM κυριος-N2--NSM αποαιρεω-VBI-AMI3S ως-C ο-RA--DSM κυριος-N2--DSM δοκεω-VAI-AAI3S ουτως-D και-C γιγνομαι-VBI-AMI3S ειμι-V9--PAO3S ο-RA--NSN ονομα-N3M-NSN κυριος-N2--GSM ευλογεω-VM--XMPNSN
+\v 22 εν-P ουτος-RD--DPN πας-A3--DPN ο-RA--DPN συνβαινω-VX--XAPDPN αυτος-RD--DSM ουδεις-A3--ASN αμαρτανω-VBI-AAI3S *ιωβ-N---NSM εναντιον-P ο-RA--GSM κυριος-N2--GSM και-C ου-D διδωμι-VAI-AAI3S αφροσυνη-N1--ASF ο-RA--DSM θεος-N2--DSM
+
+\c 2
+\p
+\v 1 γιγνομαι-VBI-AMI3S δε-X ως-C ο-RA--NSF ημερα-N1A-NSF ουτος-RD--NSF και-C ερχομαι-VBI-AAI3P ο-RA--NPM αγγελος-N2--NPM ο-RA--GSM θεος-N2--GSM παραιστημι-VH--AAN εναντι-P κυριος-N2--GSM και-C ο-RA--NSM διαβολος-N2--NSM ερχομαι-VBI-AAI3S εν-P μεσος-A1--DSN αυτος-RD--GPM παραιστημι-VH--AAN εναντιον-P ο-RA--GSM κυριος-N2--GSM
+\v 2 και-C ειπον-VBI-AAI3S ο-RA--NSM κυριος-N2--NSM ο-RA--DSM διαβολος-N2--DSM ποθεν-D συ-RP--NS ερχομαι-V1--PMI2S τοτε-D ειπον-VBI-AAI3S ο-RA--NSM διαβολος-N2--NSM ενωπιον-P ο-RA--GSM κυριος-N2--GSM διαπορευομαι-VC--APPNSM ο-RA--ASF υπο-P ουρανος-N2--ASM και-C εν   περιπατεω-VA--AAPNSM ο-RA--ASF συμπας-A1A-ASF παραειμι-V9--PAI1S
+\v 3 ειπον-VBI-AAI3S δε-X ο-RA--NSM κυριος-N2--NSM προς-P ο-RA--ASM διαβολος-N2--ASM προςεχω-VBI-AAI2S ουν-X ο-RA--DSM θεραπων-N3--DSM εγω-RP--GS *ιωβ-N---DSM οτι-C ου-D ειμι-V9--PAI3S κατα-P αυτος-RD--ASM ο-RA--GPM επι-P ο-RA--GSF γη-N1--GSF ανθρωπος-N2--NSM ακακος-A1B-NSM αληθινος-A1--NSM αμεμπτος-A1B-NSM θεοσεβης-A3H-NSM αποεχω-V1--PMPNSM απο-P πας-A3--GSN κακος-A1--GSN ετι-D δε-X εχω-V1--PMI3S ακακια-N1A-GSF συ-RP--NS δε-X ειπον-VAI-AAI2S ο-RA--APN υποαρχω-V1--PAPAPN αυτος-RD--GSM δια-P κενος-A1--GSF αποολλυω-VA--AAN
+\v 4 υπολαμβανω-VB--AAPNSM δε-X ο-RA--NSM διαβολος-N2--NSM ειπον-VBI-AAI3S ο-RA--DSM κυριος-N2--DSM δερμα-N3M-NSN υπερ-P δερμα-N3M-GSN οσος-A1--APN υποαρχω-V1--PAI3S ανθρωπος-N2--DSM υπερ-P ο-RA--GSF ψυχη-N1--GSF αυτος-RD--GSM εκτινω-VF--FAI3S
+\v 5 ου-D μην-X δε-X αλλα-C αποστελλω-VA--AAPNSM ο-RA--ASF χειρ-N3--ASF συ-RP--GS απτομαι-VA--AMD2S ο-RA--GPN οστεον-N2N-GPN αυτος-RD--GSM και-C ο-RA--GPF σαρξ-N3K-GPF αυτος-RD--GSM ει-C μην-X εις-P προσωπον-N2N-ASN συ-RP--AS ευλογεω-VF--FAI3S
+\v 6 ειπον-VBI-AAI3S δε-X ο-RA--NSM κυριος-N2--NSM ο-RA--DSM διαβολος-N2--DSM ιδου-I παραδιδωμι-V8--PAI1S συ-RP--DS αυτος-RD--ASM μονον-D ο-RA--ASF ψυχη-N1--ASF αυτος-RD--GSM διαφυλασσω-VA--AAD2S
+\v 7 εκερχομαι-VBI-AAI3S δε-X ο-RA--NSM διαβολος-N2--NSM απο-P ο-RA--GSM κυριος-N2--GSM και-C παιω-VAI-AAI3S ο-RA--ASM *ιωβ-N---ASM ελκος-N3E-DSN πονηρος-A1A-DSN απο-P πους-N3D-GPM εως-P κεφαλη-N1--GSF
+\v 8 και-C λαμβανω-VBI-AAI3S οστρακον-N2N-ASN ινα-C ο-RA--ASM ιχωρ-N3R-ASM ξυω-V1--PAS3S και-C καταημαι-V1I-IMI3S επι-P ο-RA--GSF κοπρια-N1A-GSF εξω-P ο-RA--GSF πολις-N3I-GSF
+\v 9 χρονος-N2--GSM δε-X πολυς-A3U-GSM προβαινω-VX--XAPGSM ειπον-VBI-AAI3S αυτος-RD--DSM ο-RA--NSF γυνη-N3K-NSF αυτος-RD--GSM μεχρι-P τις-RI--GSN καρτερεω-VF--FAI2S λεγω-V1--PAPNSM
+\v 9 ιδου-I αναμενω-V1--PAI1S χρονος-N2--ASM ετι-D μικρος-A1A-ASM προςδεχομαι-V1--PMPNSM ο-RA--ASF ελπις-N3D-ASF ο-RA--GSF σωτηρια-N1A-GSF εγω-RP--GS
+\v 9 ιδου-I γαρ-X απο  αναιζω-VT--XMI3S συ-RP--GS ο-RA--NSN μνημοσυνον-N2N-NSN απο-P ο-RA--GSF γη-N1--GSF υιος-N2--NPM και-C θυγατηρ-N3--NPF εμος-A1--GSF κοιλια-N1A-GSF ωδιν-N3--NPF και-C πονος-N2--NPM ος-RR--APM εις-P ο-RA--ASN κενος-A1--ASN κοπιαω-VAI-AAI1S μετα-P μοχθος-N2--GPM
+\v 9 συ-RP--NS τε-X αυτος-RD--NSM εν-P σαπρια-N1A-DSF σκωληξ-N3K-GPM καταημαι-V5--PMI2S διανυκτερευω-V1--PAPNSM αιθριος-A1B-NSM
+\v 9 καιεγω-C+RPNS πλανητις-N3D-NSF και-C λατρις-N3--NSF τοπος-N2--ASM εκ-P τοπος-N2--GSM περιερχομαι-V1--PMPNSF και-C οικια-N1A-ASF εκ-P οικια-N1A-GSF προςδεχομαι-V1--PMPNSF ο-RA--ASM ηλιος-N2--ASM ποτε-D δυω-VF--FMI3S ινα-C αναπαυω-VA--AMS1S ο-RA--GPM μοχθος-N2--GPM και-C ο-RA--GPF οδυνη-N1--GPF ος-RR--NPF εγω-RP--AS νυν-D συνεχω-V1--PAI3P
+\v 9 αλλα-C ειπον-VBI-AAD2S τις-RI--ASN ρημα-N3M-ASN εις-P κυριος-N2--ASM και-C τελευταω-V3--PAD2S
+\v 10 ο-RA--NSM δε-X ενβλεπω-VA--AAPNSM ειπον-VBI-AAI3S αυτος-RD--DSF ωσπερ-D εις-A1A-NSF ο-RA--GPF αφρων-A3N-GPF γυνη-N3K-GPF λαλεω-VAI-AAI2S ει-C ο-RA--APN αγαθος-A1--APN δεχομαι-VAI-AMI1P εκ-P χειρ-N3--GSF κυριος-N2--GSM ο-RA--APN κακος-A1--APN ου-D υποφερω-VF--FAI1P εν-P πας-A3--DPN ουτος-RD--DPN ο-RA--DPN συνβαινω-VX--XAPDPN αυτος-RD--DSM ουδεις-A3--ASN αμαρτανω-VBI-AAI3S *ιωβ-N---NSM ο-RA--DPN χειλος-N3E-DPN εναντιον-P ο-RA--GSM θεος-N2--GSM
+\v 11 ακουω-VA--AAPNPM δε-X ο-RA--NPM τρεις-A3--NPM φιλος-A1--NPM αυτος-RD--GSM ο-RA--APN κακος-A1--APN πας-A3--APN ο-RA--APN επιερχομαι-VB--AAPAPN αυτος-RD--DSM παραγιγνομαι-VBI-AMI3P εκαστος-A1--NSM εκ-P ο-RA--GSF ιδιος-A1A-GSF χωρα-N1A-GSF προς-P αυτος-RD--ASM *ελιφας-N---NSM ο-RA--NSM *θαιμαν-N---GPM βασιλευς-N3V-NSM *βαλδαδ-N---NSM ο-RA--NSM *σαυχαιος-N2--GPM τυραννος-N2--NSM *σωφαρ-N---NSM ο-RA--NSM *μιναιος-N2--GPM βασιλευς-N3V-NSM και-C παραγιγνομαι-VBI-AMI3P προς-P αυτος-RD--ASM ομοθυμαδον-D ο-RA--GSN παρακαλεω-VA--AAN και-C επισκεπτομαι-VA--AMN αυτος-RD--ASM
+\v 12 οραω-VB--AAPNPM δε-X αυτος-RD--ASM πορρωθεν-D ου-D επιγιγνωσκω-VZI-AAI3P και-C βοαω-VA--AAPNPM φωνη-N1--DSF μεγας-A1--DSF κλαιω-VAI-AAI3P ρηγνυμι-VA--AAPNPM εκαστος-A1--NSM ο-RA--ASF εαυτου-RD--GSM στολη-N1--ASF και-C καταπασσω-VA--AMPNPM γη-N1--ASF
+\v 13 παρα  καταιζω-VAI-AAI3P αυτος-RD--DSM επτα-M ημερα-N1A-APF και-C επτα-M νυξ-N3--APF και-C ουδεις-A3--NSM αυτος-RD--GPM λαλεω-VAI-AAI3S οραω-V3I-IAI3P γαρ-X ο-RA--ASF πληγη-N1--ASF δεινος-A1--ASF ειμι-V9--PAPASF και-C μεγας-A1--ASF σφοδρα-D
+
+\c 3
+\p
+\v 1 μετα-P ουτος-RD--ASN αναοιγω-VAI-AAI3S *ιωβ-N---NSM ο-RA--ASN στομα-N3M-ASN αυτος-RD--GSM
+\v 2 και-C κατααραομαι-VAI-AMI3S ο-RA--ASF ημερα-N1A-ASF αυτος-RD--GSM λεγω-V1--PAPNSM
+\v 3 αποολλυω-VB--AMO3S ο-RA--NSF ημερα-N1A-NSF εν-P ος-RR--DSF γενναω-VCI-API1S και-C ο-RA--NSF νυξ-N3--NSF εν-P ος-RR--DSF ειπον-VAI-AAI3P ιδου-I αρσην-A3--NSN
+\v 4 ο-RA--NSF ημερα-N1A-NSF εκεινος-RD--NSF ειμι-V9--PAO3S σκοτος-N3E-ASN και-C μη-D αναζητεω-VA--AAO3S αυτος-RD--ASF ο-RA--NSM κυριος-N2--NSM ανωθεν-D μηδε-C ερχομαι-VB--AAO3S εις-P αυτος-RD--ASF φεγγος-N3E-NSN
+\v 5 εκλαμβανω-VB--AAO3S δε-X αυτος-RD--ASF σκοτος-N3E-NSN και-C σκια-N1A-NSF θανατος-N2--GSM επιερχομαι-VB--AAO3S επι-P αυτος-RD--ASF γνοφος-N2--NSM
+\v 6 κατααραομαι-VC--APO3S ο-RA--NSF ημερα-N1A-NSF και-C ο-RA--NSF νυξ-N3--NSF εκεινος-RD--NSF αποφερω-VA--AMO3S αυτος-RD--ASF σκοτος-N3E-NSN μη-D ειμι-V9--PAO3S εις-P ημερα-N1A-APF ενιαυτος-N2--GSM μηδε-C αριθμεω-VC--APO3S εις-P ημερα-N1A-APF μην-N3--GPM
+\v 7 αλλα-C ο-RA--NSF νυξ-N3--NSF εκεινος-RD--NSF ειμι-V9--PAO3S οδυνη-N1--NSF και-C μη-D ερχομαι-VB--AAO3S επι-P αυτος-RD--ASF ευφροσυνη-N1--NSF μηδε-C χαρμονη-N1--NSF
+\v 8 αλλα-C κατααραομαι-VA--AMO3S αυτος-RD--ASF ο-RA--NSM καταραομαι-V3--PMPNSM ο-RA--ASF ημερα-N1A-ASF εκεινος-RD--ASF ο-RA--NSM μελλω-V1--PAPNSM ο-RA--ASN μεγας-A1P-ASN κητος-N3E-ASN χειροομαι-VA--AMN
+\v 9 σκοτοω-VC--APO3S ο-RA--NPN αστρον-N2N-NPN ο-RA--GSF νυξ-N3--GSF εκεινος-RD--GSF υπομενω-VA--AAO3S και-D εις-P φωτισμος-N2--ASM μη-D ερχομαι-VB--AAO3S και-C μη-D οραω-VB--AAO3S εωσφορος-N2--ASM ανατελλω-V1--PAPASM
+\v 10 οτι-C ου-D συνκλειω-VAI-AAI3S πυλη-N1--APF γαστηρ-N3--GSF μητηρ-N3--GSF εγω-RP--GS αποαλλασσω-VAI-AAI3S γαρ-X αν-X πονος-N2--ASM απο-P οφθαλμος-N2--GPM εγω-RP--GS
+\v 11 δια-P τις-RI--ASN γαρ-X εν-P κοιλια-N1A-DSF ου-D τελευταω-VAI-AAI1S εκ-P γαστηρ-N3--GSF δε-X εκερχομαι-VBI-AAI1S και-D ου-D ευθυς-D αποολλυω-VBI-AMI1S
+\v 12 ινα-C τις-RI--ASN δε-X συνανταω-VAI-AAI3P εγω-RP--DS γονυ-N3--NPN ινα-C τις-RI--ASN δε-X μαστος-N2--APM θηλαζω-VSI-AAI1S
+\v 13 νυν-D αν-X κοιμαω-VC--APPNSM ησυχαζω-VA--AAI1S υπνοω-VA--AAPNSM δε-X αναπαυω-VAI-AMI1S
+\v 14 μετα-P βασιλευς-N3V-GPM βουλευτης-N1M-GPM γη-N1--GSF ος-RR--NPM αγαυριαω-V3I-IMI3P επι-P ξιφος-N3E-DPN
+\v 15 η-C μετα-P αρχων-N3--GPM ος-RR--GPM πολυς-A3U-NSM ο-RA--NSM χρυσος-N2--NSM ος-RR--NPM πιμπλημι-VAI-AAI3P ο-RA--APM οικος-N2--APM αυτος-RD--GPM αργυριον-N2N-GSN
+\v 16 η-C ωσπερ-D εκτρωμα-N3M-NSN εκπορευομαι-V1--PMPNSM εκ-P μητρα-N1A-GSF μητηρ-N3--GSF η-C ωσπερ-D νηπιος-A1--NPM ος-RR--NPM ου-D οραω-VBI-AAI3P φως-N3T-ASN
+\v 17 εκει-D ασεβης-A3H-NPM εκκαιω-VAI-AAI3P θυμος-N2--ASM οργη-N1--GSF εκει-D αναπαυω-VAI-AMI3P κατακοπος-A1B-NPM ο-RA--DSN σωμα-N3M-DSN
+\v 18 ομοθυμαδον-D δε-X ο-RA--NPM αιωνιος-A1B-NPM ου-D ακουω-VAI-AAI3P φωνη-N1--ASF φορολογος-N2--GSM
+\v 19 μικρος-A1A-NSM και-C μεγας-A1P-NSM εκει-D ειμι-V9--PAI3S και-C θεραπων-N3--NSM ου-D δειδω-VX--XAPNSM ο-RA--ASM κυριος-N2--ASM αυτος-RD--GSM
+\v 20 ινα-C τις-RI--ASN γαρ-X διδωμι-VM--XMI3S ο-RA--DPM εν-P πικρια-N1A-DSF φως-N3T-NSN ζωη-N1--NSF δε-X ο-RA--DPF εν-P οδυνη-N1--DPF ψυχη-N1--DPF
+\v 21 ος-RR--NPM ομειρομαι-V1--PMI3P ο-RA--GSM θανατος-N2--GSM και-C ου-D τυγχανω-V1--PAI3P αναορυσσω-V1--PAPNPM ωσπερ-D θησαυρος-N2--APM
+\v 22 περιχαρης-A3H-NPM δε-X γιγνομαι-VBI-AMI3P εαν-C κατατυγχανω-VB--AAS3P
+\v 23 θανατος-N2--NSM ανηρ-N3--DSM αναπαυμα-N3M-NSN συνκλειω-VAI-AAI3S γαρ-X ο-RA--NSM θεος-N2--NSM κατα-P αυτος-RD--GSM
+\v 24 προ-P γαρ-X ο-RA--GPM σιτος-N2--GPM εγω-RP--GS στεναγμος-N2--NSM εγω-RP--DS ηκω-V1--PAI3S δακρυω-V1--PAI1S δε-X εγω-RP--NS συνεχω-V1--PMPNSM φοβος-N2--DSM
+\v 25 φοβος-N2--NSM γαρ-X ος-RR--ASM φροντιζω-VAI-AAI1S ερχομαι-VBI-AAI3S εγω-RP--DS και-C ος-RR--ASM δειδω-VXI-YAI1S συνανταω-VAI-AAI3S εγω-RP--DS
+\v 26 ουτε-C ειρηνευω-VAI-AAI1S ουτε-C ησυχαζω-VA--AAI1S ουτε-C αναπαυω-VAI-AMI1S ερχομαι-VBI-AAI3S δε-X εγω-RP--DS οργη-N1--NSF
+
+\c 4
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ελιφας-N---NSM ο-RA--NSM *θαιμανιτης-N1M-NSM λεγω-V1--PAI3S
+\v 2 μη-D πολλακις-D συ-RP--DS λαλεω-VMI-XMI3S εν-P κοπος-N2--DSM ισχυς-N3U-ASF δε-X ρημα-N3M-GPN συ-RP--GS τις-RI--NSM υποφερω-VF--FAI3S
+\v 3 ει-C γαρ-X συ-RP--NS νουθετεω-VAI-AAI2S πολυς-A3U-APM και-C χειρ-N3--APF ασθενης-A3H-APF παρακαλεω-VAI-AAI2S
+\v 4 ασθενεω-V2--PAPAPM τε-X εκ   αναιστημι-VHI-AAI2S ρημα-N3M-DPN γονυ-N3--DPN τε-X αδυνατεω-V2--PAPDPN θαρσος-N3E-ASN περιτιθημι-VAI-AAI2S
+\v 5 νυν-D δε-X ηκω-V1--PAI3S επι-P συ-RP--AS πονος-N2--NSM και-C απτομαι-VAI-AMI3S συ-RP--GS συ-RP--NS δε-X σπουδαζω-VAI-AAI2S
+\v 6 ποτερον-D ου-D ο-RA--NSM φοβος-N2--NSM συ-RP--GS ειμι-V9--PAI3S εν-P αφροσυνη-N1--DSF και-C ο-RA--NSF ελπις-N3D-NSF συ-RP--GS και-C ο-RA--NSF ακακια-N1A-NSF ο-RA--GSF οδος-N2--GSF συ-RP--GS
+\v 7 μιμνησκω-VS--APD2S ουν-X τις-RI--NSM καθαρος-A1A-NSM ειμι-V9--PAPNSM αποολλυω-VBI-AMI3S η-C ποτε-D αληθινος-A1--NPM ολορριζος-A1B-NPM αποολλυω-VBI-AMI3P
+\v 8 κατα-P ος-RR--ASM τροπος-N2--ASM οραω-VBI-AAI1S ο-RA--APM αροτριαω-V3--PAPAPM ο-RA--APN ατοπος-A1B-APN ο-RA--NPM δε-X σπειρω-V1--PAPNPM αυτος-RD--APN οδυνη-N1--APF θεριζω-VF2-FAI3P εαυτου-RD--DPM
+\v 9 απο-P προσταγμα-N3M-GSN κυριος-N2--GSM αποολλυω-VF2-FMI3P απο-P δε-X πνευμα-N3M-GSN οργη-N1--GSF αυτος-RD--GSM απο  αναιζω-VS--FPI3P
+\v 10 σθενος-N3E-NSN λεων-N3--GSM φωνη-N1--NSF δε-X λεαινα-N1S-GSF γαυριαμα-N3M-NSN δε-X δρακων-N3--GPM σβεννυμι-VSI-API3S
+\v 11 μυρμηκολεων-N3--NSM ολλυμι-VBI-AMI3S παρα-P ο-RA--ASN μη-D εχω-V1--PAN βορα-N1A-ASF σκυμνος-N2--NPM δε-X λεων-N3--GPM λειπω-VBI-AAI3P αλληλω-RD--APM
+\v 12 ει-C δε-X τις-RI--NSN ρημα-N3M-NSN αληθινος-A1--NSN γιγνομαι-VXI-YAI3S εν-P λογος-N2--DPM συ-RP--GS ουδεις-A3--NSN αν-X συ-RP--DS ουτος-RD--GPN κακος-A1--NSN αποανταω-VAI-AAI3S ποτερον-D ου-D δεχομαι-VF--FMI3S εγω-RP--GS ο-RA--NSN ους-N3T-NSN εξαισος-A1B-APN παρα-P αυτος-RD--GSM
+\v 13 φοβος-N2--NPM δε-X και-C ηχω-N3--NSF νυκτερινος-A1--NSF επιπιπτω-V1--PAPNSM φοβος-N2--NSM επι-P ανθρωπος-N2--APM
+\v 14 φρικη-N1--NSF δε-X εγω-RP--DS συνανταω-VAI-AAI3S και-C τρομος-N2--NSM και-C μεγαλως-D εγω-RP--GS ο-RA--NPN οστεον-N2N-NPN συνσειω-VAI-AAI3S
+\v 15 και-C πνευμα-N3M-NSN επι-P προσωπον-N2N-ASN εγω-RP--GS επιερχομαι-VBI-AAI3S φριττω-VAI-AAI3P δε-X εγω-RP--GS θριξ-N3--NPF και-C σαρξ-N3K-NPF
+\v 16 αναιστημι-VHI-AAI1S και-C ου-D επιγιγνωσκω-VZI-AAI1S οραω-VBI-AAI1S και-C ου-D ειμι-V9--IAI3S μορφη-N1--NSF προ-P οφθαλμος-N2--GPM εγω-RP--GS αλλα-C η-C αυρα-N1A-ASF και-C φωνη-N1--ASF ακουω-V1I-IAI1S
+\v 17 τις-RI--NSN γαρ-X μη-D καθαρος-A1A-NSM ειμι-VF--FMI3S βροτος-N2--NSM εναντιον-P κυριος-N2--GSM η-C απο-P ο-RA--GPN εργον-N2N-GPN αυτος-RD--GSM αμεμπτος-A1B-NSM ανηρ-N3--NSM
+\v 18 ει-C κατα-P παις-N3D-GPM αυτος-RD--GSM ου-D πιστευω-V1--PAI3S κατα-P δε-X αγγελος-N2--GPM αυτος-RD--GSM σκολιος-A1A-ASN τις-RI--ASN επινοεω-VAI-AAI3S
+\v 19 ο-RA--APM δε-X καταοικεω-V2--PAPAPM οικια-N1A-APF πηλινος-A1--APF εκ-P ος-RR--GPM και-C αυτος-RD--NPM εκ-P ο-RA--GSM αυτος-RD--GSM πηλος-N2--GSM ειμι-V9--PAI1P παιω-VAI-AAI3S αυτος-RD--APM σης-N3T-GSM τροπος-N2--ASM
+\v 20 και-C απο-P πρωιθεν-D εως-P εσπερα-N1A-GSF ουκετι-D ειμι-V9--PAI3P παρα-P ο-RA--ASN μη-D δυναμαι-V6--PMN αυτος-RD--APM εαυτου-RD--DPM βοηθεω-VA--AAN αποολλυω-VBI-AMI3P
+\v 21 ενφυσαω-VAI-AAI3S γαρ-X αυτος-RD--DPM και-C ξηραινω-VCI-API3P αποολλυω-VBI-AMI3P παρα-P ο-RA--ASN μη-D εχω-V1--PAN αυτος-RD--APM σοφια-N1A-ASF
+
+\c 5
+\p
+\v 1 επικαλεω-VA--AMD2S δε-X ει-C τις-RI--NSM συ-RP--DS υποακουω-VF--FMI3S η-C ει-C τις-RI--ASM αγγελος-N2--GPM αγιος-A1A-GPM οραω-VF--FMI2S
+\v 2 και-C γαρ-X αφρων-A3N-ASM ανααιρεω-V2--PAI3S οργη-N1--NSF πλαναω-VM--XPPASM δε-X θανατοω-V4--PAI3S ζηλος-N2--NSM
+\v 3 εγω-RP--NS δε-X οραω-VX--XAI1S αφρων-A3N-APM ριζα-N1S-ASF βαλλω-V1--PAPAPM αλλα-C ευθεως-D βιβρωσκω-VCI-API3S αυτος-RD--GPM ο-RA--NSF διαιτα-N1S-NSF
+\v 4 πορρω-D γιγνομαι-VB--AMO3P ο-RA--NPM υιος-N2--NPM αυτος-RD--GPM απο-P σωτηρια-N1A-GSF κολαβριζομαι-VS--APO3P δε-X επι-P θυρα-N1A-DPF ησσων-A3C-GPM και-C ου-D ειμι-VF--FMI3S ο-RA--NSM εκαιρεω-V2--PMPNSM
+\v 5 ος-RR--APN γαρ-X εκεινος-RD--NPM συναγω-VBI-AAI3P δικαιος-A1A-NPM εσθιω-VF--FMI3P αυτος-RD--NPM δε-X εκ-P κακος-A1--GPN ου-D εξαιρετος-A1--NPM ειμι-VF--FMI3P εκσιφωνιζω-VS--APO3S αυτος-RD--GPM ο-RA--NSF ισχυς-N3U-NSF
+\v 6 ου-D γαρ-X μη-D εκερχομαι-VB--AAS3S εκ-P ο-RA--GSF γη-N1--GSF κοπος-N2--NSM ουδε-C εκ-P ορος-N3E-GPN αναβλαστανω-VF--FAI3S πονος-N2--NSM
+\v 7 αλλα-C ανθρωπος-N2--NSM γενναω-V3--PMI3S κοπος-N2--DSM νεοσσος-N2--NPM δε-X γυψ-N3P-GSM ο-RA--APN υψηλος-A1--APN πετομαι-V1--PMI3P
+\v 8 ου-D μην-X δε-X αλλα-C εγω-RP--NS δεω-VC--FPI1S κυριος-N2--GSM κυριος-N2--ASM δε-X ο-RA--ASM πας-A3--GPM δεσποτης-N1M-ASM επικαλεω-VF--FMI1S
+\v 9 ο-RA--ASM ποιεω-V2--PAPASM μεγας-A3--APN και-C ανεξιχνιαστος-A1B-APN ενδοξος-A1B-APN τε-X και-C εξαισιος-A1B-APN ος-RR--GPN ου-D ειμι-V9--PAI3S αριθμος-N2--NSM
+\v 10 ο-RA--ASM διδωμι-V8--PAPASM υετος-N2--ASM επι-P ο-RA--ASF γη-N1--ASF αποστελλω-V1--PAPASM υδωρ-N3--ASN επι-P ο-RA--ASF υπο-P ουρανος-N2--ASM
+\v 11 ο-RA--ASM ποιεω-V2--PAPASM ταπεινος-A1--APM εις-P υψος-N3E-ASN και-C αποολλυω-VX--XAPAPM εκεγειρω-V1--PAPASM
+\v 12 διααλλασσω-V1--PAPASM βουλη-N1--APF πανουργος-A1B-GPM και-C ου-D μη-D ποιεω-VF--FAI3P ο-RA--NPF χειρ-N3--NPF αυτος-RD--GPM αληθης-A3H-ASN
+\v 13 ο-RA--NSM καταλαμβανω-V1--PAPNSM σοφος-A1--APM εν-P ο-RA--DSF φρονησις-N3I-DSF βουλη-N1--ASF δε-X πολυπλοκος-A1B-GPM εκιστημι-VHI-AAI3S
+\v 14 ημερα-N1A-GSF συνανταω-VF--FMI3S αυτος-RD--DPM σκοτος-N3E-NSN ο-RA--ASN δε-X μεσημβρινος-A1A-ASN ψηλαφαω-VA--AAO3P ισος-D νυξ-N3--DSF
+\v 15 αποολλυω-VB--AMO3P δε-X εν-P πολεμος-N2--DSM αδυνατος-A1B-NSM δε-X εκερχομαι-VB--AAO3S εκ-P χειρ-N3--GSF δυναστης-N1M-GSM
+\v 16 ειμι-V9--PAO3S δε-X αδυνατος-A1B-DSM ελπις-N3D-NSF αδικος-A1B-GSM δε-X στομα-N3M-NSN ενφρασσω-VC--APO3S
+\v 17 μακαριος-A1A-NSM δε-X ανθρωπος-N2--NSM ος-RR--ASM ελεγχω-VAI-AAI3S ο-RA--NSM κυριος-N2--NSM νουθετημα-N3M-ASN δε-X παντοκρατωρ-N3R-GSM μη-D απο  ανααινεω-V2--PMD2S
+\v 18 αυτος-RD--NSM γαρ-X αλγεω-V2--PAN ποιεω-V2--PAI3S και-C παλιν-D απο  καταιστημι-V6--PAI3S παιω-VAI-AAI3S και-C ο-RA--NPF χειρ-N3--NPF αυτος-RD--GSM ιαομαι-VAI-AMI3P
+\v 19 εξακις-D εκ-P αναγκη-N1--GPF συ-RP--AS εκαιρεω-VF2-FMI3S εν-P δε-X ο-RA--DSM εβδομος-A1--DSM ου-D μη-D απτομαι-VA--AMS3S συ-RP--GS κακος-A1--NSN
+\v 20 εν-P λιμος-N2--DSM ρυομαι-VF--FMI3S συ-RP--AS εκ-P θανατος-N2--GSM εν-P πολεμος-N2--DSM δε-X εκ-P χειρ-N3--GSF σιδηρος-N2--GSM λυω-VF--FAI3S συ-RP--AS
+\v 21 απο-P μαστιξ-N3G-GSF γλωσσα-N1S-GSF συ-RP--AS κρυπτω-VF--FAI3S και-C ου-D μη-D φοβεω-VC--APS2S απο-P κακος-A1--GPN ερχομαι-V1--PMPGPN
+\v 22 αδικος-A1B-GPM και-C ανομος-A1B-GPM καταγελαω-VF--FMI2S απο-P δε-X θηριον-N2N-GPN αγριος-A1A-GPN ου-D μη-D φοβεω-VC--APS2S
+\v 23 θηρ-N3R-NPM γαρ-X αγριος-A1A-NPM ειρηνευω-VF--FAI3P συ-RP--DS
+\v 24 ειτα-D γιγνωσκω-VF--FMI2S οτι-C ειρηνευω-VF--FAI3S συ-RP--GS ο-RA--NSM οικος-N2--NSM ο-RA--NSF δε-X διαιτα-N1S-NSF ο-RA--GSF σκηνη-N1--GSF συ-RP--GS ου-D μη-D αμαρτανω-VB--AAS3S
+\v 25 γιγνωσκω-VF--FMI2S δε-X οτι-C πολυς-A3U-NSN ο-RA--NSN σπερμα-N3M-NSN συ-RP--GS ο-RA--NPN δε-X τεκνον-N2N-NPN συ-RP--GS ειμι-VF--FMI3S ωσπερ-D ο-RA--NSN παμβοτανον-N2N-NSN ο-RA--GSM αγρος-N2--GSM
+\v 26 ερχομαι-VF--FMI2S δε-X εν-P ταφος-N2--DSM ωσπερ-D σιτος-N2--NSM ωριμος-A1B-NSN κατα-P καιρος-N2--ASM θεριζω-V1--PPPNSM η-C ωσπερ-D θιμωνια-N1A-NSF αλων-N3W-GSF κατα-P ωρα-N1A-ASF συνκομιζω-VS--APPNSF
+\v 27 ιδου-I ουτος-RD--APN ουτως-D εκιχνιαζω-VAI-AAI1P ουτος-RD--APN ειμι-V9--PAI3S ος-RR--APN ακουω-VX--XAI1P συ-RP--NS δε-X γιγνωσκω-VZ--AAD2S σεαυτου-RD--DSM ει-C τις-RI--ASN πρασσω-VAI-AAI2S
+
+\c 6
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 ει-C γαρ-X τις-RI--NSM ιστημι-V6--PAPNSM ιστημι-VA--AAO3S εγω-RP--GS ο-RA--ASF οργη-N1--ASF ο-RA--APF δε-X οδυνη-N1--APF εγω-RP--GS αιρω-VA--AAN εν-P ζυγος-N2--DSM ομοθυμαδον-D
+\v 3 και-C δη-X αμμος-N2--GSF παραλιος-A1A-GSF βαρυς-A1A-APNC ειμι-VF--FMI3S αλλα-C ως-C εοικα-VX--XAI3S ο-RA--NPN ρημα-N3M-NPN εγω-RP--GS ειμι-V9--PAI3S φαυλος-A1--NPN
+\v 4 βελος-N3E-NPN γαρ-X κυριος-N2--GSM εν-P ο-RA--DSN σωμα-N3M-DSN εγω-RP--GS ειμι-V9--PAI3S ος-RR--GPN ο-RA--NSM θυμος-N2--NSM αυτος-RD--GPN εκπινω-V1--PAI3S εγω-RP--GS ο-RA--ASN αιμα-N3M-ASN οταν-D αρχω-VA--AMS1S λαλεω-V2--PAN κεντεω-V2--PAI3P εγω-RP--AS
+\v 5 τις-RI--NSN γαρ-X μη-D δια-P κενος-A1--GSF κραζω-VFX-FMI3S ονος-N2--NSM αγριος-A1A-NSM αλλα-C η-C ο-RA--APN σιτος-N2--APN ζητεω-V2--PAPNSM ει-C δε-X και-C ρηγνυμι-VF--FAI3S φωνη-N1--ASF βους-N3--NSF επι-P φατνη-N1--GSF εχω-V1--PAPNSM ο-RA--APN βρωμα-N3M-APN
+\v 6 ει-C βιβρωσκω-VC--FPI3S αρτος-N2--NSM ανευ-P αλς-N3--GSM ει-C δε-X και-C ειμι-V9--PAI3S γευμα-N3M-NSN εν-P ρημα-N3M-DPN κενος-A1--DPN
+\v 7 ου-D δυναμαι-V6--PMI3S γαρ-X παυω-VA--AMN εγω-RP--GS ο-RA--NSF ψυχη-N1--NSF βρομος-N2--ASM γαρ-X οραω-V3--PAI1S ο-RA--APN σιτος-N2--APN εγω-RP--GS ωσπερ-D οσμη-N1--ASF λεων-N3--GSM
+\v 8 ει-C γαρ-X διδωμι-VO--AAO3S και-C ερχομαι-VB--AAO3S εγω-RP--GS ο-RA--NSF αιτησις-N3I-NSF και-C ο-RA--ASF ελπις-N3D-ASF εγω-RP--GS διδωμι-VO--AAO3S ο-RA--NSM κυριος-N2--NSM
+\v 9 αρχω-VA--AMPNSM ο-RA--NSM κυριος-N2--NSM τιτρωσκω-VA--AAD3S εγω-RP--AS εις-P τελος-N3E-ASN δε-X μη-D εγω-RP--AS ανααιρεω-VB--AAD3S
+\v 10 ειμι-V9--PAO3S δε-X εγω-RP--GS πολις-N3I-NSF ταφος-N2--NSM επι-P ος-RR--GSF επι-P τειχος-N3E-GPN αλλομαι-V1I-IMI1S επι-P αυτος-RD--GSF ου-D μη-D φειδομαι-VA--AMS1S ου-D γαρ-X ψευδω-VSI-AMI1S ρημα-N3M-APN αγιος-A1A-APN θεος-N2--GSM εγω-RP--GS
+\v 11 τις-RI--NSM γαρ-X εγω-RP--GS ο-RA--NSF ισχυς-N3U-NSF οτι-C υπομενω-V1--PAI1S η-C τις-RI--NSM εγω-RP--GS ο-RA--NSM χρονος-N2--NSM οτι-C αναεχω-V1--PMI3S εγω-RP--GS ο-RA--NSF ψυχη-N1--NSF
+\v 12 μη-D ισχυς-N3U-NSF λιθος-N2--GPM ο-RA--NSF ισχυς-N3U-NSF εγω-RP--GS η-C ο-RA--NPF σαρξ-N3K-NPF εγω-RP--GS ειμι-V9--PAI3P χαλκειος-A1A-NPF
+\v 13 η-D ου-D επι-P αυτος-RD--DSM πειθω-VXI-YAI1S βοηθεια-N1A-NSF δε-X απο-P εγω-RP--GS αποειμι-V9--PAI3S
+\v 14 αποειπον-VAI-AMI3S εγω-RP--AS ελεος-N3E-ASN επισκοπη-N1--NSF δε-X κυριος-N2--GSM υπεροραω-VBI-AAI3S εγω-RP--AS
+\v 15 ου-D προςοραω-VBI-AAI3P εγω-RP--AS ο-RA--NPM εγγυς-A1--NPMS εγω-RP--GS ωσπερ-D χειμαρρους-N2--ASM εκλειπω-V1--PAPNSM η-C ωσπερ-D κυμα-N3M-NSN παραερχομαι-VBI-AAI3P εγω-RP--AS
+\v 16 οστις-RX--NPM εγω-RP--AS διαευλαβεομαι-V1--IMI3P νυν-D επιπιπτω-VX--XAI3P εγω-RP--DS ωσπερ-D χιων-N3N-NSF η-C κρυσταλλος-N2--NSM πηγνυμι-VX--XAPNSM
+\v 17 καθως-D τηκω-VD--APPNSM θερμος-A1--GSF γιγνομαι-VB--AMPGSF ου-D επιγιγνωσκω-VZI-API3S οσπερ-RR--NSN ειμι-V9--IAI3S
+\v 18 ουτως-D καιεγω-C+RPNS καταλειπω-VVI-API1S υπο-P πας-A3--GPM αποολλυω-VBI-AMI1S δε-X και-C εξοικος-A1B-NSM γιγνομαι-VBI-AMI1S
+\v 19 οραω-VB--AAD2P οδος-N2--APF *θαιμαν-N---GPM ατραπος-N2--APF *σαβαι-N---GPM ο-RA--NPM διαοραω-V3--PAPNPM
+\v 20 και-C αισχυνη-N1--ASF οφειλω-VF--FAI3P ο-RA--NPM επι-P πολις-N3I-DPF και-C χρημα-N3M-DPN πειθω-VX--XAPNPM
+\v 21 αταρ-C δε-X και-C συ-RP--NP επιβαινω-VZI-AAI2P εγω-RP--DS ανελεημονως-D ωστε-C οραω-VB--AAPNPM ο-RA--ASN εμος-A1--ASN τραυμα-N3M-ASN φοβεω-VC--APS2P
+\v 22 τις-RI--NSN γαρ-X μη-D τις-RI--ASN συ-RP--AP αιτεω-VAI-AAI1S η-C ο-RA--GSF παρα-P συ-RP--GP ισχυς-N3U-GSF επιδεω-V2--PMI1S
+\v 23 ωστε-C σωζω-VA--AAN εγω-RP--AS εκ-P εχθρος-N2--GPM η-C εκ-P χειρ-N3--GSF δυναστης-N1M-GPM ρυομαι-VA--AMN εγω-RP--AS
+\v 24 διδασκω-VA--AAD2P εγω-RP--AS εγω-RP--NS δε-X κωφευω-VF--FAI1S ει-C τις-RI--ASN πλαναω-VM--XPI1S φραζω-VA--AAD2P εγω-RP--DS
+\v 25 αλλα-C ως-C εοικα-VX--XAI3S φαυλος-A1--NPN αληθινος-A1--GSM ρημα-N3M-NPN ου-D γαρ-X παρα-P συ-RP--GP ισχυς-N3U-ASF αιτεω-V2--PMI1S
+\v 26 ουδε-C ο-RA--NSM ελεγχος-N2--NSM συ-RP--GP ρημα-N3M-DPN εγω-RP--AS παυω-VF--FAI3S ουδε-C γαρ-X συ-RP--GP φθεγμα-N3M-ASN ρημα-N3M-GSN αναεχω-VF--FMI1S
+\v 27 πλην-D οτι-C επι-P ορφανος-A1--DSM επιπιπτω-V1--PAI2P εναλλομαι-V1--PMI2P δε-X επι-P φιλος-A1--DSM συ-RP--GP
+\v 28 νυνι-D δε-X ειςβλεπω-VA--AAPNSM εις-P προσωπον-N2N-APN συ-RP--GP ου-D ψευδω-VF--FMI1S
+\v 29 καταιζω-VA--AAD2P δη-X και-C μη-D ειμι-V9--PAO3S αδικος-A1B-NSN και-C παλιν-D ο-RA--DSM δικαιος-A1A-DSM συνερχομαι-V1--PMI2P
+\v 30 ου-D γαρ-X ειμι-V9--PAI3S εν-P γλωσσα-N1S-DSF εγω-RP--GS αδικος-A1B-NSN η-C ο-RA--NSM λαρυγξ-N3G-NSM εγω-RP--GS ου-D συνεσις-N3I-ASF μελεταω-V3--PAI3S
+
+\c 7
+\p
+\v 1 ποτερον-D ου-D πειρατηριον-N2N-NSN ειμι-V9--PAI3S ο-RA--NSM βιος-N2--NSM ανθρωπος-N2--GSM επι-P ο-RA--GSF γη-N1--GSF και-C ωσπερ-D μισθιος-A1A-GSM αυθημερινος-A1B-GSM ο-RA--NSF ζωη-N1--NSF αυτος-RD--GSM
+\v 2 η-C ωσπερ-D θεραπων-N3--NSM δειδω-VX--XAPNSM ο-RA--ASM κυριος-N2--ASM αυτος-RD--GSM και-C τυγχανω-VX--XAPNSM σκια-N1A-GSF η-C ωσπερ-D μισθωτος-A1--NSM αναμενω-V1--PAPNSM ο-RA--ASM μισθος-N2--ASM αυτος-RD--GSM
+\v 3 ουτως-D καιεγω-C+RPNS υπομενω-VAI-AAI1S μην-N3--APM κενος-A1--APM νυξ-N3--NPF δε-X οδυνη-N1--GPF διδωμι-VM--XPPNPF εγω-RP--DS ειμι-V9--PAI3P
+\v 4 εαν-C κοιμαω-VC--APS1S λεγω-V1--PAI1S ποτε-D ημερα-N1A-NSF ως-C δε-X αν-X αναιστημι-VH--AAS1S παλιν-D ποτε-D εσπερα-N1A-NSF πληρης-A3H-NSM δε-X γιγνομαι-V1--PMI1S οδυνη-N1--GPF απο-P εσπερα-N1A-GSF εως-P πρωι-D
+\v 5 φυρομαι-V1--PPI3S δε-X εγω-RP--GS ο-RA--NSN σωμα-N3M-NSN εν-P σαπρια-N1A-DSF σκωληξ-N3K-GPM τηκω-V1--PAI1S δε-X βωλαξ-N3K-APF γη-N1--GSF απο-P ιχωρ-N3--GSM ξυω-V1--PAPNSM
+\v 6 ο-RA--NSM δε-X βιος-N2--NSM εγω-RP--GS ειμι-V9--PAI3S ελαφρος-A1--NSMC λαλια-N1A-GSF αποολλυω-VX--XAI3S δε-X εν-P κενος-A1--DSF ελπις-N3D-DSF
+\v 7 μιμνησκω-VS--APD2S ουν-X οτι-C πνευμα-N3M-NSN εγω-RP--GS ο-RA--NSF ζωη-N1--NSF και-C ουκετι-D επι  αναερχομαι-VF--FMI3S ο-RA--NSM οφθαλμος-N2--NSM εγω-RP--GS οραω-VB--AAN αγαθος-A1--ASN
+\v 8 ου-D περιβλεπω-VF--FMI3S εγω-RP--AS οφθαλμος-N2--NSM οραω-V3--PAPGSM εγω-RP--AS ο-RA--NPM οφθαλμος-N2--NPM συ-RP--GS εν-P εγω-RP--DS και-C ουκετι-D ειμι-V9--PAI1S
+\v 9 ωσπερ-D νεφος-N3E-NSN απο  κατααιρω-VC--APPNSN απο-P ουρανος-N2--GSM εαν-C γαρ-X ανθρωπος-N2--NSM καταβαινω-VZ--AAS3S εις-P αδης-N1M-ASM ουκετι-D μη-D αναβαινω-VZ--AAS3S
+\v 10 ουδε-C ου-D μη-D επιστρεφω-VA--AAS3S ετι-D εις-P ο-RA--ASM ιδιος-A1A-ASM οικος-N2--ASM ουδε-C μη-D επιγιγνωσκω-VZ--AAS3S αυτος-RD--ASM ετι-D ο-RA--NSM τοπος-N2--NSM αυτος-RD--GSM
+\v 11 αταρ-C ουν-X ουδε-C εγω-RP--NS φειδομαι-VF--FMI1S ο-RA--DSN στομα-N3M-DSN εγω-RP--GS λαλεω-VF--FAI1S εν-P αναγκη-N1--DSF ειμι-V9--PAPNSM αναοιγω-VF--FAI1S πικρια-N1A-ASF ψυχη-N1--GSF εγω-RP--GS συνεχω-V1--PMPNSM
+\v 12 ποτερον-D θαλασσα-N1S-NSF ειμι-V9--PAI1S η-C δρακων-N3--NSM οτι-C κατατασσω-VAI-AAI2S επι-P εγω-RP--AS φυλακη-N1--ASF
+\v 13 ειπον-VAI-AAI1S οτι-C παρακαλεω-VF--FAI3S εγω-RP--AS ο-RA--NSF κλινη-N1--NSF εγω-RP--GS αναφερω-VF--FAI1S δε-X προς-P εμαυτου-RD--ASM ιδιος-A1A-DSF λογος-N2--ASM ο-RA--DSF κοιτη-N1--DSF εγω-RP--GS
+\v 14 εκφοβεω-V2--PAI2S εγω-RP--AS ενυπνιον-N2N-DPN και-C εν-P οραμα-N3M-DPN εγω-RP--AS καταπλησσω-V1--PAI2S
+\v 15 αποαλλασσω-VF--FAI2S απο-P πνευμα-N3M-GSN εγω-RP--GS ο-RA--ASF ψυχη-N1--ASF εγω-RP--GS απο-P δε-X θανατος-N2--GSM ο-RA--APN οστεον-N2N-APN εγω-RP--GS
+\v 16 ου-D γαρ-X εις-P ο-RA--ASM αιων-N3W-ASM ζαω-VF--FMI1S ινα-C μακροθυμεω-VA--AAS1S αποιστημι-VH--AAD2S απο-P εγω-RP--GS κενος-A1--NSM γαρ-X εγω-RP--GS ο-RA--NSM βιος-N2--NSM
+\v 17 τις-RI--NSN γαρ-X ειμι-V9--PAI3S ανθρωπος-N2--NSM οτι-C μεγαλυνω-VAI-AAI2S αυτος-RD--ASM η-C οτι-C προςεχω-V1--PAI2S ο-RA--ASM νους-N3E-ASM εις-P αυτος-RD--ASM
+\v 18 η-C επισκοπη-N1--ASF αυτος-RD--GSM ποιεω-VF--FMI2S εως-P ο-RA--ASN πρωι-D και-C εις-P αναπαυσις-N3I-ASF αυτος-RD--ASM κρινω-VF2-FAI2S
+\v 19 εως-P τις-RI--GSN ου-D εαω-V3--PAI2S εγω-RP--AS ουδε-C προιημι-V6--PMI2S εγω-RP--AS εως-C αν-X καταπινω-VB--AAS1S ο-RA--ASM πτυελος-N2--ASM εγω-RP--GS εν-P οδυνη-N1--DSF
+\v 20 ει-C εγω-RP--NS αμαρτανω-VBI-AAI1S τις-RI--ASN δυναμαι-V6--PMI1S συ-RP--DS πρασσω-VA--AAN ο-RA--NSM επιιστημι-V6--PMPNSM ο-RA--ASM νους-N3E-ASM ο-RA--GPM ανθρωπος-N2--GPM δια-P τις-RI--ASN τιθημι-VEI-AMI2S εγω-RP--AS κατεντευκτης-N1M-ASM συ-RP--GS ειμι-V9--PAI1S δε-X επι-P συ-RP--DS φορτιον-N2N-ASN
+\v 21 και-C δια-P τις-RI--ASN ου-D ποιεω-VAI-AMI2S ο-RA--GSF ανομια-N1A-GSF εγω-RP--GS ληθη-N1--ASF και-C καθαρισμος-N2--ASM ο-RA--GSF αμαρτια-N1A-GSF εγω-RP--GS νυνι-D δε-X εις-P γη-N1--ASF αποερχομαι-VF--FMI1S ορθριζω-V1--PAPNSM δε-X ουκετι-D ειμι-V9--PAI1S
+
+\c 8
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *βαλδαδ-N---NSM ο-RA--NSM *σαυχιτης-N1M-NSM λεγω-V1--PAI3S
+\v 2 μεχρι-P τις-RI--GSN λαλεω-VF--FAI2S ουτος-RD--APN πνευμα-N3M-NSN πολυρρημων-A3--NSN ο-RA--GSN στομα-N3M-GSN συ-RP--GS
+\v 3 μη-D ο-RA--NSM κυριος-N2--NSM αδικεω-VF--FAI3S κρινω-V1--PAPNSM η-C ο-RA--NSM ο-RA--APN πας-A3--APN ποιεω-VA--AAPNSM ταρασσω-VF--FAI3S ο-RA--ASN δικαιος-A1A-ASN
+\v 4 ει-C ο-RA--NPM υιος-N2--NPM συ-RP--GS αμαρτανω-VBI-AAI3P εναντιον-P αυτος-RD--GSM αποστελλω-VAI-AAI3S εν-P χειρ-N3--DSF ανομια-N1A-GSF αυτος-RD--GPM
+\v 5 συ-RP--NS δε-X ορθριζω-V1--PAD2S προς-P κυριος-N2--ASM παντοκρατωρ-N3R-ASM δεω-V2--PMPNSM
+\v 6 ει-C καθαρος-A1A-NSM ειμι-V9--PAI2S και-C αληθινος-A1--NSM δεησις-N3I-GSF επιακουω-VF--FMI3S συ-RP--GS απο  καταιστημι-VF--FAI3S δε-X συ-RP--DS διαιτα-N1S-ASF δικαιοσυνη-N1--GSF
+\v 7 ειμι-VF--FMI3S ουν-X ο-RA--NPN μεν-X πρωτος-A1--NPNS συ-RP--GS ολιγος-A1--NPN ο-RA--NPN δε-X εσχατος-A1--NPN συ-RP--GS αμυθητος-A1B-NPN
+\v 8 επιερωταω-VA--AAD2S γαρ-X γενεα-N1A-ASF πρωτος-A1--ASFS εκιχνιαζω-VA--AAD2S δε-X κατα-P γενος-N3E-ASN πατηρ-N3--GPM
+\v 9 χθιζος-A1--NPM γαρ-X ειμι-V9--PAI1P και-C ου-D οιδα-VX--XAI1P σκια-N1A-NSF γαρ-X ειμι-V9--PAI3S εγω-RP--GP επι-P ο-RA--GSF γη-N1--GSF ο-RA--NSM βιος-N2--NSM
+\v 10 η-D ου-D ουτος-RD--NPM συ-RP--AS διδασκω-VF--FAI3P και-C ανααγγελλω-VF2-FAI3P και-C εκ-P καρδια-N1A-GSF εκαγω-VF--FAI3P ρημα-N3M-APN
+\v 11 μη-D θαλλω-V1--PAI3S παπυρος-N2--NSM ανευ-P υδωρ-N3T-GSN η-C υψοω-VC--FPI3S βουτομον-N2N-NSN ανευ-P ποτος-N2--GSM
+\v 12 ετι-D ειμι-V9--PAPNSN επι-P ριζα-N1S-GSF και-C ου-D μη-D θεριζω-VS--APS3S προ-P ο-RA--GSN πινω-VB--AAN πας-A1S-NSF βοτανη-N1--NSF ου-D ξηραινω-V1--PPI3S
+\v 13 ουτως-D τοινυν-X ειμι-VF--FMI3S ο-RA--NPN εσχατος-A1--NPN πας-A3--GPM ο-RA--GPM επιλανθανω-V1--PMPGPM ο-RA--GSM κυριος-N2--GSM ελπις-N3D-NSF γαρ-X ασεβης-A3H-GSM αποολλυω-VF2-FMI3S
+\v 14 αοικητος-A1B-NSM γαρ-X αυτος-RD--GSM ειμι-VF--FMI3S ο-RA--NSM οικος-N2--NSM αραχνη-N1--NSF δε-X αυτος-RD--GSM αποβαινω-VF--FMI3S ο-RA--NSF σκηνη-N1--NSF
+\v 15 εαν-C υποερειδω-VA--AAS3S ο-RA--ASF οικια-N1A-ASF αυτος-RD--GSM ου-D μη-D ιστημι-VH--AAS3S επιλαμβανω-VB--AMPGSM δε-X αυτος-RD--GSM ου-D μη-D υπομενω-VA--AAS3S
+\v 16 υγρος-A1A-NSM γαρ-X ειμι-V9--PAI3S υπο-P ηλιος-N2--GSM και-C εκ-P σαπρια-N1A-GSF αυτος-RD--GSM ο-RA--NSM ραδαμνος-N2--NSM αυτος-RD--GSM εκερχομαι-VF--FMI3S
+\v 17 επι-P συναγωγη-N1--ASF λιθος-N2--GPM κοιμαω-V3--PMI3S εν-P δε-X μεσος-A1--DSN χαλιξ-N3K-GPM ζαω-VF--FMI3S
+\v 18 εαν-C καταπινω-VA--AAS3S ο-RA--NSM τοπος-N2--NSM ψευδω-VF--FMI3S αυτος-RD--ASM ου-D οραω-VX--XAI2S τοιουτος-A1--APN
+\v 19 οτι-C καταστροφη-N1--NSF ασεβης-A3H-GSM τοιουτος-A1--NSF εκ-P δε-X γη-N1--GSF αλλος-RD--ASM αναβλαστανω-VF--FAI3S
+\v 20 ο-RA--NSM γαρ-X κυριος-N2--NSM ου-D μη-D αποποιεω-VA--AMS3S ο-RA--ASM ακακος-A1B-ASM πας-A3--ASN δε-X δωρον-N2N-ASN ασεβης-A3H-GSM ου-D δεχομαι-VF--FMI3S
+\v 21 αληθινος-A1--GPM δε-X στομα-N3M-ASN ενπιμπλημι-VF--FAI3S γελως-N3T-GSM ο-RA--APN δε-X χειλος-N3E-APN αυτος-RD--GPM εξομολογησις-N3I-GSF
+\v 22 ο-RA--NPM δε-X εχθρος-N2--NPM αυτος-RD--GPM ενδυω-VF--FMI3P αισχυνη-N1--ASF διαιτα-N1S-NSF δε-X ασεβης-A3H-GSM ου-D ειμι-VF--FMI3S
+
+\c 9
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 επι-P αληθεια-N1A-GSF οιδα-VX--XAI1S οτι-C ουτως-D ειμι-V9--PAI3S πως-D γαρ-X ειμι-VF--FMI3S δικαιος-A1A-NSM βροτος-N2--NSM παρα-P κυριος-N2--DSM
+\v 3 εαν-C γαρ-X βουλομαι-V1--PMS3S κρινω-VC--APN αυτος-RD--DSM ου-D μη-D υποακουω-VA--AAS3S αυτος-RD--DSM ινα-C μη-D αντιειπον-VB--AAS3S προς-P εις-A3--ASM λογος-N2--ASM αυτος-RD--GSM εκ-P χιλιοι-A1A-GPM
+\v 4 σοφος-A1--NSM γαρ-X ειμι-V9--PAI3S διανοια-N1A-DSF κραταιος-A1A-NSM τε-X και-C μεγας-A1P-NSM τις-RI--NSM σκληρος-A1A-NSM γιγνομαι-VB--AMPNSM εναντιον-P αυτος-RD--GSM υπομενω-VAI-AAI3S
+\v 5 ο-RA--NSM παλαιοω-V4--PAPGPM ορος-N3E-APN και-C ου-D οιδα-VX--XAI3P ο-RA--NSM καταστρεφω-V1--PAPNSM αυτος-RD--APN οργη-N1--DSF
+\v 6 ο-RA--NSM σειω-V1--PAPNSM ο-RA--ASF υπο-P ουρανος-N2--ASM εκ-P θεμελιον-N2N-GPN ο-RA--NPM δε-X στυλος-N2--NPM αυτος-RD--GSF σαλευω-V1--PAI3P
+\v 7 ο-RA--NSM λεγω-V1--PAPNSM ο-RA--DSM ηλιος-N2--DSM και-C ου-D ανατελλω-V1--PAI3S κατα-P δε-X αστρον-N2N-GPN κατασφραγιζω-V1--PAI3S
+\v 8 ο-RA--NSM τανυω-VA--AAPNSM ο-RA--ASM ουρανος-N2--ASM μονος-A1--NSM και-C περιπατεω-V2--PAPNSM ως-C επι-P εδαφος-N3E-GSN επι-P θαλασσα-N1S-GSF
+\v 9 ο-RA--NSM ποιεω-V2--PAPNSM *πλειας-N3D-APF και-C εσπερος-N2--ASM και-C αρκτουρος-N2--ASM και-C ταμιειον-N2N-APN νοτος-N2--GSM
+\v 10 ο-RA--NSM ποιεω-V2--PAPNSM μεγας-A1P-APN και-C ανεξιχνιαστος-A1B-APN ενδοξος-A1B-APN τε-X και-C εξαισιος-A1B-APN ος-RR--GPN ου-D ειμι-V9--PAI3S αριθμος-N2--NSM
+\v 11 εαν-C υπερβαινω-VZ--AAS3S εγω-RP--AS ου-D μη-D οραω-VB--AAS1S και-C εαν-C παραερχομαι-VB--AAS3S εγω-RP--AS ουδε-C ως-D γιγνωσκω-VZI-AAI1S
+\v 12 εαν-C αποαλλασσω-VA--AAS3S τις-RI--NSM αποστρεφω-VF--FAI3S η-C τις-RI--NSM ειπον-VF2-FAI3S αυτος-RD--DSM τις-RI--ASN ποιεω-VAI-AAI2S
+\v 13 αυτος-RD--NSM γαρ-X αποστρεφω-VP--XMI3S οργη-N1--ASF υπο-P αυτος-RD--GSM καμπτω-VCI-API3P κητος-N3E-NPN ο-RA--NPN υπο-P ουρανος-N2--ASM
+\v 14 εαν-C δε-X εγω-RP--GS υποακουω-VA--AMS3S η-D διακρινω-VF2-FAI3S ο-RA--APN ρημα-N3M-APN εγω-RP--GS
+\v 15 εαν-C τε-X γαρ-X ειμι-V9--PAS1S δικαιος-A1A-NSM ου-D ειςακουω-VF--FMI3S εγω-RP--GS ο-RA--GSN κριμα-N3M-GSN αυτος-RD--GSM δεω-VC--FPI1S
+\v 16 εαν-C τε-X καλεω-VA--AAS1S και-C υποακουω-VA--AAS3S ου-D πιστευω-V1--PAI1S οτι-C ειςακουω-VX--XAI3S εγω-RP--GS
+\v 17 μη-D γνοφος-N2--DSM εγω-RP--AS εκτριβω-VA--AAS3S πολυς-A1--APN δε-X εγω-RP--GS ο-RA--APN συντριμμα-N3M-APN ποιεω-VX--XAI3S δια-P κενος-A1--GSF
+\v 18 ου-D εαω-V3--PAI3S γαρ-X εγω-RP--AS αναπνεω-VA--AAN ενπιμπλημι-VAI-AAI3S δε-X εγω-RP--AS πικρια-N1A-GSF
+\v 19 οτι-C μεν-X γαρ-X ισχυς-N3U-DSF κρατεω-V2--PAI3S τις-RI--NSM ουν-X κριμα-N3M-DSN αυτος-RD--GSM αντιιστημι-VF--FMI3S
+\v 20 εαν-C γαρ-X ειμι-V9--PAS1S δικαιος-A1A-NSM ο-RA--NSN στομα-N3M-NSN εγω-RP--GS ασεβεω-VF--FAI3S εαν-C τε-X ειμι-V9--PAS1S αμεμπτος-A1B-NSM σκολιος-A1A-NSM αποβαινω-VF--FMI1S
+\v 21 ειτε-C γαρ-X ασεβεω-VAI-AAI1S ου-D οιδα-VX--XAI1S ο-RA--DSF ψυχη-N1--DSF πλην-D οτι-C αποαιρεω-V2--PPI3S εγω-RP--GS ο-RA--NSF ζωη-N1--NSF
+\v 22 διο-C ειπον-VBI-AAI1S μεγας-A1--ASM και-C δυναστης-N1M-ASM αποολλυω-V5--PAI3S οργη-N1--NSF
+\v 23 οτι-C φαυλος-A1--NPM εν-P θανατος-N2--DSM εξαισιος-A1B-DSM αλλα-C δικαιος-A1A-NPM καταγελαω-V3--PMI3P
+\v 24 παραδιδωμι-VM--XPI3P γαρ-X εις-P χειρ-N3--APF ασεβης-A3H-GSM προσωπον-N2N-APN κριτης-N1M-GPM αυτος-RD--GSF συνκαλυπτω-V1--PAI3S ει-C δε-X μη-D αυτος-RD--NSM τις-RI--NSM ειμι-V9--PAI3S
+\v 25 ο-RA--NSM δε-X βιος-N2--NSM εγω-RP--GS ειμι-V9--PAI3S ελαφρος-A1--NSMC δρομευς-N3V-GSM αποδιδρασκω-VBI-AAI3P και-C ου-D οραω-VBI-AAI3P
+\v 26 η-D και-C ειμι-V9--PAI3S ναυς-N3--DPF ιχνος-N3E-NSN οδος-N2--GSF η-C αετος-N2--GSM πετομαι-V1--PMPGSM ζητεω-V2--PAPGSM βορα-N1A-ASF
+\v 27 εαν-C τε-X γαρ-X ειπον-VB--AAS1S επιλανθανω-VF--FMI1S λαλεω-V2--PAPNSM συνκυπτω-VA--AAPNSM ο-RA--DSN προσωπον-N2N-DSN στεναζω-VF--FAI1S
+\v 28 σειω-V1--PMI1S πας-A3--DPN ο-RA--DPN μελος-N3E-DPN οιδα-VX--XAI1S γαρ-X οτι-C ου-D αθωος-A1--ASM εγω-RP--AS εαω-VF--FAI2S
+\v 29 επειδη-C δε-X ειμι-V9--PAI1S ασεβης-A3H-NSM δια-P τις-RI--ASN ου-D αποθνησκω-VBI-AAI1S
+\v 30 εαν-C γαρ-X απολουω-VA--AMS1S χιων-N3N-DSF και-C απο  κατααιρω-VA--AMS1S χειρ-N3--DPF καθαρος-A1A-DPF
+\v 31 ικανως-D εν-P ρυπος-N2--DSM εγω-RP--AS βαπτω-VAI-AAI2S βδελυσσω-VAI-AMI3S δε-X εγω-RP--AS ο-RA--NSF στολη-N1--NSF
+\v 32 ου-D γαρ-X ειμι-V9--PAI2S ανθρωπος-N2--NSM κατα-P εγω-RP--AS ος-RR--DSM αντικρινω-VF2-FMI1S ινα-C ερχομαι-VB--AAS1P ομοθυμαδον-D εις-P κρισις-N3I-ASF
+\v 33 ειθε-I ειμι-V9--IAI3S ο-RA--NSM μεσιτης-N1M-NSM εγω-RP--GP και-C ελεγχω-V1--PAPNSM και-C διαακουω-V1--PAPNSM ανα-P μεσος-A1--ASN αμφοτεροι-A1A-GPM
+\v 34 αποαλλασσω-VA--AAD3S απο-P εγω-RP--GS ο-RA--ASF ραβδος-N2--ASF ο-RA--NSM δε-X φοβος-N2--NSM αυτος-RD--GSM μη-D εγω-RP--AS στροβεω-V2--PAD3S
+\v 35 και-C ου-D μη-D φοβεω-VC--APS1S αλλα-C λαλεω-VF--FAI1S ου-D γαρ-X ουτως-D συν   επιισταμαι-V6--PMI1S
+
+\c 10
+\p
+\v 1 καμνω-V1--PAPNSM ο-RA--DSF ψυχη-N1--DSF εγω-RP--GS στενω-V1--PAPNSM επι  αποιημι-VF--FAI1S επι-P αυτος-RD--ASM ο-RA--APN ρημα-N3M-APN εγω-RP--GS λαλεω-VF--FAI1S πικρια-N1A-DSF ψυχη-N1--GSF εγω-RP--GS συνεχω-V1--PMPNSM
+\v 2 και-C ειπον-VF2-FAI1S προς-P κυριος-N2--ASM μη-D εγω-RP--AS ασεβεω-V2--PAN διδασκω-V1--PAD2S και-C δια-P τις-RI--ASN εγω-RP--AS ουτως-D κρινω-VAI-AAI2S
+\v 3 η-D καλος-A1--NSN συ-RP--DS εαν-C αδικεω-VA--AAS1S οτι-C αποειπον-VB--AAS1S εργον-N2N-APN χειρ-N3--GPF συ-RP--GS βουλη-N1--DSF δε-X ασεβης-A3H-GPM προςεχω-VBI-AAI2S
+\v 4 η-D ωσπερ-D βροτος-N2--NSM οραω-V3--PAI3S καταοραω-V3--PAI2S η-C καθως-D οραω-V3--PAI3S ανθρωπος-N2--NSM βλεπω-VF--FMI2S
+\v 5 η-D ο-RA--NSM βιος-N2--NSM συ-RP--GS ανθρωπινος-A1--NSM ειμι-V9--PAI3S η-C ο-RA--NPN ετος-N3E-NPN συ-RP--GS ανηρ-N3--GSM
+\v 6 οτι-C αναζητεω-VAI-AAI2S ο-RA--ASF ανομια-N1A-ASF εγω-RP--GS και-C ο-RA--APF αμαρτια-N1A-APF εγω-RP--GS εξιχνιαζω-VAI-AAI2S
+\v 7 οιδα-VX--XAI2S γαρ-X οτι-C ου-D ασεβεω-VAI-AAI1S αλλα-C τις-RI--NSM ειμι-V9--PAI3S ο-RA--NSM εκ-P ο-RA--GPF χειρ-N3--GPF συ-RP--GS εκαιρεω-V2--PMPNSM
+\v 8 ο-RA--NPF χειρ-N3--NPF συ-RP--GS πλασσω-VAI-AAI3P εγω-RP--AS και-C ποιεω-VAI-AAI3P εγω-RP--AS μετα-P ουτος-RD--APN μεταβαλλω-VB--AAPNSM εγω-RP--AS παιω-VAI-AAI2S
+\v 9 μιμνησκω-VS--APD2S οτι-C πηλος-N2--ASM εγω-RP--AS πλασσω-VAI-AAI2S εις-P δε-X γη-N1--ASF εγω-RP--AS παλιν-D αποστρεφω-V1--PAI2S
+\v 10 η-D ου-D ωσπερ-D γαλα-N3--ASN εγω-RP--AS αμελγω-VAI-AAI2S τυροω-VAI-AAI2S δε-X εγω-RP--AS ισος-D τυρος-N2--DSM
+\v 11 δερμα-N3M-ASN και-C κρεας-N3--ASN εγω-RP--AS ενδυω-VAI-AAI2S οστεον-N2N-DPN δε-X και-C νευρον-N2--DPN εγω-RP--AS ενειρω-VAI-AAI2S
+\v 12 ζωη-N1--ASF δε-X και-C ελεος-N3E-ASN τιθημι-VEI-AMI2S παρα-P εγω-RP--DS ο-RA--NSF δε-X επισκοπη-N1--NSF συ-RP--GS φυλασσω-VAI-AAI3S εγω-RP--GS ο-RA--ASN πνευμα-N3M-ASN
+\v 13 ουτος-RD--APN εχω-V1--PAPNSM εν-P σεαυτου-RD--DSM οιδα-VX--XAI1S οτι-C πας-A3--APN δυναμαι-V6--PMI2S αδυνατεω-V2--PAI3S δε-X συ-RP--DS ουδεις-A3--NSN
+\v 14 εαν-C τε-X γαρ-X αμαρτανω-VB--AAS1S φυλασσω-V1--PAI2S εγω-RP--AS απο-P δε-X ανομια-N1A-GSF ου-D αθωος-A1--ASM εγω-RP--AS ποιεω-VX--XAI2S
+\v 15 εαν-C τε-X γαρ-X ασεβης-A3H-NSM ειμι-V9--PAS1S οιμμοι-I εαν-C τε-X ειμι-V9--PAS1S δικαιος-A1A-NSM ου-D δυναμαι-V6--PMI1S ανακυπτω-VA--AAN πληρης-A3H-NSM γαρ-X ατιμια-N1A-GSF ειμι-V9--PAI1S
+\v 16 αγρευω-V1--PPI1S γαρ-X ωσπερ-D λεων-N3W-NSM εις-P σφαγη-N1--ASF παλιν-D δε-X μεταβαλλω-VB--AAPNSM δεινως-D εγω-RP--AS ολεκω-V1--PAI2S
+\v 17 επι  ανακαινιζω-V1--PAPNSM επι-P εγω-RP--AS ο-RA--ASF ετασις-N3I-ASF εγω-RP--GS οργη-N1--DSF δε-X μεγας-A1--DSF εγω-RP--DS χραω-VAI-AMI2S επιαγω-VBI-AAI2S δε-X επι-P εγω-RP--AS πειρατηριον-N2N-APN
+\v 18 ινα-C τις-RI--NSN ουν-X εκ-P κοιλια-N1A-GSF εγω-RP--AS εκαγω-VBI-AAI2S και-C ου-D αποθνησκω-VBI-AAI1S οφθαλμος-N2--NSM δε-X εγω-RP--AS ου-D οραω-VBI-AAI3S
+\v 19 και-C ωσπερ-D ου-D ειμι-V9--PAPNSM γιγνομαι-VBI-AMI1S δια-P τις-RI--ASN γαρ-X εκ-P γαστηρ-N3--GSF εις-P μνημα-N3M-ASN ου-D αποαλλασσω-VCI-API1S
+\v 20 η-D ου-D ολιγος-A1--NSM ειμι-V9--PAI3S ο-RA--NSM χρονος-N2--NSM ο-RA--GSM βιος-N2--GSM εγω-RP--GS εαω-VA--AAD2S εγω-RP--AS αναπαυω-VA--AMN μικρος-A1A-ASN
+\v 21 προ-P ο-RA--GSN εγω-RP--AS πορευομαι-VC--APN οθεν-D ου-D αναστρεφω-VF--FAI1S εις-P γη-N1--ASF σκοτεινος-A1--ASF και-C γνοφερος-A1A-ASF
+\v 22 εις-P γη-N1--ASF σκοτος-N3E-GSN αιωνιος-A1B-GSN ος-RR--GSM ου-D ειμι-V9--PAI3S φεγγος-N3E-NSN ουδε-C οραω-V3--PAN ζωη-N1--ASF βροτος-N2--GPM
+
+\c 11
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *σωφαρ-N---NSM ο-RA--NSM *μιναιος-N2--NSM λεγω-V1--PAI3S
+\v 2 ο-RA--NSM ο-RA--APN πολυς-A1--APN λεγω-V1--PAPNSM και-C αντιακουω-VF--FMI3S η-C και-C ο-RA--NSM ευλαλος-A1B-NSM οιομαι-V1--PMI3S ειμι-V9--PAN δικαιος-A1A-NSM ευλογεω-VM--XPPNSM γεννητος-A1--NSM γυνη-N3K-GSF ολιγοβιος-A1B-NSM
+\v 3 μη-D πολυς-A3U-NSM εν-P ρημα-N3M-DPN γιγνομαι-V1--PMD2S ου-D γαρ-X ειμι-V9--PAI3S ο-RA--NSM αντικρινω-V1--PMPNSM συ-RP--DS
+\v 4 μη-D γαρ-X λεγω-V1--PAD2S οτι-C καθαρος-A1A-NSM ειμι-V9--PAI1S ο-RA--DPN εργον-N2N-DPN και-C αμεμπτος-A1B-NSM εναντιον-P αυτος-RD--GSM
+\v 5 αλλα-C πως-D αν-X ο-RA--NSM κυριος-N2--NSM λαλεω-VA--AAN προς-P συ-RP--AS και-C αναοιγω-VF--FAI3S χειλος-N3E-APN αυτος-RD--GSM μετα-P συ-RP--GS
+\v 6 ειτα-D ανααγγελλω-VF2-FAI3S συ-RP--DS δυναμις-N3I-ASF σοφια-N1A-GSF οτι-C διπλους-A1C-NSM ειμι-VF--FMI3S ο-RA--GPN κατα-P συ-RP--AS και-C τοτε-D γιγνωσκω-VF--FMI2S οτι-C αξιος-A1A-NPN συ-RP--DS αποβαινω-VZI-AAI3S απο-P κυριος-N2--GSM ος-RR--GPN αμαρτανω-VX--XAI2S
+\v 7 η-D ιχνος-N3E-ASN κυριος-N2--GSM ευρισκω-VF--FAI2S η-C εις-P ο-RA--APN εσχατος-A1--APN αποικνεομαι-VB--AMI2S ος-RR--APN ποιεω-VAI-AAI3S ο-RA--NSM παντοκρατωρ-N3R-NSM
+\v 8 υψηλος-A1--NSM ο-RA--NSM ουρανος-N2--NSM και-C τις-RI--ASN ποιεω-VF--FAI2S βαθυς-A1A-APNC δε-X ο-RA--GPM εν-P αδης-N1M-GSM τις-RI--ASN οιδα-VX--XAI2S
+\v 9 η-C μακρος-A1A-APNC μετρον-N2N-GSN γη-N1--GSF η-C ευρος-N3E-GSN θαλασσα-N1S-GSF
+\v 10 εαν-C δε-X καταστρεφω-VF--FMI2S ο-RA--APN πας-A3--APN τις-RI--NSM ειπον-VF2-FAI3S αυτος-RD--DSM τις-RI--ASN ποιεω-VAI-AAI2S
+\v 11 αυτος-RD--NSM γαρ-X οιδα-VX--XAI3S εργον-N2N-APN ανομος-A1B-GPM οραω-VB--AAPNSM δε-X ατοπος-A1B-APN ου-D παραοραω-VF--FMI3S
+\v 12 ανθρωπος-N2--NSM δε-X αλλως-D νηχω-V1--PMI3S λογος-N2--DPM βροτος-N2--NSM δε-X γεννητος-A1--NSM γυνη-N3K-GSF ισος-D ονος-N2--DSM ερημιτης-N1M-DSM
+\v 13 ει-C γαρ-X συ-RP--NS καθαρος-A1A-ASF τιθημι-VEI-AMI2S ο-RA--ASF καρδια-N1A-ASF συ-RP--GS υποτιαζω-V1--PAI2S δε-X χειρ-N3--APF προς-P αυτος-RD--ASM
+\v 14 ει-C ανομος-A1B-NSN τις-RI--NSN ειμι-V9--PAI3S εν-P χειρ-N3--DPF συ-RP--GS πορρω-D ποιεω-VA--AAD2S αυτος-RD--ASN απο-P συ-RP--GS αδικια-N1A-NSF δε-X εν-P διαιτα-N1S-DSF συ-RP--GS μη-D αυλιζω-VS--APD3S
+\v 15 ουτως-D γαρ-X αναλαμπω-VF--FMI2S συ-RP--GS ο-RA--ASN προσωπον-N2N-ASN ωσπερ-D υδωρ-N3--NSN καθαρος-A1A-NSN εκδυω-VF--FMI2S δε-X ρυπος-N2--ASN και-C ου-D μη-D φοβεω-VC--APS2S
+\v 16 και-C ο-RA--ASM κοπος-N2--ASM επιλανθανω-VF--FMI2S ωσπερ-D κυμα-N3M-ASN παραερχομαι-VB--AAPASN και-C ου-D πτοεω-VC--FPI2S
+\v 17 ο-RA--NSF δε-X ευχη-N1--NSF συ-RP--GS ωσπερ-D εωσφορος-N2--NSM εκ-P δε-X μεσημβρια-N1A-GSF ανατελλω-VF2-FAI3S συ-RP--DS ζωη-N1--NSF
+\v 18 πειθω-VX--XAPNSM τε-X ειμι-VF--FMI2S οτι-C ειμι-V9--PAI3S συ-RP--DS ελπις-N3D-NSF εκ-P δε-X μεριμνα-N1S-GSF και-C φροντις-N3D-GSF αναφαινω-VF2-FMI3S συ-RP--DS ειρηνη-N1--NSF
+\v 19 ησυχαζω-VF--FAI2S γαρ-X και-C ου-D ειμι-VF--FMI3S ο-RA--NSM πολεμεω-V2--PAPNSM συ-RP--AS μεταβαλλω-VB--AMPNPM δε-X πολυς-A1--NPM συ-RP--GS δεω-VC--FPI3P
+\v 20 σωτηρια-N1A-NSF δε-X αυτος-RD--APM απολειπω-VF--FAI3S ο-RA--NSF γαρ-X ελπις-N3D-NSF αυτος-RD--GPM απωλεια-N1A-NSF οφθαλμος-N2--NPM δε-X ασεβης-A3H-GPM τηκω-VD--FPI3P
+
+\c 12
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 ειτα-D συ-RP--NP ειμι-V9--PAI2P ανθρωπος-N2--NPM η-D μετα-P συ-RP--GP τελευταω-VF--FAI3S σοφια-N1A-NSF
+\v 3 καιεμος-C+RPDS μεν-X καρδια-N1A-NSF κατα-P συ-RP--AP ειμι-V9--PAI3S
+\v 4 δικαιος-A1A-NSM γαρ-X ανηρ-N3--NSM και-C αμεμπτος-A1B-NSM γιγνομαι-VCI-API3S εις-P χλευασμα-N3M-ASN
+\v 5 εις-P χρονος-N2--ASM γαρ-X τακτος-A1--ASM ετοιμαζω-VA--IMI3S πιπτω-VB--AAN υπο-P αλλος-RD--APM οικος-N2--APM τε-X αυτος-RD--GSM εκπορθεω-V2--PPN υπο-P ανομος-A1B-GPM
+\v 6 ου-D μην-X δε-X αλλα-C μηδεις-A3P-NSM πειθω-VX--XAD3S πονηρος-A1A-NSM ειμι-V9--PAPNSM αθωος-A1--NSM ειμι-VF--FMN οσος-A1--NPM παραοργιζω-V1--PAI3P ο-RA--ASM κυριος-N2--ASM ως-C ου-D και-D ετασις-N3I-NSF αυτος-RD--GPM ειμι-VF--FMI3S
+\v 7 αλλα-C δη-X επιερωταω-VA--AAD2S τετραποδος-A1B-APN εαν-C συ-RP--DS ειπον-VB--AAS3P πετεινος-A1--APN δε-X ουρανος-N2--GSM εαν-C συ-RP--DS αποαγγελλω-VA--AAS3P
+\v 8 εκ   διαηγεομαι-VA--AMD2S δε-X γη-N1--DSF εαν-C συ-RP--DS φραζω-VA--AAS3S και-C εκηγεομαι-VF--FMI3P συ-RP--DS ο-RA--NPM ιχθυς-N3U-NPM ο-RA--GSF θαλασσα-N1S-GSF
+\v 9 τις-RI--NSM ου-D γιγνωσκω-VZI-AAI3S εν-P πας-A3--DPM ουτος-RD--DPM οτι-C χειρ-N3--NSF κυριος-N2--GSM ποιεω-VAI-AAI3S ουτος-RD--APN
+\v 10 ει-C μη-D εν-P χειρ-N3--DSF αυτος-RD--GSM ψυχη-N1--NSF πας-A3--GPM ο-RA--GPM ζαω-V3--PAPGPM και-C πνευμα-N3M-NSN πας-A3--GSM ανθρωπος-N2--GSM
+\v 11 ους-N3T-NSN μεν-X γαρ-X ρημα-N3M-APN διακρινω-V1--PAI3S λαρυγξ-N3G-NSM δε-X σιτος-N2--APN γευω-V1--PMI3S
+\v 12 εν-P πολυς-A1--DSM χρονος-N2--DSM σοφια-N1A-NSF εν-P δε-X πολυς-A1--DSM βιος-N2--DSM επιστημη-N1--NSF
+\v 13 παρα-P αυτος-RD--DSM σοφια-N1A-NSF και-C δυναμις-N3I-NSF αυτος-RD--DSM βουλη-N1--NSF και-C συνεσις-N3I-NSF
+\v 14 εαν-C καταβαλλω-VB--AAS3S τις-RI--NSM οικοδομεω-VF--FAI3S εαν-C κλειω-VA--AAS3S κατα-P ανθρωπος-N2--GPM τις-RI--NSM αναοιγω-VF--FAI3S
+\v 15 εαν-C κωλυω-VA--AAS3S ο-RA--ASN ωδωρ-N3T-ASN ξηραινω-VF2-FAI3S ο-RA--ASF γη-N1--ASF εαν-C δε-X επιαφιημι-VH--AAS3S αποολλυω-VAI-AAI3S αυτος-RD--ASF καταστρεφω-VA--AAPNSM
+\v 16 παρα-P αυτος-RD--DSM κρατος-N3E-NSN και-C ισχυς-N3U-NSF αυτος-RD--DSM επιστημη-N1--NSF και-C συνεσις-N3I-NSF
+\v 17 διααγω-V1--PAPNSM βουλευτης-N1M-APM αιχμαλωτος-A1B-APM κριτης-N1M-APM δε-X γη-N1--GSF εκιστημι-VHI-AAI3S
+\v 18 καθιζανω-V1--PAPNSM βασιλευς-N3V-APM επι-P θρονος-N2--APM και-C περιδεω-VAI-AAI3S ζωνη-N1--DSF οσφυς-N3--APF αυτος-RD--GPM
+\v 19 εκ   αποστελλω-V1--PAPNSM ιερευς-N3V-APM αιχμαλωτος-A1B-APM δυναστης-N1M-APM δε-X γη-N1--GSF καταστρεφω-VAI-AAI3S
+\v 20 διααλλασσω-V1--PAPNSM χειλος-N3E-APN πιστος-A1--GPM συνεσις-N3I-ASF δε-X πρεσβυτερος-A1A-GPM γιγνωσκω-VZI-AAI3S
+\v 21 εκχεω-V2--PAPNSM ατιμια-N1A-ASF επι-P αρχων-N3--APM ταπεινος-A1--APM δε-X ιαομαι-VAI-AMI3S
+\v 22 ανακαλυπτω-V1--PAPNSM βαθυς-A3U-APN εκ-P σκοτος-N3E-GSN εκαγω-VBI-AAI3S δε-X εις-P φως-N3T-ASN σκια-N1A-ASF θανατος-N2--GSM
+\v 23 πλαναω-V3--PAPNSM εθνος-N3E-APN και-C αποολλυω-V5--PAPNSM αυτος-RD--APN καταστρωννυω-V1--PAPNSM εθνος-N3E-APN και-C καταοδηγεω-V2--PAPNSM αυτος-RD--APN
+\v 24 διααλλασσω-V1--PAPNSM καρδια-N1A-APF αρχων-N3--GPM γη-N1--GSF πλαναω-VAI-AAI3S δε-X αυτος-RD--APM οδος-N2--DSF ος-RR--DSF ου-D οιδα-VXI-YAI3P
+\v 25 ψηλαφαω-VA--AAO3P σκοτος-N3E-ASN και-C μη-D φως-N3T-ASN πλαναω-VC--APO3P δε-X ωσπερ-D ο-RA--NSM μεθυω-V1--PAPNSM
+
+\c 13
+\p
+\v 1 ιδου-I ουτος-RD--APN οραω-VX--XAI3S εγω-RP--GS ο-RA--NSM οφθαλμος-N2--NSM και-C ακουω-VX--XAI3S εγω-RP--GS ο-RA--NSN ους-N3T-NSN
+\v 2 και-C οιδα-VX--XAI1S οσος-A1--APN και-D συ-RP--NP επισταμαι-V6--PMI2P και-C ου-D ασυνετος-A1B-NSMC ειμι-V9--PAI1S συ-RP--GP
+\v 3 ου-D μην-X δε-X αλλα-C εγω-RP--NS προς-P κυριος-N2--ASM λαλεω-VF--FAI1S ελεγχω-VF--FAI1S δε-X εναντιον-P αυτος-RD--GSM εαν-C βουλομαι-V1--PMS3S
+\v 4 συ-RP--NP δε-X ειμι-V9--PAI2P ιατρος-N2--NPM αδικος-A1B-NPM και-C ιατης-N1M-NPM κακος-A1--GPN πας-A3--NPM
+\v 5 ειμι-V9--PAO3S δε-X συ-RP--DP κωφευω-VA--AAN και-C αποβαινω-VF--FMI3S συ-RP--DP εις-P σοφια-N1A-ASF
+\v 6 ακουω-VA--AAD2P ελεγχος-N2--ASM στομα-N3M-GSN εγω-RP--GS κρισις-N3I-ASF δε-X χειλος-N3E-GPN εγω-RP--GS προςεχω-V1--PAD2P
+\v 7 ποτερον-D ου-D εναντι-P κυριος-N2--GSM λαλεω-V2--PAI2P εναντι-P δε-X αυτος-RD--GSM φθεγγομαι-V1--PMI2P δολος-N2--ASM
+\v 8 η-D υποστελλω-VF2-FMI2P συ-RP--NP δε-X αυτος-RD--NPM κριτης-N1M-NPM γιγνομαι-VB--AMD2P
+\v 9 καλος-A1--NSN γε-X εαν-C εκιχνιαζω-VA--AAS3S συ-RP--AP ει-C γαρ-X ο-RA--APN πας-A3--APN ποιεω-V2--PAPNPM προςτιθημι-VC--FPI2P αυτος-RD--DSM
+\v 10 ουδεις-A3--NSN ησσων-A3C-NSN ελεγχω-VF--FAI3S συ-RP--AP ει-C δε-X και-C κρυφη-D προσωπον-N2N-APN θαυμαζω-VF--FAI2P
+\v 11 ποτερον-D ου-D δεινος-A1--NPN αυτος-RD--GSM στροβεω-VF--FAI3S συ-RP--AP φοβος-N2--NSM δε-X παρα-P αυτος-RD--GSM επιπιπτω-VF2-FMI3S συ-RP--DP
+\v 12 αποβαινω-VF--FMI3S δε-X συ-RP--GP ο-RA--NSN αγαυριαμα-N3M-NSN ισος-D σποδος-N2--DSF ο-RA--ASN δε-X σωμα-N3M-ASN πηλινος-A1--ASN
+\v 13 κωφευω-VA--AAD2P ινα-C λαλεω-VA--AAS1S και-C αναπαυω-VA--AMS1S θυμος-N2--GSM
+\v 14 αναλαμβανω-VB--AAPNSM ο-RA--APF σαρξ-N3K-APF εγω-RP--GS ο-RA--DPM οδους-N3--DPM ψυχη-N1--ASF δε-X εγω-RP--GS τιθημι-VF--FAI1S εν-P χειρ-N3--DSF
+\v 15 εαν-C εγω-RP--AS χειροομαι-VA--AMS3S ο-RA--NSM δυναστης-N1M-NSM επει-C και-D αρχω-VM--XMI3S η-D μην-X λαλεω-VF--FAI1S και-C ελεγχω-VF--FAI1S εναντιον-P αυτος-RD--GSM
+\v 16 και-C ουτος-RD--NSN εγω-RP--DS αποβαινω-VF--FMI3S εις-P σωτηρια-N1A-ASF ου-D γαρ-X εναντιον-P αυτος-RD--GSM δολος-N2--NSM ειςερχομαι-VF--FMI3S
+\v 17 ακουω-VA--AAD2P ακουω-VA--AAD2P ο-RA--APN ρημα-N3M-APN εγω-RP--GS ανααγγελλω-VF2-FAI1S γαρ-X συ-RP--GP ακουω-V1--PAPGPM
+\v 18 ιδου-I εγω-RP--NS εγγυς-D ειμι-V9--PAI1S ο-RA--GSN κριμα-N3M-GSN εγω-RP--GS οιδα-VX--XAI1S εγω-RP--NS οτι-C δικαιος-A1A-NSM αναφαινω-VF2-FMI1S
+\v 19 τις-RI--NSM γαρ-X ειμι-V9--PAI3S ο-RA--NSM κρινω-VC--FPPNSM εγω-RP--DS οτι-C νυν-D κωφευω-VF--FAI1S και-C εκλειπω-VF--FAI1S
+\v 20 δυο-M---DPN δε-X εγω-RP--DS χραω-VF--FMI2S τοτε-D απο-P ο-RA--GSN προσωπον-N2N-GSN συ-RP--GS ου-D κρυπτω-VD--FPI1S
+\v 21 ο-RA--ASF χειρ-N3--ASF απο-P εγω-RP--GS αποεχω-V1--PMD2S και-C ο-RA--NSM φοβος-N2--NSM συ-RP--GS μη-D εγω-RP--AS καταπλησσω-V1--PAD3S
+\v 22 ειτα-D καλεω-VF--FAI2S εγω-RP--NS δε-X συ-RP--DS υποακουω-VF--FMI1S η-C λαλεω-VF--FAI2S εγω-RP--NS δε-X συ-RP--DS διδωμι-VF--FAI1S ανταποκρισις-N3I-ASF
+\v 23 ποσος-A1--NPF ειμι-V9--PAI3P ο-RA--NPF αμαρτια-N1A-NPF εγω-RP--GS και-C ο-RA--NPF ανομια-N1A-NPF εγω-RP--GS διδασκω-VA--AAD2S εγω-RP--AS τις-RI--NPM ειμι-V9--PAI3P
+\v 24 δια-P τις-RI--ASN απο-P εγω-RP--GS κρυπτω-V1--PMI2S ηγεομαι-VM--XMI2S δε-X εγω-RP--AS υπεναντιος-A1A-ASM συ-RP--DS
+\v 25 η-D ως-C φυλλον-N2N-ASN κινεω-V2--PPPASN υπο-P ανεμος-N2--GSM ευλαβεομαι-VC--FPI2S η-C ως-C χορτος-N2--DSM φερω-V1--PPPDSM υπο-P πνευμα-N3M-GSN αντικειμαι-V5--PMI2S εγω-RP--DS
+\v 26 οτι-C καταγραφω-VAI-AAI2S κατα-P εγω-RP--GS κακος-A1--APN περιτιθημι-VAI-AAI2S δε-X εγω-RP--DS νεοτης-N3T-GSF αμαρτια-N1A-APF
+\v 27 τιθημι-VEI-AMI2S δε-X εγω-RP--GS ο-RA--ASM πους-N3D-ASM εν-P κωλυμα-N3M-DSN φυλασσω-VAI-AAI2S δε-X εγω-RP--GS πας-A3--APN ο-RA--APN εργον-N2N-APN εις-P δε-X ριζα-N1S-APF ο-RA--GPM πους-N3D-GPM εγω-RP--GS αποικνεομαι-VB--AMI2S
+\v 28 ος-RR--NSN παλαιοω-V4--PPI3S ισος-D ασκος-N2--DSM η-C ωσπερ-D ιματιον-N2N-NSN σητοβρωτον-A1B-NSN
+
+\c 14
+\p
+\v 1 βροτος-N2--NSM γαρ-X γεννητος-A1--NSM γυνη-N3K-GSF ολιγοβιος-A1B-NSM και-C πληρης-A3H-NSM οργη-N1--GSF
+\v 2 η-C ωσπερ-D ανθος-N3E-NSN ανθεω-VA--AAPNSN εκπιπτω-VBI-AAI3S αποδιδρασκω-VBI-AAI3S δε-X ωσπερ-D σκια-N1A-NSF και-C ου-D μη-D ιστημι-VH--AAS3S
+\v 3 ου-D και-C ουτος-RD--GSM λογος-N2--ASM ποιεω-VAI-AMI2S και-C ουτος-RD--ASM ποιεω-VAI-AAI2S ειςερχομαι-VB--AAN εν-P κριμα-N3M-DSN ενωπιον-P συ-RP--GS
+\v 4 τις-RI--NSM γαρ-X καθαρος-A1A-NSM ειμι-VF--FMI3S απο-P ρυπος-N2--GSM αλλα-C ουδεις-A3--NSF
+\v 5 εαν-C και-C εις-A1A-NSF ημερα-N1A-NSF ο-RA--NSM βιος-N2--NSM αυτος-RD--GSM επι-P ο-RA--GSF γη-N1--GSF αριθμητος-A1--NPM δε-X μην-N3--NPM αυτος-RD--GSM παρα-P συ-RP--DS εις-P χρονος-N2--ASM τιθημι-VEI-AMI2S και-C ου-D μη-D υπερβαινω-VZ--AAS3S
+\v 6 αποιστημι-VH--AAD2S απο-P αυτος-RD--GSM ινα-C ησυχαζω-VA--AAS3S και-C ευδοκεω-VA--AAS3S ο-RA--ASM βιος-N2--ASM ωσπερ-D ο-RA--NSM μισθωτος-A1--NSM
+\v 7 ειμι-V9--PAI3S γαρ-X δενδρον-N2N-DSN ελπις-N3D-NSF εαν-C γαρ-X εκκοπτω-VD--AAS3S ετι-D επιανθεω-VF--FAI3S και-C ο-RA--NSM ραδαμνος-N2--NSM αυτος-RD--GSN ου-D μη-D εκλειπω-VB--AAS3S
+\v 8 εαν-C γαρ-X γηραω-VA--AAS3S εν-P γη-N1--DSF ο-RA--NSF ριζα-N1S-NSF αυτος-RD--GSN εν-P δε-X πετρα-N1A-DSF τελευταω-VA--AAS3S ο-RA--NSN στελεχος-N3E-NSN αυτος-RD--GSN
+\v 9 απο-P οσμη-N1--GSF υδωρ-N3T-GSN ανθεω-VF--FAI3S ποιεω-VF--FAI3S δε-X θερισμος-N2--ASM ωσπερ-D νεοφυτος-A1B-ASN
+\v 10 ανηρ-N3--NSM δε-X τελευταω-VA--AAPNSM οιχομαι-V1I-IMI3S πιπτω-VB--AAPNSM δε-X βροτος-N2--NSM ουκετι-D ειμι-V9--PAI3S
+\v 11 χρονος-N2--DSM γαρ-X σπανιζω-V1--PPI3S θαλασσα-N1S-NSF ποταμος-N2--NSM δε-X ερημοω-VC--APPNSM ξηραινω-VCI-API3S
+\v 12 ανθρωπος-N2--NSM δε-X κοιμαω-VC--APPNSM ου-D μη-D αναιστημι-VH--AAS3S εως-C αν-X ο-RA--NSM ουρανος-N2--NSM ου-D μη-D συνραπτω-VD--APS3S και-C ου-D εκυπνιζω-VS--FPI3S εκ-P υπνος-N2--GSM αυτος-RD--GPM
+\v 13 ει-C γαρ-X οφειλω-VB--AAI1S εν-P αδης-N1M-DSM εγω-RP--AS φυλασσω-VAI-AAI2S κρυπτω-VAI-AAI2S δε-X εγω-RP--AS εως-C αν-X παυω-VA--AMS3S συ-RP--GS ο-RA--NSF οργη-N1--NSF και-C τασσω-VA--AAS3S εγω-RP--DS χρονος-N2--ASM εν-P ος-RR--DSM μνεια-N1A-ASF εγω-RP--GS ποιεω-VF--FMI2S
+\v 14 εαν-C γαρ-X αποθνησκω-VB--AAS3S ανθρωπος-N2--NSM ζαω-VF--FMI3S συντελεω-VA--AAPNSM ημερα-N1A-APF ο-RA--GSM βιος-N2--GSM αυτος-RD--GSM υπομενω-VA--AAS1S εως-C αν-X παλιν-D γιγνομαι-VB--AMS1S
+\v 15 ειτα-D καλεω-VF--FAI2S εγω-RP--NS δε-X συ-RP--DS υποακουω-VF--FMI1S ο-RA--APN δε-X εργον-N2N-APN ο-RA--GPF χειρ-N3--GPF συ-RP--GS μη-D αποποιεω-V2--PMD2S
+\v 16 αριθμεω-VAI-AAI2S δε-X εγω-RP--GS ο-RA--APN επιτηδευμα-N3M-APN και-C ου-D μη-D παραερχομαι-VB--AAS3S συ-RP--AS ουδεις-A3--NSN ο-RA--GPF αμαρτια-N1A-GPF εγω-RP--GS
+\v 17 σφραγιζω-VAI-AAI2S δε-X εγω-RP--GS ο-RA--APF ανομια-N1A-APF εν-P βαλλαντιον-N2N-DSN επισημαινω-VAI-AMI2S δε-X ει-C τις-RI--ASN ακων-A3P-NSM παραβαινω-VZI-AAI1S
+\v 18 και-C πλην-D ορος-N3E-NSN πιπτω-V1--PAPNSN διαπιπτω-VF--FAI3S και-C πετρα-N1A-NSF παλαιοω-VC--FPI3S εκ-P ο-RA--GSM τοπος-N2--GSM αυτος-RD--GSF
+\v 19 λιθος-N2--APM λεαινω-VAI-AAI3P υδωρ-N3T-NPN και-C κατακλυζω-VAI-AAI3S υδωρ-N3T-NPN υπτιος-A1A-APN ο-RA--GSN χωμα-N3M-GSN ο-RA--GSF γη-N1--GSF και-C υπομονη-N1--ASF ανθρωπος-N2--GSM αποολλυω-VAI-AAI2S
+\v 20 ωθεω-VAI-AAI2S αυτος-RD--ASM εις-P τελος-N3E-ASN και-C οιχομαι-V1I-IMI3S επιιστημι-VHI-AAI2S αυτος-RD--DSM ο-RA--ASN προσωπον-N2N-ASN και-C εκ   αποστελλω-VAI-AAI2S
+\v 21 πολυς-A1--GPM δε-X γιγνομαι-VB--AMPGPM ο-RA--GPM υιος-N2--GPM αυτος-RD--GSM ου-D οιδα-VX--XAI3S εαν-C δε-X ολιγος-A1--NPM γιγνομαι-VB--AMS3P ου-D επισταμαι-V6--PMI3S
+\v 22 αλλα-C η-C ο-RA--NPF σαρξ-N3K-NPF αυτος-RD--GSM αλγεω-VAI-AAI3P ο-RA--NSF δε-X ψυχη-N1--NSF αυτος-RD--GSM πενθεω-VAI-AAI3S
+
+\c 15
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ελιφας-N---NSM ο-RA--NSM *θαιμανιτης-N1M-NSM λεγω-V1--PAI3S
+\v 2 ποτερον-D σοφος-A1--NSM αποκρισις-N3I-ASF διδωμι-VF--FAI3S συνεσις-N3I-GSF πνευμα-N3M-GSN και-C ενπιμπλημι-VAI-AAI3S πονος-N2--ASM γαστηρ-N3--GSF
+\v 3 ελεγχω-V1--PAPNSM εν-P ρημα-N3M-DPN ος-RR--DPN ου-D δεω-V2--PAI3S εν-P λογος-N2--DPM ος-RR--DPM ουδεις-A3--NSN οφελος-N3--NSN
+\v 4 ου-D και-C συ-RP--NS αποποιεω-VAI-AMI2S φοβος-N2--ASM συντελεω-VAI-AMI2S δε-X ρημα-N3M-APN τοιουτος-A1--APN εναντι-P ο-RA--GSM κυριος-N2--GSM
+\v 5 ενοχος-A1B-NSM ειμι-V9--PAI2S ρημα-N3M-DPN στομα-N3M-GSN συ-RP--GS ουδε-C διακρινω-VAI-AAI2S ρημα-N3M-APN δυναστης-N1M-GPM
+\v 6 ελεγχω-VA--AAO3S συ-RP--AS ο-RA--NSN σος-A1--NSN στομα-N3M-NSN και-C μη-D εγω-RP--NS ο-RA--NPN δε-X χειλος-N3E-NPN συ-RP--GS καταμαρτυρεω-VF--FAI3P συ-RP--GS
+\v 7 τις-RI--NSN γαρ-X μη-D πρωτος-A1--NSMS ανθρωπος-N2--GPM γιγνομαι-VCI-API2S η-C προ-P θις-N3--GPM πηγνυμι-VDI-API2S
+\v 8 η-D συνταγμα-N3M-ASN κυριος-N2--GSM ακουω-VX--XAI2S εις-P δε-X συ-RP--AS αποικνεομαι-VBI-AMI3S σοφια-N1A-NSF
+\v 9 τις-RI--ASN γαρ-X οιδα-VX--XAI2S ος-RR--ASN ου-D οιδα-VX--XAI1P η-C τις-RI--ASN συνιημι-V7--PAI2S ος-RR--ASN ου-D και-D εγω-RP--NP
+\v 10 και-C γε-X πρεσβυτης-N1M-NSM και-C γε-X παλαιος-A1A-NSM εν-P εγω-RP--DP βαρυς-A1A-NSMC ο-RA--GSM πατηρ-N3--GSM συ-RP--GS ημερα-N1A-DPF
+\v 11 ολιγος-A1--APN ος-RR--GPM αμαρτανω-VX--XAI2S μαστιγοω-VK--XPI2S μεγαλως-D υπερβαλλοντως-D λαλεω-VX--XAI2S
+\v 12 τις-RI--ASN τολμαω-VAI-AAI3S ο-RA--NSF καρδια-N1A-NSF συ-RP--GS η-C τις-RI--ASN επιφερω-VAI-AAI3P ο-RA--NPM οφθαλμος-N2--NPM συ-RP--GS
+\v 13 οτι-C θυμος-N2--ASM ρηγνυμι-VAI-AAI2S εναντι-P κυριος-N2--GSM εκαγω-VBI-AAI2S δε-X εκ-P στομα-N3M-GSN ρημα-N3M-APN τοιουτος-A1--APN
+\v 14 τις-RI--NSM γαρ-X ειμι-V9--PAPNSM βροτος-N2--NSM οτι-C ειμι-VF--FMI3S αμεμπτος-A1B-NSM η-C ως-C ειμι-VF--FMPNSM δικαιος-A1A-NSM γεννητος-A1--NSM γυνη-N3K-GSF
+\v 15 ει-C κατα-P αγιος-A1A-GPM ου-D πιστευω-V1--PAI3S ουρανος-N2--NSM δε-X ου-D καθαρος-A1A-NSM εναντιον-P αυτος-RD--GSM
+\v 16 εα-I δε-X βδελυσσω-VKI-XPPNSM και-C ακαθαρτος-A1B-NSM ανηρ-N3--NSM πινω-V1--PAPNSM αδικια-N1A-GSF ισος-D ποτος-N2--DSM
+\v 17 ανααγγελλω-VF2-FAI1S δε-X συ-RP--DS ακουω-V1--PAD2S εγω-RP--GS ος-RR--APN δη-X οραω-VX--XAI1S ανααγγελλω-VF2-FAI1S συ-RP--DS
+\v 18 ος-RR--APN σοφος-A1--NPM ειπον-VF2-FAI3P και-C ου-D κρυπτω-VAI-AAI3P πατηρ-N3--APM αυτος-RD--GPM
+\v 19 αυτος-RD--DPM μονος-A1--DPM διδωμι-VCI-API3S ο-RA--NSF γη-N1--NSF και-C ου-D επιερχομαι-VBI-AAI3S αλλογενης-A3H-NSM επι-P αυτος-RD--APM
+\v 20 πας-A3--NSM ο-RA--NSM βιος-N2--NSM ασεβης-A3H-GSM εν-P φροντις-N3D-DSF ετος-N3E-NPN δε-X αριθμητος-A1--NPN διδωμι-VM--XPPNPN δυναστης-N1M-DSM
+\v 21 ο-RA--NSM δε-X φοβος-N2--NSM αυτος-RD--GSM εν-P ους-N3T-DPN αυτος-RD--GSM οταν-D δοκεω-V2--PAS3S ηδη-D ειρηνευω-V1--PAN ηκω-VF--FAI3S αυτος-RD--GSM ο-RA--NSF καταστροφη-N1--NSF
+\v 22 μη-D πιστευω-V1--PAD3S αποστρεφω-VD--APN απο-P σκοτος-N3E-GSN εντελλομαι-VM--XPI3S γαρ-X ηδη-D εις-P χειρ-N3--APF σιδηρος-N2--GSM
+\v 23 κατατασσω-VK--XPI3S δε-X εις-P σιτος-N2--APN γυψ-N3P-DPM οιδα-VX--XAI3S δε-X εν-P εαυτου-RD--DSM οτι-C μενω-V1--PAI3S εις-P πτωμα-N3M-ASN ημερα-N1A-NSF δε-X αυτος-RD--ASM σκοτεινος-A1--NSF στροβεω-VF--FAI3S
+\v 24 αναγκη-N1--NSF δε-X και-C θλιψις-N3I-NSF αυτος-RD--ASM καταεχω-VF--FAI3S ωσπερ-D στρατηγος-N2--NSM πρωτοστατης-N1M-NSM πιπτω-V1--PAPNSM
+\v 25 οτι-C αιρω-VX--XAI3P χειρ-N3--APF εναντιον-P ο-RA--GSM κυριος-N2--GSM εναντι-P δε-X κυριος-N2--GSM παντοκρατωρ-N3R-GSM τραχηλαω-VAI-AAI3S
+\v 26 τρεχω-VBI-AAI3S δε-X εναντιον-P αυτος-RD--GSM υβρις-N3I-DSF εν-P παχος-N3E-DSN νωτον-N2N-GSN ασπις-N3D-GSF αυτος-RD--GSM
+\v 27 οτι-C καλυπτω-VAI-AAI3S ο-RA--ASN προσωπον-N2N-ASN αυτος-RD--GSM εν-P στεαρ-N3T-DSN αυτος-RD--GSM και-C ποιεω-VAI-AAI3S περιστομιον-N2N-ASN επι-P ο-RA--GPN μηριον-N2N-GPN
+\v 28 αυλιζω-VC--APO3S δε-X πολις-N3I-APF ερημος-A1B-APF ειςερχομαι-VB--AAO3S δε-X εις-P οικος-N2--APM αοικητος-A1B-APM ος-RR--APN δε-X εκεινος-RD--NPM ετοιμαζω-VAI-AAI3P αλλος-RD--NPM αποφερω-VF--FMI3P
+\v 29 ουτε-C μη-D πλουτιζω-VS--APS3S ουτε-C μη-D μενω-VA--AAS3S αυτος-RD--GSM ο-RA--NPN υποαρχω-V1--PAPNPN ου-D μη-D βαλλω-VB--AAS3S επι-P ο-RA--ASF γη-N1--ASF σκια-N1A-ASF
+\v 30 ουδε-C μη-D εκφευγω-VB--AAS3S ο-RA--ASN σκοτος-N3E-ASN ο-RA--ASM βλαστος-N2--ASM αυτος-RD--GSM μαραινω-VA--AAO3S ανεμος-N2--NSM εκπιπτω-VF--FAO3S δε-X αυτος-RD--GSM ο-RA--NSN ανθος-N3E-NSN
+\v 31 μη-D πιστευω-V1--PAD3S οτι-C υπομενω-VF2-FAI3S κενος-A1--NPN γαρ-X αποβαινω-VF--FMI3S αυτος-RD--DSM
+\v 32 ο-RA--NSF τομη-N1--NSF αυτος-RD--GSM προ-P ωρα-N1A-GSF φθειρω-VD--FPI3S και-C ο-RA--NSM ραδαμνος-N2--NSM αυτος-RD--GSM ου-D μη-D πυκαζω-VA--AAS3S
+\v 33 τρυγαω-VC--APO3S δε-X ωσπερ-D ομφαξ-N3K-NSF προ-P ωρα-N1A-GSF εκπιπτω-VF--FAO3S δε-X ως-C ανθος-N3E-NSN ελαια-N1A-GSF
+\v 34 μαρτυριον-N2N-NSN γαρ-X ασεβης-A3H-GSM θανατος-N2--NSM πυρ-N3--NSN δε-X καιω-VF--FAI3S οικος-N2--APM δωροδεκτης-N1M-GPM
+\v 35 εν-P γαστηρ-N3--DSF δε-X λαμβανω-VF--FMI3S οδυνη-N1--APF αποβαινω-VF--FMI3S δε-X αυτος-RD--DSM κενος-A1--NPN ο-RA--NSF δε-X κοιλια-N1A-NSF αυτος-RD--GSM υποφερω-VF--FAI3S δολος-N2--ASM
+
+\c 16
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 ακουω-VK--XAI1S τοιουτος-A1--APN πολυς-A1--APN παρακλητωρ-N3R-NPM κακος-A1--GPM πας-A3--NPM
+\v 3 τις-RI--NSN γαρ-X μη-D ταξις-N3I-NSF ειμι-V9--PAI3S ρημα-N3M-DPN πνευμα-N3M-GSN η-C τις-RI--NSN παρα  ενοχλεω-VF--FAI3S συ-RP--DS οτι-C αποκρινω-V1--PAS3S
+\v 4 καιεγω-C+RPNS κατα-P συ-RP--AP λαλεω-VA--AAS1S ει-C υποκειμαι-V5I-IMI3S γε-X ο-RA--NSF ψυχη-N1--NSF συ-RP--GP αντι-P ο-RA--GSF εμος-A1--GSF ειτα-D εναλλομαι-VF2-FAI1S συ-RP--DP ρημα-N3M-DPN κινεω-VF--FAI1S δε-X κατα-P συ-RP--GP κεφαλη-N1--ASF
+\v 5 ειμι-V9--PAO3S δε-X ισχυς-N3U-NSF εν-P ο-RA--DSN στομα-N3M-DSN εγω-RP--GS κινησις-N3I-ASF δε-X χειλος-N3E-GPN ου-D φειδομαι-VF--FMI1S
+\v 6 εαν-C γαρ-X λαλεω-VF--FAI1S ου-D αλγεω-VF--FAI1S ο-RA--ASN τραυμα-N3M-ASN εαν-C δε-X και-C σιωπαω-VF--FAI1S τις-RI--NSN ελαττων-A3N-NSN τιτρωσκω-VC--FPI1S
+\v 7 νυν-D δε-X κατακοπος-A1B-ASM εγω-RP--AS ποιεω-VX--XAI3S μωρος-A1A-ASM σηπω-VX--XAPASM
+\v 8 και-C επιλαμβανω-VBI-AMI2S εγω-RP--GS εις-P μαρτυριον-N2N-ASN γιγνομαι-VCI-API3S και-C αναιστημι-VHI-AAI3S εν-P εγω-RP--DS ο-RA--NSN ψευδος-N3E-NSN εγω-RP--GS κατα-P προσωπον-N2N-ASN εγω-RP--GS αντι αποκρινω-VCI-API3S
+\v 9 οργη-N1--DSF χραω-VA--AMPNSM καταβαλλω-VBI-AAI3S εγω-RP--AS βρυχω-VAI-AAI3S επι-P εγω-RP--AS ο-RA--APM οδους-N3--APM βελος-N3E-NPN πειρατης-N1M-GPM αυτος-RD--GSM επι-P εγω-RP--DS πιπτω-VBI-AAI3S
+\v 10 ακις-N3D-DPF οφθαλμος-N2--GPM εναλλομαι-VAI-AMI3S οξυς-A3U-DSM παιω-VAI-AAI3S εγω-RP--AS εις-P σιαγων-N3N-ASF ομοθυμαδον-D δε-X κατατρεχω-VBI-AAI3P επι-P εγω-RP--DS
+\v 11 παραδιδωμι-VAI-AAI3S γαρ-X εγω-RP--AS ο-RA--NSM κυριος-N2--NSM εις-P χειρ-N3--APF αδικος-A1B-GSM επι-P δε-X ασεβης-A3H-DPM ριπτω-VAI-AAI3S εγω-RP--AS
+\v 12 ειρηνευω-V1--PAPASM διασκεδαζω-VAI-AAI3S εγω-RP--AS λαμβανω-VB--AAPNSM εγω-RP--AS ο-RA--GSF κομη-N1--GSF διατιλλω-VBI-AAI3S καταιστημι-VHI-AAI3S εγω-RP--AS ωσπερ-D σκοπος-N2--ASM
+\v 13 κυκλοω-VAI-AAI3P εγω-RP--AS λογχη-N1--DPF βαλλω-V1--PAPNPM εις-P νεφρος-N2--APM εγω-RP--GS ου-D φειδομαι-V1--PMPNPM εκχεω-VAI-AAI3P εις-P ο-RA--ASF γη-N1--ASF ο-RA--ASF χολη-N1--ASF εγω-RP--GS
+\v 14 καταβαλλω-VBI-AAI3P εγω-RP--AS πτωμα-N3M-ASN επι-P πτωμα-N3M-DSN τρεχω-VBI-AAI3P προς-P εγω-RP--AS δυναμαι-V6--PMPNPM
+\v 15 σακκος-N2--ASM ραπτω-VAI-AAI1S επι-P βυρσα-N1S-GSF εγω-RP--GS ο-RA--NSN δε-X σθενος-N3E-NSN εγω-RP--GS εν-P γη-N1--DSF σβεννυμι-VSI-API3S
+\v 16 ο-RA--NSF γαστηρ-N3--NSF εγω-RP--GS συνκαιω-VM--XPI3S απο-P κλαυθμος-N2--GSM επι-P δε-X βλεφαρον-N2N-DPM εγω-RP--GS σκια-N1A-NSF
+\v 17 αδικος-A1B-NSN δε-X ουδεις-A3--NSN ειμι-V9--IAI3S εν-P χειρ-N3--DPF εγω-RP--GS ευχη-N1--NSF δε-X εγω-RP--GS καθαρος-A1A-NSF
+\v 18 γη-N1--NSF μη-D επικαλυπτω-VA--AAS2S επι-P αιμα-N3M-DSN ο-RA--GSF σαρξ-N3K-GSF εγω-RP--GS μηδε-C ειμι-V9--PAO3S τοπος-N2--NSM ο-RA--DSF κραυγη-N1--DSF εγω-RP--GS
+\v 19 και-C νυν-D ιδου-I εν-P ουρανος-N2--DPM ο-RA--NSM μαρτυς-N3--NSM εγω-RP--GS ο-RA--NSM δε-X συνιστωρ-N3R-NSM εγω-RP--GS εν-P υψιστος-A1--DPN
+\v 20 αποικνεομαι-VB--AMO3S εγω-RP--GS ο-RA--NSF δεησις-N3I-NSF προς-P κυριος-N2--ASM εναντι-P δε-X αυτος-RD--GSM σταζω-V1--PAO3S εγω-RP--GS ο-RA--NSM οφθαλμος-N2--NSM
+\v 21 ειμι-V9--PAO3S δε-X ελεγχος-N2--NSM ανηρ-N3--DSM εναντι-P κυριος-N2--GSM και-C υιος-N2--NSM ανθρωπος-N2--GSM ο-RA--DSM πλησιον-D αυτος-RD--GSM
+\v 22 ετος-N3E-NPN δε-X αριθμητος-A1--NPN ηκω-V1--PAI3P οδος-N2--DSF δε-X ος-RR--DSF ου-D επι  αναστρεφω-VD--FPI1S πορευομαι-VF--FMI1S
+
+\c 17
+\p
+\v 1 ολεκω-V1--PMI1S πνευμα-N3M-DSN φερω-V1--PMPNSM δεω-V2--PMI1S δε-X ταφη-N1--GSF και-C ου-D τυγχανω-V1--PAI1S
+\v 2 λισσομαι-V1--PMI1S καμνω-V1--PAPNSM και-C τις-RI--ASN ποιεω-VA--AAPNSM
+\v 3 κλεπτω-VAI-AAI3P δε-X εγω-RP--GS ο-RA--APN υποαρχω-V1--PAPAPN αλλοτριος-A1A-NPM τις-RI--NSM ειμι-V9--PAI3S ουτος-RD--NSM ο-RA--DSF χειρ-N3--DSF εγω-RP--GS συνδεω-VC--APD3S
+\v 4 οτι-C καρδια-N1A-ASF αυτος-RD--GPM κρυπτω-VAI-AAI2S απο-P φρονησις-N3I-GSF δια-P ουτος-RD--ASN ου-D μη-D υψοω-VA--AAS2S αυτος-RD--APM
+\v 5 ο-RA--DSF μερις-N3D-DSF ανααγγελλω-VF2-FAI3S κακια-N1A-APF οφθαλμος-N2--NPM δε-X εγω-RP--GS επι-P υιος-N2--DPM τηκω-VDI-API3P
+\v 6 τιθημι-VEI-AMI2S δε-X εγω-RP--AS θρυλημα-N3M-ASN εν-P εθνος-N3E-DPN γελως-N3T-NSM δε-X αυτος-RD--DPM αποβαινω-VZI-AAI1S
+\v 7 πωροω-VM--XPI3P γαρ-X απο-P οργη-N1--GSF ο-RA--NPM οφθαλμος-N2--NPM εγω-RP--GS πολιορκεω-VM--XPI1S μεγαλως-D υπο-P πας-A3--GPM
+\v 8 θαυμα-N3M-NSN εχω-VBI-AAI3S αληθινος-A1--APM επι-P ουτος-RD--DSN δικαιος-A1A-NSM δε-X επι-P παρανομος-A1B-DSM επι  αναιστημι-VH--AAO3S
+\v 9 εχω-VB--AAO3S δε-X πιστος-A1--NSM ο-RA--ASF εαυτου-RD--GSM οδος-N2--ASF καθαρος-A1A-NSM δε-X χειρ-N3--APF αναλαμβανω-VB--AAO3S θαρσος-N3E-ASN
+\v 10 ου-D μην-X δε-X αλλα-C πας-A3--NPM ερειδω-V1--PAI2P και-C δευτε-D δη-X ου-D γαρ-X ευρισκω-V1--PAI1S εν-P συ-RP--DP αληθης-A3H-ASN
+\v 11 ο-RA--NPF ημερα-N1A-NPF εγω-RP--GS παραερχομαι-VBI-AAI3P εν-P βρομος-N2--DSM ρηγνυμι-VDI-API3S δε-X ο-RA--NPN αρθρον-N2N-NPN ο-RA--GSF καρδια-N1A-GSF εγω-RP--GS
+\v 12 νυξ-N3--ASF εις-P ημερα-N1A-ASF τιθημι-VAI-AAI3P φως-N3T-NSN εγγυς-D απο-P προσωπον-N2N-GSN σκοτος-N3E-GSN
+\v 13 εαν-C γαρ-X υπομενω-VA--AAS1S αδης-N1M-NSM εγω-RP--GS ο-RA--NSM οικος-N2--NSM εν-P δε-X γνοφος-N2--DSM στρωννυω-VMI-XPI3S εγω-RP--GS ο-RA--NSF στρωμνη-N1--NSF
+\v 14 θανατος-N2--ASM επικαλεω-VAI-AMI1S πατηρ-N3--ASM εγω-RP--GS ειμι-V9--PAN μητηρ-N3--ASF δε-X εγω-RP--GS και-C αδελφη-N1--ASF σαπρια-N1A-ASF
+\v 15 που-D ουν-X εγω-RP--GS ετι-D ειμι-V9--PAI3S ο-RA--NSF ελπις-N3D-NSF η-D ο-RA--APN αγαθος-A1--APN εγω-RP--GS οραω-VF--FMI1S
+\v 16 η-D μετα-P εγω-RP--GS εις-P αδης-N1M-ASM καταβαινω-VF--FMI3P η-C ομοθυμαδον-D επι-P χωμα-N3M-GSN καταβαινω-VF--FMI1P
+
+\c 18
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *βαλδαδ-N---NSM ο-RA--NSM *σαυχιτης-N1M-NSM λεγω-V1--PAI3S
+\v 2 μεχρι-P τις-RI--GSM ου-D παυω-VF--FMI2S επιεχω-VB--AAD2S ινα-C και-D αυτος-RD--NPM λαλεω-VA--AAS1P
+\v 3 δια-P τις-RI--ASN ωσπερ-D τετραποδος-A1B-NPN σιωπαω-VX--XAI1P εναντιον-P συ-RP--GS
+\v 4 χραομαι-VM--XMI3S συ-RP--DS οργη-N1--NSF τις-RI--NSN γαρ-X εαν-C συ-RP--NS αποθνησκω-VB--AAS2S αοικητος-A1B-NSF ο-RA--NSF υπο-P ουρανος-N2--ASM η-C καταστρεφω-VD--FPI3S ορος-N3E-NPN εκ-P θεμελιον-N2N-GPN
+\v 5 και-D φως-N3T-ASN ασεβης-A3H-GPM σβεννυμι-VS--FPI3S και-C ου-D αποβαινω-VF--FMI3S αυτος-RD--GPM ο-RA--NSF φλοξ-N3G-NSF
+\v 6 ο-RA--NSN φως-N3T-NSN αυτος-RD--GSM σκοτος-N3E-NSN εν-P διαιτα-N1S-DSF ο-RA--NSM δε-X λυχνος-N2--NSM επι-P αυτος-RD--DSM σβεννυμι-VS--FPI3S
+\v 7 θηρευω-VA--AAO3P ελαχυς-A1--NPMS ο-RA--APN υποαρχω-V1--PAPAPN αυτος-RD--GSM σφαλλω-VB--AAO3S δε-X αυτος-RD--GSM ο-RA--NSF βουλη-N1--NSF
+\v 8 ενβαλλω-VM--XMI3S δε-X ο-RA--NSM πους-N3D-NSM αυτος-RD--GSM εν-P παγις-N3D-DSF εν-P δικτυον-N2N-DSN ελισσω-VQ--APO3S
+\v 9 ερχομαι-VB--AAO3P δε-X επι-P αυτος-RD--ASM παγις-N3D-NPF καταισχυω-VF--FAI3S επι-P αυτος-RD--ASM διψαω-V3--PAPAPM
+\v 10 κρυπτω-VP--XMI3S εν-P ο-RA--DSF γη-N1--DSF σχοινιον-N2--NSN αυτος-RD--GSM και-C ο-RA--NSF συλληψις-N3I-NSF αυτος-RD--GSM επι-P τριβος-N2--GPM
+\v 11 κυκλος-N2--DSM ολλυμι-VA--AAO3P αυτος-RD--ASM οδυνη-N1--NPF πολυς-A1--NPM δε-X περι-P πους-N3D-APM αυτος-RD--GSM ερχομαι-VB--AAO3P εν-P λιμος-N2--DSM στενος-A1--DSM
+\v 12 πτωμα-N3M-NSN δε-X αυτος-RD--DSM ετοιμαζω-VT--XPI3S εξαισιος-A1B-NSN
+\v 13 βιβρωσκω-VC--APO3P αυτος-RD--GSM κλων-N3W-NPM πους-N3D-GPM καταεσθιω-VF--FMI3S δε-X ο-RA--APN ωραιος-A1A-APN αυτος-RD--GSM θανατος-N2--NSM
+\v 14 εκργνυμι-VD--APO3S δε-X εκ-P διαιτα-N1S-GSF αυτος-RD--GSM ιασις-N3I-NSF εχω-VB--AAO3S δε-X αυτος-RD--ASM αναγκη-N1--NSF αιτια-N1A-DSF βασιλικος-A1--DSF
+\v 15 κατασκηνοω-VF--FAI3S εν-P ο-RA--DSF σκηνη-N1--DSF αυτος-RD--GSM εν-P νυξ-N3--DSF αυτος-RD--GSM κατασπειρω-VD--FPI3P ο-RA--NPN ευπρεπης-A3H-NPN αυτος-RD--GSM θειον-N2N-DSN
+\v 16 υποκατωθεν-D ο-RA--NPF ριζα-N1S-NPF αυτος-RD--GSM ξηραινω-VC--FPI3P και-C επανωθεν-D επιπιπτω-VF2-FMI3S θερισμος-N2--NSM αυτος-RD--GSM
+\v 17 ο-RA--NSN μνημοσυνον-N2N-NSN αυτος-RD--GSM αποολλυω-VB--AMO3S εκ-P γη-N1--GSF και-C υποαρχω-V1--PAI3S ονομα-N3M-NSN αυτος-RD--DSM επι-P προσωπον-N2N-ASN εξωτερος-D
+\v 18 αποωθεω-VA--AAO3S αυτος-RD--ASM εκ-P φως-N3T-GSN εις-P σκοτος-N3E-ASN
+\v 19 ου-D ειμι-VF--FMI3S επιγνωστος-A1B-NSM εν-P λαος-N2--DSM αυτος-RD--GSM ουδε-C σωζω-VT--XPPNSM εν-P ο-RA--DSF υπο-P ουρανος-N2--ASM ο-RA--NSM οικος-N2--NSM αυτος-RD--GSM αλλα-C εν-P ο-RA--DPN αυτος-RD--GSM ζαω-VF--FMI3P ετερος-A1A-NPM
+\v 20 επι-P αυτος-RD--DSM στεναζω-VAI-AAI3P εσχατος-A1--NPM πρωτος-A1--APMS δε-X εχω-VBI-AAI3S θαυμα-N3M-NSN
+\v 21 ουτος-RD--NPM ειμι-V9--PAI3P οικος-N2--NPM αδικος-A1B-GPM ουτος-RD--NSM δε-X ο-RA--NSM τοπος-N2--NSM ο-RA--GPM μη-D οιδα-VX--XAPGPM ο-RA--ASM κυριος-N2--ASM
+
+\c 19
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 εως-P τις-RI--GSN εγκοπος-A1B-ASF ποιεω-VF--FAI2P ψυχη-N1--ASF εγω-RP--GS και-C κατααιρεω-V2--PAI2P εγω-RP--AS λογος-N2--DPM
+\v 3 γιγνωσκω-VZ--AAD2P μονον-D οτι-C ο-RA--NSM κυριος-N2--NSM ποιεω-VAI-AAI3S εγω-RP--AS ουτως-D καταλαλεω-V2--PAI2P εγω-RP--GS ου-D αισχυνω-V1--PMPNPM εγω-RP--AS επικειμαι-V5--PMI2P εγω-RP--DS
+\v 4 ναι-X δη-X επι-P αληθεια-N1A-GSF εγω-RP--NS πλαναω-VCI-API1S παρα-P εγω-RP--DS δε-X αυλιζω-V1--PMI3S πλανος-A1B-NSM
+\v 4 λαλεω-VA--AAN ρημα-N3M-ASN ος-RR--ASN ου-D δεω-V2I-IAI3S ο-RA--NPN δε-X ρημα-N3M-NPN εγω-RP--GS πλαναω-V3--PMI3S και-C ου-D επι-P καιρος-N2--GSM
+\v 5 εα-I δε-X οτι-C επι-P εγω-RP--DS μεγαλυνω-V1--PMI2P εναλλομαι-V1--PMI2P δε-X εγω-RP--DS ονειδος-N3E-DSN
+\v 6 γιγνωσκω-VZ--AAD2P ουν-X οτι-C ο-RA--NSM κυριος-N2--NSM ειμι-V9--PAI3S ο-RA--NSM ταρασσω-VA--AAPNSM οχυρωμα-N3M-ASN δε-X αυτος-RD--GSM επι-P εγω-RP--AS υψοω-VAI-AAI3S
+\v 7 ιδου-I γελαω-V3--PAI1S ονειδος-N3E-DSN και-C ου-D λαλεω-VF--FAI1S κραζω-VFX-FMI1S και-C ουδαμου-D κριμα-N3M-NSN
+\v 8 κυκλος-N2--DSM περιοικοδομεω-VM--XPI1S και-C ου-D μη-D διαβαινω-VZ--AAS1S επι-P προσωπον-N2N-ASN εγω-RP--GS σκοτος-N3E-ASN τιθημι-VEI-AMI3S
+\v 9 ο-RA--ASF δε-X δοξα-N1S-ASF απο-P εγω-RP--GS εκδυω-VAI-AAI3S αποαιρεω-VBI-AAI3S δε-X στεφανος-N2--ASM απο-P κεφαλη-N1--GSF εγω-RP--GS
+\v 10 διασπαω-VAI-AAI3S εγω-RP--AS κυκλος-N2--DSM και-C οιχομαι-V1I-IMI1S εκκοπτω-VAI-AAI3S δε-X ωσπερ-D δενδρον-N2N-ASN ο-RA--ASF ελπις-N3D-ASF εγω-RP--GS
+\v 11 δεινως-D δε-X εγω-RP--DS οργη-N1--DSF χραω-VAI-AMI3S ηγεομαι-VAI-AMI3S δε-X εγω-RP--AS ωσπερ-D εχθρος-N2--ASM
+\v 12 ομοθυμαδον-D δε-X ερχομαι-VBI-AAI3P ο-RA--NPN πειρατηριον-N2N-NPN αυτος-RD--GSM επι-P εγω-RP--DS ο-RA--DPF οδος-N2--DPF εγω-RP--GS κυκλοω-VAI-AAI3P εγω-RP--AS εγκαθετος-A1B-NSM
+\v 13 απο-P εγω-RP--GS δε-X αδελφος-N2--NPM εγω-RP--GS αποιστημι-VHI-AAI3P γιγνωσκω-VZI-AAI3P αλλοτριος-A1A-APM η-C εγω-RP--AS φιλος-A1--NPM δε-X εγω-RP--GS ανελεημων-N3N-NPM γιγνομαι-VX--XAI3P
+\v 14 ου-D προςποιεω-VAI-AMI3P εγω-RP--AS ο-RA--NPM εγγυς-A1--NPMS εγω-RP--GS και-C ο-RA--NPM οιδα-VX--XAPNPM εγω-RP--GS ο-RA--ASN ονομα-N3M-ASN επιλανθανω-VBI-AMI3P εγω-RP--GS
+\v 15 γειτων-N3N-NPM οικια-N1A-GSF θεραπαινα-N1A-NPF τε-X εγω-RP--GS αλλογενης-A3H-NSM ειμι-V9I-IMI1S εναντιον-P αυτος-RD--GPM
+\v 16 θεραπων-N3--ASM εγω-RP--GS καλεω-VAI-AAI1S και-C ου-D υποακουω-VAI-AAI3S στομα-N3M-NSN δε-X εγω-RP--GS δεομαι-V1I-IMI3S
+\v 17 και-C ικετευω-V1I-IAI1S ο-RA--ASF γυνη-N3K-ASF εγω-RP--GS προςκαλεω-V2I-IMI1S δε-X κολακευω-V1--PAPNSM υιος-N2--APM παλλακις-N3D-GPF εγω-RP--GS
+\v 18 ο-RA--NPM δε-X εις-P ο-RA--ASM αιων-N3W-ASM εγω-RP--AS αποποιεω-VAI-AMI3P οταν-D αναιστημι-VH--AAS1S κατα-P εγω-RP--GS λαλεω-V2--PAI3P
+\v 19 βδελυσσω-VAI-AMI3P δε-X εγω-RP--AS ο-RA--NPM οιδα-VX--XAPNPM εγω-RP--AS ος-RR--APM δη-X αγαπαω-VXI-YAI1S επι  αναιστημι-VHI-AAI3P εγω-RP--DS
+\v 20 εν-P δερμα-N3M-DSN εγω-RP--GS σηπω-VAI-AAI3P ο-RA--NPF σαρξ-N3K-NPF εγω-RP--GS ο-RA--NPN δε-X οστεον-N2N-NPN εγω-RP--GS εν-P οδους-N3--DPM εχω-V1--PMI3S
+\v 21 ελεεω-VA--AAD2P εγω-RP--AS ελεεω-VA--AAD2P εγω-RP--AS ω-I φιλος-A1--NPM χειρ-N3--NSF γαρ-X κυριος-N2--GSM ο-RA--NSF απτομαι-VA--AMPNSF εγω-RP--GS ειμι-V9--PAI3S
+\v 22 δια-P τις-RI--ASN δε-X εγω-RP--AS διωκω-V1--PAI2P ωσπερ-D και-C ο-RA--NSM κυριος-N2--NSM απο-P δε-X σαρξ-N3K-GPF εγω-RP--GS ου-D ενπιμπλημι-V6--PPI2P
+\v 23 τις-RI--NSM γαρ-X αν-X διδωμι-VO--AAO3S γραφω-VD--APN ο-RA--NPN ρημα-N3M-NPN εγω-RP--GS τιθημι-VE--APN δε-X αυτος-RD--APN εν-P βιβλιον-N2N-DSN εις-P ο-RA--ASM αιων-N3W-ASM
+\v 24 εν-P γραφειον-N2N-DSN σιδηρους-A1C-DSN και-C μολιβος-N2--DSM η-C εν-P πετρα-N1A-DPF ενγλυφω-VD--APN
+\v 25 οιδα-VX--XAI1S γαρ-X οτι-C αεναος-A1B-NSM ειμι-V9--PAI3S ο-RA--NSM εκλυω-V1--PAN εγω-RP--AS μελλω-V1--PAPNSM επι-P γη-N1--GSF
+\v 26 αναιστημι-VA--AAO3S ο-RA--ASN δερμα-N3M-ASN εγω-RP--GS ο-RA--ASN ανετλην-VA--AAPASN ουτος-RD--APN παρα-P γαρ-X κυριος-N2--GSM ουτος-RD--NPN εγω-RP--DS συντελεω-VSI-API3S
+\v 27 ος-RR--APN εγω-RP--NS εμαυτου-RD--DSM συν   επιισταμαι-V6--PMI1S ος-RR--APN ο-RA--NSM οφθαλμος-N2--NSM εγω-RP--GS οραω-VX--XAI3S και-C ου-D αλλος-RD--NSM πας-A3--NSN δε-X εγω-RP--DS συντελεω-VM--XPI3S εν-P κολπος-N2--DSM
+\v 28 ει-C δε-X και-C ειπον-VF2-FAI2P τις-RI--ASN ειπον-VF2-FAI1P εναντι-P αυτος-RD--GSM και-C ριζα-N1S-ASF λογος-N2--GSM ευρισκω-VF--FAI1P εν-P αυτος-RD--DSM
+\v 29 ευλαβεομαι-VC--API2P δη-X και-D συ-RP--NP απο-P επικαλυμμα-N3M-GSN θυμος-N2--NSM γαρ-X επι-P ανομος-A1B-APM επιερχομαι-VF--FMI3S και-C τοτε-D γιγνωσκω-VF--FMI3P που-D ειμι-V9--PAI3S αυτος-RD--GPM ο-RA--NSF υλη-N1--NSF
+
+\c 20
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *σωφαρ-N---NSM ο-RA--NSM *μιναιος-N2--NSM λεγω-V1--PAI3S
+\v 2 ου-D ουτως-D υπολαμβανω-V1I-IAI1S αντιειπον-VF2-FAN συ-RP--AS ουτος-RD--APN και-C ου-D συνιημι-V6--PAI2P μαλλον-D η-C και-D εγω-RP--NS
+\v 3 παιδεια-N1A-ASF εντροπη-N1--GSF εγω-RP--GS ακουω-VF--FMI1S και-C πνευμα-N3M-NSN εκ-P ο-RA--GSF συνεσις-N3I-GSF αποκρινω-V1--PMI3S εγω-RP--DS
+\v 4 μη-D ουτος-RD--APN γιγνωσκω-VZI-AAI2S απο-P ο-RA--GSN ετι-D απο-P ος-RR--GSM τιθημι-VEI-API3S ανθρωπος-N2--NSM επι-P ο-RA--GSF γη-N1--GSF
+\v 5 ευφροσυνη-N1--NSF γαρ-X ασεβης-A3H-GPM πτωμα-N3M-NSN εξαισιος-A1B-NSN χαρμονη-N1--NSF δε-X παρανομος-A1B-GPM απωλεια-N1A-NSF
+\v 6 εαν-C αναβαινω-VZ--AAS3S εις-P ουρανος-N2--ASM αυτος-RD--GSM ο-RA--NPN δωρον-N2N-NPN ο-RA--NSF δε-X θυσια-N1A-NSF αυτος-RD--GSM νεφος-N3E-GPN απτομαι-VA--AMS3S
+\v 7 οταν-D γαρ-X δοκεω-V2--PAS3S ηδη-D καταστηριζω-VK--XPN τοτε-D εις-P τελος-N3E-ASN αποολλυω-VF2-FMI3S ο-RA--NPM δε-X οραω-VB--AAPNPM αυτος-RD--ASM ειπον-VF2-FAI3P που-D ειμι-V9--PAI3S
+\v 8 ωσπερ-D ενυπνιον-N2N-NSN εκπεταζω-VC--APPNSN ου-D μη-D ευρισκω-VC--APS3S πετομαι-VBI-AMI3S δε-X ωσπερ-D φασμα-N3M-NSN νυκτερινος-A1--NSN
+\v 9 οφθαλμος-N2--NSM παραβλεπω-VAI-AAI3S και-C ου-D προςτιθημι-VF--FAI3S και-C ουκετι-D προςνοεω-VF--FAI3S αυτος-RD--ASM ο-RA--NSM τοπος-N2--NSM αυτος-RD--GSM
+\v 10 ο-RA--APM υιος-N2--APM αυτος-RD--GSM ολλυμι-VA--AAO3P ησσων-A3C-NPM ο-RA--NPF δε-X χειρ-N3--NPF αυτος-RD--GSM πυρσευω-VA--AAO3P οδυνη-N1--APF
+\v 11 οστεον-N2N-NPN αυτος-RD--GSM ενπιμπλημι-VSI-API3P νεοτης-N3T-GSF αυτος-RD--GSM και-C μετα-P αυτος-RD--GSM επι-P χωμα-N3M-GSN κοιμαω-VC--FPI3S
+\v 12 εαν-C γλυκαινω-VC--APS3S εν-P στομα-N3M-DSN αυτος-RD--GSM κακια-N1A-NSF κρυπτω-VF--FAI3S αυτος-RD--ASF υπο-P ο-RA--ASF γλωσσα-N1S-ASF αυτος-RD--GSM
+\v 13 ου-D φειδομαι-VF--FMI3S αυτος-RD--GSF και-C ου-D εν   καταλειπω-VF--FAI3S αυτος-RD--ASF και-C συνεχω-VF--FAI3S αυτος-RD--ASF εν-P μεσος-A1--DSN ο-RA--GSM λαρυγξ-N3G-GSM αυτος-RD--GSM
+\v 14 και-C ου-D μη-D δυναμαι-VC--APS3S βοηθεω-VA--AAN εαυτου-RD--DSM χολη-N1--NSF ασπις-N3D-GSF εν-P γαστηρ-N3--DSF αυτος-RD--GSM
+\v 15 πλουτος-N2--NSM αδικως-D συναγω-V1--PPPNSM εκεμεω-VS--FPI3S εκ-P οικια-N1A-GSF αυτος-RD--GSM εκελκω-VF--FAI3S αυτος-RD--ASM αγγελος-N2--NSM
+\v 16 θυμος-N2--ASM δε-X δρακων-N3--GPM θηλαζω-VA--AAO3S ανααιρεω-VB--AAO3S δε-X αυτος-RD--ASM γλωσσα-N1S-NSF οφις-N3I-GSM
+\v 17 μη-D οραω-VB--AAO3S αμελξις-N3I-ASF νομας-N3D-GPF μηδε-C νομη-N1--APF μελι-N3T-GSN και-C βουτυρον-N2N-GSN
+\v 18 εις-P κενος-A1--APN και-C ματαιος-A1A-APN κοπιαω-VAI-AAI3S πλουτος-N2--ASM εκ-P ος-RR--GSM ου-D γευω-VF--FMI3S ωσπερ-D στριφνος-N2--NSM αμασητος-A1B-NSM ακαταποτος-A1B-NSM
+\v 19 πολυς-A1--GPM γαρ-X αδυνατος-A1B-GPM οικος-N2--APM θλαω-VAI-AAI3S διαιτα-N1S-ASF δε-X αρπαζω-VAI-AAI3S και-C ου-D ιστημι-VAI-AAI3S
+\v 20 ου-D ειμι-V9--PAI3S αυτος-RD--GSM σωτηρια-N1A-NSF ο-RA--DPN υποαρχω-V1--PAPDPN εν-P επιθυμια-N1A-DSF αυτος-RD--GSM ου-D σωζω-VC--FPI3S
+\v 21 ου-D ειμι-V9--PAI3S υπολειμμα-N3M-NSN ο-RA--DPN βρωμα-N3M-DPN αυτος-RD--GSM δια-P ουτος-RD--ASN ου-D ανθεω-VF--FAI3S αυτος-RD--GSM ο-RA--NPN αγαθος-A1--NPN
+\v 22 οταν-D δε-X δοκεω-V2--PAS3S ηδη-D πληροω-VM--XPN θλιβω-VD--FPI3S πας-A1S-NSF δε-X αναγκη-N1--NSF επι-P αυτος-RD--ASM επιερχομαι-VF--FMI3S
+\v 23 ει-C πως-D πληροω-VA--AAN γαστηρ-N3--ASF αυτος-RD--GSM επι  αποστελλω-VA--AAN επι-P αυτος-RD--ASM θυμος-N2--ASM οργη-N1--GSF νιπτω-VA--AAO3S επι-P αυτος-RD--ASM οδυνη-N1--APF
+\v 24 και-C ου-D μη-D σωζω-VC--APS3S εκ-P χειρ-N3--GSF σιδηρος-N2--GSM τιτρωσκω-VA--AAO3S αυτος-RD--ASM τοξον-N2N-NSN χαλκειον-N2N-NSN
+\v 25 δια   εκερχομαι-VB--AAO3S δε-X δια-P σωμα-N3M-GSN αυτος-RD--GSM βελος-N3E-ASN αστραπη-N1--NPF δε-X εν-P διαιτα-N1S-DPF αυτος-RD--GSM περιπατεω-VA--AAO3P επι-P αυτος-RD--DSM φοβος-N2--NPM
+\v 26 πας-A3--NSN δε-X σκοτος-N3E-NSN αυτος-RD--DSM υπομενω-VA--AAO3S καταεσθιω-VF--FMI3S αυτος-RD--ASM πυρ-N3--NSN ακαυστος-A1B-NSN κακοω-VA--AAO3S δε-X αυτος-RD--GSM επηλυτος-N2--NSM ο-RA--ASM οικος-N2--ASM
+\v 27 ανακαλυπτω-VA--AAO3S δε-X αυτος-RD--GSM ο-RA--NSM ουρανος-N2--NSM ο-RA--APF ανομια-N1A-APF γη-N1--NSF δε-X επι  αναιστημι-VH--AAO3S αυτος-RD--DSM
+\v 28 ελκω-VA--AAO3S ο-RA--ASM οικος-N2--ASM αυτος-RD--GSM απωλεια-N1A-NSF εις-P τελος-N3E-ASN ημερα-N1A-NSF οργη-N1--GSF επιερχομαι-VB--AAO3S αυτος-RD--DSM
+\v 29 ουτος-RD--NSF ο-RA--NSF μερις-N3D-NSF ανθρωπος-N2--GSM ασεβης-A3H-GSM παρα-P κυριος-N2--GSM και-C κτημα-N3M-NSN υποαρχω-V1--PAPGPM αυτος-RD--DSM παρα-P ο-RA--GSM επισκοπος-N2--GSM
+
+\c 21
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 ακουω-VA--AAD2P ακουω-VA--AAD2P εγω-RP--GS ο-RA--GPM λογος-N2--GPM ινα-C μη-D ειμι-V9--PAS3S εγω-RP--DS παρα-P συ-RP--GP ουτος-RD--NSF ο-RA--NSF παρακλησις-N3I-NSF
+\v 3 αιρω-VA--AAD2P εγω-RP--AS εγω-RP--NS δε-X λαλεω-VF--FAI1S ειτα-D ου-D καταγελαω-VF--FAI2P εγω-RP--GS
+\v 4 τις-RI--ASN γαρ-X μη-D ανθρωπος-N2--GSM εγω-RP--GS ο-RA--NSF ελεγξις-N3I-NSF η-C δια-P τις-RI--ASN ου-D θυμοω-VC--FPI1S
+\v 5 ειςβλεπω-VA--AAPNPM εις-P εγω-RP--AS θαυμαζω-VA--AAD2P χειρ-N3--ASF τιθημι-VE--AAPNPM επι-P σιαγων-N3N-DSF
+\v 6 εαν-C τε-X γαρ-X μιμνησκω-VS--APS1S σπουδαζω-VX--XAI1S εχω-V1--PAI3P δε-X εγω-RP--GS ο-RA--APF σαρξ-N3K-APF οδυνη-N1--NPF
+\v 7 δια-P τις-RI--ASN ασεβης-A3H-NPM ζαω-V3--PAI3P παλαιοω-VM--XMI3P δε-X και-C εν-P πλουτος-N2--DSM
+\v 8 ο-RA--NSM σπορος-N2--NSM αυτος-RD--GPM κατα-P ψυχη-N1--ASF ο-RA--NPN δε-X τεκνον-N2N-NPN αυτος-RD--GPM εν-P οφθαλμος-N2--DPM
+\v 9 ο-RA--NPM οικος-N2--NPM αυτος-RD--GPM ευθηνεω-V2--PAI3P φοβος-N2--NSM δε-X ουδαμου-D μαστιξ-N3G-NSF δε-X παρα-P κυριος-N2--GSM ου-D ειμι-V9--PAI3S επι-P αυτος-RD--DPM
+\v 10 ο-RA--NSF βους-N3--NSF αυτος-RD--GPM ου-D ωμοτοκεω-VAI-AAI3S διασωζω-VCI-API3S δε-X αυτος-RD--GPM εν-P γαστηρ-N3--DSF εχω-V1--PAPNSF και-C ου-D σφαλλω-VBI-AAI3S
+\v 11 μενω-V1--PAI3P δε-X ως-C προβατον-N2N-APN αιωνιος-A1B-APN ο-RA--APN δε-X παιδιον-N2N-APN αυτος-RD--GPM προςπαιζω-V1--PAI3P
+\v 12 αναλαμβανω-VB--AAPNPM ψαλτηριον-N2N-ASN και-C κιθαρα-N1A-ASF και-C ευφραινω-V1--PPI3P φωνη-N1--DSF ψαλμος-N2--GSM
+\v 13 συντελεω-VAI-AAI3P δε-X εν-P αγαθος-A1--DPM ο-RA--ASM βιος-N2--ASM αυτος-RD--GPM εν-P δε-X αναπαυσις-N3I-DSF αδης-N1M-GSM κοιμαω-VCI-API3P
+\v 14 λεγω-V1--PAI3S δε-X κυριος-N2--DSM αποιστημι-VH--AAD2S απο-P εγω-RP--GS οδος-N2--APF συ-RP--GS οιδα-VX--XAN ου-D βουλομαι-V1--PMI1S
+\v 15 τις-RI--NSN ικανος-A1--NSM οτι-C δουλευω-VF--FAI1P αυτος-RD--DSM και-C τις-RI--NSN ωφελεια-N1A-NSF οτι-C αποανταω-VF--FAI1P αυτος-RD--DSM
+\v 16 εν-P χειρ-N3--DPF γαρ-X ειμι-V9--IAI3S αυτος-RD--GPM ο-RA--NPN αγαθος-A1--NPN εργον-N2N-NPN δε-X ασεβης-A3H-GPM ου-D επιοραω-V3--PAI3S
+\v 17 ου-D μην-X δε-X αλλα-C και-C ασεβης-A3H-GPM λυχνος-N2--NSM σβεννυμι-VC--FPI3S επιερχομαι-VF--FMI3S δε-X αυτος-RD--DPM ο-RA--NSF καταστροφη-N1--NSF ωδιν-N3--NPF δε-X αυτος-RD--APM εχω-VF--FAI3P απο-P οργη-N1--GSF
+\v 18 ειμι-VF--FMI3P δε-X ωσπερ-D αχυρον-N2N-APN προ-P ανεμος-N2--GSM η-C ωσπερ-D κονιορτος-N2--NSM ος-RR--ASM υποαιρεω-VB--AMI3S λαιλαψ-N3P-NSF
+\v 19 εκλειπω-VB--AAO3S υιος-N2--APM ο-RA--NPN υποαρχω-V1--PAPNPN αυτος-RD--GSM αντι αποδιδωμι-VF--FAI3S προς-P αυτος-RD--ASM και-C γιγνωσκω-VF--FMI3S
+\v 20 οραω-VB--AAO3P ο-RA--NPM οφθαλμος-N2--NPM αυτος-RD--GSM ο-RA--ASF εαυτου-RD--GSM σφαγη-N1--ASF απο-P δε-X κυριος-N2--GSM μη-D διασωζω-VC--APO3S
+\v 21 οτι-C τις-RI--NSN θελημα-N3M-NSN αυτος-RD--GSM εν-P οικος-N2--DSM αυτος-RD--GSM μετα-P αυτος-RD--ASM και-C αριθμος-N2--NPM μην-N3--GPM αυτος-RD--GSM διααιρεω-VCI-API3P
+\v 22 ποτερον-D ου-D ο-RA--NSM κυριος-N2--NSM ειμι-V9--PAI3S ο-RA--NSM διδασκω-V1--PAPNSM συνεσις-N3I-ASF και-C επιστημη-N1--ASF αυτος-RD--NSM δε-X φονος-N2--APM διακρινω-VF2-FAI3S
+\v 23 ουτος-RD--NSM αποθνησκω-VF2-FMI3S εν-P κρατος-N3E-DSN απλοσυνη-N1--GSF αυτος-RD--GSM ολος-A1--NSM δε-X ευπαθεω-V2--PAPNSM και-C ευθηνεω-V2--PAPNSM
+\v 24 ο-RA--NPN δε-X εγκατα-N2N-NPN αυτος-RD--GSM πληρης-A3H-NPN στεαρ-N3T-GSN μυελος-N2--NSM δε-X αυτος-RD--GSM διαχεω-V2--PMI3S
+\v 25 ο-RA--NSM δε-X τελευταω-V3--PAI3S υπο-P πικρια-N1A-GSF ψυχη-N1--GSF ου-D εσθιω-VB--AAPNSM ουδεις-A3--ASN αγαθος-A1--ASN
+\v 26 ομοθυμαδον-D δε-X επι-P γη-N1--GSF κοιμαω-V3--PMI3P σαπρια-N1A-NSF δε-X αυτος-RD--APM καλυπτω-VAI-AAI3S
+\v 27 ωστε-C οιδα-VX--XAI1S συ-RP--AP οτι-C τολμα-N1S-DSF επικειμαι-V5--PMI2P εγω-RP--DS
+\v 28 οτι-C ειπον-VF2-FAI2P που-D ειμι-V9--PAI3S οικος-N2--NSM αρχων-N3--GSM και-C που-D ειμι-V9--PAI3S ο-RA--NSF σκεπη-N1--NSF ο-RA--GPN σκηνωμα-N3M-GPN ο-RA--GPM ασεβης-A3H-GPM
+\v 29 ερωταω-VA--AAD2P παραπορευομαι-V1--PMPAPM οδος-N2--ASF και-C ο-RA--APN σημειον-N2N-APN αυτος-RD--GPM ου-D αποαλλοτριοω-VF--FAI2S
+\v 30 οτι-C εις-P ημερα-N1A-ASF απωλεια-N1A-GSF κουφιζω-V1--PPI3S ο-RA--NSM πονηρος-A1A-NSM εις-P ημερα-N1A-ASF οργη-N1--GSF αυτος-RD--GSM αποαγω-VQ--FPI3P
+\v 31 τις-RI--NSM αποαγγελλω-VF2-FAI3S επι-P προσωπον-N2N-GSN αυτος-RD--GSM ο-RA--ASF οδος-N2--ASF αυτος-RD--GSM και-C αυτος-RD--NSM ποιεω-VAI-AAI3S τις-RI--NSM αντι αποδιδωμι-VF--FAI3S αυτος-RD--DSM
+\v 32 και-C αυτος-RD--NSM εις-P ταφος-N2--APM αποφερω-VQI-API3S και-C επι-P σορος-N2--DSF αγρυπνεω-VAI-AAI3S
+\v 33 γλυκαινω-VCI-API3P αυτος-RD--DSM χαλιξ-N3K-NPM χειμαρρους-N2--GSM και-C οπισω-P αυτος-RD--GSM πας-A3--NSM ανθρωπος-N2--NSM αποερχομαι-VF--FMI3S και-C εμπροσθεν-P αυτος-RD--GSM αναριθμητος-A1B-NPM
+\v 34 πως-D δε-X παρακαλεω-V2--PAI2P εγω-RP--AS κενος-A1--APN ο-RA--ASN δε-X εγω-RP--AS καταπαυω-VA--AMN απο-P συ-RP--GP ουδεις-A3--ASN
+
+\c 22
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ελιφας-N---NSM ο-RA--NSM *θαιμανιτης-N---NSM λεγω-V1--PAI3S
+\v 2 ποτερον-D ου-D ο-RA--NSM κυριος-N2--NSM ειμι-V9--PAI3S ο-RA--NSM διδασκω-V1--PAPNSM συνεσις-N3I-ASF και-C επιστημη-N1--ASF
+\v 3 τις-RI--NSN γαρ-X μελω-V1--PAI3S ο-RA--DSM κυριος-N2--DSM εαν-C συ-RP--NS ειμι-V9--IAI2S ο-RA--DPN εργον-N2N-DPN αμεμπτος-A1B-NSM η-C ωφελεια-N1A-NSF οτι-C απλοω-VA--AAS2S ο-RA--ASF οδος-N2--ASF συ-RP--GS
+\v 4 η-D λογος-N2--ASM συ-RP--GS ποιεω-V2--PMPNSM ελεγχω-VF--FAI3S συ-RP--AS και-C συν   ειςερχομαι-VF--FMI3S συ-RP--DS εις-P κρισις-N3I-ASF
+\v 5 ποτερον-D ου-D ο-RA--NSF κακια-N1A-NSF συ-RP--GS ειμι-V9--PAI3S πολυς-A1--NSF αναριθμητος-A1B-NPF δε-X συ-RP--GS ειμι-V9--PAI3P ο-RA--NPF αμαρτια-N1A-NPF
+\v 6 ενεχυραζω-V1I-IAI2S δε-X ο-RA--APM αδελφος-N2--APM συ-RP--GS δια-P κενος-A1--GSF αμφιασις-N3I-ASM δε-X γυμνος-A1--GPM αποαιρεω-VBI-AMI2S
+\v 7 ουδε-C υδωρ-N3--NSN διψαω-V3--PAPAPM ποτιζω-VAI-AAI2S αλλα-C πειναω-V3--PAPGPM στερεω-VAI-AAI2S ψωμος-N2--ASM
+\v 8 θαυμαζω-VAI-AAI2S δε-X τις-RI--GPN προσωπον-N2N-ASN οικιζω-VAI-AAI2S δε-X ο-RA--APM επι-P ο-RA--GSF γη-N1--GSF
+\v 9 χηρα-N1A-APF δε-X εκ   αποστελλω-VAI-AAI2S κενος-A1--APF ορφανος-A1--APM δε-X κακοω-VAI-AAI2S
+\v 10 τοιγαρουν-C κυκλοω-VAI-AAI3P συ-RP--AS παγις-N3D-NPF και-C σπουδαζω-VAI-AAI3S συ-RP--AS πολεμος-N2--NSM εξαισιος-A1B-NSM
+\v 11 ο-RA--NSN φως-N3T-NSN συ-RP--DS σκοτος-N3E-ASN αποβαινω-VZI-AAI3S κοιμαω-VC--APPASM δε-X υδωρ-N3--NSN συ-RP--AS καλυπτω-VAI-AAI3S
+\v 12 μη-D ου-D ο-RA--NSM ο-RA--APN υψηλος-A1--APN ναιω-V1--PAPNSM επιοραω-V3--PAI3S ο-RA--APM δε-X υβρις-N3I-DSF φερω-V1--PMPAPM ταπεινοω-VAI-AAI3S
+\v 13 και-C ειπον-VAI-AAI2S τις-RI--ASN γιγνωσκω-VZI-AAI3S ο-RA--NSM ισχυρος-A1A-NSM η-D κατα-P ο-RA--GSM γνοφος-N2--GSM κρινω-VF2-FAI3S
+\v 14 νεφος-N3E-NPN αποκρυφη-N1--NSF αυτος-RD--GSM και-C ου-D οραω-VC--FPI3S και-C γυρος-N2--ASM ουρανος-N2--GSM διαπορευομαι-VF--FMI3S
+\v 15 μη-D τριβος-N2--ASF αιωνιος-A1B-ASF φυλασσω-VF--FAI2S ος-RR--ASF πατεω-VAI-AAI3P ανηρ-N3--NPM αδικος-A1B-NPM
+\v 16 ος-RR--NPM συνλαμβανω-VVI-API3P αωρος-A1B-NPM ποταμος-N2--NSM επιρεω-V2--PAPNSM ο-RA--NPM θεμελιος-N2--NPM αυτος-RD--GPM
+\v 17 ο-RA--NPM λεγω-V1--PAPNPM κυριος-N2--NSM τις-RI--ASN ποιεω-VF--FAI3S εγω-RP--DP η-C τις-RI--ASN επιαγω-VF--FMI3S εγω-RP--DP ο-RA--NSM παντοκρατωρ-N3R-NSM
+\v 18 ος-RR--NSM δε-X ενπιμπλημι-VAI-AAI3S ο-RA--APM οικος-N2--APM αυτος-RD--GPM αγαθος-A1--GPM βουλη-N1--NSF δε-X ασεβης-A3H-GPM πορρω-D απο-P αυτος-RD--GSM
+\v 19 οραω-VB--AAPNPM δικαιος-A1A-NPM γελαω-VAI-AAI3P αμεμπτος-A1B-NSM δε-X μυκτηριζω-VAI-AAI3S
+\v 20 ει-C μη-D απο  αναιζω-VSI-API3S ο-RA--NSF υποστασις-N3I-NSF αυτος-RD--GPM και-C ο-RA--ASN καταλειμμα-N3M-ASN αυτος-RD--GPM καταεσθιω-VF--FMI3S πυρ-N3--NSN
+\v 21 γιγνομαι-VB--AMD2S δη-X σκληρος-A1A-NSM εαν-C υπομενω-VA--AAS2S ειτα-D ο-RA--NSM καρπος-N2--NSM συ-RP--GS ειμι-VF--FMI3S εν-P αγαθος-A1--DPM
+\v 22 εκλαμβανω-VB--AAD2S δε-X εκ-P στομα-N3M-GSN αυτος-RD--GSM εξηγορια-N1A-ASF και-C αναλαμβανω-VB--AAD2S ο-RA--APN ρημα-N3M-APN αυτος-RD--GSM εν-P καρδια-N1A-DSF συ-RP--GS
+\v 23 εαν-C δε-X επιστρεφω-VD--APS2S και-C ταπεινοω-VA--AAS2S σεαυτου-RD--ASM εναντι-P κυριος-N2--GSM πορρω-D ποιεω-VAI-AAI2S απο-P διαιτα-N1S-GSF συ-RP--GS ο-RA--ASN αδικος-A1B-ASN
+\v 24 τιθημι-VF--FPI2S επι-P χωμα-N3M-DSN εν-P πετρα-N1A-DSF και-C ως-C πετρα-N1A-DSF χειμαρρους-N2--ASM *ωφιρ-N---GSM
+\v 25 ειμι-VF--FMI3S ουν-X συ-RP--GS ο-RA--NSM παντοκρατωρ-N3R-NSM βοηθος-N2--NSM απο-P εχθρος-N2--GPM καθαρος-A1A-ASM δε-X αποδιδωμι-VF--FAI3S συ-RP--AS ωσπερ-D αργυριον-N2N-ASN πυροω-VM--XPPASN
+\v 26 ειτα-D παρρησιαζομαι-VS--FPI2S εναντι-P κυριος-N2--GSM αναβλεπω-VA--AAPNSM εις-P ο-RA--ASM ουρανος-N2--ASM ιλαρως-D
+\v 27 ευχομαι-VA--AMPGSM δε-X συ-RP--GS προς-P αυτος-RD--ASM ειςακουω-VF--FMI3S συ-RP--GS διδωμι-VF--FAI3S δε-X συ-RP--DS αποδιδωμι-VO--AAN ο-RA--APF ευχη-N1--APF
+\v 28 απο  καταιστημι-VF--FAI3S δε-X συ-RP--DS διαιτα-N1S-ASF δικαιοσυνη-N1--GSF επι-P δε-X οδος-N2--DPF συ-RP--GS ειμι-VF--FMI3S φεγγος-N3E-NSN
+\v 29 οτι-C ταπεινοω-VAI-AAI3S αυτος-RD--ASM και-C ειπον-VF2-FAI2S υπερηφανευω-VAI-AMI3S και-C κυφω-V1--PAPASM οφθαλμος-N2--DPM σωζω-VF--FAI3S
+\v 30 ρυομαι-VF--FMI3S αθωος-A1--ASM και-C διασωζω-VC--APD2S εν-P καθαρος-A1A-DPF χειρ-N3--DPF συ-RP--GS
+
+\c 23
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 και-D δη-X οιδα-VX--XAI1S οτι-C εκ-P χειρ-N3--GSF εγω-RP--GS ο-RA--NSF ελεγξις-N3I-NSF ειμι-V9--PAI3S και-C ο-RA--NSF χειρ-N3--NSF αυτος-RD--GSM βαρυς-A3U-NSF γιγνομαι-VX--XAI3S επι-P εμος-A1--DSM στεναγμος-N2--DSM
+\v 3 τις-RI--NSM δε-X αρα-X γιγνωσκω-VZ--AAO3S οτι-C ευρισκω-VB--AAO1S αυτος-RD--ASM και-C ερχομαι-VB--AAO1S εις-P τελος-N3E-ASN
+\v 4 ειπον-VB--AAO1S δε-X εμαυτου-RD--GSM κριμα-N3M-ASN ο-RA--ASN δε-X στομα-N3M-ASN εγω-RP--GS ενπιμπλημι-VA--AAO1S ελεγχος-N2--GPM
+\v 5 γιγνωσκω-VZ--AAO1S δε-X ρημα-N3M-APN ος-RR--APN εγω-RP--DS ειπον-VF2-FAI3S αισθανομαι-VB--AMO1S δε-X τις-RI--ASM εγω-RP--DS αποαγγελλω-VF2-FAI3S
+\v 6 και-C ει-C εν-P πολυς-A1--DSF ισχυς-N3U-DSF επιερχομαι-VF--FMI3S εγω-RP--DS ειτα-D εν-P απειλη-N1--DSF εγω-RP--DS ου-D χραω-VF--FMI3S
+\v 7 αληθεια-N1A-NSF γαρ-X και-C ελεγχος-N2--NSM παρα-P αυτος-RD--GSM εκαγω-VB--AAO3S δε-X εις-P τελος-N3E-ASN ο-RA--ASN κριμα-N3M-ASN εγω-RP--GS
+\v 8 εις-P γαρ-X πρωτος-A1--APNS πορευομαι-VF--FMI1S και-C ουκετι-D ειμι-V9--PAI1S ο-RR--APN δε-X επι-P εσχατος-A1--DPM τις-RI--ASN οιδα-VX--XAI1S
+\v 9 αριστερος-A1--APN ποιεω-VA--AAPGSM αυτος-RD--GSM και-C ου-D καταεχω-VBI-AAI1S περιβαλλω-VF2-FAI3S δεξιος-A1A-APN και-C ου-D οραω-VF--FMI1S
+\v 10 οιδα-VX--XAI3S γαρ-X ηδη-D οδος-N2--ASF εγω-RP--GS διακρινω-VAI-AAI3S δε-X εγω-RP--AS ωσπερ-D ο-RA--ASN χρυσιον-N2N-ASN
+\v 11 εκερχομαι-VF--FMI1S δε-X εν-P ενταλμα-N3M-DPN αυτος-RD--GSM οδος-N2--APF γαρ-X αυτος-RD--GSM φυλασσω-VAI-AAI1S και-C ου-D μη-D εκκλινω-V1--PAI1S
+\v 12 απο-P ενταλμα-N3M-GPN αυτος-RD--GSM και-C ου-D μη-D παραερχομαι-VB--AAS1S εν-P δε-X κολπος-N2--DSM εγω-RP--GS κρυπτω-VAI-AAI1S ρημα-N3M-APN αυτος-RD--GSM
+\v 13 ει-C δε-X και-C αυτος-RD--NSM κρινω-VAI-AAI3S ουτως-D τις-RI--NSM ειμι-V9--PAI3S ο-RA--NSM αντιειπον-VB--AAPNSM αυτος-RD--DSM ος-RR--ASN γαρ-X αυτος-RD--NSM θελω-VAI-AAI3S και-D ποιεω-VAI-AAI3S
+\v 15 δια-P ουτος-RD--ASN επι-P αυτος-RD--DSM σπουδαζω-VX--XAI1S νουθετεω-V2--PMPNSM δε-X φροντιζω-VAI-AAI1S αυτος-RD--GSM
+\v 15 επι-P ουτος-RD--DSM απο-P προσωπον-N2N-GSN αυτος-RD--GSM κατασπουδαζω-VS--APS1S κατανοεω-VF--FAI1S και-C πτοεω-VC--FPI1S εκ-P αυτος-RD--GSM
+\v 16 κυριος-N2--NSM δε-X μαλακυνω-V1I-IAI3S ο-RA--ASF καρδια-N1A-ASF εγω-RP--GS ο-RA--NSM δε-X παντοκρατωρ-N3R-NSM σπουδαζω-VAI-AAI3S εγω-RP--AS
+\v 17 ου-D γαρ-X οιδα-VXI-YAI1S οτι-C επιερχομαι-VF--FMI3S εγω-RP--DS σκοτος-N3E-ASN προ-P προσωπον-N2N-GSN δε-X εγω-RP--GS καλυπτω-VAI-AAI3S γνοφος-N2--NSM
+
+\c 24
+\p
+\v 1 δια-P τις-RI--ASN δε-X κυριος-N2--ASM λανθανω-VBI-AAI3P ωρα-N1A-NPF
+\v 2 ασεβης-A3H-NPM δε-X οριον-N2N-ASN υπερβαινω-VZI-AAI3P ποιμνιον-N2--ASN συν-P ποιμην-N3--DSM αρπαζω-VA--AAPNPM
+\v 3 υποζυγιον-N2--ASN ορφανος-A1--GPM αποαγω-VBI-AAI3P και-C βους-N3--ASF χηρα-N1A-GSF ενεχυραζω-VAI-AAI3P
+\v 4 εκκλινω-VAI-AAI3P αδυνατος-A1B-APM εκ-P οδος-N2--GSF δικαιος-A1A-GSF ομοθυμαδον-D κρυπτω-VDI-API3P πραυς-A3U-NPM γη-N1--GSF
+\v 5 αποβαινω-VZI-AAI3P δε-X ωσπερ-D ονος-N2--NPM εν-P αγρος-N2--DSM υπερ-P εγω-RP--GS εκερχομαι-VB--AAPNPM ο-RA--ASF εαυτου-RD--GPM πραξις-N3I-ASF ηδυνω-VC--API3S αυτος-RD--DSM αρτος-N2--NSM εις-P νεος-A1A-APMC
+\v 6 αγρος-N2--ASM προ-P ωρα-N1A-GSF ου-D αυτος-RD--GPM ειμι-V9--PAPASM θεριζω-VAI-AAI3P αδυνατος-A1B-NPM δε-X αμπελων-N3W-APM ασεβης-A3H-GPM αμισθι-D και-C ασιτι-D εργαζομαι-VAI-AMI3P
+\v 7 γυμνος-A1--APM πολυς-A1--APM κοιμιζω-VAI-AAI3P ανευ-P ιματιον-N2N-GPN αμφιασις-N3I-ASM δε-X ψυχη-N1--GSF αυτος-RD--GPM αποαιρεω-VBI-AMI3P
+\v 8 απο-P ψεκας-N3D-GPF ορος-N3E-GPN υγραινω-V1--PMI3P παρα-P ο-RA--ASN μη-D εχω-V1--PAN αυτος-RD--APM σκεπη-N1--ASF πετρα-N1A-ASF περιβαλλω-VBI-AMI3P
+\v 9 αρπαζω-VAI-AAI3P ορφανος-A1--ASM απο-P μαστος-N2--GSM εκπιπτω-VX--XAPASM δε-X ταπεινοω-VAI-AAI3P
+\v 10 γυμνος-A1--APM δε-X κοιμιζω-VAI-AAI3P αδικως-D πειναω-V3--PAPGPM δε-X ο-RA--ASM ψωμος-N2--ASM αποαιρεω-VBI-AMI3P
+\v 11 εν-P στενος-A1--DPM αδικως-D ενεδρευω-VAI-AAI3P οδος-N2--ASF δε-X δικαιος-A1A-ASF ου-D οιδα-VXI-YAI3P
+\v 12 ος-RR--NPM εκ-P πολις-N3I-GSF και-C οικος-N2--GPM ιδιος-A1A-GPM εκβαλλω-V1I-IMI3P ψυχη-N1--NSF δε-X νηπιος-A1A-GPM στεναζω-VAI-AAI3S μεγας-A1P-ASN αυτος-RD--NSM δε-X δια-P τις-RI--ASN ουτος-RD--GPM επισκοπη-N1--ASF ου-D ποιεω-VM--XMI3S
+\v 13 επι-P γη-N1--GSF ειμι-V9--PAPGPM αυτος-RD--GPM και-C ου-D επιγιγνωσκω-VZI-AAI3P οδος-N2--ASF δε-X δικαιοσυνη-N1--GSF ου-D οιδα-VXI-YAI3P ουδε-C ατραπος-N2--APF αυτος-RD--GSF πορευομαι-VCI-API3P
+\v 14 γιγνωσκω-VZ--AAPNSM δε-X αυτος-RD--GPM ο-RA--APN εργον-N2N-APN παραδιδωμι-VAI-AAI3S αυτος-RD--APM εις-P σκοτος-N3E-ASN και-C νυξ-N3--GSF ειμι-VF--FMI3S ως-C κλεπτης-N1M-NSM
+\v 15 και-C οφθαλμος-N2--NSM μοιχος-N2--GSM φυλασσω-VAI-AAI3S σκοτος-N3E-ASN λεγω-V1--PAPNSM ου-D προςνοεω-VF--FAI3S εγω-RP--AS οφθαλμος-N2--NSM και-C αποκρυβη-N1--ASF προσωπον-N2N-GSN τιθημι-VEI-AMI3S
+\v 16 διαορυσσω-VAI-AAI3S εν-P σκοτος-N3E-DSN οικια-N1A-APF ημερα-N1A-GSF σφραγιζω-VAI-AAI3P εαυτου-RD--APM ου-D επιγιγνωσκω-VZI-AAI3P φως-N3T-ASN
+\v 17 οτι-C ομοθυμαδον-D ο-RA--ASN πρωι-D αυτος-RD--DPM σκια-N1A-NSF θανατος-N2--GSM οτι-C επιγιγνωσκω-VF--FMI3S ταραχη-N1--APF σκια-N1A-GSF θανατος-N2--GSM
+\v 18 ελαφρος-A1A-NSM ειμι-V9--PAI3S επι-P προσωπον-N2N-ASN υδωρ-N3T-GSN κατααραομαι-VC--APO3S ο-RA--NSF μερις-N3D-NSF αυτος-RD--GPM επι-P γη-N1--GSF
+\v 19 αναφαινω-VD--APO3S δε-X ο-RA--NPN φυτον-N2N-NPN αυτος-RD--GPM επι-P γη-N1--GSF ξηρος-A1A-APN αγκαλις-N3D-APF γαρ-X ορφανος-A1--GPM αρπαζω-VAI-AAI3P
+\v 20 ειτα-D αναμιμνησκω-VSI-API3S αυτος-RD--GSM ο-RA--NSF αμαρτια-N1A-NSF ωσπερ-D δε-X ομιχλη-N1--NSF δροσος-N2--GSF αφανης-A3H-NSM γιγνομαι-VBI-AMI3S αποδιδωμι-VC--APO3S δε-X αυτος-RD--DSM ος-RR--APN πρασσω-VAI-AAI3S συντριβω-VD--APO3S δε-X πας-A3--NSM αδικος-A1B-NSM ισος-D ξυλον-N2N-DSN ανιατος-A1B-DSN
+\v 21 στειρα-N1A-ASF γαρ-X ου-D ευ-D ποιεω-VAI-AAI3S και-C γυναιον-N2N-ASN ου-D ελεεω-VAI-AAI3S
+\v 22 θυμος-N2--DSM δε-X καταστρεφω-VAI-AAI3S αδυνατος-A1B-APM αναιστημι-VH--AAPNSM τοιγαρουν-C ου-D μη-D πιστευω-VF--FMI2S κατα-P ο-RA--GSF εαυτου-RD--GSM ζωη-N1--GSF
+\v 23 μαλακιζομαι-VS--APPNSM μη-D ελπιζω-V1--PAD3S υγιαζω-VS--APN αλλα-C πιπτω-VF2-FMI3S νοσος-N2--DSF
+\v 24 πολυς-A1--APM γαρ-X κακοω-VAI-AAI3S ο-RA--NSN υψωμα-N3M-NSN αυτος-RD--GSM μαραινω-VCI-API3S δε-X ωσπερ-D μολοχη-N1--NSF εν-P καυμα-N3M-DSN η-C ωσπερ-D σταχυς-N3U-NSM απο-P καλαμη-N1--GSF αυτοματος-A1--NSM αποπιπτω-VB--AAPNSM
+\v 25 ει-C δε-X μη-D τις-RI--NSM ειμι-V9--PAI3S ο-RA--NSM φημι-V6--PMPNSM ψευδης-A3H-APN εγω-RP--AS λεγω-V1--PAN και-C τιθημι-VF--FAI3S εις-P ουδεις-A3--ASN ο-RA--APN ρημα-N3M-APN εγω-RP--GS
+
+\c 25
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *βαλδαδ-N---NSM ο-RA--NSM *σαυχιτης-N1M-NSM λεγω-V1--PAI3S
+\v 2 τις-RI--NSN γαρ-X προοιμιον-N2N-NSN η-C φοβος-N2--NSM παρα-P αυτος-RD--GSM ο-RA--NSM ποιεω-V2--PAPNSM ο-RA--ASF συμπας-A1A-ASF εν-P υψιστος-A1--DSM
+\v 3 μη-D γαρ-X τις-RI--NSM υπολαμβανω-VB--AAO3S οτι-C ειμι-V9--PAI3S παρελκυσις-N3I-NSF πειρατης-N1M-DPM επι-P τις-RI--APM δε-X ου-D επιερχομαι-VF--FMI3S ενεδρα-N1A-NSF παρα-P αυτος-RD--GSM
+\v 4 πως-D γαρ-X ειμι-VF--FMI3S δικαιος-A1A-NSM βροτος-N2--NSM εναντι-P κυριος-N2--GSM η-C τις-RI--NSM αν-X αποκαθαριζω-VA--AAO3S εαυτου-RD--ASM γεννητος-A1--NSM γυνη-N3K-GSF
+\v 5 ει-C σεληνη-N1--DSF συντασσω-V1--PAI3S και-C ου-D επιφαυσκω-V1--PAI3S αστρον-N2N-NPN δε-X ου-D καθαρος-A1A-NPN εναντιον-P αυτος-RD--GSM
+\v 6 εα-I δε-X ανθρωπος-N2--NSM σαπρια-N1A-NSF και-C υιος-N2--NSM ανθρωπος-N2--GSM σκωληξ-N3K-NSM
+
+\c 26
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S
+\v 2 τις-RI--DSM προςκειμαι-V5--PMI2S η-C τις-RI--DSM μελλω-V1--PAI2S βοηθεω-V2--PAN ποτερον-D ου-D ος-RR--DSM πολυς-A1--NSF ισχυς-N3U-NSF και-C ος-RR--DSM βραχιων-N3N-NSM κραταιος-A1A-NSM ειμι-V9--PAI3S
+\v 3 τις-RI--DSN συνβουλευω-VM--XMI2S ου-D ος-RR--DSM πας-A1S-NSF σοφια-N1A-NSF η-C τις-RI--DSN επιακολουθεω-VF--FAI2S ου-D ος-RR--DSM μεγας-A1--NSFS δυναμις-N3I-NSF
+\v 4 τις-RI--DSN ανααγγελλω-VAI-AAI2S ρημα-N3M-APN πνοη-N1--NSF δε-X τις-RI--GSN ειμι-V9--PAI3S ο-RA--NSF εκερχομαι-VB--AAPNSF εκ-P συ-RP--GS
+\v 5 μη-D γιγας-N3--NPM μαιοομαι-VC--FPI3P υποκατωθεν-D υδωρ-N3T-GSN και-C ο-RA--GPM γειτων-N3N-GPM αυτος-RD--GSM
+\v 6 γυμνος-A1--NSM ο-RA--NSM αδης-N1M-NSM επωπιον-D αυτος-RD--GSM και-C ου-D ειμι-V9--PAI3S περιβολαιον-N2N-NSN ο-RA--DSF απωλεια-N1A-DSF
+\v 7 εκτεινω-V1--PAPNSM βορεας-N1T-ASM επι-P ουδεις-A3--ASN κρεμαζω-V1--PAPNSM γη-N1--ASF επι-P ουδεις-A3--GSM
+\v 8 δεσμευω-V1--PAPNSM υδωρ-N3--ASN εν-P νεφελη-N1--DPF αυτος-RD--GSM και-C ου-D ρηγνυμι-VDI-API3S νεφος-N3E-ASN υποκατω-D αυτος-RD--GSM
+\v 9 ο-RA--NSM κρατεω-V2--PAPNSM προσωπον-N2N-ASN θρονος-N2--GSM εκπεταζω-V1--PAPNSM επι-P αυτος-RD--ASM νεφος-N3E-ASN αυτος-RD--GSM
+\v 10 προσταγμα-N3M-ASN γυροω-VAI-AAI3S επι-P προσωπον-N2N-ASN υδωρ-N3T-GSN μεχρι-P συντελεια-N1A-GSF φως-N3T-GSN μετα-P σκοτος-N3E-GSN
+\v 11 στυλος-N2--NPM ουρανος-N2--GSM πεταννυμι-VSI-API3P και-C εκιστημι-VHI-AAI3P απο-P ο-RA--GSF επιτιμησις-N3I-GSF αυτος-RD--GSM
+\v 12 ισχυς-N3U-DSF καταπαυω-VAI-AAI3S ο-RA--ASF θαλασσα-N1S-ASF επιστημη-N1--DSF δε-X τιτρωσκω-VAI-AAI3S ο-RA--ASN κητος-N3E-ASN
+\v 13 κλειθρον-N2N-NPN δε-X ουρανος-N2--GSM δειδω-VX--XAI3P αυτος-RD--ASM προσταγμα-N3M-DSN δε-X θανατοω-VAI-AAI3S δρακων-N3--ASM αποστατης-N1M-ASM
+\v 14 ιδου-I ουτος-RD--NPN μερος-N3E-NPN οδος-N2--GSF αυτος-RD--GSM και-C επι-P ικμας-N3D-APF λογος-N2--GSM ακουω-VF--FMI1P εν-P αυτος-RD--DSM σθενος-N3E-ASN δε-X βροντη-N1--GSF αυτος-RD--GSM τις-RI--NSM οιδα-VX--XAI3S οποτε-D ποιεω-VF--FAI3S
+
+\c 27
+\p
+\v 1 ετι-D δε-X προςτιθημι-VE--AAPNSM *ιωβ-N---NSM ειπον-VBI-AAI3S ο-RA--DSN προοιμιον-N2N-DSN
+\v 2 ζαω-V3--PAI3S κυριος-N2--NSM ος-RR--NSM ουτως-D εγω-RP--AS κρινω-VX--XAI3S και-C ο-RA--NSM παντοκρατωρ-N3R-NSM ο-RA--NSM πικραινω-VA--AAPNSM εγω-RP--GS ο-RA--ASF ψυχη-N1--ASF
+\v 3 η-D μην-X ετι-D ο-RA--GSF πνοη-N1--GSF εγω-RP--GS ενειμι-V9--PAPGSF πνευμα-N3M-NSN δε-X θειος-A1A-NSN ο-RA--NSN περιειμι-V9--PAPNSN εγω-RP--DS εν-P ρις-N3--DPF
+\v 4 μη-D λαλεω-VF--FAN ο-RA--APN χειλος-N3E-APN εγω-RP--GS ανομος-A1B-APN ουδε-C ο-RA--NSF ψυχη-N1--NSF εγω-RP--GS μελεταω-VF--FAI3S αδικος-A1B-APN
+\v 5 μη-D εγω-RP--DS ειμι-V9--PAO3S δικαιος-A1A-APM συ-RP--AP αποφαινω-VA--AAN εως-C αν-X αποθνησκω-VB--AAS1S ου-D γαρ-X αποαλλασσω-VF--FAI1S εγω-RP--GS ο-RA--ASF ακακια-N1A-ASF
+\v 6 δικαιοσυνη-N1--DSF δε-X προςεχω-V1--PAPNSM ου-D μη-D προιημι-VA--AMS1S ου-D γαρ-X συνοιδα-VX--XAI1S εμαυτου-RD--DSM ατοπος-A1B-APN πρασσω-VA--AAPNSM
+\v 7 ου-D μην-X δε-X αλλα-C ειμι-V9--PAO3P ο-RA--NPM εχθρος-N2--NPM εγω-RP--GS ωσπερ-D ο-RA--NSF καταστροφη-N1--NSF ο-RA--GPM ασεβης-A3H-GPM και-C ο-RA--NPM επι-P εγω-RP--AS επιανιστημι-VM--AMPNPM ωσπερ-D ο-RA--NSF απωλεια-N1A-NSF ο-RA--GPM παρανομος-A1B-GPM
+\v 8 και-C τις-RI--NSM γαρ-X ειμι-V9--PAI3S ελπις-N3D-NSF ασεβης-A3H-DSM οτι-C επιεχω-V1--PAI3S πειθω-VX--XAPNSM επι-P κυριος-N2--ASM αρα-X σωζω-VC--FPI3S
+\v 9 η-D ο-RA--ASF δεησις-N3I-ASF αυτος-RD--GSM ειςακουω-VF--FMI3S κυριος-N2--NSM η-C επιερχομαι-VB--AAPGSF αυτος-RD--DSM αναγκη-N1--GSF
+\v 10 μη-D εχω-V1--PAI3S τις-RI--ASM παρρησια-N1A-ASF εναντι-P αυτος-RD--GSM η-C ως-C επικαλεω-VA--AMPGSM αυτος-RD--GSM ειςακουω-VF--FMI3S αυτος-RD--GSM
+\v 11 αλλα-C δη-X ανααγγελλω-VF2-FAI1S συ-RP--DP τις-RI--ASN ειμι-V9--PAI3S εν-P χειρ-N3--DSF κυριος-N2--GSM ος-RR--APN ειμι-V9--PAI3S παρα-P παντοκρατωρ-N3R-DSM ου-D ψευδω-VF--FMI1S
+\v 12 ιδου-I δη-X πας-A3--NPM οιδα-VX--XAD2P οτι-C κενος-A1--APN κενος-A1--DPM επιβαλλω-V1--PAI2P
+\v 13 ουτος-RD--NSF ο-RA--NSF μερις-N3D-NSF ανθρωπος-N2--GSM ασεβης-A3H-GSM παρα-P κυριος-N2--GSM κτημα-N3M-NSN δε-X δυναστης-N1M-GPM ερχομαι-VF--FMI3S παρα-P παντοκρατωρ-N3R-GSM επι-P αυτος-RD--APM
+\v 14 εαν-C δε-X πολυς-A1--NPM γιγνομαι-VB--AMS3P ο-RA--NPM υιος-N2--NPM αυτος-RD--GSM εις-P σφαγη-N1--ASF ειμι-VF--FMI3P εαν-C δε-X και-C ανδροω-VC--APS3P προςαιτεω-VF--FAI3P
+\v 15 ο-RA--NPM δε-X περιειμι-V9--PAPNPM αυτος-RD--GSM εν-P θανατος-N2--DSM τελευταω-VF--FAI3P χηρα-N1A-GSF δε-X αυτος-RD--GPM ουδεις-A3--NSF ελεεω-VF--FAI3S
+\v 16 εαν-C συναγω-VB--AAS3S ωσπερ-D γη-N1--ASF αργυριον-N2N-ASN ισος-D δε-X πηλος-N2--DSM ετοιμαζω-VF--FMI2S χρυσιον-N2N-ASN
+\v 17 ουτος-RD--APN πας-A3--APN δικαιος-A1A-NPM περιποιεω-VF--FMI3P ο-RA--APN δε-X χρημα-N3M-APN αυτος-RD--GSM αληθινος-A1--NPM καταεχω-VF--FAI3P
+\v 18 αποβαινω-VZI-AAI3S δε-X ο-RA--NSM οικος-N2--NSM αυτος-RD--GSM ωσπερ-D σης-N1M-NPM και-C ωσπερ-D αραχνη-N1--NSF
+\v 19 πλουσιος-A1A-NSM κοιμαω-VC--APPNSM και-C ου-D προςτιθημι-VF--FAI3S οφθαλμος-N2--APM αυτος-RD--GSM δια   αναοιγω-VAI-AAI3S και-C ου-D ειμι-V9--PAI3S
+\v 20 συνανταω-VAI-AAI3P αυτος-RD--DSM ωσπερ-D υδωρ-N3--NSN ο-RA--NPF οδυνη-N1--NPF νυξ-N3--DSF δε-X υποαιρεω-VB--AMI3S αυτος-RD--ASM γνοφος-N2--NSM
+\v 21 αναλαμβανω-VF--FMI3S αυτος-RD--ASM καιω-VF--FAPNSM και-C αποερχομαι-VF--FMI3S και-C λικμαω-VF--FAI3S αυτος-RD--ASM εκ-P ο-RA--GSM τοπος-N2--GSM αυτος-RD--GSM
+\v 22 και-C επιριπτω-VF--FAI3S επι-P αυτος-RD--ASM και-C ου-D φειδομαι-VF--FMI3S εκ-P χειρ-N3--GSF αυτος-RD--GSM φυγη-N1--DSF φευγω-VF--FMI3S
+\v 23 κροτεω-VF--FAI3S επι-P αυτος-RD--GSM χειρ-N3--APF αυτος-RD--GSM και-C συριζω-VF2-FAI3S αυτος-RD--ASM εκ-P ο-RA--GSM τοπος-N2--GSM αυτος-RD--GSN
+
+\c 28
+\p
+\v 1 ειμι-V9--PAI3S γαρ-X αργυριον-N2N-DSN τοπος-N2--NSM οθεν-D γιγνομαι-V1--PMI3S τοπος-N2--NSM δε-X χρυσιον-N2N-DSN οθεν-D διαηθεω-V2--AMI3S
+\v 2 σιδηρος-N2--NSM μεν-X γαρ-X εκ-P γη-N1--GSF γιγνομαι-V1--PMI3S χαλκος-N2--NSM δε-X ισος-D λιθος-N2--DSM λατομεω-V2--PMI3S
+\v 3 ταξις-N3I-ASF τιθημι-VEI-AMI3S σκοτος-N3E-DSN και-C πας-A3--NSN περας-N3T-NSN αυτος-RD--NSM εκακριβαζομαι-V1--PMI3S λιθος-N2--NSM σκοτια-N1A-NSF και-C σκια-N1A-NSF θανατος-N2--GSM
+\v 4 διακοπη-N1--NSF χειμαρρους-N2--GSM απο-P κονια-N1A-GSF ο-RA--NPM δε-X επιλανθανω-V1--PMPNPM οδος-N2--ASF δικαιος-A1A-ASF ασθενεω-VAI-AAI3P εκ-P βροτος-N2--GPM
+\v 5 γη-N1--NSF εκ-P αυτος-RD--GSF εκερχομαι-VF--FMI3S αρτος-N2--NSM υποκατω-D αυτος-RD--GSF στρεφω-VDI-API3S ωσει-D πυρ-N3--NSN
+\v 6 τοπος-N2--NSM σαπφειρος-N2--GSF ο-RA--NPM λιθος-N2--NPM αυτος-RD--GSF και-C χωμα-N3M-NSN χρυσιον-N2N-NSN αυτος-RD--DSM
+\v 7 τριβος-N2--NSF ου-D γιγνωσκω-VZI-AAI3S αυτος-RD--ASF πετεινον-N2N-NSN και-C ου-D παραβλεπω-VAI-AAI3S αυτος-RD--ASF οφθαλμος-N2--NSM γυψ-N3P-GSM
+\v 8 ου-D πατεω-VAI-AAI3P αυτος-RD--ASF υιος-N2--NPM αλαζων-N3N-GPM ου-D παραερχομαι-VBI-AAI3S επι-P αυτος-RD--GSF λεων-N3W-NSM
+\v 9 εν-P ακροτομος-A1B-DSM εκτεινω-VAI-AAI3S χειρ-N3--ASF αυτος-RD--GSM καταστρεφω-VAI-AAI3S δε-X εκ-P ριζα-N1S-GPF ορος-N3E-APN
+\v 10 δινη-N1--APF δε-X ποταμος-N2--GPM ρηγνυμι-VAI-AAI3S πας-A3--ASN δε-X εντιμος-A1B-ASN οραω-VBI-AAI3S εγω-RP--GS ο-RA--NSM οφθαλμος-N2--NSM
+\v 11 βαθος-N3E-APN δε-X ποταμος-N2--GPM ανακαλυπτω-VAI-AAI3S δεικνυω-VAI-AAI3S δε-X εαυτου-RD--GSM δυναμις-N3I-ASF εις-P φως-N3T-ASN
+\v 12 ο-RA--NSF δε-X σοφια-N1A-NSF ποθεν-D ευρισκω-VC--API3S ποιος-A1A-NSM δε-X τοπος-N2--NSM ειμι-V9--PAI3S ο-RA--GSF επιστημη-N1--GSF
+\v 13 ου-D οιδα-VX--XAI3S βροτος-N2--NSM οδος-N2--ASF αυτος-RD--GSF ουδε-C μη-D ευρισκω-VC--APS3S εν-P ανθρωπος-N2--DPM
+\v 14 αβυσσος-N2--NSF ειπον-VBI-AAI3S ου-D ειμι-V9--PAI3S εν-P εγω-RP--DS και-C θαλασσα-N1S-NSF ειπον-VBI-AAI3S ου-D ειμι-V9--PAI3S μετα-P εγω-RP--GS
+\v 15 ου-D διδωμι-VF--FAI3S συγκλεισμος-N2--ASM αντι-P αυτος-RD--GSF και-C ου-D ιστημι-VC--FPI3S αργυριον-N2N-ASN ανταλλαγμα-N3M-ASN αυτος-RD--GSF
+\v 16 και-C ου-D συνβασταζω-VS--FPI3S χρυσιον-N2N-DSN *ωφιρ-N---GSM εν-P ονυξ-N3--DSM τιμιος-A1A-DSM και-C σαπφειρος-N2--DSF
+\v 17 ου-D ισοω-VC--FPI3S αυτος-RD--DSF χρυσιον-N2N-NSN και-C υαλος-N2--NSF και-C ο-RA--NSN αλλαγμα-N3M-NSN αυτος-RD--GSF σκευος-N3E-NPN χρυσους-A1C-NPN
+\v 18 μετεωρος-A1B-NPN και-C γαβις-N---NS ου-D μιμνησκω-VS--FPI3S και-C ελκω-VA--AAD2S σοφια-N1A-ASF υπερ-P ο-RA--APN εσωτατος-A1--APNS
+\v 19 ου-D ισοω-VC--FPI3S αυτος-RD--DSF τοπαζιον-N2N-NSN *αιθιοπια-N1A-GSF χρυσιον-N2N-DSN καθαρος-A1A-DSN ου-D συνβασταζω-VS--FPI3S
+\v 20 ο-RA--NSF δε-X σοφια-N1A-NSF ποθεν-D ευρισκω-VC--API3S ποιος-A1A-NSM δε-X τοπος-N2--NSM ειμι-V9--PAI3S ο-RA--GSF συνεσις-N3I-GSF
+\v 21 λανθανω-VX--XAI3S πας-A3--ASM ανθρωπος-N2--ASM και-C απο-P πετεινον-N2N-GPN ο-RA--GSM ουρανος-N2--GSM κρυπτω-VDI-API3S
+\v 22 ο-RA--NSF απωλεια-N1A-NSF και-C ο-RA--NSM θανατος-N2--NSM ειπον-VAI-AAI3P ακουω-VX--XAI1P δε-X αυτος-RD--GSF ο-RA--ASN κλεος-N3E-ASN
+\v 23 ο-RA--NSM θεος-N2--NSM ευ-D συνιστημι-VHI-AAI3S αυτος-RD--GSF ο-RA--ASF οδος-N2--ASF αυτος-RD--NSM δε-X οιδα-VX--XAI3S ο-RA--ASM τοπος-N2--ASM αυτος-RD--GSF
+\v 24 αυτος-RD--NSM γαρ-X ο-RA--ASF υπο-P ουρανος-N2--ASM πας-A1S-ASF επιοραω-V3--PAI3S οιδα-VX--XAPNSM ο-RA--APN εν-P ο-RA--DSF γη-N1--DSF πας-A3--APN ος-RR--APN ποιεω-VAI-AAI3S
+\v 25 ανεμος-N2--GPM σταθμος-N2--ASM υδωρ-N3T-GSN τε-X μετρον-N2N-APN
+\v 26 οτε-D ποιεω-VAI-AAI3S ουτως-D υετος-N2--ASM αριθμεω-VAI-AAI3S και-C οδος-N2--ASF εν-P τιναγμα-N3M-DSN φωνη-N1--GSF
+\v 27 τοτε-D οραω-VBI-AAI3S αυτος-RD--ASF και-C εκηγεομαι-VAI-AMI3S αυτος-RD--ASF ετοιμαζω-VA--AAPNSM εκιχνευω-VA--AAI3S
+\v 28 ειπον-VBI-AAI3S δε-X ανθρωπος-N2--DSM ιδου-I ο-RA--NSF θεοσεβεια-N1A-NSF ειμι-V9--PAI3S σοφια-N1A-NSF ο-RA--ASN δε-X αποεχω-V1--PMN απο-P κακος-A1--GPM ειμι-V9--PAI3S επιστημη-N1--NSF
+
+\c 29
+\p
+\v 1 ετι-D δε-X προςτιθημι-VE--AAPNSM *ιωβ-N---NSM ειπον-VBI-AAI3S ο-RA--DSN προοιμιον-N2N-DSN
+\v 2 τις-RI--NSM αν-X εγω-RP--AS τιθημι-VE--AAO3S κατα-P μην-N3--ASM εμπροσθεν-P ημερα-N1A-GPF ος-RR--GPF εγω-RP--AS ο-RA--NSM θεος-N2--NSM φυλασσω-VAI-AAI3S
+\v 3 ως-C οτε-D αυγω-V1I-IAI3S ο-RA--NSM λυχνος-N2--NSM αυτος-RD--GSM υπερ-P κεφαλη-N1--GSF εγω-RP--GS οτε-D ο-RA--DSN φως-N3T-DSN αυτος-RD--GSM πορευομαι-V1I-IMI1S εν-P σκοτος-N3E-DSN
+\v 4 οτε-D ειμι-V9I-IMI1S επιβριθω-V1--PAPNSM οδος-N2--DPF οτε-D ο-RA--NSM θεος-N2--NSM επισκοπη-N1--ASF ποιεω-V2I-IMI3S ο-RA--GSM οικος-N2--GSM εγω-RP--GS
+\v 5 οτε-D ειμι-V9I-IMI1S υλωδης-A3H-NSM λιαν-D κυκλος-N2--DSM δε-X εγω-RP--GS ο-RA--NPM παις-N3D-NPM
+\v 6 οτε-D χεω-V2I-IMI3P εγω-RP--GS ο-RA--NPF οδος-N2--NPF βουτυρον-N2N-DSN ο-RA--NPN δε-X ορος-N3E-NPN εγω-RP--GS χεω-V2I-IMI3P γαλα-N3--DSN
+\v 7 οτε-D εκπορευομαι-V1I-IMI1S ορθριος-A1A-NSM εν-P πολις-N3I-DSF εν-P δε-X πλατυς-A3U-DPF τιθημι-V7I-IMI3S εγω-RP--GS ο-RA--NSM διφρος-N2--NSM
+\v 8 οραω-VB--AAPNPM εγω-RP--AS νεανισκος-N2--NPM κρυπτω-VDI-API3P πρεσβυτης-N1M-NPM δε-X πας-A3--NPM ιστημι-VAI-AAI3P
+\v 9 αδρος-A1A-NPM δε-X παυω-VAI-AMI3P λαλεω-V2--PAPNPM δακτυλος-N2--ASM επιτιθημι-VE--AAPNPM επι-P στομα-N3M-DSN
+\v 10 ο-RA--NPM δε-X ακουω-VA--AAPNPM μακαριζω-VAI-AAI3P εγω-RP--AS και-C γλωσσα-N1S-NSF αυτος-RD--GPM ο-RA--DSM λαρυγξ-N3G-DSM αυτος-RD--GPM κολλαω-VCI-API3S
+\v 11 οτι-C ους-N3T-NSN ακουω-VAI-AAI3S και-C μακαριζω-VAI-AAI3S εγω-RP--AS οφθαλμος-N2--NSM δε-X οραω-VB--AAPNSM εγω-RP--AS εκκλινω-V1I-IAI3S
+\v 12 διασωζω-VAI-AAI1S γαρ-X πτωχος-N2--ASM εκ-P χειρ-N3--GSF δυναστης-N1M-GSM και-C ορφανος-A1--DSM ος-RR--DSM ου-D ειμι-V9--IAI3S βοηθος-N2--NSM βοηθεω-VAI-AAI1S
+\v 13 ευλογια-N1A-NSF αποολλυω-V5--PMPGSM επι-P εγω-RP--AS ερχομαι-VB--AAO3S στομα-N3M-ASN δε-X χηρα-N1A-GSF εγω-RP--AS ευλογεω-VA--AAI3S
+\v 14 δικαιοσυνη-N1--ASF δε-X ενδυω-VXI-YAI1S αμφιαζω-VAI-AMI1S δε-X κριμα-N3M-ASN ισος-D διπλοις-N3D-DSF
+\v 15 οφθαλμος-N2--NSM ειμι-V9I-IMI1S τυφλος-A1--GPM πους-N3D-NSM δε-X χωλος-A1--GPM
+\v 16 εγω-RP--NS ειμι-V9I-IMI1S πατηρ-N3--NSM αδυνατος-A1B-GPM δικη-N1--ASF δε-X ος-RR--ASF ου-D οιδα-VXI-YAI1S εξιχνιαζω-VAI-AAI1S
+\v 17 συντριβω-VAI-AAI1S δε-X μυλη-N1--APF αδικος-A1B-GPM εκ-P δε-X μεσος-A1--GSM ο-RA--GPM οδους-N3--GPM αυτος-RD--GPM αρπαγμα-N3M-ASN εκσπαω-VAI-AAI1S
+\v 18 ειπον-VAI-AAI1S δε-X ο-RA--NSF ηλικια-N1A-NSF εγω-RP--GS γηραω-VF--FAI3S ωσπερ-D στελεχος-N3E-NSN φοινιξ-N3K-GSM πολυς-A1--ASM χρονος-N2--ASM βιοω-VF--FAI1S
+\v 19 ο-RA--NSF ριζα-N1S-NSF εγω-RP--GS δια   αναοιγω-VM--XMI3S επι-P υδωρ-N3T-GSN και-C δροσος-N2--NSF αυλιζω-VS--FPI3S εν-P ο-RA--DSM θερισμος-N2--DSM εγω-RP--GS
+\v 20 ο-RA--NSF δοξα-N1S-NSF εγω-RP--GS καινος-A1--NSF μετα-P εγω-RP--GS και-C ο-RA--NSN τοξον-N2N-NSN εγω-RP--GS εν-P χειρ-N3--DSF αυτος-RD--GSM πορευομαι-VF--FMI3S
+\v 21 εγω-RP--GS ακουω-VA--AAPNPM προςεχω-VBI-AAI3P σιωπαω-VAI-AAI3P δε-X επι-P ο-RA--DSF εμος-A1--DSF βουλη-N1--DSF
+\v 22 επι-P δε-X ο-RA--DSN εμος-A1--DSN ρημα-N3M-DSN ου-D προςτιθημι-VEI-AMI3P περιχαρης-A3H-APM δε-X γιγνομαι-V1I-IMI3P οποταν-C αυτος-RD--DPM λαλεω-V2I-IAI1S
+\v 23 ωσπερ-D γη-N1--NSF διψαω-V3--PAPNSF προςδεχομαι-V1--PMPNSF ο-RA--ASM υετος-N2--ASM ουτως-D ουτος-RD--NPM ο-RA--ASF εμος-A1--ASF λαλια-N1A-ASF
+\v 24 εαν-C γελαω-VA--AAS1S προς-P αυτος-RD--APM ου-D μη-D πιστευω-VA--AAS3P και-C φως-N3T-NSN ο-RA--GSN προσωπον-N2N-GSN εγω-RP--GS ου-D αποπιπτω-V1I-IAI3S
+\v 25 εκλεγω-VAI-AMI1S οδος-N2--ASF αυτος-RD--GPM και-C καταιζω-VAI-AAI1S αρχων-N3--NSM και-C κατασκηνοω-V4I-IAI1S ωσει-D βασιλευς-N3V-NSM εν-P μονοζωνος-N2--DPM ος-RR--ASM τροπος-N2--ASM παθεινος-N2--APM παρακαλεω-V2--PAPNSM
+
+\c 30
+\p
+\v 1 νυνι-D δε-X καταγελαω-VAI-AAI3P εγω-RP--GS ελαχυς-A1--NPMS νυν-D νουθετεω-V2--PAI3P εγω-RP--AS εν-P μερος-N3E-DSN ος-RR--GPM εκουδενοω-V4--IAI1S πατηρ-N3--APM αυτος-RD--GPM ος-RR--APM ου-D ηγεομαι-VAI-AMI1S ειμι-V9--PAN αξιος-A1A-APM κυων-N3--GPF ο-RA--GPF εμος-A1--GPF νομας-N3D-GPF
+\v 2 και-C γε-X ισχυς-N3U-NSF χειρ-N3--GPF αυτος-RD--GPM ινα-C τις-RI--ASN εγω-RP--DS επι-P αυτος-RD--APM αποολλυω-VBI-AMI3S συντελεια-N1A-NSF
+\v 3 εν-P ενδεια-N1A-DSF και-C λιμος-N2--DSM αγονος-A1B-NSM ο-RA--NPM φευγω-V1--PAPNPM ανυδρος-A1B-ASM χθες-D συνοχη-N1--ASF και-C ταλαιπωρια-N1A-ASF
+\v 4 ο-RA--NPM περικλειω-V1--PAPNPM αλιμον-A1B-NPN επι-P ηχω-V1--PAPDSN οστις-RX--NPM αλιμον-A1B-NPN ειμι-V9--IAI3S αυτος-RD--GPM ο-RA--APN σιτος-N2--APN ατιμος-A1B-NPM δε-X και-C φαυλιζω-VT--XMPNPM ενδεης-A3H-NPM πας-A3--GSM αγαθος-A1--GSM ος-RR--NPM και-D ριζα-N1S-APF ξυλον-N2N-GPN μασαω-V3I-IMI3P υπο-P λιμος-N2--GSM μεγας-A1--GSM
+\v 5 επι  αναιστημι-VHI-AAI3P εγω-RP--DS κλεπτης-N1M-NPM
+\v 6 ος-RR--GPM ο-RA--NPM οικος-N2--NPM αυτος-RD--GPM ειμι-V9--IAI3P τρωγλη-N1--NPF πετρος-N2--GPM
+\v 7 ανα-P μεσος-A1--ASM ευηχης-A3H-GPM βοαω-VF--FMI3P ος-RR--NPM υπο-P φρυγανον-N2N-APN αγριος-A1A-APN διααιταω-V3I-IMI3P
+\v 8 αφρων-A3N-GPM υιος-N2--NPM και-C ατιμος-A1B-GPM ονομα-N3M-NSN και-C κλεος-N3E-NSN σβεννυμι-VMI-XPPNSN απο-P γη-N1--GSF
+\v 9 νυνι-D δε-X κιθαρα-N1A-NSF εγω-RP--NS ειμι-V9--PAI1S αυτος-RD--GPM και-C εγω-RP--AS θρυλημα-N3M-ASN εχω-V1--PAI3P
+\v 10 βδελυσσω-VAI-AMI3P δε-X εγω-RP--AS αποιστημι-VH--AAPNPM μακραν-D απο-P δε-X προσωπον-N2N-GSN εγω-RP--GS ου-D φειδομαι-VAI-AMI3P πτυελος-N2--ASM
+\v 11 αναοιγω-VA--AAPNSM γαρ-X φαρετρα-N1A-ASF αυτος-RD--GSM κακοω-VAI-AAI3S εγω-RP--AS και-C χαλινος-N2--ASM ο-RA--GSN προσωπον-N2N-GSN εγω-RP--GS εκ   αποστελλω-VAI-AAI3P
+\v 12 επι-P δεξιος-A1A-GPM βλαστος-N2--GSM επι  αναιστημι-VHI-AAI3P πους-N3D-ASM αυτος-RD--GPM εκτεινω-VAI-AAI3P και-C οδοποιεω-VAI-AAI3P επι-P εγω-RP--AS τριβος-N2--APF απωλεια-N1A-APF αυτος-RD--GPM
+\v 13 εκτριβω-VD--API3P τριβος-N2--NPF εγω-RP--GS εκδυω-VAI-AAI3S γαρ-X εγω-RP--GS ο-RA--ASF στολη-N1--ASF
+\v 14 βελος-N3E-DPN αυτος-RD--GSM καταακοντιζω-VAI-AAI3S εγω-RP--AS χραομαι-VM--XMI3S εγω-RP--DS ως-C βουλομαι-V1--PMI3S εν-P οδυνη-N1--DPF φυρομαι-VM--XMI1S
+\v 15 επιστρεφω-V1--PMI3P δε-X εγω-RP--GS ο-RA--NPF οδυνη-N1--NPF οιχομαι-V1I-IMI3S εγω-RP--GS ο-RA--NSF ελπις-N3D-NSF ωσπερ-D πνευμα-N3M-ASN και-C ωσπερ-D νεφος-N3E-ASN ο-RA--NSF σωτηρια-N1A-NSF εγω-RP--GS
+\v 16 και-C νυν-D επι-P εγω-RP--AS εκχεω-VC--FPI3S ο-RA--NSF ψυχη-N1--NSF εγω-RP--GS εχω-V1--PAI3P δε-X εγω-RP--AS ημερα-N1A-NPF οδυνη-N1--GPF
+\v 17 νυξ-N3--DSF δε-X εγω-RP--GS ο-RA--NPN οστεον-N2N-NPN συνκαιω-VM--XPI3S ο-RA--NPN δε-X νευρον-N2N-NPN εγω-RP--GS διαλυω-VM--XPI3S
+\v 18 εν-P πολυς-A1--DSF ισχυς-N3U-DSF επιλαμβανω-VBI-AMI3S εγω-RP--GS ο-RA--GSF στολη-N1--GSF ωσπερ-D ο-RA--ASN περιστομιον-N2N-ASN ο-RA--GSM χιτων-N3W-GSM εγω-RP--GS περιεχω-VBI-AAI3S εγω-RP--AS
+\v 19 ηγεομαι-VM--XMI2S δε-X εγω-RP--AS ισος-D πηλος-N2--DSM εν-P γη-N1--DSF και-C σποδος-N2--DSF εγω-RP--GS ο-RA--NSF μερις-N3D-NSF
+\v 20 κραζω-VX--XAI1S δε-X προς-P συ-RP--AS και-C ου-D ειςακουω-V1--PAI2S εγω-RP--GS ιστημι-VAI-AAI3P και-C κατανοεω-VAI-AAI3P εγω-RP--AS
+\v 21 επιβαινω-VZI-AAI2S δε-X εγω-RP--DS ανελεημονως-D χειρ-N3--DSF κραταιος-A1A-DSF εγω-RP--AS μαστιγοω-VAI-AAI2S
+\v 22 τασσω-VAI-AAI2S δε-X εγω-RP--AS εν-P οδυνη-N1--DPF και-C αποριπτω-VAI-AAI2S εγω-RP--AS απο-P σωτηρια-N1A-GSF
+\v 23 οιδα-VX--XAI1S γαρ-X οτι-C θανατος-N2--NSM εγω-RP--AS εκτριβω-VF--FAI3S οικια-N1A-NSF γαρ-X πας-A3--DSM θνητος-A1--DSM γη-N1--NSF
+\v 24 ει-C γαρ-X οφειλω-VB--AAI1S δυναμαι-V6--PMO1S εμαυτου-RD--ASM χειροομαι-VA--AMN η-C δεω-VC--APPNSM γε-X ετερος-A1A-GSM και-C ποιεω-VF--FAI3S εγω-RP--DS ουτος-RD--ASN
+\v 25 εγω-RP--NS δε-X επι-P πας-A3--DSM αδυνατος-A1B-DSM κλαιω-VAI-AAI1S στεναζω-VAI-AAI1S δε-X οραω-VB--AAPNSM ανηρ-N3--ASM εν-P αναγκη-N1--DPF
+\v 26 εγω-RP--NS δε-X επιεχω-V1--PAPNSM αγαθος-A1--DPM ιδου-I συνανταω-VAI-AAI3P εγω-RP--DS μαλλον-D ημερα-N1A-NPF κακος-A1--GPN
+\v 27 ο-RA--NSF κοιλια-N1A-NSF εγω-RP--GS εκζεω-VAI-AAI3S και-C ου-D σιωπαω-VF--FMI3S προφθανω-VAI-AAI3P εγω-RP--AS ημερα-N1A-NPF πτωχεια-N1A-GSF
+\v 28 στενω-V1--PAPNSM πορευομαι-VM--XMI1S ανευ-P φιμος-N2--GSM ιστημι-VXI-XAI1S δε-X εν-P εκκλησια-N1A-DSF κραζω-VX--XAPNSM
+\v 29 αδελφος-N2--NSM γιγνομαι-VX--XAI1S σειρην-N3--GPF εταιρος-N2--NSM δε-X στρουθος-N2--GPM
+\v 30 ο-RA--NSN δε-X δερμα-N3M-NSN εγω-RP--GS σκοτοω-VMI-XPI3S μεγαλως-D ο-RA--NPN δε-X οστεον-N2N-NPN εγω-RP--GS απο-P καυμα-N3M-GSN
+\v 31 αποβαινω-VZI-AAI3S δε-X εις-P παθος-N3E-ASN εγω-RP--GS ο-RA--NSF κιθαρα-N1A-NSF ο-RA--NSM δε-X ψαλμος-N2--NSM εγω-RP--GS εις-P κλαυθμος-N2--ASM εγω-RP--DS
+
+\c 31
+\p
+\v 1 διαθηκη-N1--ASF τιθημι-VEI-AMI1S ο-RA--DPM οφθαλμος-N2--DPM εγω-RP--GS και-C ου-D συνιημι-VF--FAI1S επι-P παρθενος-N2--ASF
+\v 2 και-C τις-RI--ASN μεριζω-VAI-AAI3S ο-RA--NSM θεος-N2--NSM απανωθεν-D και-C κληρονομια-N1A-NSF ικανος-A1--GSM εκ-P υψιστος-A1--GPM
+\v 3 ου-D απωλεια-N1A-NSF ο-RA--DSM αδικος-A1B-DSM και-C απαλλοτριωσις-N3I-NSF ο-RA--DPM ποιεω-V2--PAPDPM ανομια-N1A-ASF
+\v 4 ου-D αυτος-RD--NSM οραω-VF--FMI3S οδος-N2--ASF εγω-RP--GS και-C πας-A3--APN ο-RA--APN διαβημα-N3M-APN εγω-RP--GS εκαριθμεω-VF--FMI3S
+\v 5 ει-C δε-X ειμι-V9I-IMI1S πορευομαι-VM--XMPNSM μετα-P γελοιαστης-N1M-GPM ει-C δε-X και-C σπουδαζω-VAI-AAI3S ο-RA--NSM πους-N3D-NSM εγω-RP--GS εις-P δολος-N2--ASM
+\v 6 ιστημι-V6--PAO3S εγω-RP--AS αρα-X εν-P ζυγος-N2--DSM δικαιος-A1A-DSM οιδα-VX--XAI3S δε-X ο-RA--NSM κυριος-N2--NSM ο-RA--ASF ακακια-N1A-ASF εγω-RP--GS
+\v 7 ει-C εκκλινω-V1I-IAI3S ο-RA--NSM πους-N3D-NSM εγω-RP--GS εκ-P ο-RA--GSF οδος-N2--GSF ει-C δε-X και-C ο-RA--DSM οφθαλμος-N2--DSM επιακολουθεω-VAI-AAI3S ο-RA--NSF καρδια-N1A-NSF εγω-RP--GS ει-C δε-X και-C ο-RA--DPF χειρ-N3--DPF εγω-RP--GS απτομαι-VAI-AMI1S δωρον-N2N-GPN
+\v 8 σπειρω-VA--AAO1S αρα-X και-C αλλος-RD--NPM εσθιω-VB--AAO3P αρριζος-A1B-NSM δε-X γιγνομαι-VB--AMO1S επι-P γη-N1--GSF
+\v 9 ει-C εκακολουθεω-VAI-AAI3S ο-RA--NSF καρδια-N1A-NSF εγω-RP--GS γυνη-N3K-DSF ανηρ-N3--GSM ετερος-A1A-GSM ει-C και-C εγκαθετος-A1B-NSM γιγνομαι-VBI-AMI1S επι-P θυρα-N1A-DPF αυτος-RD--GSF
+\v 10 αρεσκω-VA--AAO3S αρα-X και-C ο-RA--NSF γυνη-N3K-NSF εγω-RP--GS ετερος-A1A-DSM ο-RA--NPN δε-X νηπιος-A1A-NPN εγω-RP--GS ταπεινοω-VC--APO3S
+\v 11 θυμος-N2--NSM γαρ-X οργη-N1--GSF ακατασχετος-A1B-NSM ο-RA--ASN μιαινω-VA--AAN ανηρ-N3--GSM γυνη-N3K-ASF
+\v 12 πυρ-N3--NSN γαρ-X ειμι-V9--PAI3S καιω-V1--PMPNSN επι-P πας-A3--GPN ο-RA--GPN μερος-N3E-GPN ος-RR--GSM δε-X αν-X επιερχομαι-VB--AAS3S εκ-P ριζα-N1S-GPF αποολλυω-VAI-AAI3S
+\v 13 ει-C δε-X και-C φαυλιζω-VAI-AAI1S κριμα-N3M-ASN θεραπων-N3--GSM εγω-RP--GS η-C θεραπαινα-N1S-GSF κρινω-V1--PMPGPM αυτος-RD--GPM προς-P εγω-RP--AS
+\v 14 τις-RI--ASN γαρ-X ποιεω-VA--AAS1S εαν-C ετασις-N3I-ASF εγω-RP--GS ποιεω-VA--AMS3S ο-RA--NSM κυριος-N2--NSM εαν-C δε-X και-C επισκοπη-N1--ASF τις-RI--ASM αποκρισις-N3I-ASF ποιεω-VF--FMI1S
+\v 15 ποτερον-D ου-D ως-C και-D εγω-RP--NS γιγνομαι-VBI-AMI1S εν-P γαστηρ-N3--DSF και-C εκεινος-RD--NPM γιγνομαι-VX--XAI3P γιγνομαι-VX--XAI1P δε-X εν-P ο-RA--DSF αυτος-RD--DSF κοιλια-N1A-DSF
+\v 16 αδυνατος-A1B-NPM δε-X χρεια-N1A-ASF ος-RR--ASF ποτε-D εχω-V1I-IAI3P ου-D αποτυγχανω-VBI-AAI3P χηρα-N1A-APF δε-X ο-RA--ASM οφθαλμος-N2--ASM ου-D εκτηκω-VAI-AAI1S
+\v 17 ει-C δε-X και-C ο-RA--ASM ψωμος-N2--ASM εγω-RP--GS εσθιω-VBI-AAI1S μονος-A1--NSM και-C ου-D ορφανος-A1--DSM μεταδιδωμι-VAI-AAI1S
+\v 18 οτι-C εκ-P νεοτης-N3T-GSF εγω-RP--GS εκτρεφω-V1I-IAI1S ως-C πατηρ-N3--NSM και-C εκ-P γαστηρ-N3--GSF μητηρ-N3--GSF εγω-RP--GS οδηγεω-VAI-AAI1S
+\v 19 ει-C δε-X και-C υπεροραω-VBI-AAI1S γυμνος-A1--ASM αποολλυω-V5--PMPASM και-C ου-D αμφιαζω-VAI-AAI1S
+\v 20 αδυνατος-A1B-NPM δε-X ει-C μη-D ευλογεω-VA--AAI3P εγω-RP--AS απο-P δε-X κουρα-N1A-GSF αμνος-N2--GPM εγω-RP--GS θερμαινω-VCI-API3P ο-RA--NPM ωμος-N2--NPM αυτος-RD--GPM
+\v 21 ει-C επιαιρω-VAI-AAI1S ορφανος-A1--DSM χειρ-N3--ASF πειθω-VX--XAPNSM οτι-C πολυς-A1--NSF εγω-RP--DS βοηθεια-N1A-NSF περιειμι-V9--PAI3S
+\v 22 αποιστημι-VH--AAO3S αρα-X ο-RA--NSM ωμος-N2--NSM εγω-RP--GS απο-P ο-RA--GSF κλεις-N3D-GSF ο-RA--NSM δε-X βραχιων-N3N-NSM εγω-RP--GS απο-P ο-RA--GSM αγκων-N3N-GSM εγω-RP--GS συντριβω-VD--APO3S
+\v 23 φοβος-N2--NSM γαρ-X κυριος-N2--GSM συνεχω-VBI-AAI3S εγω-RP--AS και-C απο-P ο-RA--GSN λημμα-N3M-GSN αυτος-RD--GSM ου-D υποφερω-VF--FAI1S
+\v 24 ει-C τασσω-VAI-AAI1S χρυσιον-N2N-ASN ισχυς-N3U-ASF εγω-RP--GS ει-C δε-X και-D λιθος-N2--DSM πολυτελης-A3H-DSM πειθω-VXI-YAI1S
+\v 25 ει-C δε-X και-D ευφραινω-VC--API1S πολυς-A1--GSM πλουτος-N2--GSM εγω-RP--DS γιγνομαι-VB--AMPGSM ει-C δε-X και-D επι-P αναριθμητος-A1B-DPM τιθημι-VEI-AMI1S χειρ-N3--ASF εγω-RP--GS
+\v 26 η-D ου-D οραω-V3--PAI1S μεν-X ηλιος-N2--ASM ο-RA--ASM επιφαυσκω-V1--PAPASM εκλειπω-V1--PAPASM σεληνη-N1--ASF δε-X φθινω-V1--PAPASF ου-D γαρ-X επι-P αυτος-RD--DPM ειμι-V9--PAI3S
+\v 27 και-C ει-C απαταω-VCI-API3S λαθρα-D ο-RA--NSF καρδια-N1A-NSF εγω-RP--GS ει-C δε-X και-C χειρ-N3--ASF εγω-RP--GS επιτιθημι-VE--AAPNSM επι-P στομα-N3M-DSN εγω-RP--GS φιλεω-VAI-AAI1S
+\v 28 και-C ουτος-RD--ASN εγω-RP--DS αρα-X ανομια-N1A-NSF ο-RA--NSF μεγας-A1--NSFS λογιζομαι-VS--APO3S οτι-C ψευδω-VSI-AMI1S εναντιον-P κυριος-N2--GSM ο-RA--GSM υψιστος-A1--GSM
+\v 29 ει-C δε-X και-C επιχαρης-A3H-NSM γιγνομαι-VBI-AMI1S πτωμα-N3M-DSN εχθρος-N2--GPM εγω-RP--GS και-C ειπον-VBI-AAI3S ο-RA--NSF καρδια-N1A-NSF εγω-RP--GS ευγε-I
+\v 30 ακουω-VA--AMD3S αρα-X ο-RA--ASN ους-N3T-ASN εγω-RP--GS ο-RA--ASF καταρα-N1A-ASF εγω-RP--GS θρυλεω-VC--APO1S δε-X αρα-X υπο-P λαος-N2--GSM εγω-RP--GS κακοω-V4--PMPNSM
+\v 31 ει-C δε-X και-C πολλακις-D ειπον-VBI-AAI3P ο-RA--NPF θεραπαινα-N1A-NPF εγω-RP--GS τις-RI--NSM αν-X διδωμι-VO--AAO3S εγω-RP--DP ο-RA--GPF σαρξ-N3K-GPF αυτος-RD--GSM πιμπλημι-VS--APN λιαν-D εγω-RP--GS χρηστος-A1--GSM ειμι-V9--PAPGSM
+\v 32 εξω-D δε-X ου-D αυλιζω-V1I-IMI3S ξενος-A1--NSM ο-RA--NSF δε-X θυρα-N1A-NSF εγω-RP--GS πας-A3--DSM ερχομαι-VB--AAPDSM αναοιγω-VMI-YPI3S
+\v 33 ει-C δε-X και-C αμαρτανω-VB--AAPNSM ακουσιως-D κρυπτω-VAI-AAI1S ο-RA--ASF αμαρτια-N1A-ASF εγω-RP--GS
+\v 34 ου-D γαρ-X διατρεπω-VDI-API1S πολυοχλια-N1A-ASF πληθος-N3E-GSN ο-RA--GSN μη-D εκαγορευω-VA--AAN ενωπιον-P αυτος-RD--GPM ει-C δε-X και-C εαω-VAI-AAI1S αδυνατος-A1B-ASM εκερχομαι-VB--AAN θυρα-N1A-ASF εγω-RP--GS κολπος-N2--DSM κενος-A1--DSM
+\v 35 τις-RI--NSM διδωμι-VO--AAO3S ακουω-V1--PAPASM εγω-RP--GS χειρ-N3--ASF δε-X κυριος-N2--GSM ει-C μη-D δειδω-VXI-YAI1S συγγραφη-N1--ASF δε-X ος-RR--ASF εχω-V1I-IAI3P κατα-P τις-RI--GSN
+\v 36 επι-P ωμος-N2--DPM αν-X περιτιθημι-VE--AMPNSM στεφανος-N2--ASM αναγιγνωσκω-V1I-IAI1S
+\v 37 και-C ει-C μη-D ρηγνυμι-VA--AAPNSM αυτος-RD--ASF αποδιδωμι-VAI-AAI1S ουδεις-A3--ASN λαμβανω-VB--AAPNSM παρα-P χρεοφειλετης-N1M-GSM
+\v 38 ει-C επι-P εγω-RP--DS ποτε-D ο-RA--NSF γη-N1--NSF στεναζω-VAI-AAI3S ει-C δε-X και-C ο-RA--NPM αυλαξ-N3K-NPM αυτος-RD--GSF κλαιω-VAI-AAI3P ομοθυμαδον-D
+\v 39 ει-C δε-X και-C ο-RA--ASF ισχυς-N3U-ASF αυτος-RD--GSF εσθιω-VBI-AAI1S μονος-A1--NSM ανευ-P τιμη-N1--GSF ει-C δε-X και-C ψυχη-N1--ASF κυριος-N2--GSM ο-RA--GSF γη-N1--GSF εκβαλλω-VB--AAPNSM λυπεω-VAI-AAI1S
+\v 40 αντι-P πυρος-N2--GSM αρα-X εκερχομαι-VB--AAO3S εγω-RP--DS κνιδη-N1--NSF αντι-P δε-X κριθη-N1--GSF βατος-N2--NSF και-C παυω-VAI-AMI3S *ιωβ-N---NSM ρημα-N3M-DPN
+
+\c 32
+\p
+\v 1 ησυχαζω-VA--AAI3P δε-X και-C ο-RA--NPM τρεις-A3--NPM φιλος-A1--NPM αυτος-RD--GSM ετι-D αντιειπον-VB--AAN *ιωβ-N---NSM ειμι-V9--IAI3S γαρ-X *ιωβ-N---NSM δικαιος-A1A-NSM εναντιον-P αυτος-RD--GPM
+\v 2 οργιζω-VSI-API3S δε-X *ελιους-N---NSM ο-RA--NSM ο-RA--GSM *βαραχιηλ-N---GSM ο-RA--NSM *βουζιτης-N1M-NSM εκ-P ο-RA--GSF συγγενεια-N1A-GSF *ραμ-N---GSF ο-RA--GSF *αυσιτις-N3D-GSF χωρα-N1A-GSF οργιζω-VSI-API3S δε-X ο-RA--DSM *ιωβ-N---DSM σφοδρα-D διοτι-C αποφαινω-VAI-AAI3S εαυτου-RD--ASM δικαιος-A1A-ASM εναντιον-P κυριος-N2--GSM
+\v 3 και-C κατα-P ο-RA--GPM τρεις-A3--GPM δε-X φιλος-A1--GPM οργιζω-VSI-API3S σφοδρα-D διοτι-C ου-D δυναμαι-VCI-API3P αποκρινω-VC--APN αντιθετος-A1B-APN *ιωβ-N---ASM και-C τιθημι-VEI-AMI3P αυτος-RD--ASM ειμι-V9--PAN ασεβης-A3H-APN
+\v 4 *ελιους-N---NSM δε-X υπομενω-VAI-AAI3S διδωμι-VO--AAN αποκρισις-N3I-ASF *ιωβ-N---ASM οτι-C πρεσβυτερος-N2--NPM αυτος-RD--GSM ειμι-V9--PAI3P ημερα-N1A-DPF
+\v 5 και-C οραω-VBI-AAI3S *ελιους-N---NSM οτι-C ου-D ειμι-V9--PAI3S αποκρισις-N3I-NSF εν-P στομα-N3M-DSN ο-RA--GPM τρεις-A3--GPM ανηρ-N3--GPM και-C θυμοω-VCI-API3S οργη-N1--NSF αυτος-RD--GSM
+\v 6 υπολαμβανω-VB--AAPNSM δε-X *ελιους-N---NSM ο-RA--NSM ο-RA--GSM *βαραχιηλ-N---GSM ο-RA--NSM *βουζιτης-N1M-NSM ειπον-VBI-AAI3S νεος-A1A-NSMC μεν-X ειμι-V9--PAI1S ο-RA--DSM χρονος-N2--DSM συ-RP--NP δε-X ειμι-V9--PAI2P πρεσβυτερος-N2--NPM διο-C ησυχαζω-VA--AAI1S φοβεω-VC--APPNSM ο-RA--GSN συ-RP--DP ανααγγελλω-VA--AAN ο-RA--ASF εμαυτου-RD--GSM επιστημη-N1--ASF
+\v 7 ειπον-VAI-AAI1S δε-X οτι-C ο-RA--NSM χρονος-N2--NSM ειμι-V9--PAI3S ο-RA--NSM λαλεω-V2--PAPNSM εν-P πολυς-A1--DPM δε-X ετος-N3E-DPN οιδα-VX--XAI3P σοφια-N1A-ASF
+\v 8 αλλα-C πνευμα-N3M-NSN ειμι-V9--PAI3S εν-P βροτος-N2--DPM πνοη-N1--NSF δε-X παντοκρατωρ-N3R-GSM ειμι-V9--PAI3S ο-RA--NSF διδασκω-V1--PAPNSF
+\v 9 ου-D ο-RA--NPM πολυχρονιος-A1B-NPM ειμι-V9--PAI3P σοφος-A1--NPM ουδε-C ο-RA--NPM γερων-N3--NPM οιδα-VX--XAI3P κριμα-N3M-ASN
+\v 10 διο-C ειπον-VAI-AAI1S ακουω-VA--AAD2P εγω-RP--GS και-C ανααγγελλω-VF2-FAI1S συ-RP--DP ος-RR--APN οιδα-VX--XAI1S
+\v 11 ενωτιζομαι-V1--PMD2P εγω-RP--GS ο-RA--APN ρημα-N3M-APN ειπον-VF2-FAI1S γαρ-X συ-RP--GP ακουω-V1--PAPGPM αχρι-P ος-RR--GSM εταζω-VA--AAS2P λογος-N2--APM
+\v 12 και-C μεχρι-P συ-RP--GP συνιημι-VF--FAI1S και-C ιδου-I ου-D ειμι-V9--IAI3S ο-RA--DSM *ιωβ-N---DSM ελεγχω-V1--PAPNSM αντι αποκρινω-V1--PMPNSM ρημα-N3M-APN αυτος-RD--GSM εκ-P συ-RP--GP
+\v 13 ινα-C μη-D ειπον-VB--AAS2P ευρισκω-VB--AAI1P σοφια-N1A-ASF κυριος-N2--DSM προςτιθημι-VE--AMPNPM
+\v 14 ανθρωπος-N2--DSM δε-X επιτρεπω-VAI-AAI2P λαλεω-VA--AAN τοιουτος-A1--APN ρημα-N3M-APN
+\v 15 πτοεω-VCI-API3P ου-D αποκρινω-VCI-API3P ετι-D παλαιοω-V4I-AAI3P εκ-P αυτος-RD--GPM λογος-N2--APM
+\v 16 υπομενω-VAI-AAI1S ου-D γαρ-X λαλεω-VAI-AAI3P οτι-C ιστημι-VAI-AAI3P ου-D αποκρινω-VCI-API3P
+\v 17 υπολαμβανω-VB--AAPNSM δε-X *ελιους-N---NSM λεγω-V1--PAI3S
+\v 18 παλιν-D λαλεω-VF--FAI1S πληρης-A3H-NSM γαρ-X ειμι-V9--PAI1S ρημα-N3M-GPN ολεκω-V1--PAI3S γαρ-X εγω-RP--AS ο-RA--NSN πνευμα-N3M-NSN ο-RA--GSF γαστηρ-N3--GSF
+\v 19 ο-RA--NSF δε-X γαστηρ-N3--NSF εγω-RP--GS ωσπερ-D ασκος-N2--NSM γλευκος-N3E-GSN ζεω-V2--PAPNSM δεω-VM--XMPNSM η-C ωσπερ-D φυσητηρ-N3H-NSM χαλκευς-N3V-GSM ρηγνυμι-VXI-XAPNSM
+\v 20 λαλεω-VF--FAI1S ινα-C αναπαυω-VA--AMS1S αναοιγω-VA--AAPNSM ο-RA--APN χειλος-N3E-APN
+\v 21 ανθρωπος-N2--ASM γαρ-X ου-D μη-D αισχυνω-VC--APS1S αλλα-C μην-X ουδε-C βροτος-N2--ASM ου-D μη-D εντρεπω-VB--AAS1S
+\v 22 ου-D γαρ-X επισταμαι-V6--PMI1S θαυμαζω-VA--AAN προσωπον-N2N-ASN ει-C δε-X μη-D και-C εγω-RP--AS σης-N1M-NPM εσθιω-VF--FMI3P
+
+\c 33
+\p
+\v 1 ου-D μην-X δε-X αλλα-C ακουω-VA--AAD2S *ιωβ-N---NSM ο-RA--APN ρημα-N3M-APN εγω-RP--GS και-C λαλια-N1A-ASF ενωτιζομαι-V1--PMD2S εγω-RP--GS
+\v 2 ιδου-I γαρ-X αναοιγω-VAI-AAI1S ο-RA--ASN στομα-N3M-ASN εγω-RP--GS και-C λαλεω-VAI-AAI3S ο-RA--NSF γλωσσα-N1S-NSF εγω-RP--GS
+\v 3 καθαρος-A1A-NSF εγω-RP--GS ο-RA--NSF καρδια-N1A-NSF ρημα-N3M-DPN συνεσις-N3I-NSF δε-X χειλος-N3E-GPN εγω-RP--GS καθαρος-A1A-NSF νοεω-VF--FAI3S
+\v 4 πνευμα-N3M-NSN θειος-A1A-NSN ο-RA--NSN ποιεω-VA--AAPNSN εγω-RP--AS πνοη-N1--NSF δε-X παντοκρατωρ-N3R-GSM ο-RA--NSF διδασκω-V1--PAPNSF εγω-RP--AS
+\v 5 εαν-C δυναμαι-V6--PMS2S διδωμι-VO--AAD2S εγω-RP--DS αποκρισις-N3I-ASF προς-P ουτος-RD--APN υπομενω-VA--AAD2S ιστημι-VH--AAD2S κατα-P εγω-RP--AS και-C εγω-RP--NS κατα-P συ-RP--AS
+\v 6 εκ-P πηλος-N2--GSM διααρτιζω-VT--XMI2S συ-RP--NS ως-C και-C εγω-RP--NS εκ-P ο-RA--GSM αυτος-RD--GSM διααρτιζω-VT--XMI1P
+\v 7 ου-D ο-RA--NSM φοβος-N2--NSM εγω-RP--GS συ-RP--AS στροβεω-VF--FAI3S ουδε-C ο-RA--NSF χειρ-N3--NSF εγω-RP--GS βαρυς-A3U-NSF ειμι-VF--FMI3S επι-P συ-RP--DS
+\v 8 πλην-D ειπον-VAI-AAI2S εν-P ους-N3T-DPN εγω-RP--GS φωνη-N1--ASF ρημα-N3M-GPN συ-RP--GS ακουω-VK--XAI1S
+\v 9 διοτι-C λεγω-V1--PAI2S καθαρος-A1A-NSM ειμι-V9--PAI1S ου-D αμαρτανω-VB--AAPNSM αμεμπτος-A1B-NSM δε-X ειμι-V9--PAI1S ου-D γαρ-X ανομεω-VAI-AAI1S
+\v 10 μεμψις-N3I-ASF δε-X κατα-P εγω-RP--GS ευρισκω-VB--AAI3S ηγεομαι-VM--XMI3S δε-X εγω-RP--AS ωσπερ-D υπεναντιος-A1A-ASM
+\v 11 τιθημι-VEI-AMI3S δε-X εν-P ξυλον-N2N-DSN ο-RA--ASM πους-N3D-ASM εγω-RP--GS φυλασσω-VAI-AAI3S δε-X εγω-RP--GS πας-A1S-APF ο-RA--APF οδος-N2--APF
+\v 12 πως-D γαρ-X λεγω-V1--PAI2S δικαιος-A1A-NSM ειμι-V9--PAI1S και-C ου-D επιακουω-VX--XAI3S εγω-RP--GS αιωνιος-A1B-NSM γαρ-X ειμι-V9--PAI3S ο-RA--NSM επανω-D βροτος-N2--GPM
+\v 13 λεγω-V1--PAI2S δε-X δια-P τις-RI--ASN ο-RA--GSF δικη-N1--GSF εγω-RP--GS ου-D επιακουω-VX--XAI3S πας-A3--ASN ρημα-N3M-ASN
+\v 14 εν-P γαρ-X ο-RA--DSN απαξ-D λαλεω-VA--AAN ο-RA--NSM κυριος-N2--NSM εν-P δε-X ο-RA--DSN δευτερος-A1A-DSN ενυπνιον-N2N-ASN
+\v 15 η-C εν-P μελετη-N1--DSF νυκτερινος-A1--DSF ως-C οταν-D επιπιπτω-V1--PAS3S δεινος-A1--NSM φοβος-N2--NSM επι-P ανθρωπος-N2--APM επι-P νυσταγμα-N3M-GPN επι-P κοιτη-N1--GSF
+\v 16 τοτε-D ανακαλυπτω-V1--PAI3S νους-N3E-ASM ανθρωπος-N2--GPM εν-P ειδος-N3E-DPN φοβος-N2--GSM τοιουτος-A1--DPM αυτος-RD--APM εκφοβεω-VAI-AAI3S
+\v 17 αποστρεφω-VA--AAN ανθρωπος-N2--ASM εκ-P αδικια-N1A-GSF ο-RA--ASN δε-X σωμα-N3M-ASN αυτος-RD--GSM απο-P πτωμα-N3M-GSN ρυομαι-VAI-AMI3S
+\v 18 φειδομαι-VAI-AMI3S δε-X ο-RA--GSF ψυχη-N1--GSF αυτος-RD--GSM απο-P θανατος-N2--GSM και-C μη-D πιπτω-VB--AAN αυτος-RD--ASM εν-P πολεμος-N2--DSM
+\v 19 παλιν-D δε-X ελεγχω-VAI-AAI3S αυτος-RD--ASM εν-P μαλακια-N1A-DSF επι-P κοιτη-N1--GSF και-C πληθος-N3E-ASN οστεον-N2N-GPN αυτος-RD--GSM ναρκαω-VAI-AAI3S
+\v 20 πας-A3--ASM δε-X βρωτος-A1--ASM σιτος-N2--GSM ου-D μη-D δυναμαι-V6--PMS3S προςδεχομαι-VA--AMN και-C ο-RA--NSF ψυχη-N1--NSF αυτος-RD--GSM βρωσις-N3I-ASF επιθυμεω-VA--AAO3S
+\v 21 εως-C αν-X σηπω-VB--AAS3P αυτος-RD--GSM ο-RA--NPF σαρξ-N3K-NPF και-C αποδεικνυω-VA--AAS3S ο-RA--APN οστεον-N2N-APN αυτος-RD--GSM κενος-A1--APN
+\v 22 εγγιζω-VAI-AAI3S δε-X εις-P θανατος-N2--ASM ο-RA--NSF ψυχη-N1--NSF αυτος-RD--GSM ο-RA--NSF δε-X ζωη-N1--NSF αυτος-RD--GSM εν-P αδης-N1M-DSM
+\v 23 εαν-C ειμι-V9--PAS3P χιλιοι-A1A-NPM αγγελος-N2--NPM θανατηφορος-A1A-NPM εις-A3--NSM αυτος-RD--GPM ου-D μη-D τιτρωσκω-VA--AAS3S αυτος-RD--ASM εαν-C νοεω-VA--AAS3S ο-RA--DSF καρδια-N1A-DSF επιστρεφω-VD--APN επι-P κυριος-N2--ASM ανααγγελλω-VA--AAS3S δε-X ανθρωπος-N2--DSM ο-RA--ASF εαυτου-RD--GSM μεμψις-N3I-ASF ο-RA--ASF δε-X ανοια-N1A-ASF αυτος-RD--GSM δεικνυω-VA--AAS3S
+\v 24 αντιεχω-VF--FMI3S ο-RA--GSN μη-D πιπτω-VB--AAN αυτος-RD--ASM εις-P θανατος-N2--ASM ανανεοω-VF--FAI3S δε-X αυτος-RD--GSM ο-RA--ASN σωμα-N3M-ASN ωσπερ-D αλοιφη-N1--ASF επι-P τοιχος-N2--GSM ο-RA--APN δε-X οστεον-N2N-APN αυτος-RD--GSM ενπιμπλημι-VF--FAI3S μυελος-N2--GSM
+\v 25 απαλυνω-V1--PAI3S δε-X αυτος-RD--GSM ο-RA--APF σαρξ-N3K-APF ωσπερ-D νηπιος-A1A-GSM απο  καταιστημι-VF--FAI3S δε-X αυτος-RD--ASM ανδροω-VC--APPASM εν-P ανθρωπος-N2--DPM
+\v 26 ευχομαι-VA--AMPNSM δε-X προς-P κυριος-N2--ASM και-C δεκτος-A1--APN αυτος-RD--DSM ειμι-VF--FMI3S ειςερχομαι-VF--FMI3S δε-X προσωπον-N2N-DSN καθαρος-A1A-DSM συν-P εξηγορια-N1A-DSF αποδιδωμι-VF--FAI3S δε-X ανθρωπος-N2--DPM δικαιοσυνη-N1--ASF
+\v 27 ειτα-D τοτε-D απομεμπτω-VF--FMI3S ανθρωπος-N2--NSM αυτος-RD--NSM εαυτου-RD--DSM λεγω-V1--PAPNSM οιος-RR--APN συντελεω-V2I-IAI1P και-C ου-D αξιος-A1A-APN εταζω-VAI-AAI3S εγω-RP--AS ος-RR--GPM αμαρτανω-VBI-AAI1S
+\v 28 σωζω-VA--AAD2S ψυχη-N1--ASF εγω-RP--GS ο-RA--GSN μη-D ερχομαι-VB--AAN εις-P διαφθορα-N1A-ASF και-C ο-RA--NSF ζωη-N1--NSF εγω-RP--GS φως-N3T-ASN οραω-VF--FMI3S
+\v 29 ιδου-I πας-A3--APN ουτος-RD--APN εργαζομαι-V1--PMI3S ο-RA--NSM ισχυρος-A1A-NSM οδος-N2--APF τρεις-A3--APF μετα-P ανηρ-N3--GSM
+\v 30 αλλα-C ρυομαι-VAI-AMI3S ο-RA--ASF ψυχη-N1--ASF εγω-RP--GS εκ-P θανατος-N2--GSM ινα-C ο-RA--NSF ζωη-N1--NSF εγω-RP--GS εν-P φως-N3T-DSN αινεω-V2--PAS3S αυτος-RD--ASM
+\v 31 ενωτιζομαι-V1--PMD2S *ιωβ-N---VSM και-C ακουω-V1--PAD2S εγω-RP--GS κωφευω-VA--AAD2S και-C εγω-RP--NS ειμι-V9--PAI1S λαλεω-VF--FAI1S
+\v 32 ει-C ειμι-V9--PAI3P λογος-N2--NPM αποκρινω-VC--APD2S εγω-RP--DS λαλεω-VA--AAD2S θελω-V1--PAI1S γαρ-X δικαιοω-VC--APN συ-RP--AS
+\v 33 ει-C μη-D συ-RP--NS ακουω-VA--AAD2S εγω-RP--GS κωφευω-VA--AAD2S και-C διδασκω-VF--FAI1S συ-RP--AS σοφια-N1A-ASF
+
+\c 34
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ελιους-N---NSM λεγω-V1--PAI3S
+\v 2 ακουω-VA--AAD2P εγω-RP--GS σοφος-A1--NPM επιιστημι-V6--PMPNPM ενωτιζομαι-V1--PMD2P ο-RA--ASN καλος-A1--ASM
+\v 3 οτι-C ους-N3K-NSN λογος-N2--APM δοκιμαζω-V1--PAI3S και-C λαρυγξ-N3G-NSM γευω-V1--PMI3S βρωσις-N3I-ASF
+\v 4 κρισις-N3I-ASF αιρεω-VBI-AMS1P εαυτου-RD--DPM γιγνωσκω-VZ--AAS1P ανα-P μεσος-A1--ASM εαυτου-RD--GPM ος-RR--ASN τις-RI--ASN καλος-A1--ASN
+\v 5 οτι-C ειπον-VX--XAI3S *ιωβ-N---NSM δικαιος-A1A-NSM ειμι-V9--PAI1S ο-RA--NSM κυριος-N2--NSM αποαλλασσω-VAI-AAI3S εγω-RP--GS ο-RA--ASN κριμα-N3M-ASN
+\v 6 ψευδω-VAI-AMI3S δε-X ο-RA--DSN κριμα-N3M-DSN εγω-RP--GS βιαιος-A1A-ASN ο-RA--ASN βελος-N3E-ASN εγω-RP--GS ανευ-P αδικια-N1A-GSF
+\v 7 τις-RI--NSM ανηρ-N3--NSM ωσπερ-D *ιωβ-N---NSM πινω-V1--PAPNSM μυκτηρισμος-N2--ASM ωσπερ-D υδωρ-N3--NSN
+\v 8 ου-D αμαρτανω-VB--AAPNSM ουδε-C ασεβεω-VA--AAPNSM η-C οδος-N2--GSF κοινωνεω-VA--AAPNSM μετα-P ποιεω-V2--PAPGPM ο-RA--APN ανομος-A1B-APN ο-RA--GSN πορευομαι-VC--APN μετα-P ασεβης-A3H-GPM
+\v 9 μη-D γαρ-X ειπον-VB--AAS2S οτι-C ου-D ειμι-VF--FMI3S επισκοπη-N1--NSF ανηρ-N3--GSM και-C επισκοπη-N1--NSF αυτος-RD--DSM παρα-P κυριος-N2--GSM
+\v 10 διο-C συνετος-A1--VPM καρδια-N1A-GSF ακουω-VA--AAD2P εγω-RP--GS μη-D εγω-RP--DS ειμι-V9--PAO3S εναντι-P κυριος-N2--GSM ασεβεω-VA--AAN και-C εναντι-P παντοκρατωρ-N3R-GSM ταρασσω-VA--AAN ο-RA--ASN δικαιος-A1A-ASN
+\v 11 αλλα-C αποδιδωμι-V8--PAO3S ανθρωπος-N2--DSM καθα-D ποιεω-V2--PAI3S εκαστος-A1--NSM αυτος-RD--GPM και-C εν-P τριβος-N2--DSM ανηρ-N3--GSM ευρισκω-VF--FAI3S αυτος-RD--ASM
+\v 12 οιομαι-V1--PAS3S δε-X ο-RA--ASM κυριος-N2--ASM ατοπος-A1B-APN ποιεω-VF--FAN η-C ο-RA--NSM παντοκρατωρ-N3R-NSM ταρασσω-VF--FAI3S κρισις-N3I-ASF
+\v 13 ος-RR--NSM ποιεω-VAI-AAI3S ο-RA--ASF γη-N1--ASF τις-RI--NSM δε-X ειμι-V9--PAI3S ο-RA--NSM ποιεω-V2--PAPNSM ο-RA--ASF υπο-P ουρανος-N2--ASM και-C ο-RA--APN ενειμι-V9--PAPAPN πας-A3--APN
+\v 14 ει-C γαρ-X βουλομαι-V1--PMO3S συνεχω-V1--PAN και-C ο-RA--ASN πνευμα-N3M-ASN παρα-P αυτος-RD--DSM καταεχω-VB--AAN
+\v 15 τελευταω-VF--FAI3S πας-A1S-NSF σαρξ-N3K-NSF ομοθυμαδον-D πας-A3--NSM δε-X βροτος-N2--NSM εις-P γη-N1--ASF αποερχομαι-VF--FMI3S οθεν-D και-C πλασσω-VSI-API3S
+\v 16 ει-C δε-X μη-D νουθετεω-V2--PAS3S ακουω-V1--PAD2S ουτος-RD--APN ενωτιζομαι-V1--PMD2S φωνη-N1--ASF ρημα-N3M-GPN
+\v 17 οραω-VB--AAD2S συ-RP--NS ο-RA--ASM μισεω-V2--PAPASM ανομος-A1B-APN και-C ο-RA--ASM ολλυμι-V5--PAPASM ο-RA--APM πονηρος-A1A-APM ειμι-V9--PAPASM αιωνιος-A1B-ASM δικαιος-A1A-ASM
+\v 18 ασεβης-A3H-NSM ο-RA--NSM λεγω-V1--PAPNSM βασιλευς-N3V-DSM παρανομεω-V2--PAI2S ασεβης-A3H-VSMS ο-RA--DPM αρχων-N3--DPM
+\v 19 ος-RR--NSM ου-D επιαισχυνω-VCI-API3S προσωπον-N2N-ASN εντιμος-A1B-GSM ουδε-C οιδα-VX--XAI3S τιμη-N1--ASF τιθημι-VE--AMN αδρος-A1A-DPM θαυμαζω-VS--APN προσωπον-N2N-APN αυτος-RD--GPM
+\v 20 κενος-A1--APN δε-X αυτος-RD--DPM αποβαινω-VF--FMI3S ο-RA--ASN κραζω-VX--XAN και-C δεω-V2--PMN ανηρ-N3--GSM χραω-VAI-AMI3P γαρ-X παρανομως-D εκκλινω-V1--PMPGPM αδυνατος-A1B-GPM
+\v 21 αυτος-RD--NSM γαρ-X ορατης-N1M-NSM ειμι-V9--PAI3S εργον-N2N-GPN ανθρωπος-N2--GPM λανθανω-VX--XAI3S δε-X αυτος-RD--ASM ουδεις-A3--ASN ος-RR--GPM πρασσω-V1--PAI3P
+\v 22 ουδε-C ειμι-VF--FMI3S τοπος-N2--NSM ο-RA--GSN κρυπτω-VD--APN ο-RA--APM ποιεω-V2--PAPAPM ο-RA--APN ανομος-A1B-APN
+\v 23 οτι-C ου-D επι-P ανηρ-N3--ASM τιθημι-VF--FAI3S ετι-D ο-RA--NSM γαρ-X κυριος-N2--NSM πας-A3--APM επιοραω-V3--PAI3S
+\v 24 ο-RA--NSM καταλαμβανω-V1--PAPNSM ανεξιχνιαστος-A1B-APN ενδοξος-A1B-APN τε-X και-C εξαισιος-A1B-APN ος-RR--GPM ου-D ειμι-V9--PAI3S αριθμος-N2--NSM
+\v 25 ο-RA--NSM γνωριζω-V1--PAPNSM αυτος-RD--GPM ο-RA--APN εργον-N2N-APN και-C στρεφω-VF--FAI3S νυξ-N3--ASF και-C ταπεινοω-VC--FPI3P
+\v 26 σβεννυμι-VAI-AAI3S δε-X ασεβης-A3H-APM ορατος-A1--NPM δε-X εναντιον-P αυτος-RD--GSM
+\v 27 οτι-C εκκλινω-VAI-AAI3P εκ-P νομος-N2--GSM θεος-N2--GSM δικαιωμα-N3M-APN δε-X αυτος-RD--GSM ου-D επιγιγνωσκω-VZI-AAI3P
+\v 28 ο-RA--GSN επιαγω-VB--AAN επι-P αυτος-RD--ASM κραυγη-N1--ASF πενης-N3T-GSM και-C κραυγη-N1--ASF πτωχος-N2--GPM ειςακουω-VF--FMI3S
+\v 29 και-C αυτος-RD--NSM ησυχια-N1A-ASF παραεχω-VF--FAI3S και-C τις-RI--NSM καταδικαζω-VF2-FMI3S και-C κρυπτω-VF--FAI3S προσωπον-N2N-ASN και-C τις-RI--NSM οραω-VF--FMI3S αυτος-RD--ASM και-C κατα-P εθνος-N3E-GSN και-C κατα-P ανθρωπος-N2--GSM ομος-A1--GSM
+\v 30 βασιλευω-V1--PAPNSM ανθρωπος-N2--ASM υποκριτης-N1M-ASM απο-P δυσκολια-N1A-GSF λαος-N2--GSM
+\v 31 οτι-C προς-P ο-RA--ASM ισχυρος-A1A-ASM ο-RA--NSM λεγω-V1--PAPNSM λαμβανω-VX--XAI1S ου-D ενεχυραζω-VF2-FAI1S
+\v 32 ανευ-P εμαυτου-RD--GSM οραω-VF--FMI1S συ-RP--NS δεικνυω-VA--AAD2S εγω-RP--DS ει-C αδικια-N1A-ASF εργαζομαι-VAI-AMI1S ου-D μη-D προςτιθημι-VF--FAI1S
+\v 33 μη-D παρα-P συ-RP--GS αποτινω-VF2-FAI3S αυτος-RD--ASF οτι-C αποωθεω-VA--AAS3S οτι-C συ-RP--NS εκλεγω-VF--FMI2S και-C ου-D εγω-RP--NS και-C τις-RI--ASN γιγνωσκω-VZI-AAI2S λαλεω-VA--AAD2S
+\v 34 διο-C συνετος-A1--NPM καρδια-N1A-GSF ειπον-VF2-FAI3P ουτος-RD--APN ανηρ-N3--NSM δε-X σοφος-A1--NSM ακουω-VX--XAI3S εγω-RP--GS ο-RA--ASN ρημα-N3M-ASN
+\v 35 *ιωβ-N---NSM δε-X ου-D εν-P συνεσις-N3I-DSF λαλεω-VAI-AAI3S ο-RA--APN δε-X ρημα-N3M-APN αυτος-RD--GSM ου-D εν-P επιστημη-N1--DSF
+\v 36 ου-D μην-X δε-X αλλα-C μανθανω-VB--AAD2S *ιωβ-N---VSM μη-D διδωμι-VO--AAS2S ετι-D ανταποκρισις-N3I-ASF ωσπερ-D ο-RA--NPM αφρων-A3N-NPM
+\v 37 ινα-C μη-D προςτιθημι-VE--AAS1P επι-P αμαρτια-N1A-DPF εγω-RP--GP ανομια-N1A-NSF δε-X επι-P εγω-RP--DP λογιζομαι-VS--FPI3S πολυς-A1--APN λαλεω-V2--PAPGPM ρημα-N3M-APN εναντιον-P ο-RA--GSM κυριος-N2--GSM
+
+\c 35
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ελιους-N---NSM λεγω-V1--PAI3S
+\v 2 τις-RI--ASN ουτος-RD--ASN ηγεομαι-VAI-AMI2S εν-P κρισις-N3I-DSF συ-RP--NS τις-RI--NSM ειμι-V9--PAI2S οτι-C ειπον-VAI-AAI2S δικαιος-A1A-NSM ειμι-V9--PAI1S εναντι-P κυριος-N2--GSM
+\v 3 η-C ειπον-VF2-FAI2S τις-RI--ASN ποιεω-VA--AAS1S αμαρτανω-VB--AAPNSM
+\v 4 εγω-RP--NS συ-RP--DS διδωμι-VF--FAI1S αποκρισις-N3I-ASF και-C ο-RA--DPM τρεις-A3--DPM φιλος-A1--DPM συ-RP--GS
+\v 5 αναβλεπω-VA--AAD2S εις-P ο-RA--ASM ουρανος-N2--ASM και-C οραω-VB--AAD2S καταμανθανω-VB--AAD2S δε-X νεφος-N3E-APN ως-C υψηλος-A1--APN απο-P συ-RP--GS
+\v 6 ει-C αμαρτανω-VBI-AAI2S τις-RI--ASN πρασσω-V1--FAI2S ει-C δε-X και-C πολυς-A1--APN ανομεω-VAI-AAI2S τις-RI--ASN δυναμαι-V6--PMI2S ποιεω-VA--AAN
+\v 7 επει-C δε-X ουν-X δικαιος-A1A-NSM ειμι-V9--PAI2S τις-RI--ASN διδωμι-VF--FAI2S αυτος-RD--DSM η-C τις-RI--ASN εκ-P χειρ-N3--GSF συ-RP--GS λαμβανω-VF--FMI3S
+\v 8 ανηρ-N3--DSM ο-RA--DSM ομοιος-A1A-DSM συ-RP--GS ο-RA--NSF ασεβεια-N1A-NSF συ-RP--GS και-C υιος-N2--DSM ανθρωπος-N2--GSM ο-RA--NSF δικαιοσυνη-N1--NSF συ-RP--GS
+\v 9 απο-P πληθος-N3E-GSN συκοφαντεω-V2--PMPNPM κραζω-VFX-FMI3P βοαω-VF--FMI3P απο-P βραχιων-N3N-GSM πολυς-A1--GPM
+\v 10 και-C ου-D ειπον-VBI-AAI3S που-D ειμι-V9--PAI3S ο-RA--NSM θεος-N2--NSM ο-RA--NSM ποιεω-VA--AAPNSM εγω-RP--AS ο-RA--NSM κατατασσω-V1--PAPNSM φυλακη-N1--APF νυκτερινος-A1--GSF
+\v 11 ο-RA--NSM διαοριζω-V1--PAPNSM εγω-RP--AS απο-P τετραποδος-A1B-GPM γη-N1--GSF απο-P δε-X πετεινον-N2N-GPN ουρανος-N2--GSM
+\v 12 εκει-D κραζω-VFX-FMI3P και-C ου-D μη-D ειςακουω-VA--AAS3S και-C απο-P υβρις-N3I-GSF πονηρος-A1A-GPM
+\v 13 ατοπος-A1B-APN γαρ-X ου-D βουλομαι-V1--PMI3S ο-RA--NSM κυριος-N2--NSM οραω-VB--AAN αυτος-RD--NSM γαρ-X ο-RA--NSM παντοκρατωρ-N3R-NSM ορατης-N1M-NSM ειμι-V9--PAI3S
+\v 14 ο-RA--GPM συντελεω-V2--PAPGPM ο-RA--APN ανομος-A1B-APN και-C σωζω-VF--FAI3S εγω-RP--AS κρινω-VC--APD2S δε-X εναντιον-P αυτος-RD--GSM ει-C δυναμαι-V6--PMI2S αινεω-VA--AAN αυτος-RD--ASM ως-C ειμι-V9--PAI3S
+\v 15 και-C νυν-D οτι-C ου-D ειμι-V9--PAI3S επισκεπτομαι-V1--PMPNSM οργη-N1--ASF αυτος-RD--GSM και-C ου-D γιγνωσκω-VZI-AAI3S παραπτωμα-N3M-DSN σφοδρα-D
+\v 16 και-C *ιωβ-N---NSM ματαιως-D αναοιγω-V1--PAI3S ο-RA--ASN στομα-N3M-ASN αυτος-RD--GSM εν-P αγνωσια-N1A-DSF ρημα-N3M-APN βαρυνω-VA--PAI3S
+
+\c 36
+\p
+\v 1 προςτιθημι-VE--AAPNSM δε-X *ελιους-N---NSM ετι-D λεγω-V1--PAI3S
+\v 2 μενω-VA--AAD2S εγω-RP--AS μικρος-A1A-ASM ετι-D ινα-C διδασκω-VF--FAI1S συ-RP--AS ετι-D γαρ-X εν-P εγω-RP--DS ειμι-V9--PAI3S λεξις-N3I-NSF
+\v 3 αναλαμβανω-VB--AAPNSM ο-RA--ASF επιστημη-N1--ASF εγω-RP--GS μακραν-D εργον-N2N-DPN δε-X εγω-RP--GS δικαιος-A1A-APN ειπον-VF2-FAI1S
+\v 4 επι-P αληθεια-N1A-GSF και-C ου-D αδικος-A1B-APN ρημα-N3M-APN αδικως-D συνιημι-V7--PAI2S
+\v 5 γιγνωσκω-V1--PAD2S δε-X οτι-C ο-RA--NSM κυριος-N2--NSM ου-D μη-D αποποιεω-VA--AMS3S ο-RA--ASM ακακος-A1B-ASM δυνατος-A1--NSM ισχυς-N3U-DSF καρδια-N1A-GSF
+\v 6 ασεβης-A3H-ASM ου-D μη-D ζωοποιεω-VF--FAI3S και-C κριμα-N3M-ASN πτωχος-N2--GPM διδωμι-VF--FAI3S
+\v 7 ου-D αποαιρεω-VF2-FAI3S απο-P δικαιος-A1A-GSM οφθαλμος-N2--APM αυτος-RD--GSM και-C μετα-P βασιλευς-N3V-GPM εις-P θρονος-N2--ASM και-C καταιζω-VF2-FAI3S αυτος-RD--APM εις-P νεικος-N3E-ASN και-C υψοω-VC--FPI3P
+\v 8 και-C ει-C πεδαω-VM--XPPNPM εν-P χειροπεδη-N1--DPF συνεχω-VM--FPI3P εν-P σχοινιον-N2--DPN πενια-N1A-GSF
+\v 9 και-C ανααγγελλω-VF2-FAI3S αυτος-RD--DPM ο-RA--APN εργον-N2N-APN αυτος-RD--GPM και-C ο-RA--APN παραπτωμα-N3M-APN αυτος-RD--GPM οτι-C ισχυω-VF--FAI3P
+\v 10 αλλα-C ο-RA--GSM δικαιος-A1A-GSM ειςακουω-VF--FMI3S και-C ειπον-VBI-AAI3S οτι-C επιστρεφω-VD--FPI3P εκ-P αδικια-N1A-GSF
+\v 11 εαν-C ακουω-VA--AAS3P και-C δουλευω-VA--AAS3P συντελεω-VF--FAI3P ο-RA--APF ημερα-N1A-APF αυτος-RD--GPM εν-P αγαθος-A1--DPM και-C ο-RA--APN ετος-N3E-APN αυτος-RD--GPM εν-P ευπρεπεια-N1A-DPF
+\v 12 ασεβης-A3H-NPM δε-X ου-D διασωζω-V1--PAI3S παρα-P ο-RA--ASN μη-D βουλομαι-V1--PMN οιδα-VX--XAN αυτος-RD--APM ο-RA--ASM κυριος-N2--ASM και-C διοτι-C νουθετεω-V2--PMPNPM ανηκοος-A1B-NPM ειμι-V9--IAI3P
+\v 13 και-C υποκριτης-N1M-NSM καρδια-N1A-DSF τασσω-VF--FAI3P θυμος-N2--ASM ου-D βοαω-VF--FMI3P οτι-C δεω-VAI-AAI3S αυτος-RD--APM
+\v 14 αποθνησκω-VB--AAO3S τοινυν-X εν-P νεοτης-N3T-DSF ο-RA--NSF ψυχη-N1--NSF αυτος-RD--GPM ο-RA--NSF δε-X ζωη-N1--NSF αυτος-RD--GPM τιτρωσκω-V1--PPPNSF υπο-P αγγελος-N2--GPM
+\v 15 αντι-P ος-RR--GPM θλιβω-VAI-AAI3P ασθενης-A3H-APN και-C αδυνατος-A1B-ASM κριμα-N3M-ASN δε-X πραυς-A3U-GPM εκτιθημι-VF--FAI3S
+\v 16 και-C προσετι-D απαταω-VAI-AAI3S συ-RP--AS εκ-P στομα-N3M-GSN εχθρος-N2--GSM αβυσσος-N2--NSF καταχυσις-N3I-NSF υποκατω-D αυτος-RD--GSF και-C καταβαινω-VZI-AAI3S τραπεζα-N1S-NSF συ-RP--GS πληρης-A3H-NSM πιοτης-N3T-GSF
+\v 17 ου-D υστερεω-VF--FAI3S δε-X απο-P δικαιος-A1A-GPM κριμα-N3M-ASN
+\v 18 θυμος-N2--NSM δε-X επι-P ασεβης-A3H-APM ειμι-VF--FMI3S δια-P ασεβεια-N1A-ASF δωρον-N2N-GPN ος-RR--GPN δεχομαι-V1I-IMI3P επι-P αδικια-N1A-DPF
+\v 19 μη-D συ-RP--AS εκκλινω-VA--AAD3S εκων-A3P-NSM ο-RA--NSM νους-N3E-NSM δεησις-N3I-GSF εν-P αναγκη-N1--DSF ειμι-V9--PAPGPM αδυνατος-A1B-GPM και-C πας-A3--APM ο-RA--APM κραταιοω-V4--PAPAPM ισχυς-N3U-ASF
+\v 20 μη-D εκελκω-VA--AAS2S ο-RA--ASF νυξ-N3--ASF του-RA--GSN αναβαινω-VZ--AAN λαος-N2--APM αντι-P αυτος-RD--GPM
+\v 21 αλλα-C φυλασσω-VA--AMD2S μη-D πρασσω-VA--AAS2S ατοπος-A1B-APN επι-P ουτος-RD--ASM γαρ-X εκειλεω-V2--PAI1S απο-P πτωχεια-N1A-GSF
+\v 22 ιδου-I ο-RA--NSM ισχυρος-A1A-NSM κραταιοω-VF--FAI3S εν-P ισχυς-N3U-DSF αυτος-RD--GSM τις-RI--NSM γαρ-X ειμι-V9--PAI3S κατα-P αυτος-RD--ASM δυναστης-N1M-NSM
+\v 23 τις-RI--NSM δε-X ειμι-V9--PAI3S ο-RA--NSM εταζω-V1--PAPNSM αυτος-RD--GSM ο-RA--APN εργον-N2N-APN η-C τις-RI--NSM ο-RA--NSM ειπον-VA--AAPNSM πρασσω-VAI-AAI3S αδικος-A1B-APN
+\v 24 μιμνησκω-VS--APD2S οτι-C μεγας-A1--NPN ειμι-V9--PAI3S αυτος-RD--GSM ο-RA--NPN εργον-N2N-NPN ος-RR--GPM αρχω-VAI-AAI3P ανηρ-N3--NPM
+\v 25 πας-A3--NSM ανθρωπος-N2--NSM οραω-VBI-AAI3S εν-P εαυτου-RD--DSM οσος-A1--NPM τιτρωσκω-V1--PPPNPM ειμι-V9--PAI3P βροτος-N2--NPM
+\v 26 ιδου-I ο-RA--NSM ισχυρος-A1A-NSM πολυς-A1--NSM και-C ου-D γιγνωσκω-VF--FMI1P αριθμος-N2--NSM ετος-N3E-GPN αυτος-RD--GSM και-C απεραντος-A1B-NSM
+\v 27 αριθμεω-V2--PMS3S δε-X αυτος-RD--DSM σταγων-N3N-NPF υετος-N2--GSM και-C επιχεω-VC--FPI3P υετος-N2--DSM εις-P νεφελη-N1--ASF
+\v 28 ρεω-VF--FMI3P παλαιωμα-N3M-NPN σκιαζω-VAI-AAI3S δε-X νεφος-N3E-NPN επι-P αμυθητος-A1B-GPM βροτος-N2--GPM
+\v 28 ωρα-N1A-ASF τιθημι-VEI-AMI3S κτηνος-N3E-DPN οιδα-VX--XAI3P δε-X κοιτη-N1--GSF ταξις-N3I-ASF
+\v 28 επι-P ουτος-RD--DPM πας-A3--DPM ου-D εκιστημι-V6--PMI3S συ-RP--GS ο-RA--NSF διανοια-N1A-NSF ουδε-C διααλλασσω-V1--PMI3S συ-RP--GS ο-RA--NSF καρδια-N1A-NSF απο-P σωμα-N3M-GSN
+\v 29 και-C εαν-C συνειμι-V9--PAS3S απεκτασις-N3I-APF νεφελη-N1--GSF ισοτης-N3H-APF σκηνη-N1--GSF αυτος-RD--GSM
+\v 30 ιδου-I εκτεινω-V1--PAI3S επι-P αυτος-RD--ASM ηδω-N---AS και-C ριζωμα-N3M-APN ο-RA--GSF θαλασσα-N1S-GSF καλυπτω-VAI-AAI3S
+\v 31 εν-P γαρ-X αυτος-RD--DPM κρινω-VF2-FAI3S λαος-N2--APM διδωμι-VF--FAI3S τροφη-N1--ASF ο-RA--DSM ισχυω-V1--PAPDSM
+\v 32 επι-P χειρ-N3--GPF καλυπτω-VAI-AAI3S φως-N3T-ASN και-C εντελλομαι-VAI-AMI3S περι-P αυτος-RD--GSF εν-P αποανταω-V3--PAPDSM
+\v 33 ανααγγελλω-VF2-FAI3S περι-P αυτος-RD--GSM φιλος-A1--ASM αυτος-RD--GSM κτησις-N3I-NSF και-C περι-P αδικια-N1A-GSF
+
+\c 37
+\p
+\v 1 και-C ουτος-RD--GSF ταρασσω-VQI-API3S ο-RA--NSF καρδια-N1A-NSF εγω-RP--GS και-C απορεω-VD--API3S εκ-P ο-RA--GSM τοπος-N2--GSM αυτος-RD--GSF
+\v 2 ακουω-V1--PAD2S ακοη-N1--ASF εν-P οργη-N1--DSF θυμος-N2--GSM κυριος-N2--GSM και-C μελετη-N1--NSF εκ-P στομα-N3M-GSN αυτος-RD--GSM εκερχομαι-VF--FMI3S
+\v 3 υποκατω-D πας-A3--GSM ο-RA--GSM ουρανος-N2--GSM αρχη-N1--NSF αυτος-RD--GSM και-C ο-RA--ASN φως-N3T-ASN αυτος-RD--GSM επι-P πτερυξ-N3G-GPF ο-RA--GSF γη-N1--GSF
+\v 4 οπισω-P αυτος-RD--GSM βοαω-VF--FMI3S φωνη-N1--NSF βρονταω-VF--FAI3S εν-P φωνη-N1--DSF υβρις-N3I-GSF αυτος-RD--GSM και-C ου-D αντιαλλασσω-VF--FAI3S αυτος-RD--APM οτι-C ακουω-VF--FAI3S φωνη-N1--ASF αυτος-RD--GSM
+\v 5 βρονταω-VF--FAI3S ο-RA--NSM ισχυρος-A1A-NSM εν-P φωνη-N1--DSF αυτος-RD--GSM θαυμασιος-A1A-APN ποιεω-VAI-AAI3S γαρ-X μεγας-A1--APN ος-RR--APN ου-D οιδα-VXI-YAI1P
+\v 6 συντασσω-V1--PAPNSM χιων-N3N-DSF γιγνομαι-V1--PMD2S επι-P ο-RA--GSF γη-N1--GSF και-C χειμων-N3W-NSM υετος-N2--NSM και-C χειμων-N3W-NSM υετος-N2--GPM δυναστεια-N1A-GSF αυτος-RD--GSM
+\v 7 εν-P χειρ-N3--DSF πας-A3--GSM ανθρωπος-N2--GSM κατασφραγιζω-V1--PAI3S ινα-C γιγνωσκω-VZ--AAS3S πας-A3--NSM ανθρωπος-N2--NSM ο-RA--ASF εαυτου-RD--GSM ασθενεια-N1A-ASF
+\v 8 ειςερχομαι-VBI-AAI3S δε-X θηριον-N2N-NPN υπο-P σκεπη-N1--ASF ησυχαζω-VA--AAI3P δε-X επι-P κοιτη-N1--GSF
+\v 9 εκ-P ταμιειον-N2N-GPN επιερχομαι-V1--PMI3P δινη-N1--NPF απο-P δε-X ακρωτηριον-N2N-GPN ψυχος-N3E-NSN
+\v 10 και-C απο-P πνοη-N1--GSF ισχυρος-A1A-GSM διδωμι-VF--FAI3S παγος-N2--NSM οιακιζω-V1--PAI3S δε-X ο-RA--ASN υδωρ-N3--ASN ως-C εαν-C βουλομαι-V1--PMS3S
+\v 11 και-C εκλεκτος-A1--ASM καταπλασσω-V1--PAI3S νεφελη-N1--NSF διασκορπιζω-VF2-FAI3S νεφος-N3E-ASN φως-N3T-NSN αυτος-RD--GSM
+\v 12 και-C αυτος-RD--NSM κυκλωμα-N3M-APN διαστρεφω-VF--FAI3S εν-P θεεβουλαθωθ-N---DP εις-P εργον-N2N-APN αυτος-RD--GPM πας-A3--APN οσος-A1--APN αν-X εντελλομαι-VA--AMS3S αυτος-RD--DPM ουτος-RD--NPN συντασσω-VK--XPI3S παρα-P αυτος-RD--GSM επι-P ο-RA--GSF γη-N1--GSF
+\v 13 εαν-C εις-P παιδεια-N1A-ASF εαν-C εις-P ο-RA--ASF γη-N1--ASF αυτος-RD--GSM εαν-C εις-P ελεος-N3E-ASN ευρισκω-VF--FAI3S αυτος-RD--ASM
+\v 14 ενωτιζομαι-V1--PMD2S ουτος-RD--APN *ιωβ-N---VSM ιστημι-VH--AAD2S νουθετεω-V2--PPD2S δυναμις-N3I-ASF κυριος-N2--GSM
+\v 15 οιδα-VX--XAI1P οτι-C ο-RA--NSM θεος-N2--NSM τιθημι-VEI-AMI3S εργον-N2N-APN αυτος-RD--GSM φως-N3T-ASN ποιεω-VA--AAPNSM εκ-P σκοτος-N3E-GSN
+\v 16 επισταμαι-V6--PMI3S δε-X διακρισις-N3I-ASF νεφος-N3E-GPN εξαισιος-A1B-APN δε-X πτωμα-N3M-APN πονηρος-A1A-GPM
+\v 17 συ-RP--GS δε-X ο-RA--NSF στολη-N1--NSF θερμος-A1--NSF ησυχαζω-V1--PMI3S δε-X επι-P ο-RA--GSF γη-N1--GSF
+\v 18 στερεοω-VF--FAI2S μετα-P αυτος-RD--GSM εις-P παλαιωμα-N3M-APN ισχυρος-A1A-NPF ως-C ορασις-N3I-NSF επιχυσις-N3I-GSF
+\v 19 δια-P τις-RI--ASN διδασκω-VA--AAD2S εγω-RP--AS τις-RI--ASN ειπον-VF2-FAI1P αυτος-RD--DSM και-C παυω-VA--AMS1P πολυς-A1--APN λεγω-V1--PAPNPM
+\v 20 μη-D βιβλος-N2--NSF η-C γραμματευς-N3V-NSM εγω-RP--DS παραιστημι-VXI-XAI3S ινα-C ανθρωπος-N2--ASM ιστημι-VXI-XAPNSM κατασιωπαω-VA--AAS1S
+\v 21 πας-A3--DPM δε-X ου-D ορατος-A1--ASN ο-RA--ASN φως-N3T-ASN τηλαυγης-A3H-NSN ειμι-V9--PAI3S εν-P ο-RA--DPM παλαιωμα-N3M-DPM ωσπερ-D ο-RA--ASN παρα-P αυτος-RD--GSM επι-P νεφος-N3E-GPN
+\v 22 απο-P βορεας-N1T-GSM νεφος-N3E-NPN χρυσαυγεω-V2--PAPNPN επι-P ουτος-RD--DPM μεγας-A1--NSF ο-RA--NSF δοξα-N1S-NSF και-C τιμη-N1--NSF παντοκρατωρ-N3R-GSM
+\v 23 και-C ου-D ευρισκω-V1--PAI1P αλλος-RD--ASM ομοιος-A1A-ASM ο-RA--DSF ισχυς-N3U-DSF αυτος-RD--GSM ο-RA--NSM ο-RA--APN δικαιος-A1A-APN κρινω-V1--PAPNSM ου-D οιομαι-V1--PAI3S επιακουω-V1--PAN αυτος-RD--ASM
+\v 24 διο-C φοβεω-VC--FPI3P αυτος-RD--ASM ο-RA--NPM ανθρωπος-N2--NPM φοβεω-VC--FPI3P δε-X αυτος-RD--ASM και-C ο-RA--NPM σοφος-A1--NPM καρδια-N1A-DSF
+
+\c 38
+\p
+\v 1 μετα-P δε-X ο-RA--ASN παυω-VA--AMN *ελιους-N---ASM ο-RA--GSF λεξις-N3I-GSF ειπον-VBI-AAI3S ο-RA--NSM κυριος-N2--NSM ο-RA--DSM *ιωβ-N---DSM δια-P λαιλαψ-N3P-GSF και-C νεφος-N3E-GPN
+\v 2 τις-RI--NSM ουτος-RD--NSM ο-RA--NSM κρυπτω-V1--PAPNSM εγω-RP--AS βουλη-N1--ASF συνεχω-V1--PAPNSM δε-X ρημα-N3M-APN εν-P καρδια-N1A-DSF εγω-RP--AS δε-X οιομαι-V1--PMI3S κρυπτω-V1--PAN
+\v 3 ζωννυμι-VO--AMD2S ωσπερ-D ανηρ-N3--NSM ο-RA--ASF οσφυς-N3U-ASF συ-RP--GS ερωταω-VA--AAS1S δε-X συ-RP--AS συ-RP--NS δε-X εγω-RP--DS αποκρινω-VC--APD2S
+\v 4 που-D ειμι-V9--IAS2S εν-P ο-RA--DSN θεμελιοω-V4--PAN εγω-RP--AS ο-RA--ASF γη-N1--ASF αποαγγελλω-VA--AAD2S δε-X εγω-RP--DS ει-C επισταμαι-V6--PMS2S συνεσις-N3I-ASF
+\v 5 τις-RI--NSM τιθημι-VEI-AMI3S ο-RA--APN μετρον-N2N-APN αυτος-RD--GSF ει-C οιδα-VX--XAI2S η-C τις-RI--NSM ο-RA--NSM επιαγω-VB--AAPNSM σπαρτιον-N2--ASN επι-P αυτος-RD--GSF
+\v 6 επι-P τις-RI--GSN ο-RA--NPM κρικος-N2--NPM αυτος-RD--GSF πηγνυμι-VX--XAI3P τις-RI--NSM δε-X ειμι-V9--PAI3S ο-RA--NSM βαλλω-VB--AAPNSM λιθος-N2--ASM γωνιαιος-A1--ASM επι-P αυτος-RD--GSF
+\v 7 οτε-D γιγνομαι-VCI-API3P αστρον-N2N-NPN αινεω-VAI-AAI3P εγω-RP--AS φωνη-N1--DSF μεγας-A1--DSF πας-A3--NPM αγγελος-N2--NPM εγω-RP--GS
+\v 8 φρασσω-VAI-AAI1S δε-X θαλασσα-N1S-ASF πυλη-N1--DPF οτε-D μαιμασσω-VAI-AAI3S εκ-P κοιλια-N1A-GSF μητηρ-N3--GSF αυτος-RD--GSF εκπορευομαι-V1--PMPNSF
+\v 9 τιθημι-VEI-AMI1S δε-X αυτος-RD--DSF νεφος-N3E-ASN αμφιασις-N3I-ASM ομιχλη-N1--DSF δε-X αυτος-RD--ASF σπαργανοω-VAI-AAI1S
+\v 10 τιθημι-VEI-AMI1S δε-X αυτος-RD--DSF οριον-N2N-APN περιτιθημι-VE--AAPNSM κλειθρον-N2N-APN και-C πυλη-N1--APF
+\v 11 ειπον-VAI-AAI1S δε-X αυτος-RD--DSF μεχρι-P ουτος-RD--GSM ερχομαι-VF--FMI2S και-C ου-D υπερβαινω-VF--FMI2S αλλα-C εν-P σεαυτου-RD--DSF συντριβω-VD--FPI3S συ-RP--GS ο-RA--NPN κυμα-N3M-NPN
+\v 12 η-D επι-P συ-RP--GS συντασσω-VX--XAI1S φεγγος-N3E-ASN πρωινος-A1--ASN εωσφορος-N2--NSM δε-X οραω-VBI-AAI3S ο-RA--ASF εαυτου-RD--GSM ταξις-N3I-ASF
+\v 13 επιλαμβανω-VB--AMN πτερυξ-N3G-GPF γη-N1--GSF εκτινασσω-VA--AAN ασεβης-A3H-APM εκ-P αυτος-RD--GSF
+\v 14 η-D συ-RP--NS λαμβανω-VB--AAPNSM γη-N1--ASF πηλος-N2--ASM πλασσω-VAI-AAI2S ζωον-N2N-ASN και-C λαλητος-N2--ASM αυτος-RD--ASM τιθημι-VEI-AMI2S επι-P γη-N1--GSF
+\v 15 αποαιρεω-VBI-AAI2S δε-X απο-P ασεβης-A3H-GPM ο-RA--ASN φως-N3T-ASN βραχιων-N3N-ASM δε-X υπερηφανος-A1B-GPM συντριβω-VAI-AAI2S
+\v 16 ερχομαι-VBI-AAI2S δε-X επι-P πηγη-N1--ASF θαλασσα-N1S-GSF εν-P δε-X ιχνος-N3E-DPN αβυσσος-N2--GSF περιπατεω-VAI-AAI2S
+\v 17 αναοιγω-V1--PMI3P δε-X συ-RP--DS φοβος-N2--DSM πυλη-N1--NPF θανατος-N2--GSM πυλωρος-N2--NPM δε-X αδης-N1M-GSM οραω-VB--AAPNPM συ-RP--AS πτησσω-VAI-AAI3P
+\v 18 νουθετεω-VM--XPP2S δε-X ο-RA--ASN ευρος-N3E-ASN ο-RA--GSF υπο-P ουρανος-N2--ASM ανααγγελλω-VA--AAD2S δη-X εγω-RP--DS ποσος-A1--NSF τις-RI--NSM ειμι-V9--PAI3S
+\v 19 ποιος-A1A-DSF δε-X γη-N1--DSF αυλιζω-V1--PMI3S ο-RA--NSN φως-N3T-NSN σκοτος-N3E-GSN δε-X ποιος-A1A-NSM ο-RA--NSM τοπος-N2--NSM
+\v 20 ει-C αγω-VB--AAO2S εγω-RP--AS εις-P οριον-N2N-APN αυτος-RD--GPM ει-C δε-X και-C επισταμαι-V6--PMI2S τριβος-N2--APF αυτος-RD--GPM
+\v 21 οιδα-VX--XAI1S αρα-X οτι-C τοτε-D γενναω-VM--XMI2S αριθμος-N2--NSM δε-X ετος-N3E-GPN συ-RP--GS πολυς-A1--NSM
+\v 22 ερχομαι-VBI-AAI2S δε-X επι-P θησαυρος-N2--APM χιων-N3N-GSF θησαυρος-N2--APM δε-X χαλαζα-N1S-GSF οραω-VX--XAI2S
+\v 23 αποκειμαι-V5--PMI3S δε-X συ-RP--DS εις-P ωρα-N1A-ASF εχθρος-N2--GPM εις-P ημερα-N1A-ASF πολεμος-N2--GSM και-C μαχη-N1--GSF
+\v 24 ποθεν-D δε-X εκπορευομαι-V1--PMI3S παχνη-N1--NSF η-C διασκεδαζω-V5--PPI3S νοτος-N2--NSM εις-P ο-RA--ASF υπο-P ουρανος-N2--ASM
+\v 25 τις-RI--NSM δε-X ετοιμαζω-VAI-AAI3S υετος-N2--DSM λαβρος-A1B-DSM ρυσις-N3I-ASF οδος-N2--ASF δε-X κυδοιμεω-V2--PAPNSM
+\v 26 ο-RA--GSN υετιζω-VA--AAN επι-P γη-N1--ASF ος-RR--GSM ου-D ανηρ-N3--NSM ερημος-N2--ASF ος-RR--GSM ου-D υποαρχω-V1--PAI3S ανθρωπος-N2--NSM εν-P αυτος-RD--DSF
+\v 27 ο-RA--GSN χορταζω-VA--AAN αβατος-A1B-ASM και-C αοικητος-A1B-ASM και-C ο-RA--GSN εκβλαστανω-VA--AAN εξοδος-N2--ASF χλοη-N1--GSF
+\v 28 τις-RI--NSM ειμι-V9--PAI3S υετος-N2--GSM πατηρ-N3--NSM τις-RI--NSM δε-X ειμι-V9--PAI3S ο-RA--NSM τικτω-VX--XAPNSM βωλος-N2--APF δροσος-N2--GSF
+\v 29 εκ-P γαστηρ-N3--GSF δε-X τις-RI--GSN εκπορευομαι-V1--PMI3S ο-RA--NSM κρυσταλλος-N2--NSM παχνη-N1--ASF δε-X εν-P ουρανος-N2--DSM τις-RI--NSM τικτω-VX--XAI3S
+\v 30 ος-RR--NSF καταβαινω-V1--PAI3S ωσπερ-D υδωρ-N3--NSN ρεω-V2--PAPNSN προσωπον-N2N-ASN δε-X αβυσσος-N2--GSF τις-RI--NSM πηγνυμι-VAI-AAI3S
+\v 31 συνιημι-VAI-AAI2S δε-X δεσμος-N2--ASM *πλειας-N3D-GSM και-C φραγμος-N2--ASM *ωριων-N---GSM αναοιγω-VAI-AAI2S
+\v 32 η-D δια   αναοιγω-VF--FAI2S μαζουρωθ-N---ASM εν-P καιρος-N2--DSM αυτος-RD--GSM και-C *εσπερος-N---ASM επι-P κομη-N1--GSF αυτος-RD--GSM αγω-VF--FAI2S αυτος-RD--APN
+\v 33 επισταμαι-V6--PMI2S δε-X τροπη-N1--APF ουρανος-N2--GSM η-C ο-RA--APN υπο-P ουρανος-N2--ASM ομοθυμαδον-D γιγνομαι-V1--PMPAPN
+\v 34 καλεω-VF--FAI2S δε-X νεφος-N3E-ASN φωνη-N1--DSF και-C τρομος-N2--DSM υδωρ-N3T-GSN λαβρος-A1B-DSM υποακουω-VF--FMI3S συ-RP--GS
+\v 35 αποστελλω-VF2-FAI2S δε-X κεραυνος-N2--APM και-C πορευομαι-VF--FMI3P ειπον-VF2-FAI3P δε-X συ-RP--DS τις-RI--NSN ειμι-V9--PAI3S
+\v 36 τις-RI--NSM δε-X διδωμι-VAI-AAI3S γυνη-N3K-DPF υφασμα-N3M-GSN σοφια-N1A-ASF η-C ποικιλτικος-A1--ASF επιστημη-N1--ASF
+\v 37 τις-RI--NSM δε-X ο-RA--NSM αριθμεω-V2--PAPNSM νεφος-N3E-APN σοφια-N1A-DSF ουρανος-N2--ASM δε-X εις-P γη-N1--ASF κλινω-V1I-IAI3S
+\v 38 χεω-VM--XMI3S δε-X ωσπερ-D γη-N1--NSF κονια-N1A-NSF κολλαω-VX--XAI1S δε-X αυτος-RD--ASM ωσπερ-D λιθος-N2--DSM κυβος-N2--ASM
+\v 39 θηρευω-VF--FAI2S δε-X λεων-N3N-DPM βορα-N1A-ASF ψυχη-N1--APF δε-X δρακων-N3--GPM ενπιμπλημι-VF--FAI2S
+\v 40 δειδω-VX--XAI3P γαρ-X εν-P κοιτη-N1--DPF αυτος-RD--GPM καταημαι-V5--PMI3P δε-X εν-P υλη-N1--DPF ενεδρευω-V1--PAPNPM
+\v 41 τις-RI--NSM δε-X ετοιμαζω-VAI-AAI3S κοραξ-N3K-DSM βορα-N1A-ASF νεοσσος-N2--NPM γαρ-X αυτος-RD--GSM προς-P κυριος-N2--ASM κραζω-VX--XAI3P πλαναω-V3--PMPNPM ο-RA--APN σιτος-N2--APN ζητεω-V2--PAPNPM
+
+\c 39
+\p
+\v 1 ει-C γιγνωσκω-VZI-AAI2S καιρος-N2--ASM τοκετος-N2--GSM τραγελαφος-N2--GPM πετρα-N1A-APF φυλασσω-VAI-AAI2S δε-X ωδιν-N3--APF ελαφος-N2--GPM
+\v 2 αριθμεω-VAI-AAI2S δε-X αυτος-RD--GPM μην-N3--APM πληρης-A3H-APM τοκετος-N2--GSM ωδιν-N3--APF δε-X αυτος-RD--GPM λυω-VAI-AAI2S
+\v 3 εκτρεφω-VAI-AAI2S δε-X αυτος-RD--GPM ο-RA--APN παιδιον-N2N-APN εξω-P φοβος-N2--GSM ωδις-N3--APF αυτος-RD--GPM εκ   αποστελλω-VF2-FAI2S
+\v 4 απορησσω-VF--FAI3P ο-RA--NPN τεκνον-N2N-NPN αυτος-RD--GPM πληθυνω-VC--FPI3P εν-P γενημα-N3M-DSN εκερχομαι-VF--FMI3P και-C ου-D μη-D ανακαμπτω-VF--FAI3P αυτος-RD--DPM
+\v 5 τις-RI--NSM δε-X ειμι-V9--PAI3S ο-RA--NSM αποιημι-VH--AAPNSM ονος-N2--ASM αγριος-A1A-ASM ελευθερος-A1A-ASM δεσμος-N2--APM δε-X αυτος-RD--GSM τις-RI--NSM λυω-VAI-AAI3S
+\v 6 τιθημι-VEI-AMI1S δε-X ο-RA--ASF διαιτα-N1S-ASF αυτος-RD--GSM ερημος-N2--ASF και-C ο-RA--APN σκηνωμα-N3M-APN αυτος-RD--GSM αλμυρις-N3D-APN
+\v 7 καταγελαω-V3--PAPNSM πολυοχλια-N1A-APF πολις-N3I-GSF μεμψις-N3I-ASF δε-X φορολογος-N2--GSM ου-D ακουω-V1--PAPNSM
+\v 8 κατασκεπτομαι-VF--FMI3S ορος-N3E-APN νομη-N1--ASF αυτος-RD--GSM και-C οπισω-P πας-A3--GSM χλωρος-A1A-GSM ζητεω-V2--PAI3S
+\v 9 βουλομαι-VF--FMI3S δε-X συ-RP--DS μονοκερως-N3T-NSM δουλευω-VA--AAN η-C κοιμαω-VC--APN επι-P φατνη-N1--GSF συ-RP--GS
+\v 10 δεω-VF--FAI2S δε-X εν-P ιμας-N3--DSM ζυγος-N2--ASM αυτος-RD--GSM η-C ελκω-VF--FAI3S συ-RP--GS αυλαξ-N3K-APM εν-P πεδιον-N2N-DSN
+\v 11 πειθω-VX--XAI2S δε-X επι-P αυτος-RD--DSM οτι-C πολυς-A1--NSF ο-RA--NSF ισχυς-N3U-NSF αυτος-RD--GSM επι  αποιημι-VF--FAI2S δε-X αυτος-RD--DSM ο-RA--APN εργον-N2N-APN συ-RP--GS
+\v 12 πιστευω-VF--FAI2S δε-X οτι-C αποδιδωμι-VF--FAI3S συ-RP--DS ο-RA--ASM σπορος-N2--ASM ειςφερω-VF--FAI3S δε-X συ-RP--GS ο-RA--ASM αλων-N3W-ASM
+\v 13 πτερυξ-N3G-NSF τερπω-V1--PAPGPF νεελασα-N---GS εαν-C συνλαμβανω-VB--AAS2S ασιδα-N---NSF και-C νεσσα-N---NSF
+\v 14 οτι-C αποιημι-VF--FAI3S εις-P γη-N1--ASF ο-RA--APN ωον-N2N-APN αυτος-RD--GSF και-C επι-P χους-N3--ASM θαλπω-VF--FAI3S
+\v 15 και-C επιλανθανω-VBI-AMI3S οτι-C πους-N3D-NSM σκορπιζω-VF2-FAI3S και-C θηριον-N2N-NPN αγρος-N2--GSM κατααπαταω-VF--FAI3S
+\v 16 αποσκληρυνω-V1I-IAI3S ο-RA--APN τεκνον-N2N-APN αυτος-RD--GSF ωστε-C μη-D εαυτου-RD--DSF εις-P κενος-A1--ASM κοπιαω-VAI-AAI3S ανευ-P φοβος-N2--GSM
+\v 17 οτι-C κατασιωπαω-VAI-AAI3S αυτος-RD--DSF ο-RA--NSM θεος-N2--NSM σοφια-N1A-ASF και-C ου-D μεριζω-VAI-AAI3S αυτος-RD--DSF εν-P ο-RA--DSF συνεσις-N3I-DSF
+\v 18 κατα-P καιρος-N2--ASM εν-P υψος-N3E-DSN υψοω-VF--FAI3S καταγελαω-VF--FAI3S ιππος-N2--GSM και-C ο-RA--GSM επιβατης-N1M-GSM αυτος-RD--GSM
+\v 19 η-D συ-RP--NS περιτιθημι-VAI-AAI2S ιππος-N2--DSM δυναμις-N3I-ASF ενδυω-VAI-AAI2S δε-X τραχηλος-N2--DSM αυτος-RD--GSM φοβος-N2--ASM
+\v 20 περιτιθημι-VAI-AAI2S δε-X αυτος-RD--DSM πανοπλια-N1A-ASF δοξα-N1S-ASF δε-X στηθος-N3E-GPN αυτος-RD--GSM τολμα-N1S-DSF
+\v 21 αναορυσσω-V1--PAPNSM εν-P πεδιον-N2N-DSN γαυριαω-V3--PAI3S εκπορευομαι-V1--PMI3S δε-X εις-P πεδιον-N2N-ASN εν-P ισχυς-N3U-DSF
+\v 22 συν   αντιειμι-V9--PAPNSM βελος-N3E-DSN καταγελαω-V3--PAI3S και-C ου-D μη-D αποστρεφω-VD--APS3S απο-P σιδηρος-N2--GSM
+\v 23 επι-P αυτος-RD--DSM γαυριαω-V3--PAI3S τοξον-N2N-ASN και-C μαχαιρα-N1A-NSF
+\v 24 και-C οργη-N1--DSF απο  αναιζω-VF2-FAI3S ο-RA--ASF γη-N1--ASF και-C ου-D μη-D πιστευω-VF--FMI2S εως-C αν-X σημαινω-VA--AAS3S σαλπιγξ-N3G-NSF
+\v 25 σαλπιγξ-N3G-GSF δε-X σημαινω-V1--PAPGSF λεγω-V1--PAI3S ευγε-I πορρωθεν-D δε-X οσφραινομαι-V1--PMI3S πολεμος-N2--GSM συν-P αλμα-N3M-DSN και-C κραυγη-N1--DSF
+\v 26 εκ-P δε-X ο-RA--GSF σος-A1--GSF επιστημη-N1--GSF ιστημι-VXI-XAI3S ιεραξ-N3K-NSM ανα  αποεταζω-VA--AAPNSM ο-RA--APF πτερυξ-N3G-APF ακινητος-A1B-NSM καταοραω-V3--PAPNSM ο-RA--APN προς-P νοτος-N2--ASM
+\v 27 επι-P δε-X σος-A1--DSN προσταγμα-N3M-DSN υψοω-V4--PMI3S αετος-N2--NSM γυψ-N3P-NSM δε-X επι-P νοσσια-N1A-GSF αυτος-RD--GSM καταεζομαι-VO--AAPNSM αυλιζω-V1--PMI3S
+\v 28 επι-P εξοκη-N1--DSF πετρα-N1A-GSF και-C αποκρυφος-A1B-DSN
+\v 29 εκεισε-D ειμι-V9--PAPNSM ζητεω-V2--PAI3S ο-RA--APN σιτος-N2--APN πορρωθεν-D ο-RA--NPM οφθαλμος-N2--NPM αυτος-RD--GSM σκοπευω-V1--PAI3P
+\v 30 νεοσσος-N2--NPM δε-X αυτος-RD--GSM φυρομαι-V1--PMI3P εν-P αιμα-N3M-DSN ος-RR--GSM δε-X αν-X ειμι-V9--PAS3P θνησκω-VX--XAPNPM παραχρημα-D ευρισκω-V1--PPI3P
+
+\c 40
+\p
+\v 1 και-C αποκρινω-VCI-API3S κυριος-N2--NSM ο-RA--NSM θεος-N2--NSM ο-RA--DSM *ιωβ-N---DSM και-C ειπον-VBI-AAI3S
+\v 2 μη-D κρισις-N3I-ASF μετα-P ικανος-A1--GSM εκκλινω-VF2-FAI3S ελεγχω-V1--PAPNSM θεος-N2--ASM αποκρινω-VC--FPI3S αυτος-RD--ASF
+\v 3 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S ο-RA--DSM κυριος-N2--DSM
+\v 4 τις-RI--ASN ετι-D εγω-RP--NS κρινω-V1--PMI1S νουθετεω-V2--PPPNSM και-C ελεγχω-V1--PAPNSM κυριος-N2--ASM ακουω-V1--PAPNSM τοιουτος-A1--APN ουδεις-A3--ASN ειμι-V9--PAPNSM εγω-RP--NS δε-X τις-RI--ASM αποκρισις-N3I-ASF διδωμι-VO--AAS1S προς-P ουτος-RD--APN χειρ-N3--ASF τιθημι-VF--FAI1S επι-P στομα-N3M-DSN εγω-RP--GS
+\v 5 απαξ-D λαλεω-VX--XAI1S επι-P δε-X ο-RA--DSM δευτερος-A1A-DSM ου-D προςτιθημι-VF--FAI1S
+\v 6 ετι-D δε-X υπολαμβανω-VB--AAPNSM ο-RA--NSM κυριος-N2--NSM ειπον-VBI-AAI3S ο-RA--DSM *ιωβ-N---DSM εκ-P ο-RA--GSN νεφος-N3E-GSN
+\v 7 μη-D αλλα-C ζωννυμι-VO--AMD2S ωσπερ-D ανηρ-N3--NSM ο-RA--ASF οσφυς-N3U-ASF συ-RP--GS ερωταω-VA--AAS1S δε-X συ-RP--AS συ-RP--NS δε-X εγω-RP--DS αποκρινω-VC--APD2S
+\v 8 μη-D αποποιεω-V2--PMD2S εγω-RP--GS ο-RA--ASN κριμα-N3M-ASN οιομαι-V1--PMI2S δε-X εγω-RP--AS αλλως-D συ-RP--DS χρηματιζω-VX--XAN η-C ινα-C αναφαινω-VD--APS2S δικαιος-A1A-NSM
+\v 9 η-D βραχιων-N3N-NSM συ-RP--DS ειμι-V9--PAI3S κατα-P ο-RA--GSM κυριος-N2--GSM η-C φωνη-N1--DSF κατα-P αυτος-RD--ASM βρονταω-V3--PAI2S
+\v 10 αναλαμβανω-VB--AAD2S δη-X υψος-N3E-ASN και-C δυναμις-N3I-ASF δοξα-N1S-ASF δε-X και-C τιμη-N1--ASF αμφιεννυμι-VA--AMD2S
+\v 11 αποστελλω-VA--AAD2S δε-X αγγελος-N2--APM οργη-N1--DSF πας-A3--ASM δε-X υβριστης-N1M-ASM ταπεινοω-VF--FAD2S
+\v 12 υπερηφανος-A1B-ASM δε-X σβεννυμι-VA--AAD2S σηπω-VA--AAD2S δε-X ασεβης-A3H-APM παραχρημα-D
+\v 13 κρυπτω-VA--AAD2S δε-X εις-P γη-N1--ASF εξω-D ομοθυμαδον-D ο-RA--APN δε-X προσωπον-N2N-APN αυτος-RD--GPM ατιμια-N1A-GSF ενπιμπλημι-VA--AAD2S
+\v 14 ομολογεω-VF--FAI1S αρα-X οτι-C δυναμαι-V6--PMI3S ο-RA--NSF δεξιος-A1A-APN συ-RP--GS σωζω-VA--AAN
+\v 15 αλλα-C δη-X ιδου-I θηριον-N2N-APN παρα-P συ-RP--DS χορτος-N2--ASM ισος-D βους-N3--DPF εσθιω-V1--PAI3S
+\v 16 ιδου-I δη-X ισχυς-N3U-NSF αυτος-RD--GSM επι-P οσφυς-N3U-DSF ο-RA--NSF δε-X δυναμις-N3I-NSF επι-P ομφαλος-N2--GSM γαστηρ-N3--GSF
+\v 17 ιστημι-VAI-AAI3S ουρα-N1A-ASF ως-C κυπαρισσος-N2--ASM ο-RA--NPN δε-X νευρον-N2N-NPN αυτος-RD--GSM συνπλεκω-VK--XPI3S
+\v 18 ο-RA--NPF πλευρα-N1A-NPF αυτος-RD--GSM πλευρα-N1A-NPF χαλκειος-A1A-NPF ο-RA--NSF δε-X ραχις-N3I-NSF αυτος-RD--GSM σιδηρος-N2--NSM χυτος-A1--NSM
+\v 19 ουτος-RD--NSN ειμι-V9--PAI3S αρχη-N1--NSF πλασμα-N3M-GSN κυριος-N2--GSM ποιεω-VM--XPPASM εν   καταπαιζω-V1--PMN υπο-P ο-RA--GPM αγγελος-N2--GPM αυτος-RD--GSM
+\v 20 επιερχομαι-VB--AAPNSM δε-X επι-P ορος-N3E-ASN ακροτομος-A1B-ASN ποιεω-VAI-AAI3S χαρμονη-N1--ASF τετραπους-N3--DPM εν-P ο-RA--DSM ταρταρος-N2--DSM
+\v 21 υπο-P παντοδαπος-A1--APN δενδρον-N2N-APN κοιμαω-V3--PMI3S παρα-P παπυρος-N2--ASM και-C καλαμος-N2--ASM και-C βουτομον-N2N-ASN
+\v 22 σκιαζω-V1--PMI3P δε-X εν-P αυτος-RD--DSN δενδρον-N2N-NPN μεγας-A1--NPN συν-P ραδαμνος-N2--DPM και-C κλων-N3W-NPM αγνος-N2--GSM
+\v 23 εαν-C γιγνομαι-VB--AMS3S πλημμυρα-N1A-NSF ου-D μη-D αισθανομαι-VS--APS3S πειθω-VX--XAI3S οτι-C προςκρουω-VF--FAI3S ο-RA--NSM *ιορδανης-N1M-NSM εις-P ο-RA--ASN στομα-N3M-ASN αυτος-RD--GSN
+\v 24 εν-P ο-RA--DSM οφθαλμος-N2--DSM αυτος-RD--GSN δεχομαι-VF--FMI3S αυτος-RD--ASN ενσκολιευομαι-V1--PMPNSM τιτραω-VF--FAI3S ρις-N3--ASF
+\v 25 αγω-VF--FAI2S δε-X δρακων-N3--ASM εν-P αγκιστρον-N2N-DSN περιτιθημι-VF--FAI2S δε-X φορβεα-N1A-ASF περι-P ρις-N3--ASF αυτος-RD--GSM
+\v 26 ει-C δεω-VF--FAI2S κρικος-N2--ASM εν-P ο-RA--DSM μυκτηρ-N3--DSM αυτος-RD--GSM ψελιον-N2--DSN δε-X τρυπαω-VF--FAI2S ο-RA--ASN χειλος-N3E-ASN αυτος-RD--GSM
+\v 27 λαλεω-VF--FAI3S δε-X συ-RP--DS δεησις-N3I-DSF ικετηριος-A1A-DSF μαλακως-D
+\v 28 τιθημι-VF--FMI3S δε-X διαθηκη-N1--ASF μετα-P συ-RP--GS λαμβανω-VF--FMI2S δε-X αυτος-RD--ASM δουλος-N2--ASM αιωνιος-A1B-ASM
+\v 29 παιζω-VF--FMI2S δε-X εν-P αυτος-RD--DSM ωσπερ-D ορνεον-N2N-DSN η-C δεω-VF--FAI2S αυτος-RD--ASM ωσπερ-D στρουθιον-N2N-ASN παιδιον-N2N-DSN
+\v 30 ενσιτεομαι-V2--PMI3P δε-X εν-P αυτος-RD--DSM εθνος-N3E-NPN μεριτευω-V1--PMI3P δε-X αυτος-RD--ASM φοινιξ-N3K-GPM γενος-N3E-APN
+\v 31 πας-A3--NSN δε-X πλωτος-A1--NSN συνερχομαι-VB--AAPNSN ου-D μη-D φερω-VAI-AAS3P βυρσα-N1A-ASF εις-A1A-ASF ουρα-N1A-GSF αυτος-RD--GSM και-C εν-P πλοιον-N2N-DPN αλιευς-N3V-GPM κεφαλη-N1--ASF αυτος-RD--GSM
+\v 32 επιτιθημι-VF--FAI2S δε-X αυτος-RD--DSM χειρ-N3--ASF μιμνησκω-VS--APPNSM πολεμος-N2--ASM ο-RA--ASM γιγνομαι-V1--PMPASM εν-P σωμα-N3M-DSN αυτος-RD--GSM και-C μηκετι-D γιγνομαι-V1--PMD3S
+
+\c 41
+\p
+\v 1 ου-D οραω-VX--XAI2S αυτος-RD--ASM ουδε-C επι-P ο-RA--DPM λεγω-V1--PMPDPM θαυμαζω-VX--XAI2S
+\v 2 ου-D δειδω-VX--XAI2S οτι-C ετοιμαζω-VT--XPI3S εγω-RP--DS τις-RI--NSM γαρ-X ειμι-V9--PAI3S ο-RA--NSM εγω-RP--DS αντιιστημι-VH--AAPNSM
+\v 3 η-C τις-RI--NSM αντιιστημι-VF--FMI3S εγω-RP--DS και-C υπομενω-VF2-FAI3S ει-C πας-A1S-NSF ο-RA--NSF υπο-P ουρανος-N2--ASM εμος-A1--NSF ειμι-V9--PAI3S
+\v 4 ου-D σιωπαω-VF--FMI1S δια-P αυτος-RD--ASM και-C λογος-N2--ASM δυναμις-N3I-GSF ελεεω-VF--FAI3S ο-RA--ASM ισος-A1--ASM αυτος-RD--GSM
+\v 5 τις-RI--NSM αποκαλυπτω-VF--FAI3S προσωπον-N2N-ASN ενδυσις-N3I-GSF αυτος-RD--GSM εις-P δε-X πτυξις-N3I-ASF θωραξ-N3K-GSM αυτος-RD--GSM τις-RI--NSM αν-X ειςερχομαι-VB--AAO3S
+\v 6 πυλη-N1--APF προσωπον-N2N-GSN αυτος-RD--GSM τις-RI--NSM αναοιγω-VF--FAI3S κυκλος-N2--DSM οδους-N3--GPM αυτος-RD--GSM φοβος-N2--NSM
+\v 7 ο-RA--NPN εγκατα-N2N-NPN αυτος-RD--GSM ασπις-N3D-NPF χαλκειος-A1A-NPF συνδεσμος-N2--NSM δε-X αυτος-RD--GSM ωσπερ-D σμιριτης-N1M-NSM λιθος-N2--NSM
+\v 8 εις-A3--NSM ο-RA--GSM εις-A3--GSM κολλαω-V3--PPI3P πνευμα-N3M-NSN δε-X ου-D μη-D διαερχομαι-VB--AAS3S αυτος-RD--ASM
+\v 9 ανηρ-N3--NSM ο-RA--DSM αδελφος-N2--DSM αυτος-RD--GSM προςκολλαω-VC--FPI3S συνεχω-V1--PAI3P και-C ου-D μη-D αποσπαω-V3--APS3P
+\v 10 εν-P πταρμος-N2--DSM αυτος-RD--GSM επιφαυσκω-V1--PMI3S φεγγος-N3E-NSN ο-RA--NPM δε-X οφθαλμος-N2--NPM αυτος-RD--GSM ειδος-N3E-NSN εωσφορος-N2--GSM
+\v 11 εκ-P στομα-N3M-GSN αυτος-RD--GSM εκπορευομαι-V1--PMI3P λαμπας-N3D-NPF καιω-V1--PMPNPF και-C διαριπτω-V1--PMI3P εσχαρα-N1A-NPF πυρ-N3--GSN
+\v 12 εκ-P μυκτηρ-N3W-NSM αυτος-RD--GSM εκπορευομαι-V1--PMI3S καπνος-N2--NSM καμινος-N2--GSF καιω-V1--PMPGSF πυρ-N3--DSN ανθραξ-N3K-GPM
+\v 13 ο-RA--NSF ψυχη-N1--NSF αυτος-RD--GSM ανθραξ-N3K-NPM φλοξ-N3G-NSF δε-X εκ-P στομα-N3M-GSN αυτος-RD--GSM εκπορευομαι-V1--PMI3S
+\v 14 εν-P δε-X τραχηλος-N2--DSM αυτος-RD--GSM αυλιζω-V1--PMI3S δυναμις-N3I-NSF εμπροσθεν-P αυτος-RD--GSM τρεχω-V1--PAI3S απωλεια-N1A-NSF
+\v 15 σαρξ-N3K-NPF δε-X σωμα-N3M-GSN αυτος-RD--GSM κολλαω-VM--XPI3P καταχεω-V2--PAI3S επι-P αυτος-RD--ASM ου-D σαλευω-VC--FPI3S
+\v 16 ο-RA--NSF καρδια-N1A-NSF αυτος-RD--GSM πηγνυμι-VX--XAI3S ως-C λιθος-N2--NSM ιστημι-VXI-XAI3S δε-X ωσπερ-D ακμων-N3W-NSM ανηλατος-A1B-NSM
+\v 17 στρεφω-VD--APPGSM δε-X αυτος-RD--GSM φοβος-N2--NSM θηριον-N2N-DPN τετραπους-N3--DPM επι-P γη-N1--GSF αλλομαι-V1--PMPDPM
+\v 18 εαν-C συνανταω-VA--AAS3P αυτος-RD--DSM λογχη-N1--NPF ουδεις-A3--ASN μη-D ποιεω-VA--AAS3P δορυ-N3--ASN επιαιρω-VM--XMPASN και-C θωραξ-N3K-APM
+\v 19 ηγεομαι-VM--XMI3S μεν-X γαρ-X σιδηρος-N2--ASM αχυρον-N2N-APN χαλκος-N2--ASM δε-X ωσπερ-D ξυλον-N2N-ASN σαθρος-A1A-ASN
+\v 20 ου-D μη-D τιτρωσκω-VA--AAS3S αυτος-RD--ASM τοξον-N2N-NSN χαλκειον-N2N-NSN ηγεομαι-VM--XMI3S μεν-X πετροβολος-N2--ASM χορτος-N2--ASM
+\v 21 ως-C καλαμη-N1--NSF λογιζομαι-VSI-API3P σφυρα-N1A-NPF καταγελαω-V3--PAI3S δε-X σεισμος-N2--GSM πυρφορος-A1B-GSM
+\v 22 ο-RA--NSF στρωμνη-N1--NSF αυτος-RD--GSM οβελισκος-N2--NPM οξυς-A3U-NPM πας-A3--NSM δε-X χρυσος-N2--NSM θαλασσα-N1S-GSF υπο-P αυτος-RD--ASM ωσπερ-D πηλος-N2--NSM αμυθητος-A1B-NSM
+\v 23 αναζεω-V2--PAI3S ο-RA--ASF αβυσσος-N2--ASF ωσπερ-D χαλκειον-N2N-ASN ηγεομαι-VM--XMI3S δε-X ο-RA--ASF θαλασσα-N1S-ASF ωσπερ-D εξαλειπτρον-N2N-ASN
+\v 24 ο-RA--ASM δε-X ταρταρος-N2--ASM ο-RA--GSF αβυσσος-N2--GSF ωσπερ-D αιχμαλωτος-A1B-ASM λογιζομαι-VAI-AMI3S αβυσσος-N2--ASF εις-P περιπατος-N2--ASM
+\v 25 ου-D ειμι-V9--PAI3S ουδεις-A3--NSN επι-P ο-RA--GSF γη-N1--GSF ομοιος-A1A-ASM αυτος-RD--DSM ποιεω-VM--XMPASM εν   καταπαιζω-V1--PMN υπο-P ο-RA--GPM αγγελος-N2--GPM εγω-RP--GS
+\v 26 πας-A3--ASN υψηλος-A1--ASN οραω-V3--PAI3S αυτος-RD--NSM δε-X βασιλευς-N3V-NSM πας-A3--GPM ο-RA--GPM εν-P ο-RA--DPN υδωρ-N3T-DPN
+
+\c 42
+\p
+\v 1 υπολαμβανω-VB--AAPNSM δε-X *ιωβ-N---NSM λεγω-V1--PAI3S ο-RA--DSM κυριος-N2--DSM
+\v 2 οιδα-VX--XAI1S οτι-C πας-A3--APN δυναμαι-V6--PMI2S αδυνατεω-V2--PAI3S δε-X συ-RP--DS ουδεις-A3--ASN
+\v 3 τις-RI--NSM γαρ-X ειμι-V9--PAI3S ο-RA--NSM κρυπτω-V1--PAPNSM συ-RP--AS βουλη-N1--ASF φειδομαι-V1--PMPNSM δε-X ρημα-N3M-GPN και-C συ-RP--AS οιομαι-V1--PMI3S κρυπτω-V1--PAN τις-RI--NSM δε-X ανααγγελλω-VF2-FAI3S εγω-RP--DS ος-RR--APN ου-D οιδα-VXI-YAI1S μεγας-A1--APN και-C θαυμαστος-A1--APN ος-RR--APN ου-D επιιστημι-V6I-IMI1S
+\v 4 ακουω-VA--AAD2S δε-X εγω-RP--GS κυριος-N2--VSM ινα-C καιεγω-C+RPNS λαλεω-VF--FAI1S ερωταω-VA--AAS1S δε-X συ-RP--AS συ-RP--NS δε-X εγω-RP--AS διδασκω-VA--AAD2S
+\v 5 ακοη-N1--ASF μεν-X ους-N3T-GSN ακουω-V1I-IAI1S συ-RP--GS ο-RA--ASN προτερον-A1--ASN νυνι-D δε-X ο-RA--NSM οφθαλμος-N2--NSM εγω-RP--GS οραω-VX--XAI3S συ-RP--AS
+\v 6 διο-C φαυλιζω-VAI-AAI1S εμαυτου-RD--ASM και-C τηκω-VDI-API1S ηγεομαι-VM--XMI1S δε-X εμαυτου-RD--ASM γη-N1--ASF και-C σποδος-N2--ASF
+\v 7 γιγνομαι-VBI-AMI3S δε-X μετα-P ο-RA--ASN λαλεω-VA--AAN ο-RA--ASM κυριος-N2--ASM πας-A3--APN ο-RA--APN ρημα-N3M-APN ουτος-RD--APN ο-RA--DSM *ιωβ-N---DSM ειπον-VBI-AAI3S ο-RA--NSM κυριος-N2--NSM *ελιφας-N---DSM ο-RA--DSM *θαιμανιτης-N1M-DSM αμαρτανω-VBI-AAI2S συ-RP--NS και-C ο-RA--NPM δυο-M φιλος-A1--NPM συ-RP--GS ου-D γαρ-X λαλεω-VAI-AAI2P ενωπιον-P εγω-RP--GS αληθης-A3H-ASN ουδεις-A3--ASN ωσπερ-D ο-RA--NSM θεραπων-N3--NSM εγω-RP--GS *ιωβ-N---NSM
+\v 8 νυν-D δε-X λαμβανω-VB--AAD2P επτα-M μοσχος-N2--APM και-C επτα-M κριος-N2--APM και-C πορευομαι-VC--APS2P προς-P ο-RA--ASM θεραπων-N3--ASM εγω-RP--GS *ιωβ-N---ASM και-C ποιεω-VF--FAI3S καρπωσις-N3I-ASF περι-P συ-RP--GP *ιωβ-N---NSM δε-X ο-RA--NSM θεραπων-N3--NSM εγω-RP--GS ευχομαι-VF--FMI3S περι-P συ-RP--GP οτι-C ει-C μη-D προσωπον-N2N-ASN αυτος-RD--GSM λαμβανω-VF--FMI1S ει-C μη-D γαρ-X δια-P αυτος-RD--ASM αποολλυω-VAI-AAI1S αν-X συ-RP--AP ου-D γαρ-X λαλεω-VAI-AAI2P αληθης-A3H-ASN κατα-P ο-RA--GSM θεραπων-N3--GSM εγω-RP--GS *ιωβ-N---GSM
+\v 9 πορευομαι-VCI-API3S δε-X *ελιφας-N---NSM ο-RA--NSM *θαιμανιτης-N1M-NSM και-C *βαλδαδ-N---NSM ο-RA--NSM *σαυχιτης-N1M-NSM και-C *σωφαρ-N---NSM ο-RA--NSM *μιναιος-N2--NSM και-C ποιεω-VAI-AAI3P καθως-D συντασσω-VAI-AAI3S αυτος-RD--DPM ο-RA--NSM κυριος-N2--NSM και-C λυω-VAI-AAI3S ο-RA--ASF αμαρτια-N1A-ASF αυτος-RD--DPM δια-P *ιωβ-N---ASM
+\v 10 ο-RA--NSM δε-X κυριος-N2--NSM αυξανω-VAI-AAI3S ο-RA--ASM *ιωβ-N---ASM ευχομαι-VA--AMPGSM δε-X αυτος-RD--GSM και-C περι-P ο-RA--GPM φιλος-A1--GPM αυτος-RD--GSM αποιημι-VAI-AAI3S αυτος-RD--DPM ο-RA--ASF αμαρτια-N1A-ASF διδωμι-VAI-AAI3S δε-X ο-RA--NSM κυριος-N2--NSM διπλους-A1C-APN οσος-A1--APN ειμι-V9--IAI3S εμπροσθεν-D *ιωβ-N---DSM εις-P διπλασιασμος-N2--ASM
+\v 11 ακουω-VAI-AAI3P δε-X πας-A3--NPM ο-RA--NPM αδελφος-N2--NPM αυτος-RD--GSM και-C ο-RA--NPF αδελφη-N1--NPF αυτος-RD--GSM πας-A3--APN ο-RA--APN συνβαινω-VX--XAPAPN αυτος-RD--DSM και-C ερχομαι-VBI-AAI3P προς-P αυτος-RD--ASM και-C πας-A3--NPM οσος-A1--NPM οιδα-VXI-YAI3P αυτος-RD--ASM εκ-P πρωτος-A1--GSMS εσθιω-VB--AAPNPM δε-X και-C πινω-VB--AAPNPM παρα-P αυτος-RD--DSM παρακαλεω-VAI-AAI3P αυτος-RD--ASM και-C θαυμαζω-VAI-AAI3P επι-P πας-A3--DPM ος-RR--DPM επιαγω-VBI-AAI3S αυτος-RD--DSM ο-RA--NSM κυριος-N2--NSM διδωμι-VAI-AAI3S δε-X αυτος-RD--DSM εκαστος-A1--NSM αμνας-N3D-ASF εις-A1A-ASF και-C τετραδραχμον-N2N-ASN χρυσους-A1C-ASN ασημος-A1B-ASN
+\v 12 ο-RA--NSM δε-X κυριος-N2--NSM ευλογεω-VA--AAI3S ο-RA--APN εσχατος-A1--APN *ιωβ-N---GSM η-C ο-RA--APN εμπροσθεν-D ειμι-V9--IAI3S δε-X ο-RA--NPN κτηνος-N3E-NPN αυτος-RD--GSM προβατον-N2N-NPN μυριοι-A1A-NPN τετρακισχιλιοι-A1A-NPN καμηλος-N2--NPF εξακισχιλιοι-A1A-NPF ζευγος-N3E-NPN βους-N3--GPF χιλιοι-A1A-NPN ονος-N2--NPF θηλυς-A3U-NPF νομας-N3D-NPF χιλιοι-A1A-NPF
+\v 13 γενναω-V3--PMI3P δε-X αυτος-RD--DSM υιος-N2--NPM επτα-M και-C θυγατηρ-N3--NPF τρεις-A3--NPM
+\v 14 και-C καλεω-VAI-AAI3S ο-RA--ASF μεν-X πρωτος-A1--ASFS *ημερα-N1A-ASF ο-RA--ASF δε-X δευτερος-A1A-ASF *κασια-N1A-ASF ο-RA--ASF δε-X τριτος-A1--ASF *αμαλθεια-N1A-GSF κερας-N3T-ASN
+\v 15 και-C ου-D ευρισκω-VC--API3P κατα-P ο-RA--APF θυγατηρ-N3--APF *ιωβ-N---GSM βελτιων-A3C-NPM αυτος-RD--GPM εν-P ο-RA--DSF υπο-P ουρανος-N2--ASM διδωμι-VAI-AAI3S δε-X αυτος-RD--DPF ο-RA--NSM πατηρ-N3--NSM κληρονομια-N1A-ASF εν-P ο-RA--DPM αδελφος-N2--DPM
+\v 16 ζαω-VAI-AAI3S δε-X *ιωβ-N---NSM μετα-P ο-RA--ASF πληγη-N1--ASF ετος-N3E-APN εκατον-M εβδομηκοντα-M ο-RA--NPN δε-X πας-A3--NPN ζαω-VAI-AAI3S ετος-N3E-NPN διακοσιοι-A1A-NPN τεσσαρακοντα-M οκτω-M και-C οραω-VBI-AAI3S *ιωβ-N---NSM ο-RA--APM υιος-N2--APM αυτος-RD--GSM και-C ο-RA--APM υιος-N2--APM ο-RA--GPM υιος-N2--GPM αυτος-RD--GSM τεταρτος-A1--ASF γενεα-N1A-ASF
+\v 17 και-C τελευταω-VAI-AAI3S *ιωβ-N---NSM πρεσβυτερος-N2--NSM και-C πληρης-A3H-NSM ημερα-N1A-GPF
+\v 17 γραφω-VP--XPI3S δε-X αυτος-RD--ASM παλιν-D αναιστημι-VF--FMN μετα-P ος-RR--GPM ο-RA--NSM κυριος-N2--NSM αναιστημι-V6--PAI3S
+\v 17 ουτος-RD--NSM ερμηνευω-V1--PMI3S εκ-P ο-RA--GSF *συριακη-N1--GSF βιβλος-N2--GSF εν-P μεν-X γη-N1--DSF καταοικεω-V2--PAPNSM ο-RA--DSF *αυσιτις-N3D-DSF επι-P ο-RA--DPN οριον-N2N-DPN ο-RA--GSF *ιδουμαια-N1A-GSF και-C *αραβια-N1A-GSF προ   υποαρχω-V1I-IAI3S δε-X αυτος-RD--DSM ονομα-N3M-NSN *ιωβαβ-N---NSM
+\v 17 λαμβανω-VB--AAPNSM δε-X γυνη-N3K-ASF *αραβισσα-N1A-ASF γενναω-V3--PAI3S υιος-N2--ASM ος-RR--DSM ονομα-N3M-NSN *εννων-N---NSM ειμι-V9--IAI3S δε-X αυτος-RD--NSM πατηρ-N3--GSM μεν-X *ζαρε-N---GSM ο-RA--GPM *ησαυ-N---GSM υιος-N2--GPM υιος-N2--NSM μητηρ-N3--GSF δε-X *βοσορρα-N1A-GSF ωστε-C ειμι-V9--PAN αυτος-RD--ASM πεμπτος-A1--ASM απο-P *αβρααμ-N---GSM
+\v 17 και-C ουτος-RD--NPM ο-RA--NPM βασιλευς-N3V-NPM ο-RA--NPM βασιλευω-VA--AAPNPM εν-P *εδωμ-N---DSM ος-RR--GSF και-C αυτος-RD--NSM αρχω-VAI-AAI3S χωρα-N1A-GSF πρωτος-A1--NSMS *βαλακ-N---NSM ο-RA--NSM ο-RA--GSM *βεωρ-N---GSM και-C ονομα-N3M-NSN ο-RA--DSF πολις-N3I-DSF αυτος-RD--GSM *δενναβα-N---NSF μετα-P δε-X *βαλακ-N---ASM *ιωβαβ-N---NSM ο-RA--NSM καλεω-V2--PMPNSM *ιωβ-N---NSM μετα-P δε-X ουτος-RD--ASM *ασομ-N---NSM ο-RA--NSM υποαρχω-V1--PAPNSM ηγεμων-N3N-NSM εκ-P ο-RA--GSF *θαιμανιτις-N3D-GSF χωρα-N1A-GSF μετα-P δε-X ουτος-RD--ASM *αδαδ-N---NSM υιος-N2--NSM *βαραδ-N---GSM ο-RA--NSM εκκοπτω-VA--AAPNSM *μαδιαμ-N---AS εν-P ο-RA--DSN πεδιον-N2N-DSN *μωαβ-N---GSM και-C ονομα-N3M-NSN ο-RA--DSF πολις-N3I-DSF αυτος-RD--GSM *γεθθαιμ-N---NS
+\v 17 ο-RA--NPM δε-X ερχομαι-VB--AAPNPM προς-P αυτος-RD--ASM φιλος-A1--NPM *ελιφας-N---NSM ο-RA--GPM *ησαυ-N---GSM υιος-N2--GPM *θαιμανων-N---GPM βασιλευς-N3V-NSM *βαλδαδ-N---NSM ο-RA--NSM *σαυχαιος-N2--GPM τυραννος-N2--NSM *σωφαρ-N---NSM ο-RA--NSM *μιναιος-N2--GPM βασιλευς-N3V-NSM
