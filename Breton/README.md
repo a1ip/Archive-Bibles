@@ -22,7 +22,7 @@ The Gospels in Breton
 	- (http://gospelgo.com/u/breton_nt.htm)
 	- (https://studybible.info/Breton/Matthew)
 	- (http://etabetapi.com/cmp/brtg/web/Matt/1)
-	-(https://archive.org/details/TheHolyBibleInBrentonTheGospels)
+	- [Archive.org](https://archive.org/details/TheHolyBibleInBrentonTheGospels)
 
 - [ ] USFM Translator Checks
 
