@@ -19,10 +19,10 @@ The Gospels in Breton
 
 	Here we list a few urls where this copies of this text can be compared to online. We always attempt to find at least three different sources verifying the metadata and matching the verses for each text.
 
-	- http://gospelgo.com/u/breton_nt.htm
-	- https://studybible.info/Breton/Matthew
-	- hhttp://etabetapi.com/cmp/brtg/web/Matt/1
-	-https://archive.org/details/TheHolyBibleInBrentonTheGospels
+	- (http://gospelgo.com/u/breton_nt.htm)
+	- (https://studybible.info/Breton/Matthew)
+	- (http://etabetapi.com/cmp/brtg/web/Matt/1)
+	-(https://archive.org/details/TheHolyBibleInBrentonTheGospels)
 
 - [ ] USFM Translator Checks
 
