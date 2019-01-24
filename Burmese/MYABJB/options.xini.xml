@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<entry>
+		<key>translationId</key>
+		<value>MYABJB</value>
+	</entry>
+	<entry>
+		<key>versificationScheme</key>
+		<value>default</value>
+	</entry>
+	<entry>
+		<key>script</key>
+		<value>Mymr</value>
+	</entry>
+	<entry>
+		<key>shortTitle</key>
+		<value>1835 Judson Burmese Bible</value>
+	</entry>
+	<entry>
+		<key>vernacularTitle</key>
+		<value>ထာဝရဘုရား၏ - သမ္မာကျမ်း၊၊</value>
+	</entry>
+	<entry>
+		<key>numberSystem</key>
+		<value>Default</value>
+	</entry>
+	<entry>
+		<key>languageId</key>
+		<value>MYA</value>
+	</entry>
+	<entry>
+		<key>languageNameInEnglish</key>
+		<value>Burmese</value>
+	</entry>
+	<entry>
+		<key>languageName</key>
+		<value>ကနေဒါ ပြင်သစ်</value>
+	</entry>
+	<entry>
+		<key>copyrightOwner</key>
+		<value>Public Domain</value>
+	</entry>
+	<entry>
+		<key>copyrightYears</key>
+		<value>1835</value>
+	</entry>
+	<entry>
+		<key>publicDomain</key>
+		<value>true</value>
+	</entry>
+	<entry>
+		<key>contentCreator</key>
+		<value>Adoniram Judson</value>
+	</entry>
+</root>
