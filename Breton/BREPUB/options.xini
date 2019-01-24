@@ -17,18 +17,6 @@
     <value>The Gospels in Breton</value>
   </entry>
   <entry>
-    <key>vernacularTitle</key>
-    <value>vernacular title if there is one</value>
-  </entry>
-  <entry>
-    <key>EnglishDescription</key>
-    <value>Include a description if there is one</value>
-  </entry>
-  <entry>
-    <key>lwcDescription</key>
-    <value>Vernacular description if there is one</value>
-  </entry> 
-  <entry>
     <key>copyrightOwner</key>
     <value>British and Foreign Bible Society</value>
   </entry>
@@ -43,10 +31,6 @@
   <entry>
     <key>contentCreator</key>
     <value>Jean-François Le Gonidec</value>
-  </entry>
-  <entry>
-    <key>contributor</key>
-    <value>A contributing organization, if there is one</value>
   </entry>
   <entry>
     <key>publicDomain</key>
