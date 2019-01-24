@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>BRE</value>
+  </entry>
+  <entry>
+    <key>fcbhId</key>
+    <value>BREPUB</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>BREPUB</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>The Gospels in Breton</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>vernacular title if there is one</value>
+  </entry>
+  <entry>
+    <key>EnglishDescription</key>
+    <value>Include a description if there is one</value>
+  </entry>
+  <entry>
+    <key>lwcDescription</key>
+    <value>Vernacular description if there is one</value>
+  </entry> 
+  <entry>
+    <key>copyrightOwner</key>
+    <value>British and Foreign Bible Society</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>BFBS</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>y1827</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Jean-François Le Gonidec</value>
+  </entry>
+  <entry>
+    <key>contributor</key>
+    <value>A contributing organization, if there is one</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>allRightsReserved</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>silentCopyright</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>justified</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>columnCount</key>
+    <value>2</value>
+  </entry>
+</ini>
