@@ -2,51 +2,39 @@
 <ini>
   <entry>
     <key>languageId</key>
-    <value>3 letter iso code</value>
+    <value>HYW</value>
   </entry>
   <entry>
     <key>fcbhId</key>
-    <value>6 letter ID, first 3 are the iso code</value>
+    <value>HYWWNT</value>
   </entry>
   <entry>
     <key>translationId</key>
-    <value>same as fcbhId (for now)</value>
+    <value>HYWWNT</value>
   </entry>
   <entry>
     <key>shortTitle</key>
-    <value>English Title if there is one</value>
+    <value>1853 Western Armenian New Testament</value>
   </entry>
   <entry>
     <key>vernacularTitle</key>
-    <value>vernacular title if there is one</value>
+    <value>Արեւմտահայերէն Նոր Կտակարան, հարմարցուած</value>
   </entry>
-  <entry>
-    <key>EnglishDescription</key>
-    <value>Include a description if there is one</value>
-  </entry>
-  <entry>
-    <key>lwcDescription</key>
-    <value>Vernacular description if there is one</value>
-  </entry> 
   <entry>
     <key>copyrightOwner</key>
-    <value>Copyright owner name, even if in public domain so Martin Luther or something like that</value>
+    <value>Bible Society in Lebanon</value>
   </entry>
   <entry>
     <key>copyrightOwnerAbbrev</key>
-    <value>3 or 4 letter abbrev, WBT for Wycliffe, PUB for public domain</value>
+    <value>PUB</value>
   </entry>
   <entry>
     <key>copyrightYears</key>
-    <value>year of copyright or creation</value>
+    <value>1853</value>
   </entry>
   <entry>
     <key>contentCreator</key>
-    <value>creator of content, often same name in copyrightOwner field</value>
-  </entry>
-  <entry>
-    <key>contributor</key>
-    <value>A contributing organization, if there is one</value>
+    <value>Bible Society in Lebanon</value>
   </entry>
   <entry>
     <key>publicDomain</key>
