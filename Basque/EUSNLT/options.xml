@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>EUS</value>
+  </entry>
+  <entry>
+    <key>fcbhId</key>
+    <value>EUSNLT</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>EUSNLT</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>Basque Navarro-Labourdin Version</value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>Joanes Leizarraga</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>PUB</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1571</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Joanes Leizarraga</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>allRightsReserved</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>silentCopyright</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>justified</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>columnCount</key>
+    <value>2</value>
+  </entry>
+</ini>
