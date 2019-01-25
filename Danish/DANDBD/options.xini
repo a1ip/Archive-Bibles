@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>DAN</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>DANDBD</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>The Bible in Danish</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>Dette er Biblen på dansk</value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>Project Runeberg</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>PR</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1933</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Søren Hornstrup</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+</ini>
