@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>CES</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>CESK13</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>Bible of Kralice</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>Bible kralická</value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>Bohemian Brethren</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>BB</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1613</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Jan Blahoslav</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+</ini>
