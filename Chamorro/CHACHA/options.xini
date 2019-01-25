@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>CHA</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>CHACHA</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>1908 Chamorro Gospels with Psalms</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>Y CUATRO EBANGELIO SIJA YAN Y SALMO SIJA</value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>American Bible Society</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>ABS</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1908</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>Francis Marion Price</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+</ini>
