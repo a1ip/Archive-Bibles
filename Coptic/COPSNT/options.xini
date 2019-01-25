@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <entry>
+    <key>languageId</key>
+    <value>COP</value>
+  </entry>
+  <entry>
+    <key>translationId</key>
+    <value>COPSNT</value>
+  </entry>
+  <entry>
+    <key>shortTitle</key>
+    <value>The Coptic Version of The New Testament in the Southern Dialect</value>
+  </entry>
+  <entry>
+    <key>vernacularTitle</key>
+    <value>اطبعة جديدة من العهد الجديد باللغة القبطية الصعيدية  </value>
+  </entry>
+  <entry>
+    <key>copyrightOwner</key>
+    <value>The Clarendon Press</value>
+  </entry>
+  <entry>
+    <key>copyrightOwnerAbbrev</key>
+    <value>CP</value>
+  </entry>
+  <entry>
+    <key>copyrightYears</key>
+    <value>1911</value>
+  </entry>
+  <entry>
+    <key>contentCreator</key>
+    <value>George William Horner</value>
+  </entry>
+  <entry>
+    <key>publicDomain</key>
+    <value>True</value>
+  </entry>
+  <entry>
+    <key>creativeCommons</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbynd</key>
+    <value>False</value>
+  </entry>
+  <entry>
+    <key>ccbysa</key>
+    <value>False</value>
+  </entry>
+</ini>
